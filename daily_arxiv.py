@@ -299,8 +299,7 @@ def json_to_md(filename, md_filename,
 
         if to_web == True:
             f.write("---\n" + "layout: default\n" + "---\n\n")
-
-        f.write("> Updated on " + DateNow + "\n")
+        f.write("## Updated on " + DateNow + "\n")
 
         # # TODO: add usage
         # f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
