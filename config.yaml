@@ -9,7 +9,6 @@ max_results: 10
 
 publish_readme: True
 publish_gitpage: True
-publish_wechat: False
 
 # file paths
 json_readme_path: './docs/cv-arxiv-daily.json'
@@ -21,14 +20,12 @@ md_gitpage_path: './docs/index.md'
 # keywords to search
 keywords:
     "NeRF":
-        filters: ["NeRF", "neural rendering", "implicit fields"]
+        filters: ["nerf", "neural rendering", "implicit", "radiance field", "volumetric rendering"]
     "NeuS":
-        filters: ["NeuS", "SDF", "neural rendering", "implicit fields"]
+        filters: ["neus", "sdf"]
     "GaussianSplatting":
-        filters: ["Gaussian", "Splatting"]
+        filters: ["gaussian splatting", "3d gaussians"]
     "MVS":
-        filters: ["MVS", "Multi-View Stereo"]
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
+        filters: ["mvs", "multi-view", "multiview", "stereo"]
     "SFM":
-        filters: ["SFM", "Structure from Motion"]
+        filters: ["sfm", "Structure from Motion"]

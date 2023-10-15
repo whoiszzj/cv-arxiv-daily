@@ -24,19 +24,13 @@ def load_config(config_file:str) -> dict:
     # make filters pretty
     def pretty_filters(**config) -> dict:
         keywords = dict()
-        EXCAPE = '\"'
-        QUOTA = '' # NO-USE
-        OR = 'OR' # TODO
         def parse_filters(filters:list):
             ret = ''
-            for idx in range(0,len(filters)):
+            for idx in range(0, len(filters)):
                 filter = filters[idx]
-                if len(filter.split()) > 1:
-                    ret += (EXCAPE + filter + EXCAPE)  
-                else:
-                    ret += (QUOTA + filter + QUOTA)   
+                ret += ("\"" + filter + "\"")
                 if idx != len(filters) - 1:
-                    ret += OR
+                    ret += ' OR '
             return ret
         for k,v in config['keywords'].items():
             keywords[k] = parse_filters(v['filters'])
@@ -303,8 +297,8 @@ def json_to_md(filename,md_filename,
         else:
             f.write("> Updated on " + DateNow + "\n")
 
-        # TODO: add usage
-        f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
+        # # TODO: add usage
+        # f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
 
         #Add: table of contents
         if use_tc == True:
@@ -379,7 +373,6 @@ def demo(**config):
     max_results = config['max_results']
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
-    publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
 
     b_update = config['update_paper_links']
@@ -422,17 +415,6 @@ def demo(**config):
             to_web = True, show_badge = show_badge, \
             use_tc=False, use_b2t=False)
 
-    # 3. Update docs/wechat.md file
-    if publish_wechat:
-        json_file = config['json_wechat_path']
-        md_file   = config['md_wechat_path']
-        # TODO: duplicated update paper links!!!
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:    
-            update_json_file(json_file, data_collector_web)
-        json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
