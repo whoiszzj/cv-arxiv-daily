@@ -2,11 +2,11 @@
 layout: default
 ---
 
-## Updated on 2023.10.15
+> Updated on 2023.10.15
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|:--------:|:----------------------:|:--------:|:-----:|:-----:|
 |**2023-10-12**|**PonderV2: Pave the Way for 3D Foundataion Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586](http://arxiv.org/abs/2310.08586)|**[link](https://github.com/OpenGVLab/PonderV2)**|
 |**2023-10-12**|**Would you trust a vehicle merging into your lane? Subjective evaluation of negotiating behaviour in a congested merging scenario**|Akinobu Goto et.al.|[2310.08361](http://arxiv.org/abs/2310.08361)|null|
 |**2023-10-12**|**Spectral deferred correction methods for second-order problems**|Ikrom Akramov et.al.|[2310.08352](http://arxiv.org/abs/2310.08352)|null|
@@ -21,7 +21,7 @@ layout: default
 ## NeuS
 
 | Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|:--------:|:----------------------:|:--------:|:-----:|:-----:|
 |**2023-10-12**|**OmniControl: Control Any Joint at Any Time for Human Motion Generation**|Yiming Xie et.al.|[2310.08580](http://arxiv.org/abs/2310.08580)|null|
 |**2023-10-12**|**Point-NeuS: Point-Guided Neural Implicit Surface Reconstruction by Volume Rendering**|Chen Zhang et.al.|[2310.07997](http://arxiv.org/abs/2310.07997)|null|
 |**2023-10-09**|**DANet: Enhancing Small Object Detection through an Efficient Deformable Attention Network**|Md Sohag Mia et.al.|[2310.05768](http://arxiv.org/abs/2310.05768)|null|
@@ -36,7 +36,7 @@ layout: default
 ## GaussianSplatting
 
 | Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|:--------:|:----------------------:|:--------:|:-----:|:-----:|
 |**2023-10-12**|**GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors**|Taoran Yi et.al.|[2310.08529](http://arxiv.org/abs/2310.08529)|null|
 |**2023-10-12**|**4D Gaussian Splatting for Real-Time Dynamic Scene Rendering**|Guanjun Wu et.al.|[2310.08528](http://arxiv.org/abs/2310.08528)|null|
 |**2023-09-28**|**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**|Jiaxiang Tang et.al.|[2309.16653](http://arxiv.org/abs/2309.16653)|**[link](https://github.com/dreamgaussian/dreamgaussian)**|
@@ -51,7 +51,7 @@ layout: default
 ## MVS
 
 | Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|:--------:|:----------------------:|:--------:|:-----:|:-----:|
 |**2023-10-12**|**HeightFormer: A Multilevel Interaction and Image-adaptive Classification-regression Network for Monocular Height Estimation with Aerial Images**|Zhan Chen et.al.|[2310.07995](http://arxiv.org/abs/2310.07995)|null|
 |**2023-10-11**|**Multiview Transformer: Rethinking Spatial Information in Hyperspectral Image Classification**|Jie Zhang et.al.|[2310.07186](http://arxiv.org/abs/2310.07186)|null|
 |**2023-10-11**|**rpcPRF: Generalizable MPI Neural Radiance Field for Satellite Camera**|Tongtong Zhang et.al.|[2310.07179](http://arxiv.org/abs/2310.07179)|null|
@@ -66,7 +66,7 @@ layout: default
 ## SFM
 
 | Publish Date | Title | Authors | PDF | Code |
-|:---------|:-----------------------|:---------|:------|:------|
+|:--------:|:----------------------:|:--------:|:-----:|:-----:|
 |**2023-10-09**|**Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration**|Chunge Bai et.al.|[2310.05504](http://arxiv.org/abs/2310.05504)|**[link](https://github.com/xiaobaiiiiii/colmap-pcd)**|
 |**2023-10-08**|**LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**|Artem Nenashev et.al.|[2310.05134](http://arxiv.org/abs/2310.05134)|null|
 |**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092](http://arxiv.org/abs/2310.01092)|null|
