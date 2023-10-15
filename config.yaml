@@ -22,24 +22,15 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "MVS":
-        filters: ["MVS", "Multi-View Stereo"]
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
-        filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
-        filters: ["Image Matching", "Keypoint Matching", 
-                  "Line Segment Detection", "Local Feature Matching"]
     "NeRF":
         filters: ["NeRF", "neural rendering", "implicit fields"]
     "NeuS":
         filters: ["NeuS", "SDF", "neural rendering", "implicit fields"]
     "GaussianSplatting":
         filters: ["Gaussian", "Splatting"]
+    "MVS":
+        filters: ["MVS", "Multi-View Stereo"]
+    "SLAM": 
+        filters: ["SLAM", "Visual Odometry"]
+    "SFM":
+        filters: ["SFM", "Structure from Motion"]
