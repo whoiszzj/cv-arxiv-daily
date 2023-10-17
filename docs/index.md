@@ -7,6 +7,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650](http://arxiv.org/abs/2310.10650)|null|
+|**2023-10-16**|**Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting**|Zeyu Yang et.al.|[2310.10642](http://arxiv.org/abs/2310.10642)|null|
+|**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
+|**2023-10-16**|**ViPE: Visualise Pretty-much Everything**|Hassan Shahmohammadi et.al.|[2310.10543](http://arxiv.org/abs/2310.10543)|null|
+|**2023-10-16**|**Stance Detection with Collaborative Role-Infused LLM-Based Agents**|Xiaochong Lan et.al.|[2310.10467](http://arxiv.org/abs/2310.10467)|null|
+|**2023-10-16**|**Forking Uncertainties: Reliable Prediction and Model Predictive Control with Sequence Models via Conformal Risk Control**|Matteo Zecchin et.al.|[2310.10299](http://arxiv.org/abs/2310.10299)|null|
+|**2023-10-16**|**Efficient seismic reliability and fragility analysis of lifeline networks using subset simulation**|Dongkyu Lee et.al.|[2310.10232](http://arxiv.org/abs/2310.10232)|null|
+|**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209](http://arxiv.org/abs/2310.10209)|null|
+|**2023-10-16**|**Implicit regularization via soft ascent-descent**|Matthew J. Holland et.al.|[2310.10006](http://arxiv.org/abs/2310.10006)|null|
+|**2023-10-15**|**Farzi Data: Autoregressive Data Distillation**|Noveen Sachdeva et.al.|[2310.09983](http://arxiv.org/abs/2310.09983)|null|
 |**2023-10-13**|**PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586](http://arxiv.org/abs/2310.08586)|**[link](https://github.com/OpenGVLab/PonderV2)**|
 |**2023-10-12**|**Would you trust a vehicle merging into your lane? Subjective evaluation of negotiating behaviour in a congested merging scenario**|Akinobu Goto et.al.|[2310.08361](http://arxiv.org/abs/2310.08361)|null|
 |**2023-10-12**|**Spectral deferred correction methods for second-order problems**|Ikrom Akramov et.al.|[2310.08352](http://arxiv.org/abs/2310.08352)|null|
@@ -22,6 +32,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2023-10-14**|**HIO-SDF: Hierarchical Incremental Online Signed Distance Fields**|Vasileios Vasilopoulos et.al.|[2310.09463](http://arxiv.org/abs/2310.09463)|null|
 |**2023-10-12**|**OmniControl: Control Any Joint at Any Time for Human Motion Generation**|Yiming Xie et.al.|[2310.08580](http://arxiv.org/abs/2310.08580)|null|
 |**2023-10-12**|**Point-NeuS: Point-Guided Neural Implicit Surface Reconstruction by Volume Rendering**|Chen Zhang et.al.|[2310.07997](http://arxiv.org/abs/2310.07997)|null|
 |**2023-10-13**|**DANet: Enhancing Small Object Detection through an Efficient Deformable Attention Network**|Md Sohag Mia et.al.|[2310.05768](http://arxiv.org/abs/2310.05768)|null|
@@ -37,6 +48,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2023-10-16**|**Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting**|Zeyu Yang et.al.|[2310.10642](http://arxiv.org/abs/2310.10642)|null|
 |**2023-10-12**|**GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors**|Taoran Yi et.al.|[2310.08529](http://arxiv.org/abs/2310.08529)|null|
 |**2023-10-12**|**4D Gaussian Splatting for Real-Time Dynamic Scene Rendering**|Guanjun Wu et.al.|[2310.08528](http://arxiv.org/abs/2310.08528)|null|
 |**2023-09-28**|**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**|Jiaxiang Tang et.al.|[2309.16653](http://arxiv.org/abs/2309.16653)|**[link](https://github.com/dreamgaussian/dreamgaussian)**|
@@ -52,6 +64,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2023-10-16**|**TOSS:High-quality Text-guided Novel View Synthesis from a Single Image**|Yukai Shi et.al.|[2310.10644](http://arxiv.org/abs/2310.10644)|null|
+|**2023-10-13**|**Multi-Purpose NLP Chatbot : Design, Methodology & Conclusion**|Shivom Aggarwal et.al.|[2310.08977](http://arxiv.org/abs/2310.08977)|null|
 |**2023-10-12**|**HeightFormer: A Multilevel Interaction and Image-adaptive Classification-regression Network for Monocular Height Estimation with Aerial Images**|Zhan Chen et.al.|[2310.07995](http://arxiv.org/abs/2310.07995)|null|
 |**2023-10-11**|**Multiview Transformer: Rethinking Spatial Information in Hyperspectral Image Classification**|Jie Zhang et.al.|[2310.07186](http://arxiv.org/abs/2310.07186)|null|
 |**2023-10-11**|**rpcPRF: Generalizable MPI Neural Radiance Field for Satellite Camera**|Tongtong Zhang et.al.|[2310.07179](http://arxiv.org/abs/2310.07179)|null|
