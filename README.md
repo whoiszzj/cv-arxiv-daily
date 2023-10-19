@@ -1,4 +1,4 @@
-## Updated on 2023.10.18
+## Updated on 2023.10.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-10-17**|**Seeking Neural Nuggets: Knowledge Transfer in Large Language Models from a Parametric Perspective**|Ming Zhong et.al.|[2310.11451](http://arxiv.org/abs/2310.11451)|null|
+|**2023-10-17**|**Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing**|Hao Lu et.al.|[2310.11346](http://arxiv.org/abs/2310.11346)|null|
+|**2023-10-17**|**Dual Cognitive Architecture: Incorporating Biases and Multi-Memory Systems for Lifelong Learning**|Shruthi Gowda et.al.|[2310.11341](http://arxiv.org/abs/2310.11341)|**[link](https://github.com/neurai-lab/dn4il-dataset)**|
+|**2023-10-17**|**Source Code Comprehension: A Contemporary Definition and Conceptual Model for Empirical Investigation**|Marvin Wyrich et.al.|[2310.11301](http://arxiv.org/abs/2310.11301)|null|
+|**2023-10-17**|**Sparse grid approximation of the stochastic Landau-Lifshitz-Gilbert equation**|Xin An et.al.|[2310.11225](http://arxiv.org/abs/2310.11225)|null|
+|**2023-10-17**|**FocDepthFormer: Transformer with LSTM for Depth Estimation from Focus**|Xueyang Kang et.al.|[2310.11178](http://arxiv.org/abs/2310.11178)|null|
+|**2023-10-17**|**DORec: Decomposed Object Reconstruction Utilizing 2D Self-Supervised Features**|Jun Wu et.al.|[2310.11092](http://arxiv.org/abs/2310.11092)|null|
+|**2023-10-16**|**CoTFormer: More Tokens With Attention Make Up For Less Depth**|Amirkeivan Mohtashami et.al.|[2310.10845](http://arxiv.org/abs/2310.10845)|null|
+|**2023-10-16**|**Rapid Non-cartesian Reconstruction Using an Implicit Representation of GROG Kernels**|Daniel Abraham et.al.|[2310.10823](http://arxiv.org/abs/2310.10823)|null|
+|**2023-10-16**|**Deep Conditional Shape Models for 3D cardiac image segmentation**|Athira J Jacob et.al.|[2310.10756](http://arxiv.org/abs/2310.10756)|null|
 |**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650](http://arxiv.org/abs/2310.10650)|null|
 |**2023-10-16**|**Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting**|Zeyu Yang et.al.|[2310.10642](http://arxiv.org/abs/2310.10642)|null|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
@@ -35,7 +45,7 @@
 |**2023-10-12**|**Point-NeuS: Point-Guided Neural Implicit Surface Reconstruction by Volume Rendering**|Chen Zhang et.al.|[2310.07997](http://arxiv.org/abs/2310.07997)|null|
 |**2023-10-11**|**Dynamic Appearance Particle Neural Radiance Field**|Ancheng Lin et.al.|[2310.07916](http://arxiv.org/abs/2310.07916)|null|
 
-<p align=right>(<a href=#updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231019>back to top</a>)</p>
 
 ## NeuS
 
@@ -53,13 +63,13 @@
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639](http://arxiv.org/abs/2309.12639)|null|
 
-<p align=right>(<a href=#updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231019>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
-|**2023-10-16**|**Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting**|Zeyu Yang et.al.|[2310.10642](http://arxiv.org/abs/2310.10642)|null|
+|**2023-10-16**|**Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting**|Zeyu Yang et.al.|[2310.10642](http://arxiv.org/abs/2310.10642)|**[link](https://github.com/fudan-zvg/4d-gaussian-splatting)**|
 |**2023-10-12**|**GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors**|Taoran Yi et.al.|[2310.08529](http://arxiv.org/abs/2310.08529)|null|
 |**2023-10-12**|**4D Gaussian Splatting for Real-Time Dynamic Scene Rendering**|Guanjun Wu et.al.|[2310.08528](http://arxiv.org/abs/2310.08528)|null|
 |**2023-09-28**|**DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation**|Jiaxiang Tang et.al.|[2309.16653](http://arxiv.org/abs/2309.16653)|**[link](https://github.com/dreamgaussian/dreamgaussian)**|
@@ -68,15 +78,16 @@
 |**2023-08-28**|**Flexible Techniques for Differentiable Rendering with 3D Gaussians**|Leonid Keselman et.al.|[2308.14737](http://arxiv.org/abs/2308.14737)|null|
 |**2023-08-18**|**Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis**|Jonathon Luiten et.al.|[2308.09713](http://arxiv.org/abs/2308.09713)|null|
 |**2023-08-08**|**3D Gaussian Splatting for Real-Time Radiance Field Rendering**|Bernhard Kerbl et.al.|[2308.04079](http://arxiv.org/abs/2308.04079)|**[link](https://github.com/graphdeco-inria/gaussian-splatting)**|
-|**2023-07-23**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
+|**2023-10-16**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 
-<p align=right>(<a href=#updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231019>back to top</a>)</p>
 
 ## MVS
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-10-17**|**A Galois Theory and a Pretorsion Theory in MV-Algebras**|Andrea Cappelletti et.al.|[2310.11006](http://arxiv.org/abs/2310.11006)|null|
 |**2023-10-16**|**TOSS:High-quality Text-guided Novel View Synthesis from a Single Image**|Yukai Shi et.al.|[2310.10644](http://arxiv.org/abs/2310.10644)|null|
 |**2023-10-13**|**Multi-Purpose NLP Chatbot : Design, Methodology & Conclusion**|Shivom Aggarwal et.al.|[2310.08977](http://arxiv.org/abs/2310.08977)|null|
 |**2023-10-12**|**HeightFormer: A Multilevel Interaction and Image-adaptive Classification-regression Network for Monocular Height Estimation with Aerial Images**|Zhan Chen et.al.|[2310.07995](http://arxiv.org/abs/2310.07995)|null|
@@ -90,7 +101,7 @@
 |**2023-10-06**|**Rotation of a Stealth CME on 2012 October 5 Observed in the Inner Heliosphere**|Sandeep Kumar et.al.|[2310.04023](http://arxiv.org/abs/2310.04023)|null|
 |**2023-10-05**|**Design Methodology for a Medium Voltage Single Stage LLC Resonant Solar PV Inverter**|Parthkumar Bhuvela et.al.|[2310.03834](http://arxiv.org/abs/2310.03834)|null|
 
-<p align=right>(<a href=#updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231019>back to top</a>)</p>
 
 ## SFM
 
@@ -107,5 +118,5 @@
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
-<p align=right>(<a href=#updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231019>back to top</a>)</p>
 
