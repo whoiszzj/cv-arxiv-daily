@@ -20,7 +20,7 @@ md_gitpage_path: './docs/index.md'
 # keywords to search
 keywords:
     "NeRF":
-        filters: ["nerf", "neural rendering", "implicit", "radiance field", "volumetric rendering"]
+        filters: ["nerf", "neural rendering", "implicit field", "radiance field", "volumetric rendering"]
     "NeuS":
         filters: ["neus", "sdf"]
     "GaussianSplatting":
