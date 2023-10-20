@@ -1,4 +1,4 @@
-## Updated on 2023.10.19
+## Updated on 2023.10.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -34,7 +34,7 @@
 |**2023-10-16**|**CoTFormer: More Tokens With Attention Make Up For Less Depth**|Amirkeivan Mohtashami et.al.|[2310.10845](http://arxiv.org/abs/2310.10845)|null|
 |**2023-10-16**|**Rapid Non-cartesian Reconstruction Using an Implicit Representation of GROG Kernels**|Daniel Abraham et.al.|[2310.10823](http://arxiv.org/abs/2310.10823)|null|
 |**2023-10-16**|**Deep Conditional Shape Models for 3D cardiac image segmentation**|Athira J Jacob et.al.|[2310.10756](http://arxiv.org/abs/2310.10756)|null|
-|**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650](http://arxiv.org/abs/2310.10650)|null|
+|**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650](http://arxiv.org/abs/2310.10650)|**[link](https://github.com/Rubikalubi/TraM-NeRF)**|
 |**2023-10-16**|**Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting**|Zeyu Yang et.al.|[2310.10642](http://arxiv.org/abs/2310.10642)|null|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
 |**2023-10-16**|**ViPE: Visualise Pretty-much Everything**|Hassan Shahmohammadi et.al.|[2310.10543](http://arxiv.org/abs/2310.10543)|null|
@@ -44,6 +44,11 @@
 |**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209](http://arxiv.org/abs/2310.10209)|null|
 |**2023-10-16**|**Implicit regularization via soft ascent-descent**|Matthew J. Holland et.al.|[2310.10006](http://arxiv.org/abs/2310.10006)|null|
 |**2023-10-15**|**Farzi Data: Autoregressive Data Distillation**|Noveen Sachdeva et.al.|[2310.09983](http://arxiv.org/abs/2310.09983)|null|
+|**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965](http://arxiv.org/abs/2310.09965)|null|
+|**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892](http://arxiv.org/abs/2310.09892)|null|
+|**2023-10-15**|**CBARF: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses**|Hongyu Fu et.al.|[2310.09776](http://arxiv.org/abs/2310.09776)|null|
+|**2023-10-14**|**Point-DynRF: Point-based Dynamic Radiance Fields from a Monocular Video**|Byeongjun Park et.al.|[2310.09647](http://arxiv.org/abs/2310.09647)|null|
+|**2023-10-13**|**A Parallel Feature-preserving Mesh Variable Offsetting Method with Dynamic Programming**|Hongyi Cao et.al.|[2310.08997](http://arxiv.org/abs/2310.08997)|**[link](https://github.com/igame-lab/pfpoffset)**|
 |**2023-10-13**|**PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586](http://arxiv.org/abs/2310.08586)|**[link](https://github.com/OpenGVLab/PonderV2)**|
 |**2023-10-12**|**Would you trust a vehicle merging into your lane? Subjective evaluation of negotiating behaviour in a congested merging scenario**|Akinobu Goto et.al.|[2310.08361](http://arxiv.org/abs/2310.08361)|null|
 |**2023-10-12**|**Spectral deferred correction methods for second-order problems**|Ikrom Akramov et.al.|[2310.08352](http://arxiv.org/abs/2310.08352)|null|
@@ -55,7 +60,7 @@
 |**2023-10-12**|**Point-NeuS: Point-Guided Neural Implicit Surface Reconstruction by Volume Rendering**|Chen Zhang et.al.|[2310.07997](http://arxiv.org/abs/2310.07997)|null|
 |**2023-10-11**|**Dynamic Appearance Particle Neural Radiance Field**|Ancheng Lin et.al.|[2310.07916](http://arxiv.org/abs/2310.07916)|null|
 
-<p align=right>(<a href=#updated-on-20231019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231020>back to top</a>)</p>
 
 ## NeuS
 
@@ -73,7 +78,7 @@
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639](http://arxiv.org/abs/2309.12639)|null|
 
-<p align=right>(<a href=#updated-on-20231019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231020>back to top</a>)</p>
 
 ## GaussianSplatting
 
@@ -91,7 +96,7 @@
 |**2023-10-16**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 
-<p align=right>(<a href=#updated-on-20231019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231020>back to top</a>)</p>
 
 ## MVS
 
@@ -113,7 +118,7 @@
 |**2023-10-06**|**Rotation of a Stealth CME on 2012 October 5 Observed in the Inner Heliosphere**|Sandeep Kumar et.al.|[2310.04023](http://arxiv.org/abs/2310.04023)|null|
 |**2023-10-05**|**Design Methodology for a Medium Voltage Single Stage LLC Resonant Solar PV Inverter**|Parthkumar Bhuvela et.al.|[2310.03834](http://arxiv.org/abs/2310.03834)|null|
 
-<p align=right>(<a href=#updated-on-20231019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231020>back to top</a>)</p>
 
 ## SFM
 
@@ -130,5 +135,5 @@
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
-<p align=right>(<a href=#updated-on-20231019>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231020>back to top</a>)</p>
 
