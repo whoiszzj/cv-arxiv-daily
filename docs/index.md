@@ -89,6 +89,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2023-10-19**|**Multiscale Motion-Aware and Spatial-Temporal-Channel Contextual Coding Network for Learned Video Compression**|Yiming Wang et.al.|[2310.12733](http://arxiv.org/abs/2310.12733)|null|
+|**2023-10-19**|**Conceptual design and progress of transmitting $\sim$ MV DC HV into 4 K LHe detectors**|Zhuo Liang et.al.|[2310.12504](http://arxiv.org/abs/2310.12504)|null|
 |**2023-10-18**|**A Framework for Treating Model Uncertainty in the Asset Liability Management Problem**|Georgios I. Papayiannis et.al.|[2310.11987](http://arxiv.org/abs/2310.11987)|null|
 |**2023-10-17**|**Diver Interest via Pointing in Three Dimensions: 3D Pointing Reconstruction for Diver-AUV Communication**|Chelsey Edge et.al.|[2310.11536](http://arxiv.org/abs/2310.11536)|null|
 |**2023-10-17**|**A Galois Theory and a Pretorsion Theory in MV-Algebras**|Andrea Cappelletti et.al.|[2310.11006](http://arxiv.org/abs/2310.11006)|null|
