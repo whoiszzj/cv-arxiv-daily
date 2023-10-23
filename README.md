@@ -35,14 +35,14 @@
 |**2023-10-16**|**Rapid Non-cartesian Reconstruction Using an Implicit Representation of GROG Kernels**|Daniel Abraham et.al.|[2310.10823](http://arxiv.org/abs/2310.10823)|null|
 |**2023-10-16**|**Deep Conditional Shape Models for 3D cardiac image segmentation**|Athira J Jacob et.al.|[2310.10756](http://arxiv.org/abs/2310.10756)|null|
 |**2023-10-16**|**TraM-NeRF: Tracing Mirror and Near-Perfect Specular Reflections through Neural Radiance Fields**|Leif Van Holland et.al.|[2310.10650](http://arxiv.org/abs/2310.10650)|**[link](https://github.com/Rubikalubi/TraM-NeRF)**|
-|**2023-10-16**|**Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting**|Zeyu Yang et.al.|[2310.10642](http://arxiv.org/abs/2310.10642)|null|
+|**2023-10-16**|**Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting**|Zeyu Yang et.al.|[2310.10642](http://arxiv.org/abs/2310.10642)|**[link](https://github.com/fudan-zvg/4d-gaussian-splatting)**|
 |**2023-10-16**|**DynVideo-E: Harnessing Dynamic NeRF for Large-Scale Motion- and View-Change Human-Centric Video Editing**|Jia-Wei Liu et.al.|[2310.10624](http://arxiv.org/abs/2310.10624)|null|
-|**2023-10-16**|**ViPE: Visualise Pretty-much Everything**|Hassan Shahmohammadi et.al.|[2310.10543](http://arxiv.org/abs/2310.10543)|null|
+|**2023-10-16**|**ViPE: Visualise Pretty-much Everything**|Hassan Shahmohammadi et.al.|[2310.10543](http://arxiv.org/abs/2310.10543)|**[link](https://github.com/hazel1994/vipe)**|
 |**2023-10-16**|**Stance Detection with Collaborative Role-Infused LLM-Based Agents**|Xiaochong Lan et.al.|[2310.10467](http://arxiv.org/abs/2310.10467)|null|
 |**2023-10-16**|**Forking Uncertainties: Reliable Prediction and Model Predictive Control with Sequence Models via Conformal Risk Control**|Matteo Zecchin et.al.|[2310.10299](http://arxiv.org/abs/2310.10299)|null|
 |**2023-10-16**|**Efficient seismic reliability and fragility analysis of lifeline networks using subset simulation**|Dongkyu Lee et.al.|[2310.10232](http://arxiv.org/abs/2310.10232)|null|
 |**2023-10-16**|**Self-supervised Fetal MRI 3D Reconstruction Based on Radiation Diffusion Generation Model**|Junpeng Tan et.al.|[2310.10209](http://arxiv.org/abs/2310.10209)|null|
-|**2023-10-16**|**Implicit regularization via soft ascent-descent**|Matthew J. Holland et.al.|[2310.10006](http://arxiv.org/abs/2310.10006)|null|
+|**2023-10-16**|**Implicit regularization via soft ascent-descent**|Matthew J. Holland et.al.|[2310.10006](http://arxiv.org/abs/2310.10006)|**[link](https://github.com/feedbackward/bdd-flood)**|
 |**2023-10-15**|**Farzi Data: Autoregressive Data Distillation**|Noveen Sachdeva et.al.|[2310.09983](http://arxiv.org/abs/2310.09983)|null|
 |**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965](http://arxiv.org/abs/2310.09965)|null|
 |**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892](http://arxiv.org/abs/2310.09892)|null|
