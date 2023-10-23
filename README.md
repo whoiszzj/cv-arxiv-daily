@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-10-20**|**ManifoldNeRF: View-dependent Image Feature Supervision for Few-shot Neural Radiance Fields**|Daiju Kanaoka et.al.|[2310.13670](http://arxiv.org/abs/2310.13670)|null|
+|**2023-10-20**|**Sync-NeRF: Generalizing Dynamic NeRFs to Unsynchronized Videos**|Seoha Kim et.al.|[2310.13356](http://arxiv.org/abs/2310.13356)|null|
+|**2023-10-20**|**UE4-NeRF:Neural Radiance Field for Real-Time Rendering of Large-Scale Scene**|Jiaming Gu et.al.|[2310.13263](http://arxiv.org/abs/2310.13263)|null|
+|**2023-10-19**|**SIRe-IR: Inverse Rendering for BRDF Reconstruction with Shadow and Illumination Removal in High-Illuminance Scenes**|Ziyi Yang et.al.|[2310.13030](http://arxiv.org/abs/2310.13030)|**[link](https://github.com/ingra14m/sire-ir)**|
 |**2023-10-18**|**LoHoRavens: A Long-Horizon Language-Conditioned Benchmark for Robotic Tabletop Manipulation**|Shengqiang Zhang et.al.|[2310.12020](http://arxiv.org/abs/2310.12020)|null|
 |**2023-10-18**|**The Asymptotic Rank Conjecture and the Set Cover Conjecture are not Both True**|Andreas Björklund et.al.|[2310.11926](http://arxiv.org/abs/2310.11926)|null|
 |**2023-10-18**|**IRAD: Implicit Representation-driven Image Resampling against Adversarial Attacks**|Yue Cao et.al.|[2310.11890](http://arxiv.org/abs/2310.11890)|null|
@@ -66,6 +70,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-10-20**|**DeepFracture: A Generative Approach for Predicting Brittle Fractures**|Yuhang Huang et.al.|[2310.13344](http://arxiv.org/abs/2310.13344)|null|
 |**2023-10-14**|**HIO-SDF: Hierarchical Incremental Online Signed Distance Fields**|Vasileios Vasilopoulos et.al.|[2310.09463](http://arxiv.org/abs/2310.09463)|null|
 |**2023-10-12**|**OmniControl: Control Any Joint at Any Time for Human Motion Generation**|Yiming Xie et.al.|[2310.08580](http://arxiv.org/abs/2310.08580)|null|
 |**2023-10-12**|**Point-NeuS: Point-Guided Neural Implicit Surface Reconstruction by Volume Rendering**|Chen Zhang et.al.|[2310.07997](http://arxiv.org/abs/2310.07997)|null|
@@ -102,6 +107,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-10-20**|**A hot mini-Neptune and a temperate, highly eccentric sub-Saturn around the bright K-dwarf TOI-2134**|F. Rescigno et.al.|[2310.13623](http://arxiv.org/abs/2310.13623)|null|
+|**2023-10-20**|**Numerical approximation of McKean-Vlasov SDEs via stochastic gradient descent**|Ankush Agarwal et.al.|[2310.13579](http://arxiv.org/abs/2310.13579)|null|
+|**2023-10-20**|**Malliavin differentiability of McKean-Vlasov SDEs with locally Lipschitz coefficients**|Goncalo dos Reis et.al.|[2310.13400](http://arxiv.org/abs/2310.13400)|null|
 |**2023-10-19**|**Multiscale Motion-Aware and Spatial-Temporal-Channel Contextual Coding Network for Learned Video Compression**|Yiming Wang et.al.|[2310.12733](http://arxiv.org/abs/2310.12733)|null|
 |**2023-10-19**|**Conceptual design and progress of transmitting $\sim$ MV DC HV into 4 K LHe detectors**|Zhuo Liang et.al.|[2310.12504](http://arxiv.org/abs/2310.12504)|null|
 |**2023-10-18**|**A Framework for Treating Model Uncertainty in the Asset Liability Management Problem**|Georgios I. Papayiannis et.al.|[2310.11987](http://arxiv.org/abs/2310.11987)|null|
@@ -126,6 +134,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605](http://arxiv.org/abs/2310.13605)|null|
 |**2023-10-09**|**Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration**|Chunge Bai et.al.|[2310.05504](http://arxiv.org/abs/2310.05504)|**[link](https://github.com/xiaobaiiiiii/colmap-pcd)**|
 |**2023-10-08**|**LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**|Artem Nenashev et.al.|[2310.05134](http://arxiv.org/abs/2310.05134)|null|
 |**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092](http://arxiv.org/abs/2310.01092)|null|
