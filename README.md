@@ -58,7 +58,7 @@
 |**2023-10-16**|**Implicit regularization via soft ascent-descent**|Matthew J. Holland et.al.|[2310.10006](http://arxiv.org/abs/2310.10006)|**[link](https://github.com/feedbackward/bdd-flood)**|
 |**2023-10-15**|**Farzi Data: Autoregressive Data Distillation**|Noveen Sachdeva et.al.|[2310.09983](http://arxiv.org/abs/2310.09983)|null|
 |**2023-10-15**|**ProteusNeRF: Fast Lightweight NeRF Editing using 3D-Aware Image Context**|Binglun Wang et.al.|[2310.09965](http://arxiv.org/abs/2310.09965)|null|
-|**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892](http://arxiv.org/abs/2310.09892)|null|
+|**2023-10-15**|**Active Perception using Neural Radiance Fields**|Siming He et.al.|[2310.09892](http://arxiv.org/abs/2310.09892)|**[link](https://github.com/grasp-lyrl/active-perception-using-neural-radiance-fields)**|
 |**2023-10-15**|**CBARF: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses**|Hongyu Fu et.al.|[2310.09776](http://arxiv.org/abs/2310.09776)|null|
 |**2023-10-14**|**Point-DynRF: Point-based Dynamic Radiance Fields from a Monocular Video**|Byeongjun Park et.al.|[2310.09647](http://arxiv.org/abs/2310.09647)|null|
 |**2023-10-13**|**A Parallel Feature-preserving Mesh Variable Offsetting Method with Dynamic Programming**|Hongyi Cao et.al.|[2310.08997](http://arxiv.org/abs/2310.08997)|**[link](https://github.com/igame-lab/pfpoffset)**|
