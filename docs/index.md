@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2023-10-29**|**DynPoint: Dynamic Neural Point For View Synthesis**|Kaichen Zhou et.al.|[2310.18999](http://arxiv.org/abs/2310.18999)|null|
+|**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
+|**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/abs/2310.18846)|null|
 |**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994](http://arxiv.org/abs/2310.17994)|null|
 |**2023-10-27**|**Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D Scene Representations**|Tristan Aumentado-Armstrong et.al.|[2310.17880](http://arxiv.org/abs/2310.17880)|null|
 |**2023-10-27**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075](http://arxiv.org/abs/2310.17075)|null|
@@ -72,6 +75,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
+|**2023-10-27**|**Multi-fidelity Design of Porous Microstructures for Thermofluidic Applications**|Jonathan Tammer Eweis-LaBolle et.al.|[2310.18505](http://arxiv.org/abs/2310.18505)|null|
 |**2023-10-23**|**Lie Group Variational Collision Integrators for a Class of Hybrid Systems**|Khoa Tran et.al.|[2310.15356](http://arxiv.org/abs/2310.15356)|null|
 |**2023-10-20**|**DeepFracture: A Generative Approach for Predicting Brittle Fractures**|Yuhang Huang et.al.|[2310.13344](http://arxiv.org/abs/2310.13344)|null|
 |**2023-10-14**|**HIO-SDF: Hierarchical Incremental Online Signed Distance Fields**|Vasileios Vasilopoulos et.al.|[2310.09463](http://arxiv.org/abs/2310.09463)|null|
@@ -106,6 +111,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2023-10-28**|**Efficient augmented block designs for unreplicated test treatments**|Rahul Mukerjee et.al.|[2310.18692](http://arxiv.org/abs/2310.18692)|null|
 |**2023-10-25**|**SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation**|Qianxu Wang et.al.|[2310.16838](http://arxiv.org/abs/2310.16838)|null|
 |**2023-10-25**|**A Novel Approach for Object Based Audio Broadcasting**|Mohammad Reza Hasanabadi et.al.|[2310.16481](http://arxiv.org/abs/2310.16481)|null|
 |**2023-10-24**|**iNVS: Repurposing Diffusion Inpainters for Novel View Synthesis**|Yash Kant et.al.|[2310.16167](http://arxiv.org/abs/2310.16167)|null|
