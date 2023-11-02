@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-11-01**|**Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture**|Yixin Chen et.al.|[2311.00457](http://arxiv.org/abs/2311.00457)|null|
+|**2023-11-01**|**Neural Implicit Field Editing Considering Object-environment Interaction**|Zhihong Zeng et.al.|[2311.00425](http://arxiv.org/abs/2311.00425)|null|
 |**2023-10-31**|**FPO++: Efficient Encoding and Rendering of Dynamic Neural Radiance Fields by Analyzing and Enhancing Fourier PlenOctrees**|Saskia Rabich et.al.|[2310.20710](http://arxiv.org/abs/2310.20710)|null|
 |**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/abs/2310.20685)|null|
 |**2023-10-30**|**Generative Neural Fields by Mixtures of Neural Implicit Functions**|Tackgeun You et.al.|[2310.19464](http://arxiv.org/abs/2310.19464)|null|
@@ -87,6 +89,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-11-01**|**SDF4CHD: Generative Modeling of Cardiac Anatomies with Congenital Heart Defects**|Fanwei Kong et.al.|[2311.00332](http://arxiv.org/abs/2311.00332)|null|
+|**2023-11-01**|**Federated Topic Model and Model Pruning Based on Variational Autoencoder**|Chengjie Ma et.al.|[2311.00314](http://arxiv.org/abs/2311.00314)|null|
 |**2023-10-31**|**$p$ -Poisson surface reconstruction in curl-free flow from point clouds**|Yesom Park et.al.|[2310.20095](http://arxiv.org/abs/2310.20095)|null|
 |**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
 |**2023-10-27**|**Multi-fidelity Design of Porous Microstructures for Thermofluidic Applications**|Jonathan Tammer Eweis-LaBolle et.al.|[2310.18505](http://arxiv.org/abs/2310.18505)|null|
@@ -129,6 +133,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-11-01**|**Reverberant sound field equalisation for an enhanced stereo playback experience**|James Brooks-Park et.al.|[2311.00624](http://arxiv.org/abs/2311.00624)|null|
+|**2023-11-01**|**Controllable Music Production with Diffusion Models and Guidance Gradients**|Mark Levy et.al.|[2311.00613](http://arxiv.org/abs/2311.00613)|null|
+|**2023-10-31**|**Joint Depth Prediction and Semantic Segmentation with Multi-View SAM**|Mykhailo Shvets et.al.|[2311.00134](http://arxiv.org/abs/2311.00134)|null|
 |**2023-10-31**|**Multi-Valued Verification of Strategic Ability**|Wojciech Jamroga et.al.|[2310.20344](http://arxiv.org/abs/2310.20344)|null|
 |**2023-10-31**|**Optimal Monotone Mean-Variance Problem in a Catastrophe Insurance Model**|Bohan Li et.al.|[2310.20173](http://arxiv.org/abs/2310.20173)|null|
 |**2023-10-30**|**GC-MVSNet: Multi-View, Multi-Scale, Geometrically-Consistent Multi-View Stereo**|Vibhas K. Vats et.al.|[2310.19583](http://arxiv.org/abs/2310.19583)|null|
