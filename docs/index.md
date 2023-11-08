@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.07
+## Updated on 2023.11.08
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -10,7 +10,7 @@ layout: default
 |**2023-11-06**|**Long-Term Invariant Local Features via Implicit Cross-Domain Correspondences**|Zador Pataki et.al.|[2311.03345](http://arxiv.org/abs/2311.03345)|null|
 |**2023-11-06**|**Animating NeRFs from Texture Space: A Framework for Pose-Dependent Rendering of Human Performances**|Paul Knoll et.al.|[2311.03140](http://arxiv.org/abs/2311.03140)|null|
 |**2023-11-06**|**Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video**|Yanqin Jiang et.al.|[2311.02848](http://arxiv.org/abs/2311.02848)|null|
-|**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826](http://arxiv.org/abs/2311.02826)|null|
+|**2023-11-06**|**InstructPix2NeRF: Instructed 3D Portrait Editing from a Single Image**|Jianhui Li et.al.|[2311.02826](http://arxiv.org/abs/2311.02826)|**[link](https://github.com/mybabyyh/instructpix2nerf)**|
 |**2023-11-05**|**VR-NeRF: High-Fidelity Virtualized Walkable Spaces**|Linning Xu et.al.|[2311.02542](http://arxiv.org/abs/2311.02542)|null|
 |**2023-11-03**|**A Neural Radiance Field-Based Architecture for Intelligent Multilayered View Synthesis**|D. Dhinakaran et.al.|[2311.01842](http://arxiv.org/abs/2311.01842)|null|
 |**2023-11-03**|**Estimating 3D Uncertainty Field: Quantifying Uncertainty for Neural Radiance Fields**|Jianxiong Shen et.al.|[2311.01815](http://arxiv.org/abs/2311.01815)|null|
