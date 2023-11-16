@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221](http://arxiv.org/abs/2311.09221)|null|
+|**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217](http://arxiv.org/abs/2311.09217)|null|
+|**2023-11-15**|**Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation**|Zhanfeng Liao et.al.|[2311.09077](http://arxiv.org/abs/2311.09077)|null|
+|**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581](http://arxiv.org/abs/2311.08581)|null|
 |**2023-11-13**|**$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF**|Liangchen Li et.al.|[2311.07044](http://arxiv.org/abs/2311.07044)|null|
 |**2023-11-11**|**Aria-NeRF: Multimodal Egocentric View Synthesis**|Jiankai Sun et.al.|[2311.06455](http://arxiv.org/abs/2311.06455)|null|
 |**2023-11-11**|**CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer**|Haoyu Ma et.al.|[2311.06443](http://arxiv.org/abs/2311.06443)|null|
@@ -148,6 +152,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-11-14**|**Drivable 3D Gaussian Avatars**|Wojciech Zielonka et.al.|[2311.08581](http://arxiv.org/abs/2311.08581)|null|
 |**2023-10-30**|**Dynamic Gaussian Splatting from Markerless Motion Capture can Reconstruct Infants Movements**|R. James Cotton et.al.|[2310.19441](http://arxiv.org/abs/2310.19441)|null|
 |**2023-10-16**|**Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting**|Zeyu Yang et.al.|[2310.10642](http://arxiv.org/abs/2310.10642)|**[link](https://github.com/fudan-zvg/4d-gaussian-splatting)**|
 |**2023-10-12**|**GaussianDreamer: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors**|Taoran Yi et.al.|[2310.08529](http://arxiv.org/abs/2310.08529)|null|
@@ -167,6 +172,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-11-15**|**Local strain enhanced switching of magnetic tunnel junctions for energy efficient computing**|Suyogya Karki et.al.|[2311.08984](http://arxiv.org/abs/2311.08984)|null|
 |**2023-11-13**|**Cross-modal Generative Model for Visual-Guided Binaural Stereo Generation**|Zhaojian Li et.al.|[2311.07630](http://arxiv.org/abs/2311.07630)|null|
 |**2023-11-11**|**Polarimetric PatchMatch Multi-View Stereo**|Jinyu Zhao et.al.|[2311.07600](http://arxiv.org/abs/2311.07600)|null|
 |**2023-11-13**|**Terahertz metamaterials for light-driven magnetism**|M. Pancaldi et.al.|[2311.07252](http://arxiv.org/abs/2311.07252)|null|
