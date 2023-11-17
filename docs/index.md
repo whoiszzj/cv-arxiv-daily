@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2023-11-16**|**Adaptive Shells for Efficient Neural Radiance Field Rendering**|Zian Wang et.al.|[2311.10091](http://arxiv.org/abs/2311.10091)|null|
+|**2023-11-16**|**EvaSurf: Efficient View-Aware Implicit Textured Surface Reconstruction on Mobile Devices**|Jingnan Gao et.al.|[2311.09806](http://arxiv.org/abs/2311.09806)|null|
+|**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646](http://arxiv.org/abs/2311.09646)|null|
+|**2023-11-16**|**NGEL-SLAM: Neural Implicit Representation-based Global Consistent Low-Latency SLAM System**|Yunxuan Mao et.al.|[2311.09525](http://arxiv.org/abs/2311.09525)|null|
 |**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221](http://arxiv.org/abs/2311.09221)|null|
 |**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217](http://arxiv.org/abs/2311.09217)|null|
 |**2023-11-15**|**Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation**|Zhanfeng Liao et.al.|[2311.09077](http://arxiv.org/abs/2311.09077)|null|
@@ -116,6 +120,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2023-11-16**|**Adaptive Shells for Efficient Neural Radiance Field Rendering**|Zian Wang et.al.|[2311.10091](http://arxiv.org/abs/2311.10091)|null|
 |**2023-11-08**|**Integrated Distributed Semantic Communication and Over-the-air Computation for Cooperative Spectrum Sensing**|Peng Yi et.al.|[2311.04791](http://arxiv.org/abs/2311.04791)|null|
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154](http://arxiv.org/abs/2311.04154)|null|
 |**2023-11-08**|**SDF4CHD: Generative Modeling of Cardiac Anatomies with Congenital Heart Defects**|Fanwei Kong et.al.|[2311.00332](http://arxiv.org/abs/2311.00332)|null|
@@ -159,6 +164,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2023-11-16**|**Redefining the Laparoscopic Spatial Sense: AI-based Intra- and Postoperative Measurement from Stereoimages**|Leopold Müller et.al.|[2311.09744](http://arxiv.org/abs/2311.09744)|null|
 |**2023-11-15**|**Local strain enhanced switching of magnetic tunnel junctions for energy efficient computing**|Suyogya Karki et.al.|[2311.08984](http://arxiv.org/abs/2311.08984)|null|
 |**2023-11-13**|**Cross-modal Generative Model for Visual-Guided Binaural Stereo Generation**|Zhaojian Li et.al.|[2311.07630](http://arxiv.org/abs/2311.07630)|null|
 |**2023-11-11**|**Polarimetric PatchMatch Multi-View Stereo**|Jinyu Zhao et.al.|[2311.07600](http://arxiv.org/abs/2311.07600)|null|
