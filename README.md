@@ -1,4 +1,4 @@
-## Updated on 2023.11.18
+## Updated on 2023.11.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -123,7 +123,7 @@
 |**2023-10-12**|**Point-NeuS: Point-Guided Neural Implicit Surface Reconstruction by Volume Rendering**|Chen Zhang et.al.|[2310.07997](http://arxiv.org/abs/2310.07997)|null|
 |**2023-10-11**|**Dynamic Appearance Particle Neural Radiance Field**|Ancheng Lin et.al.|[2310.07916](http://arxiv.org/abs/2310.07916)|null|
 
-<p align=right>(<a href=#updated-on-20231118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231119>back to top</a>)</p>
 
 ## NeuS
 
@@ -151,7 +151,7 @@
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639](http://arxiv.org/abs/2309.12639)|null|
 
-<p align=right>(<a href=#updated-on-20231118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231119>back to top</a>)</p>
 
 ## GaussianSplatting
 
@@ -171,13 +171,13 @@
 |**2023-10-16**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 
-<p align=right>(<a href=#updated-on-20231118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231119>back to top</a>)</p>
 
 ## MVS
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
-|**2023-11-16**|**Redefining the Laparoscopic Spatial Sense: AI-based Intra- and Postoperative Measurement from Stereoimages**|Leopold Müller et.al.|[2311.09744](http://arxiv.org/abs/2311.09744)|null|
+|**2023-11-16**|**Redefining the Laparoscopic Spatial Sense: AI-based Intra- and Postoperative Measurement from Stereoimages**|Leopold Müller et.al.|[2311.09744](http://arxiv.org/abs/2311.09744)|**[link](https://github.com/leopoldmueller/laparoscopicmeasurement)**|
 |**2023-11-15**|**Local strain enhanced switching of magnetic tunnel junctions for energy efficient computing**|Suyogya Karki et.al.|[2311.08984](http://arxiv.org/abs/2311.08984)|null|
 |**2023-11-13**|**Cross-modal Generative Model for Visual-Guided Binaural Stereo Generation**|Zhaojian Li et.al.|[2311.07630](http://arxiv.org/abs/2311.07630)|null|
 |**2023-11-11**|**Polarimetric PatchMatch Multi-View Stereo**|Jinyu Zhao et.al.|[2311.07600](http://arxiv.org/abs/2311.07600)|null|
@@ -185,7 +185,7 @@
 |**2023-11-11**|**Formation of field-induced breakdown precursors on metallic electrode surfaces**|Soumendu Bagchi et.al.|[2311.06624](http://arxiv.org/abs/2311.06624)|null|
 |**2023-11-10**|**MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty**|Rémi Marsal et.al.|[2311.06137](http://arxiv.org/abs/2311.06137)|**[link](https://github.com/cea-list/monoprob)**|
 |**2023-11-10**|**A Neural Height-Map Approach for the Binocular Photometric Stereo Problem**|Fotios Logothetis et.al.|[2311.05958](http://arxiv.org/abs/2311.05958)|null|
-|**2023-11-10**|**A Practical Guide to Implementing Off-Axis Stereo Projection Using Existing Ray Tracing Libraries**|Stefan Zellmann et.al.|[2311.05887](http://arxiv.org/abs/2311.05887)|null|
+|**2023-11-10**|**A Practical Guide to Implementing Off-Axis Stereo Projection Using Existing Ray Tracing Libraries**|Stefan Zellmann et.al.|[2311.05887](http://arxiv.org/abs/2311.05887)|**[link](https://github.com/szellmann/anari-offaxis-sample-code)**|
 |**2023-11-08**|**Patterning edge-like defects and tuning defective areas on the basal plane of ultra-large MoS $_{2}$ monolayers toward hydrogen evolution reaction**|Bianca Rocha Florindo et.al.|[2311.04413](http://arxiv.org/abs/2311.04413)|null|
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154](http://arxiv.org/abs/2311.04154)|null|
 |**2023-11-06**|**Geometric contexts and applications to logic**|Mayk de Andrade et.al.|[2311.03507](http://arxiv.org/abs/2311.03507)|null|
@@ -228,7 +228,7 @@
 |**2023-10-06**|**Rotation of a Stealth CME on 2012 October 5 Observed in the Inner Heliosphere**|Sandeep Kumar et.al.|[2310.04023](http://arxiv.org/abs/2310.04023)|null|
 |**2023-10-05**|**Design Methodology for a Medium Voltage Single Stage LLC Resonant Solar PV Inverter**|Parthkumar Bhuvela et.al.|[2310.03834](http://arxiv.org/abs/2310.03834)|null|
 
-<p align=right>(<a href=#updated-on-20231118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231119>back to top</a>)</p>
 
 ## SFM
 
@@ -251,5 +251,5 @@
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
-<p align=right>(<a href=#updated-on-20231118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231119>back to top</a>)</p>
 

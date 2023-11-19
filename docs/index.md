@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.18
+## Updated on 2023.11.19
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -164,7 +164,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
-|**2023-11-16**|**Redefining the Laparoscopic Spatial Sense: AI-based Intra- and Postoperative Measurement from Stereoimages**|Leopold Müller et.al.|[2311.09744](http://arxiv.org/abs/2311.09744)|null|
+|**2023-11-16**|**Redefining the Laparoscopic Spatial Sense: AI-based Intra- and Postoperative Measurement from Stereoimages**|Leopold Müller et.al.|[2311.09744](http://arxiv.org/abs/2311.09744)|**[link](https://github.com/leopoldmueller/laparoscopicmeasurement)**|
 |**2023-11-15**|**Local strain enhanced switching of magnetic tunnel junctions for energy efficient computing**|Suyogya Karki et.al.|[2311.08984](http://arxiv.org/abs/2311.08984)|null|
 |**2023-11-13**|**Cross-modal Generative Model for Visual-Guided Binaural Stereo Generation**|Zhaojian Li et.al.|[2311.07630](http://arxiv.org/abs/2311.07630)|null|
 |**2023-11-11**|**Polarimetric PatchMatch Multi-View Stereo**|Jinyu Zhao et.al.|[2311.07600](http://arxiv.org/abs/2311.07600)|null|
@@ -172,7 +172,7 @@ layout: default
 |**2023-11-11**|**Formation of field-induced breakdown precursors on metallic electrode surfaces**|Soumendu Bagchi et.al.|[2311.06624](http://arxiv.org/abs/2311.06624)|null|
 |**2023-11-10**|**MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty**|Rémi Marsal et.al.|[2311.06137](http://arxiv.org/abs/2311.06137)|**[link](https://github.com/cea-list/monoprob)**|
 |**2023-11-10**|**A Neural Height-Map Approach for the Binocular Photometric Stereo Problem**|Fotios Logothetis et.al.|[2311.05958](http://arxiv.org/abs/2311.05958)|null|
-|**2023-11-10**|**A Practical Guide to Implementing Off-Axis Stereo Projection Using Existing Ray Tracing Libraries**|Stefan Zellmann et.al.|[2311.05887](http://arxiv.org/abs/2311.05887)|null|
+|**2023-11-10**|**A Practical Guide to Implementing Off-Axis Stereo Projection Using Existing Ray Tracing Libraries**|Stefan Zellmann et.al.|[2311.05887](http://arxiv.org/abs/2311.05887)|**[link](https://github.com/szellmann/anari-offaxis-sample-code)**|
 |**2023-11-08**|**Patterning edge-like defects and tuning defective areas on the basal plane of ultra-large MoS $_{2}$ monolayers toward hydrogen evolution reaction**|Bianca Rocha Florindo et.al.|[2311.04413](http://arxiv.org/abs/2311.04413)|null|
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154](http://arxiv.org/abs/2311.04154)|null|
 |**2023-11-06**|**Geometric contexts and applications to logic**|Mayk de Andrade et.al.|[2311.03507](http://arxiv.org/abs/2311.03507)|null|
