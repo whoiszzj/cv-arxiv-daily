@@ -14,11 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|null|
+|**2023-11-21**|**Hyb-NeRF: A Multiresolution Hybrid Encoding for Neural Radiance Fields**|Yifan Wang et.al.|[2311.12490](http://arxiv.org/abs/2311.12490)|null|
+|**2023-11-20**|**LABELMAKER: Automatic Semantic Label Generation from RGB-D Trajectories**|Silvan Weder et.al.|[2311.12174](http://arxiv.org/abs/2311.12174)|null|
+|**2023-11-18**|**DatasetNeRF: Efficient 3D-aware Data Factory with Generative Radiance Fields**|Yu Chi et.al.|[2311.12063](http://arxiv.org/abs/2311.12063)|null|
+|**2023-11-18**|**Towards Function Space Mesh Watermarking: Protecting the Copyright of Signed Distance Fields**|Xingyu Zhu et.al.|[2311.12059](http://arxiv.org/abs/2311.12059)|null|
 |**2023-11-20**|**GP-NeRF: Generalized Perception NeRF for Context-Aware 3D Scene Understanding**|Hao Li et.al.|[2311.11863](http://arxiv.org/abs/2311.11863)|null|
 |**2023-11-20**|**Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**|Zhiyuan Min et.al.|[2311.11845](http://arxiv.org/abs/2311.11845)|**[link](https://github.com/tatakai1/evenerf)**|
 |**2023-11-19**|**GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**|Xinhai Li et.al.|[2311.11221](http://arxiv.org/abs/2311.11221)|null|
 |**2023-11-18**|**SNI-SLAM: Semantic Neural Implicit SLAM**|Siting Zhu et.al.|[2311.11016](http://arxiv.org/abs/2311.11016)|null|
-|**2023-11-18**|**Implicit Event-RGBD Neural SLAM**|Delin Qu et.al.|[2311.11013](http://arxiv.org/abs/2311.11013)|null|
+|**2023-11-21**|**Implicit Event-RGBD Neural SLAM**|Delin Qu et.al.|[2311.11013](http://arxiv.org/abs/2311.11013)|null|
 |**2023-11-18**|**Structure-Aware Sparse-View X-ray 3D Reconstruction**|Yuanhao Cai et.al.|[2311.10959](http://arxiv.org/abs/2311.10959)|**[link](https://github.com/caiyuanhao1998/sax-nerf)**|
 |**2023-11-17**|**SplatArmor: Articulated Gaussian splatting for animatable humans from monocular RGB videos**|Rohit Jena et.al.|[2311.10812](http://arxiv.org/abs/2311.10812)|null|
 |**2023-11-17**|**Removing Adverse Volumetric Effects From Trained Neural Radiance Fields**|Andreas L. Teigen et.al.|[2311.10523](http://arxiv.org/abs/2311.10523)|null|
@@ -137,6 +142,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|null|
+|**2023-11-21**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2311.12754](http://arxiv.org/abs/2311.12754)|**[link](https://github.com/huang-yh/selfocc)**|
+|**2023-11-18**|**Towards Function Space Mesh Watermarking: Protecting the Copyright of Signed Distance Fields**|Xingyu Zhu et.al.|[2311.12059](http://arxiv.org/abs/2311.12059)|null|
 |**2023-11-20**|**Holistic Inverse Rendering of Complex Facade via Aerial 3D Scanning**|Zixuan Xie et.al.|[2311.11825](http://arxiv.org/abs/2311.11825)|null|
 |**2023-11-16**|**Adaptive Shells for Efficient Neural Radiance Field Rendering**|Zian Wang et.al.|[2311.10091](http://arxiv.org/abs/2311.10091)|null|
 |**2023-11-08**|**Integrated Distributed Semantic Communication and Over-the-air Computation for Cooperative Spectrum Sensing**|Peng Yi et.al.|[2311.04791](http://arxiv.org/abs/2311.04791)|null|
@@ -166,7 +174,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
-|**2023-11-20**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700](http://arxiv.org/abs/2311.11700)|null|
+|**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|null|
+|**2023-11-20**|**PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics**|Tianyi Xie et.al.|[2311.12198](http://arxiv.org/abs/2311.12198)|null|
+|**2023-11-21**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700](http://arxiv.org/abs/2311.11700)|null|
 |**2023-11-19**|**LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching**|Yixun Liang et.al.|[2311.11284](http://arxiv.org/abs/2311.11284)|**[link](https://github.com/envision-research/luciddreamer)**|
 |**2023-11-19**|**GaussianDiffusion: 3D Gaussian Splatting for Denoising Diffusion Probabilistic Models with Structured Noise**|Xinhai Li et.al.|[2311.11221](http://arxiv.org/abs/2311.11221)|null|
 |**2023-11-17**|**SplatArmor: Articulated Gaussian splatting for animatable humans from monocular RGB videos**|Rohit Jena et.al.|[2311.10812](http://arxiv.org/abs/2311.10812)|null|
@@ -190,6 +200,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-11-21**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2311.12754](http://arxiv.org/abs/2311.12754)|**[link](https://github.com/huang-yh/selfocc)**|
+|**2023-11-21**|**BundleMoCap: Efficient, Robust and Smooth Motion Capture from Sparse Multiview Videos**|Georgios Albanis et.al.|[2311.12679](http://arxiv.org/abs/2311.12679)|null|
+|**2023-11-21**|**Visually Guided Object Grasping**|Radu Horaud et.al.|[2311.12660](http://arxiv.org/abs/2311.12660)|null|
+|**2023-11-21**|**Two Views Are Better than One: Monocular 3D Pose Estimation with Multiview Consistency**|Christian Keilstrup Ingwersen et.al.|[2311.12421](http://arxiv.org/abs/2311.12421)|null|
 |**2023-11-20**|**Hybrid Controller for Robot Manipulators in Task-Space with Visual-Inertial Feedback**|Seyed Hamed Hashemi et.al.|[2311.11816](http://arxiv.org/abs/2311.11816)|null|
 |**2023-11-19**|**Exchanging Dual Encoder-Decoder: A New Strategy for Change Detection with Semantic Guidance and Spatial Localization**|Sijie Zhao et.al.|[2311.11302](http://arxiv.org/abs/2311.11302)|null|
 |**2023-11-17**|**Point Cloud Self-supervised Learning via 3D to Multi-view Masked Autoencoder**|Zhimin Chen et.al.|[2311.10887](http://arxiv.org/abs/2311.10887)|null|
@@ -257,7 +271,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
-|**2023-11-20**|**Robot Hand-Eye Calibration using Structure-from-Motion**|Nicolas Andreff et.al.|[2311.11808](http://arxiv.org/abs/2311.11808)|null|
+|**2023-11-21**|**Robot Hand-Eye Calibration using Structure-from-Motion**|Nicolas Andreff et.al.|[2311.11808](http://arxiv.org/abs/2311.11808)|null|
 |**2023-11-18**|**LOSTU: Fast, Scalable, and Uncertainty-Aware Triangulation**|Sébastien Henry et.al.|[2311.11171](http://arxiv.org/abs/2311.11171)|null|
 |**2023-11-17**|**Human motion trajectory prediction using the Social Force Model for real-time and low computational cost applications**|Oscar Gil et.al.|[2311.10582](http://arxiv.org/abs/2311.10582)|null|
 |**2023-11-10**|**MonoProb: Self-Supervised Monocular Depth Estimation with Interpretable Uncertainty**|Rémi Marsal et.al.|[2311.06137](http://arxiv.org/abs/2311.06137)|**[link](https://github.com/cea-list/monoprob)**|
