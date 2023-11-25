@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.24
+## Updated on 2023.11.25
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -10,7 +10,7 @@ layout: default
 |**2023-11-22**|**Animatable 3D Gaussians for High-fidelity Synthesis of Human Motions**|Keyang Ye et.al.|[2311.13404](http://arxiv.org/abs/2311.13404)|**[link](https://github.com/YessionCC/AnimatableGaussian)**|
 |**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398](http://arxiv.org/abs/2311.13398)|null|
 |**2023-11-22**|**Retargeting Visual Data with Deformation Fields**|Tim Elsner et.al.|[2311.13297](http://arxiv.org/abs/2311.13297)|null|
-|**2023-11-22**|**Volumetric Reconstruction Resolves Off-Resonance Artifacts in Static and Dynamic PROPELLER MRI**|Annesha Ghosh et.al.|[2311.13177](http://arxiv.org/abs/2311.13177)|null|
+|**2023-11-22**|**Volumetric Reconstruction Resolves Off-Resonance Artifacts in Static and Dynamic PROPELLER MRI**|Annesha Ghosh et.al.|[2311.13177](http://arxiv.org/abs/2311.13177)|**[link](https://github.com/sarafridov/volumetric-propeller)**|
 |**2023-11-22**|**3D Face Style Transfer with a Hybrid Solution of NeRF and Mesh Rasterization**|Jianwei Feng et.al.|[2311.13168](http://arxiv.org/abs/2311.13168)|null|
 |**2023-11-22**|**Test-Time Augmentation for 3D Point Cloud Classification and Segmentation**|Tuan-Anh Vu et.al.|[2311.13152](http://arxiv.org/abs/2311.13152)|null|
 |**2023-11-22**|**PIE-NeRF: Physics-based Interactive Elastodynamics with NeRF**|Yutao Feng et.al.|[2311.13099](http://arxiv.org/abs/2311.13099)|null|
