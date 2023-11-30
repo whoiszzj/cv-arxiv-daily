@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.11.29
+## Updated on 2023.11.30
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -203,7 +203,7 @@ layout: default
 |**2023-11-28**|**HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting**|Xian Liu et.al.|[2311.17061](http://arxiv.org/abs/2311.17061)|null|
 |**2023-11-28**|**Point'n Move: Interactive Scene Object Manipulation on Gaussian Splatting Radiance Fields**|Jiajun Huang et.al.|[2311.16737](http://arxiv.org/abs/2311.16737)|null|
 |**2023-11-27**|**Mip-Splatting: Alias-free 3D Gaussian Splatting**|Zehao Yu et.al.|[2311.16493](http://arxiv.org/abs/2311.16493)|null|
-|**2023-11-27**|**Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**|Yang Liu et.al.|[2311.16482](http://arxiv.org/abs/2311.16482)|**[link](https://github.com/jimmyYliu/Animatable3DGaussian)**|
+|**2023-11-27**|**Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**|Yang Liu et.al.|[2311.16482](http://arxiv.org/abs/2311.16482)|**[link](https://github.com/jimmyYliu/Animatable-3D-Gaussian)**|
 |**2023-11-26**|**GS-IR: 3D Gaussian Splatting for Inverse Rendering**|Zhihao Liang et.al.|[2311.16473](http://arxiv.org/abs/2311.16473)|**[link](https://github.com/lzhnb/gs-ir)**|
 |**2023-11-27**|**GART: Gaussian Articulated Template Models**|Jiahui Lei et.al.|[2311.16099](http://arxiv.org/abs/2311.16099)|null|
 |**2023-11-27**|**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**|Zhe Li et.al.|[2311.16096](http://arxiv.org/abs/2311.16096)|**[link](https://github.com/lizhe00/animatablegaussians)**|

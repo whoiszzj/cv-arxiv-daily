@@ -1,4 +1,4 @@
-## Updated on 2023.11.29
+## Updated on 2023.11.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -169,7 +169,7 @@
 |**2023-10-12**|**Point-NeuS: Point-Guided Neural Implicit Surface Reconstruction by Volume Rendering**|Chen Zhang et.al.|[2310.07997](http://arxiv.org/abs/2310.07997)|null|
 |**2023-10-11**|**Dynamic Appearance Particle Neural Radiance Field**|Ancheng Lin et.al.|[2310.07916](http://arxiv.org/abs/2310.07916)|null|
 
-<p align=right>(<a href=#updated-on-20231129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231130>back to top</a>)</p>
 
 ## NeuS
 
@@ -205,7 +205,7 @@
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639](http://arxiv.org/abs/2309.12639)|null|
 
-<p align=right>(<a href=#updated-on-20231129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231130>back to top</a>)</p>
 
 ## GaussianSplatting
 
@@ -214,7 +214,7 @@
 |**2023-11-28**|**HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting**|Xian Liu et.al.|[2311.17061](http://arxiv.org/abs/2311.17061)|null|
 |**2023-11-28**|**Point'n Move: Interactive Scene Object Manipulation on Gaussian Splatting Radiance Fields**|Jiajun Huang et.al.|[2311.16737](http://arxiv.org/abs/2311.16737)|null|
 |**2023-11-27**|**Mip-Splatting: Alias-free 3D Gaussian Splatting**|Zehao Yu et.al.|[2311.16493](http://arxiv.org/abs/2311.16493)|null|
-|**2023-11-27**|**Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**|Yang Liu et.al.|[2311.16482](http://arxiv.org/abs/2311.16482)|**[link](https://github.com/jimmyYliu/Animatable3DGaussian)**|
+|**2023-11-27**|**Animatable 3D Gaussian: Fast and High-Quality Reconstruction of Multiple Human Avatars**|Yang Liu et.al.|[2311.16482](http://arxiv.org/abs/2311.16482)|**[link](https://github.com/jimmyYliu/Animatable-3D-Gaussian)**|
 |**2023-11-26**|**GS-IR: 3D Gaussian Splatting for Inverse Rendering**|Zhihao Liang et.al.|[2311.16473](http://arxiv.org/abs/2311.16473)|**[link](https://github.com/lzhnb/gs-ir)**|
 |**2023-11-27**|**GART: Gaussian Articulated Template Models**|Jiahui Lei et.al.|[2311.16099](http://arxiv.org/abs/2311.16099)|null|
 |**2023-11-27**|**Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling**|Zhe Li et.al.|[2311.16096](http://arxiv.org/abs/2311.16096)|**[link](https://github.com/lizhe00/animatablegaussians)**|
@@ -246,7 +246,7 @@
 |**2023-10-16**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 
-<p align=right>(<a href=#updated-on-20231129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231130>back to top</a>)</p>
 
 ## MVS
 
@@ -327,7 +327,7 @@
 |**2023-10-06**|**Rotation of a Stealth CME on 2012 October 5 Observed in the Inner Heliosphere**|Sandeep Kumar et.al.|[2310.04023](http://arxiv.org/abs/2310.04023)|null|
 |**2023-10-05**|**Design Methodology for a Medium Voltage Single Stage LLC Resonant Solar PV Inverter**|Parthkumar Bhuvela et.al.|[2310.03834](http://arxiv.org/abs/2310.03834)|null|
 
-<p align=right>(<a href=#updated-on-20231129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231130>back to top</a>)</p>
 
 ## SFM
 
@@ -353,5 +353,5 @@
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
-<p align=right>(<a href=#updated-on-20231129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231130>back to top</a>)</p>
 
