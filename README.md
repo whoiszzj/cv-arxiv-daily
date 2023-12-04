@@ -150,7 +150,7 @@
 |**2023-10-17**|**Hybrid Trajectory Optimization of Simple Skateboarding Tricks through Contact**|Michael Burgess et.al.|[2310.11599](http://arxiv.org/abs/2310.11599)|null|
 |**2023-10-17**|**Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors**|Pengchong Hu et.al.|[2310.11598](http://arxiv.org/abs/2310.11598)|null|
 |**2023-10-17**|**Seeking Neural Nuggets: Knowledge Transfer in Large Language Models from a Parametric Perspective**|Ming Zhong et.al.|[2310.11451](http://arxiv.org/abs/2310.11451)|null|
-|**2023-10-17**|**Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing**|Hao Lu et.al.|[2310.11346](http://arxiv.org/abs/2310.11346)|null|
+|**2023-10-17**|**Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing**|Hao Lu et.al.|[2310.11346](http://arxiv.org/abs/2310.11346)|**[link](https://github.com/envision-research/generalizable-bev)**|
 |**2023-10-17**|**Dual Cognitive Architecture: Incorporating Biases and Multi-Memory Systems for Lifelong Learning**|Shruthi Gowda et.al.|[2310.11341](http://arxiv.org/abs/2310.11341)|**[link](https://github.com/neurai-lab/dn4il-dataset)**|
 |**2023-10-17**|**Source Code Comprehension: A Contemporary Definition and Conceptual Model for Empirical Investigation**|Marvin Wyrich et.al.|[2310.11301](http://arxiv.org/abs/2310.11301)|null|
 |**2023-10-17**|**Sparse grid approximation of the stochastic Landau-Lifshitz-Gilbert equation**|Xin An et.al.|[2310.11225](http://arxiv.org/abs/2310.11225)|null|
@@ -332,7 +332,7 @@
 |**2023-10-31**|**Joint Depth Prediction and Semantic Segmentation with Multi-View SAM**|Mykhailo Shvets et.al.|[2311.00134](http://arxiv.org/abs/2311.00134)|null|
 |**2023-10-31**|**Multi-Valued Verification of Strategic Ability**|Wojciech Jamroga et.al.|[2310.20344](http://arxiv.org/abs/2310.20344)|null|
 |**2023-10-31**|**Optimal Monotone Mean-Variance Problem in a Catastrophe Insurance Model**|Bohan Li et.al.|[2310.20173](http://arxiv.org/abs/2310.20173)|null|
-|**2023-10-30**|**GC-MVSNet: Multi-View, Multi-Scale, Geometrically-Consistent Multi-View Stereo**|Vibhas K. Vats et.al.|[2310.19583](http://arxiv.org/abs/2310.19583)|null|
+|**2023-10-30**|**GC-MVSNet: Multi-View, Multi-Scale, Geometrically-Consistent Multi-View Stereo**|Vibhas K. Vats et.al.|[2310.19583](http://arxiv.org/abs/2310.19583)|**[link](https://github.com/vkvats/GC-MVSNet)**|
 |**2023-10-28**|**Efficient augmented block designs for unreplicated test treatments**|Rahul Mukerjee et.al.|[2310.18692](http://arxiv.org/abs/2310.18692)|null|
 |**2023-10-25**|**SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation**|Qianxu Wang et.al.|[2310.16838](http://arxiv.org/abs/2310.16838)|null|
 |**2023-10-25**|**A Novel Approach for Object Based Audio Broadcasting**|Mohammad Reza Hasanabadi et.al.|[2310.16481](http://arxiv.org/abs/2310.16481)|null|
