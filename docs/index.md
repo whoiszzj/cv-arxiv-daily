@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.03
+## Updated on 2023.12.04
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
