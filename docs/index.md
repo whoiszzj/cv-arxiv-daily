@@ -7,6 +7,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2023-12-06**|**Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle**|Youtian Lin et.al.|[2312.03431](http://arxiv.org/abs/2312.03431)|null|
+|**2023-12-06**|**Artist-Friendly Relightable and Animatable Neural Heads**|Yingyan Xu et.al.|[2312.03420](http://arxiv.org/abs/2312.03420)|null|
+|**2023-12-06**|**Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method**|Hongyu Huang et.al.|[2312.03372](http://arxiv.org/abs/2312.03372)|null|
+|**2023-12-06**|**RING-NeRF: A Versatile Architecture based on Residual Implicit Neural Grids**|Doriand Petit et.al.|[2312.03357](http://arxiv.org/abs/2312.03357)|null|
+|**2023-12-06**|**SO-NeRF: Active View Planning for NeRF using Surrogate Objectives**|Keifer Lee et.al.|[2312.03266](http://arxiv.org/abs/2312.03266)|null|
+|**2023-12-06**|**Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields**|Shijie Zhou et.al.|[2312.03203](http://arxiv.org/abs/2312.03203)|null|
+|**2023-12-05**|**HybridNeRF: Efficient Neural Rendering via Adaptive Volumetric Surfaces**|Haithem Turki et.al.|[2312.03160](http://arxiv.org/abs/2312.03160)|null|
 |**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu et.al.|[2312.02981](http://arxiv.org/abs/2312.02981)|null|
 |**2023-12-05**|**GauHuman: Articulated Gaussian Splatting from Monocular Human Videos**|Shoukang Hu et.al.|[2312.02973](http://arxiv.org/abs/2312.02973)|**[link](https://github.com/skhu101/gauhuman)**|
 |**2023-12-05**|**Alchemist: Parametric Control of Material Properties with Diffusion Models**|Prafull Sharma et.al.|[2312.02970](http://arxiv.org/abs/2312.02970)|null|
@@ -210,8 +217,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2023-12-06**|**RING-NeRF: A Versatile Architecture based on Residual Implicit Neural Grids**|Doriand Petit et.al.|[2312.03357](http://arxiv.org/abs/2312.03357)|null|
+|**2023-12-05**|**Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians**|Yuelang Xu et.al.|[2312.03029](http://arxiv.org/abs/2312.03029)|**[link](https://github.com/yuelangx/gaussian-head-avatar)**|
 |**2023-12-05**|**Differentiable Point-based Inverse Rendering**|Hoon-Gyu Chung et.al.|[2312.02480](http://arxiv.org/abs/2312.02480)|null|
-|**2023-12-04**|**Towards early diagnosis of Alzheimer's disease: Advances in immune-related blood biomarkers and computational modeling approaches**|Sophia Krix et.al.|[2312.02248](http://arxiv.org/abs/2312.02248)|null|
+|**2023-12-06**|**Towards early diagnosis of Alzheimer's disease: Advances in immune-related blood biomarkers and computational modeling approaches**|Sophia Krix et.al.|[2312.02248](http://arxiv.org/abs/2312.02248)|null|
 |**2023-12-02**|**RNb-NeuS: Reflectance and Normal-based Multi-View 3D Reconstruction**|Baptiste Brument et.al.|[2312.01215](http://arxiv.org/abs/2312.01215)|null|
 |**2023-11-29**|**TSDF-Sampling: Efficient Sampling for Neural Surface Field using Truncated Signed Distance Field**|Chaerin Min et.al.|[2311.17878](http://arxiv.org/abs/2311.17878)|null|
 |**2023-11-27**|**Weakly-Supervised 3D Reconstruction of Clothed Humans via Normal Maps**|Jane Wu et.al.|[2311.16042](http://arxiv.org/abs/2311.16042)|null|
@@ -248,6 +257,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2023-12-06**|**Relightable Gaussian Codec Avatars**|Shunsuke Saito et.al.|[2312.03704](http://arxiv.org/abs/2312.03704)|null|
+|**2023-12-06**|**HiFi4G: High-Fidelity Human Performance Rendering via Compact Gaussian Splatting**|Yuheng Jiang et.al.|[2312.03461](http://arxiv.org/abs/2312.03461)|null|
+|**2023-12-06**|**Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle**|Youtian Lin et.al.|[2312.03431](http://arxiv.org/abs/2312.03431)|null|
+|**2023-12-06**|**Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields**|Shijie Zhou et.al.|[2312.03203](http://arxiv.org/abs/2312.03203)|null|
+|**2023-12-05**|**Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians**|Yuelang Xu et.al.|[2312.03029](http://arxiv.org/abs/2312.03029)|**[link](https://github.com/yuelangx/gaussian-head-avatar)**|
 |**2023-12-05**|**GauHuman: Articulated Gaussian Splatting from Monocular Human Videos**|Shoukang Hu et.al.|[2312.02973](http://arxiv.org/abs/2312.02973)|**[link](https://github.com/skhu101/gauhuman)**|
 |**2023-12-05**|**HeadGaS: Real-Time Animatable Head Avatars via 3D Gaussian Splatting**|Helisa Dhamo et.al.|[2312.02902](http://arxiv.org/abs/2312.02902)|null|
 |**2023-12-03**|**FlashAvatar: High-Fidelity Digital Avatar Rendering at 300FPS**|Jun Xiang et.al.|[2312.02214](http://arxiv.org/abs/2312.02214)|null|
@@ -316,6 +330,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2023-12-06**|**Size stability and self-agglomeration of erythrocyte-derived membrane nanovesicles versus physiological extracellular vesicles**|Maryam Sanaee et.al.|[2312.03554](http://arxiv.org/abs/2312.03554)|null|
 |**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu et.al.|[2312.02981](http://arxiv.org/abs/2312.02981)|null|
 |**2023-12-05**|**C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF**|Rui Huang et.al.|[2312.02751](http://arxiv.org/abs/2312.02751)|**[link](https://github.com/c-nerf/c-nerf)**|
 |**2023-12-04**|**PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation**|Zhenyu Li et.al.|[2312.02284](http://arxiv.org/abs/2312.02284)|**[link](https://github.com/zhyever/PatchFusion)**|
@@ -412,6 +427,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2023-12-05**|**The ALMaQUEST Survey XI: A strong but non-linear relationship between star formation and dynamical equilibrium pressure**|Sara L. Ellison et.al.|[2312.03132](http://arxiv.org/abs/2312.03132)|null|
 |**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451](http://arxiv.org/abs/2312.00451)|null|
 |**2023-11-30**|**Distributed Global Structure-from-Motion with a Deep Front-End**|Ayush Baid et.al.|[2311.18801](http://arxiv.org/abs/2311.18801)|**[link](https://github.com/borglab/gtsfm)**|
 |**2023-12-04**|**LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**|Zhiwen Fan et.al.|[2311.17245](http://arxiv.org/abs/2311.17245)|**[link](https://github.com/VITA-Group/LightGaussian)**|
