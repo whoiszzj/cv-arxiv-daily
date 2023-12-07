@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.06
+## Updated on 2023.12.07
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -318,7 +318,7 @@ layout: default
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
 |**2023-12-05**|**ReconFusion: 3D Reconstruction with Diffusion Priors**|Rundi Wu et.al.|[2312.02981](http://arxiv.org/abs/2312.02981)|null|
 |**2023-12-05**|**C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF**|Rui Huang et.al.|[2312.02751](http://arxiv.org/abs/2312.02751)|**[link](https://github.com/c-nerf/c-nerf)**|
-|**2023-12-04**|**PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation**|Zhenyu Li et.al.|[2312.02284](http://arxiv.org/abs/2312.02284)|null|
+|**2023-12-04**|**PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation**|Zhenyu Li et.al.|[2312.02284](http://arxiv.org/abs/2312.02284)|**[link](https://github.com/zhyever/PatchFusion)**|
 |**2023-12-04**|**Re-Nerfing: Enforcing Geometric Constraints on Neural Radiance Fields through Novel Views Synthesis**|Felix Tristram et.al.|[2312.02255](http://arxiv.org/abs/2312.02255)|null|
 |**2023-12-02**|**A deep learning pipeline for cross-sectional and longitudinal multiview data integration**|Sarthak Jain et.al.|[2312.01238](http://arxiv.org/abs/2312.01238)|null|
 |**2023-12-02**|**RNb-NeuS: Reflectance and Normal-based Multi-View 3D Reconstruction**|Baptiste Brument et.al.|[2312.01215](http://arxiv.org/abs/2312.01215)|null|
