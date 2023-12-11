@@ -1,4 +1,4 @@
-## Updated on 2023.12.10
+## Updated on 2023.12.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -228,7 +228,7 @@
 |**2023-10-12**|**Point-NeuS: Point-Guided Neural Implicit Surface Reconstruction by Volume Rendering**|Chen Zhang et.al.|[2310.07997](http://arxiv.org/abs/2310.07997)|null|
 |**2023-10-11**|**Dynamic Appearance Particle Neural Radiance Field**|Ancheng Lin et.al.|[2310.07916](http://arxiv.org/abs/2310.07916)|null|
 
-<p align=right>(<a href=#updated-on-20231210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231211>back to top</a>)</p>
 
 ## NeuS
 
@@ -270,7 +270,7 @@
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639](http://arxiv.org/abs/2309.12639)|null|
 
-<p align=right>(<a href=#updated-on-20231210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231211>back to top</a>)</p>
 
 ## GaussianSplatting
 
@@ -348,7 +348,7 @@
 |**2023-10-16**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 
-<p align=right>(<a href=#updated-on-20231210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231211>back to top</a>)</p>
 
 ## MVS
 
@@ -360,7 +360,7 @@
 |**2023-12-05**|**C-NERF: Representing Scene Changes as Directional Consistency Difference-based NeRF**|Rui Huang et.al.|[2312.02751](http://arxiv.org/abs/2312.02751)|**[link](https://github.com/c-nerf/c-nerf)**|
 |**2023-12-04**|**PatchFusion: An End-to-End Tile-Based Framework for High-Resolution Monocular Metric Depth Estimation**|Zhenyu Li et.al.|[2312.02284](http://arxiv.org/abs/2312.02284)|**[link](https://github.com/zhyever/PatchFusion)**|
 |**2023-12-04**|**Re-Nerfing: Enforcing Geometric Constraints on Neural Radiance Fields through Novel Views Synthesis**|Felix Tristram et.al.|[2312.02255](http://arxiv.org/abs/2312.02255)|null|
-|**2023-12-02**|**A deep learning pipeline for cross-sectional and longitudinal multiview data integration**|Sarthak Jain et.al.|[2312.01238](http://arxiv.org/abs/2312.01238)|null|
+|**2023-12-02**|**A deep learning pipeline for cross-sectional and longitudinal multiview data integration**|Sarthak Jain et.al.|[2312.01238](http://arxiv.org/abs/2312.01238)|**[link](https://github.com/lasandrall/deepida-gru)**|
 |**2023-12-02**|**RNb-NeuS: Reflectance and Normal-based Multi-View 3D Reconstruction**|Baptiste Brument et.al.|[2312.01215](http://arxiv.org/abs/2312.01215)|null|
 |**2023-12-02**|**High Q and high gradient performance of the first medium-temperature baking 1.3 GHz cryomodule**|Jiyuan Zhai et.al.|[2312.01175](http://arxiv.org/abs/2312.01175)|null|
 |**2023-12-01**|**UAVs and Birds: Enhancing Short-Range Navigation through Budgerigar Flight Studies**|Md. Mahmudur Rahman et.al.|[2312.00597](http://arxiv.org/abs/2312.00597)|null|
@@ -448,7 +448,7 @@
 |**2023-10-06**|**Rotation of a Stealth CME on 2012 October 5 Observed in the Inner Heliosphere**|Sandeep Kumar et.al.|[2310.04023](http://arxiv.org/abs/2310.04023)|null|
 |**2023-10-05**|**Design Methodology for a Medium Voltage Single Stage LLC Resonant Solar PV Inverter**|Parthkumar Bhuvela et.al.|[2310.03834](http://arxiv.org/abs/2310.03834)|null|
 
-<p align=right>(<a href=#updated-on-20231210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231211>back to top</a>)</p>
 
 ## SFM
 
@@ -458,7 +458,7 @@
 |**2023-12-05**|**The ALMaQUEST Survey XI: A strong but non-linear relationship between star formation and dynamical equilibrium pressure**|Sara L. Ellison et.al.|[2312.03132](http://arxiv.org/abs/2312.03132)|null|
 |**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451](http://arxiv.org/abs/2312.00451)|null|
 |**2023-11-30**|**Distributed Global Structure-from-Motion with a Deep Front-End**|Ayush Baid et.al.|[2311.18801](http://arxiv.org/abs/2311.18801)|**[link](https://github.com/borglab/gtsfm)**|
-|**2023-12-04**|**LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**|Zhiwen Fan et.al.|[2311.17245](http://arxiv.org/abs/2311.17245)|**[link](https://github.com/VITA-Group/LightGaussian)**|
+|**2023-12-07**|**LightGaussian: Unbounded 3D Gaussian Compression with 15x Reduction and 200+ FPS**|Zhiwen Fan et.al.|[2311.17245](http://arxiv.org/abs/2311.17245)|**[link](https://github.com/VITA-Group/LightGaussian)**|
 |**2023-11-21**|**Robot Hand-Eye Calibration using Structure-from-Motion**|Nicolas Andreff et.al.|[2311.11808](http://arxiv.org/abs/2311.11808)|null|
 |**2023-11-18**|**LOSTU: Fast, Scalable, and Uncertainty-Aware Triangulation**|Sébastien Henry et.al.|[2311.11171](http://arxiv.org/abs/2311.11171)|null|
 |**2023-11-17**|**Human motion trajectory prediction using the Social Force Model for real-time and low computational cost applications**|Oscar Gil et.al.|[2311.10582](http://arxiv.org/abs/2311.10582)|null|
@@ -479,5 +479,5 @@
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
-<p align=right>(<a href=#updated-on-20231210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231211>back to top</a>)</p>
 
