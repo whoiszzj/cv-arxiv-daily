@@ -14,6 +14,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-12-11**|**Learning Naturally Aggregated Appearance for Efficient 3D Editing**|Ka Leong Cheng et.al.|[2312.06657](http://arxiv.org/abs/2312.06657)|**[link](https://github.com/felixcheng97/agap)**|
+|**2023-12-11**|**CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**|Yixing Lao et.al.|[2312.06642](http://arxiv.org/abs/2312.06642)|**[link](https://github.com/yxlao/corres-nerf)**|
+|**2023-12-11**|**DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior**|Tianyu Huang et.al.|[2312.06439](http://arxiv.org/abs/2312.06439)|null|
+|**2023-12-11**|**NVFi: Neural Velocity Fields for 3D Physics Learning from Dynamic Videos**|Jinxi Li et.al.|[2312.06398](http://arxiv.org/abs/2312.06398)|null|
+|**2023-12-11**|**Optimized View and Geometry Distillation from Multi-view Diffuser**|Youjia Zhang et.al.|[2312.06198](http://arxiv.org/abs/2312.06198)|null|
+|**2023-12-10**|**Accurate Differential Operators for Hybrid Neural Fields**|Aditya Chetan et.al.|[2312.05984](http://arxiv.org/abs/2312.05984)|null|
+|**2023-12-10**|**Learning for CasADi: Data-driven Models in Numerical Optimization**|Tim Salzmann et.al.|[2312.05873](http://arxiv.org/abs/2312.05873)|**[link](https://github.com/Tim-Salzmann/l4casadi)**|
+|**2023-12-10**|**NeVRF: Neural Video-based Radiance Fields for Long-duration Sequences**|Minye Wu et.al.|[2312.05855](http://arxiv.org/abs/2312.05855)|null|
+|**2023-12-10**|**R2Human: Real-Time 3D Human Appearance Rendering from a Single Image**|Qiao Feng et.al.|[2312.05826](http://arxiv.org/abs/2312.05826)|null|
+|**2023-12-11**|**Nuvo: Neural UV Mapping for Unruly 3D Representations**|Pratul P. Srinivasan et.al.|[2312.05283](http://arxiv.org/abs/2312.05283)|null|
 |**2023-12-08**|**SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation**|Thuan Hoang Nguyen et.al.|[2312.05239](http://arxiv.org/abs/2312.05239)|null|
 |**2023-12-08**|**IntrinsicAvatar: Physically Based Inverse Rendering of Dynamic Humans from Monocular Videos via Explicit Ray Tracing**|Shaofei Wang et.al.|[2312.05210](http://arxiv.org/abs/2312.05210)|null|
 |**2023-12-08**|**TriHuman : A Real-time and Controllable Tri-plane Representation for Detailed Human Geometry and Appearance Synthesis**|Heming Zhu et.al.|[2312.05161](http://arxiv.org/abs/2312.05161)|null|
@@ -242,6 +252,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-12-11**|**CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**|Yixing Lao et.al.|[2312.06642](http://arxiv.org/abs/2312.06642)|**[link](https://github.com/yxlao/corres-nerf)**|
+|**2023-12-11**|**Implicit Shape Modeling for Anatomical Structure Refinement of Volumetric Medical Images**|Minghui Zhang et.al.|[2312.06164](http://arxiv.org/abs/2312.06164)|null|
 |**2023-12-08**|**SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration**|Xu Cao et.al.|[2312.04803](http://arxiv.org/abs/2312.04803)|null|
 |**2023-12-06**|**RING-NeRF: A Versatile Architecture based on Residual Implicit Neural Grids**|Doriand Petit et.al.|[2312.03357](http://arxiv.org/abs/2312.03357)|null|
 |**2023-12-05**|**Gaussian Head Avatar: Ultra High-fidelity Head Avatar via Dynamic Gaussians**|Yuelang Xu et.al.|[2312.03029](http://arxiv.org/abs/2312.03029)|**[link](https://github.com/yuelangx/gaussian-head-avatar)**|
@@ -285,6 +297,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-12-10**|**ASH: Animatable Gaussian Splats for Efficient and Photoreal Human Rendering**|Haokai Pang et.al.|[2312.05941](http://arxiv.org/abs/2312.05941)|null|
+|**2023-12-09**|**CoGS: Controllable Gaussian Splatting**|Heng Yu et.al.|[2312.05664](http://arxiv.org/abs/2312.05664)|null|
 |**2023-12-08**|**GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization**|Yahao Shi et.al.|[2312.05133](http://arxiv.org/abs/2312.05133)|null|
 |**2023-12-08**|**Learn to Optimize Denoising Scores for 3D Generation: A Unified and Improved Diffusion Prior on NeRF and 3D Gaussian Splatting**|Xiaofeng Yang et.al.|[2312.04820](http://arxiv.org/abs/2312.04820)|null|
 |**2023-12-07**|**EAGLES: Efficient Accelerated 3D Gaussians with Lightweight EncodingS**|Sharath Girish et.al.|[2312.04564](http://arxiv.org/abs/2312.04564)|null|
@@ -365,6 +379,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-12-11**|**Inferring Hybrid Neural Fluid Fields from Videos**|Hong-Xing Yu et.al.|[2312.06561](http://arxiv.org/abs/2312.06561)|null|
+|**2023-12-11**|**Variational Auto-Encoder Based Deep Learning Technique For Filling Gaps in Reacting PIV Data**|Shashank Yellapantula et.al.|[2312.06461](http://arxiv.org/abs/2312.06461)|null|
+|**2023-12-11**|**A generalized Dean-Kawasaki equation for an interacting Brownian gas in a partially absorbing medium**|Paul C Bressloff et.al.|[2312.06294](http://arxiv.org/abs/2312.06294)|null|
+|**2023-12-08**|**Product Centered Dirichlet Processes for Dependent Clustering**|Alexander Dombowsky et.al.|[2312.05365](http://arxiv.org/abs/2312.05365)|null|
 |**2023-12-08**|**SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration**|Xu Cao et.al.|[2312.04803](http://arxiv.org/abs/2312.04803)|null|
 |**2023-12-07**|**Multiview Aerial Visual Recognition (MAVREC): Can Multi-view Improve Aerial Visual Perception?**|Aritra Dutta et.al.|[2312.04548](http://arxiv.org/abs/2312.04548)|null|
 |**2023-12-06**|**Size stability and self-agglomeration of erythrocyte-derived membrane nanovesicles versus physiological extracellular vesicles**|Maryam Sanaee et.al.|[2312.03554](http://arxiv.org/abs/2312.03554)|null|
@@ -466,6 +484,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-12-10**|**SuperPrimitive: Scene Reconstruction at a Primitive Level**|Kirill Mazur et.al.|[2312.05889](http://arxiv.org/abs/2312.05889)|null|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563](http://arxiv.org/abs/2312.04563)|null|
 |**2023-12-05**|**The ALMaQUEST Survey XI: A strong but non-linear relationship between star formation and dynamical equilibrium pressure**|Sara L. Ellison et.al.|[2312.03132](http://arxiv.org/abs/2312.03132)|null|
 |**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451](http://arxiv.org/abs/2312.00451)|null|
