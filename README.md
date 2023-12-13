@@ -14,6 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-12-12**|**SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene Exploration**|Daniel Duckworth et.al.|[2312.07541](http://arxiv.org/abs/2312.07541)|null|
+|**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504](http://arxiv.org/abs/2312.07504)|null|
+|**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246](http://arxiv.org/abs/2312.07246)|null|
+|**2023-12-12**|**WaterHE-NeRF: Water-ray Tracing Neural Radiance Fields for Underwater Scene Reconstruction**|Jingchun Zhou et.al.|[2312.06946](http://arxiv.org/abs/2312.06946)|null|
+|**2023-12-11**|**MonoNPHM: Dynamic Head Reconstruction from Monocular Videos**|Simon Giebenhain et.al.|[2312.06740](http://arxiv.org/abs/2312.06740)|null|
 |**2023-12-11**|**Learning Naturally Aggregated Appearance for Efficient 3D Editing**|Ka Leong Cheng et.al.|[2312.06657](http://arxiv.org/abs/2312.06657)|**[link](https://github.com/felixcheng97/agap)**|
 |**2023-12-11**|**CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**|Yixing Lao et.al.|[2312.06642](http://arxiv.org/abs/2312.06642)|**[link](https://github.com/yxlao/corres-nerf)**|
 |**2023-12-11**|**DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior**|Tianyu Huang et.al.|[2312.06439](http://arxiv.org/abs/2312.06439)|null|
@@ -252,6 +257,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-12-12**|**MaTe3D: Mask-guided Text-based 3D-aware Portrait Editing**|Kangneng Zhou et.al.|[2312.06947](http://arxiv.org/abs/2312.06947)|null|
 |**2023-12-11**|**CorresNeRF: Image Correspondence Priors for Neural Radiance Fields**|Yixing Lao et.al.|[2312.06642](http://arxiv.org/abs/2312.06642)|**[link](https://github.com/yxlao/corres-nerf)**|
 |**2023-12-11**|**Implicit Shape Modeling for Anatomical Structure Refinement of Volumetric Medical Images**|Minghui Zhang et.al.|[2312.06164](http://arxiv.org/abs/2312.06164)|null|
 |**2023-12-08**|**SuperNormal: Neural Surface Reconstruction via Multi-View Normal Integration**|Xu Cao et.al.|[2312.04803](http://arxiv.org/abs/2312.04803)|null|
@@ -297,6 +303,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504](http://arxiv.org/abs/2312.07504)|null|
+|**2023-12-11**|**Gaussian Splatting SLAM**|Hidenobu Matsuki et.al.|[2312.06741](http://arxiv.org/abs/2312.06741)|null|
 |**2023-12-10**|**ASH: Animatable Gaussian Splats for Efficient and Photoreal Human Rendering**|Haokai Pang et.al.|[2312.05941](http://arxiv.org/abs/2312.05941)|null|
 |**2023-12-09**|**CoGS: Controllable Gaussian Splatting**|Heng Yu et.al.|[2312.05664](http://arxiv.org/abs/2312.05664)|null|
 |**2023-12-08**|**GIR: 3D Gaussian Inverse Rendering for Relightable Scene Factorization**|Yahao Shi et.al.|[2312.05133](http://arxiv.org/abs/2312.05133)|null|
@@ -379,6 +387,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-12-12**|**Automatic coral reef fish identification and 3D measurement in the wild**|Cyril Barrelet et.al.|[2312.07357](http://arxiv.org/abs/2312.07357)|null|
+|**2023-12-12**|**Unifying Correspondence, Pose and NeRF for Pose-Free Novel View Synthesis from Stereo Pairs**|Sunghwan Hong et.al.|[2312.07246](http://arxiv.org/abs/2312.07246)|null|
+|**2023-12-12**|**Connecting remote and in situ observations of shock-accelerated electrons associated with a coronal mass ejection**|D. E. Morosan et.al.|[2312.07166](http://arxiv.org/abs/2312.07166)|null|
+|**2023-12-12**|**CompdVision: Combining Near-Field 3D Visual and Tactile Sensing Using a Compact Compound-Eye Imaging System**|Lifan Luo et.al.|[2312.07146](http://arxiv.org/abs/2312.07146)|null|
+|**2023-12-11**|**EpiDiff: Enhancing Multi-View Synthesis via Localized Epipolar-Constrained Diffusion**|Zehuan Huang et.al.|[2312.06725](http://arxiv.org/abs/2312.06725)|null|
 |**2023-12-11**|**Inferring Hybrid Neural Fluid Fields from Videos**|Hong-Xing Yu et.al.|[2312.06561](http://arxiv.org/abs/2312.06561)|null|
 |**2023-12-11**|**Variational Auto-Encoder Based Deep Learning Technique For Filling Gaps in Reacting PIV Data**|Shashank Yellapantula et.al.|[2312.06461](http://arxiv.org/abs/2312.06461)|null|
 |**2023-12-11**|**A generalized Dean-Kawasaki equation for an interacting Brownian gas in a partially absorbing medium**|Paul C Bressloff et.al.|[2312.06294](http://arxiv.org/abs/2312.06294)|null|
@@ -484,6 +497,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-12-12**|**COLMAP-Free 3D Gaussian Splatting**|Yang Fu et.al.|[2312.07504](http://arxiv.org/abs/2312.07504)|null|
+|**2023-12-11**|**Keypoint-based Stereophotoclinometry for Characterizing and Navigating Small Bodies: A Factor Graph Approach**|Travis Driver et.al.|[2312.06865](http://arxiv.org/abs/2312.06865)|null|
+|**2023-12-11**|**Gaussian Splatting SLAM**|Hidenobu Matsuki et.al.|[2312.06741](http://arxiv.org/abs/2312.06741)|null|
 |**2023-12-10**|**SuperPrimitive: Scene Reconstruction at a Primitive Level**|Kirill Mazur et.al.|[2312.05889](http://arxiv.org/abs/2312.05889)|null|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563](http://arxiv.org/abs/2312.04563)|null|
 |**2023-12-05**|**The ALMaQUEST Survey XI: A strong but non-linear relationship between star formation and dynamical equilibrium pressure**|Sara L. Ellison et.al.|[2312.03132](http://arxiv.org/abs/2312.03132)|null|
