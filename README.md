@@ -1,4 +1,4 @@
-## Updated on 2023.12.18
+## Updated on 2023.12.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,6 +14,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-12-15**|**SlimmeRF: Slimmable Radiance Fields**|Shiran Yuan et.al.|[2312.10034](http://arxiv.org/abs/2312.10034)|**[link](https://github.com/shiran-yuan/slimmerf)**|
+|**2023-12-15**|**LAENeRF: Local Appearance Editing for Neural Radiance Fields**|Lukas Radl et.al.|[2312.09913](http://arxiv.org/abs/2312.09913)|null|
+|**2023-12-15**|**PLGSLAM: Progressive Neural Scene Represenation with Local to Global Bundle Adjustment**|Tianchen Deng et.al.|[2312.09866](http://arxiv.org/abs/2312.09866)|null|
+|**2023-12-15**|**RANRAC: Robust Neural Scene Representations via Random Ray Consensus**|Benno Buschmann et.al.|[2312.09780](http://arxiv.org/abs/2312.09780)|null|
+|**2023-12-15**|**SLS4D: Sparse Latent Space for 4D Novel View Synthesis**|Qi-Yuan Feng et.al.|[2312.09743](http://arxiv.org/abs/2312.09743)|null|
+|**2023-12-15**|**Towards Transferable Targeted 3D Adversarial Attack in the Physical World**|Yao Huang et.al.|[2312.09558](http://arxiv.org/abs/2312.09558)|null|
+|**2023-12-15**|**TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces**|Ruijie Zhu et.al.|[2312.09527](http://arxiv.org/abs/2312.09527)|**[link](https://github.com/ruijiezhu94/ti-face)**|
+|**2023-12-14**|**LatentEditor: Text Driven Local Editing of 3D Scenes**|Umar Khalid et.al.|[2312.09313](http://arxiv.org/abs/2312.09313)|**[link](https://github.com/umarkhalidAI/LatentEditor)**|
+|**2023-12-14**|**Stable Score Distillation for High-Quality 3D Generation**|Boshi Tang et.al.|[2312.09305](http://arxiv.org/abs/2312.09305)|null|
 |**2023-12-14**|**ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining**|Ruoxi Shi et.al.|[2312.09249](http://arxiv.org/abs/2312.09249)|null|
 |**2023-12-14**|**OccNeRF: Self-Supervised Multi-Camera Occupancy Prediction with Neural Radiance Fields**|Chubin Zhang et.al.|[2312.09243](http://arxiv.org/abs/2312.09243)|**[link](https://github.com/linshan-bin/occnerf)**|
 |**2023-12-14**|**3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting**|Zhiyin Qian et.al.|[2312.09228](http://arxiv.org/abs/2312.09228)|null|
@@ -267,7 +276,7 @@
 |**2023-10-12**|**Point-NeuS: Point-Guided Neural Implicit Surface Reconstruction by Volume Rendering**|Chen Zhang et.al.|[2310.07997](http://arxiv.org/abs/2310.07997)|null|
 |**2023-10-11**|**Dynamic Appearance Particle Neural Radiance Field**|Ancheng Lin et.al.|[2310.07916](http://arxiv.org/abs/2310.07916)|null|
 
-<p align=right>(<a href=#updated-on-20231218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
 
 ## NeuS
 
@@ -316,14 +325,15 @@
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639](http://arxiv.org/abs/2309.12639)|null|
 
-<p align=right>(<a href=#updated-on-20231218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-12-15**|**Exploring the Feasibility of Generating Realistic 3D Models of Endangered Species Using DreamGaussian: An Analysis of Elevation Angle's Impact on Model Generation**|Selcuk Anil Karatopak et.al.|[2312.09682](http://arxiv.org/abs/2312.09682)|null|
 |**2023-12-14**|**Text2Immersion: Generative Immersive Scene with 3D Gaussians**|Hao Ouyang et.al.|[2312.09242](http://arxiv.org/abs/2312.09242)|null|
-|**2023-12-14**|**3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting**|Zhiyin Qian et.al.|[2312.09228](http://arxiv.org/abs/2312.09228)|null|
+|**2023-12-15**|**3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting**|Zhiyin Qian et.al.|[2312.09228](http://arxiv.org/abs/2312.09228)|null|
 |**2023-12-14**|**Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers**|Zi-Xin Zou et.al.|[2312.09147](http://arxiv.org/abs/2312.09147)|null|
 |**2023-12-14**|**iComMa: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching**|Yuan Sun et.al.|[2312.09031](http://arxiv.org/abs/2312.09031)|null|
 |**2023-12-13**|**DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes**|Xiaoyu Zhou et.al.|[2312.07920](http://arxiv.org/abs/2312.07920)|null|
@@ -405,12 +415,14 @@
 |**2023-10-16**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 
-<p align=right>(<a href=#updated-on-20231218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
 
 ## MVS
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-12-15**|**Deep Event Visual Odometry**|Simon Klenk et.al.|[2312.09800](http://arxiv.org/abs/2312.09800)|null|
+|**2023-12-15**|**Toward Deep Drum Source Separation**|Alessandro Ilic Mezza et.al.|[2312.09663](http://arxiv.org/abs/2312.09663)|**[link](https://github.com/polimi-ispl/larsnet)**|
 |**2023-12-14**|**Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization**|Luca Bartolomei et.al.|[2312.09254](http://arxiv.org/abs/2312.09254)|**[link](https://github.com/bartn8/vppdc)**|
 |**2023-12-14**|**Tailoring Amorphous Boron Nitride for High-Performance 2D Electronics**|Cindy Y. Chen et.al.|[2312.09136](http://arxiv.org/abs/2312.09136)|null|
 |**2023-12-14**|**A Guided Upsampling Network for Short Wave Infrared Images Using Graph Regularization**|Frank Sippel et.al.|[2312.08949](http://arxiv.org/abs/2312.08949)|null|
@@ -524,7 +536,7 @@
 |**2023-10-06**|**Rotation of a Stealth CME on 2012 October 5 Observed in the Inner Heliosphere**|Sandeep Kumar et.al.|[2310.04023](http://arxiv.org/abs/2310.04023)|null|
 |**2023-10-05**|**Design Methodology for a Medium Voltage Single Stage LLC Resonant Solar PV Inverter**|Parthkumar Bhuvela et.al.|[2310.03834](http://arxiv.org/abs/2310.03834)|null|
 
-<p align=right>(<a href=#updated-on-20231218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
 
 ## SFM
 
@@ -561,5 +573,5 @@
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
-<p align=right>(<a href=#updated-on-20231218>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231219>back to top</a>)</p>
 
