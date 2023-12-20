@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.19
+## Updated on 2023.12.20
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -411,7 +411,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
-|**2023-12-15**|**Deep Event Visual Odometry**|Simon Klenk et.al.|[2312.09800](http://arxiv.org/abs/2312.09800)|null|
+|**2023-12-15**|**Deep Event Visual Odometry**|Simon Klenk et.al.|[2312.09800](http://arxiv.org/abs/2312.09800)|**[link](https://github.com/tum-vision/devo)**|
 |**2023-12-15**|**Toward Deep Drum Source Separation**|Alessandro Ilic Mezza et.al.|[2312.09663](http://arxiv.org/abs/2312.09663)|**[link](https://github.com/polimi-ispl/larsnet)**|
 |**2023-12-14**|**Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization**|Luca Bartolomei et.al.|[2312.09254](http://arxiv.org/abs/2312.09254)|**[link](https://github.com/bartn8/vppdc)**|
 |**2023-12-14**|**Tailoring Amorphous Boron Nitride for High-Performance 2D Electronics**|Cindy Y. Chen et.al.|[2312.09136](http://arxiv.org/abs/2312.09136)|null|
