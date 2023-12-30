@@ -14,6 +14,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457](http://arxiv.org/abs/2312.16457)|null|
+|**2023-12-26**|**DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision**|Lu Ling et.al.|[2312.16256](http://arxiv.org/abs/2312.16256)|null|
+|**2023-12-24**|**Hyper-VolTran: Fast and Generalizable One-Shot Image to 3D Object Structure via HyperNetworks**|Christian Simon et.al.|[2312.16218](http://arxiv.org/abs/2312.16218)|null|
+|**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215](http://arxiv.org/abs/2312.16215)|null|
 |**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084](http://arxiv.org/abs/2312.16084)|null|
 |**2023-12-26**|**2D-Guided 3D Gaussian Segmentation**|Kun Lan et.al.|[2312.16047](http://arxiv.org/abs/2312.16047)|null|
 |**2023-12-26**|**Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images**|Zhan Lu et.al.|[2312.15942](http://arxiv.org/abs/2312.15942)|null|
@@ -320,6 +324,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-12-28**|**HISR: Hybrid Implicit Surface Representation for Photorealistic 3D Human Reconstruction**|Angtian Wang et.al.|[2312.17192](http://arxiv.org/abs/2312.17192)|null|
+|**2023-12-27**|**Best-of-Both-Worlds Linear Contextual Bandits**|Masahiro Kato et.al.|[2312.16489](http://arxiv.org/abs/2312.16489)|null|
+|**2023-12-24**|**Hyper-VolTran: Fast and Generalizable One-Shot Image to 3D Object Structure via HyperNetworks**|Christian Simon et.al.|[2312.16218](http://arxiv.org/abs/2312.16218)|null|
 |**2023-12-23**|**NoPose-NeuS: Jointly Optimizing Camera Poses with Neural Implicit Surfaces for Multi-view Reconstruction**|Mohamed Shawky Sabae et.al.|[2312.15238](http://arxiv.org/abs/2312.15238)|null|
 |**2023-12-21**|**SyncDreamer for 3D Reconstruction of Endangered Animal Species with NeRF and NeuS**|Ahmet Haydar Ornek et.al.|[2312.13832](http://arxiv.org/abs/2312.13832)|null|
 |**2023-12-20**|**DLCA-Recon: Dynamic Loose Clothing Avatar Reconstruction from Monocular Videos**|Chunjie Luo et.al.|[2312.12096](http://arxiv.org/abs/2312.12096)|null|
@@ -374,6 +381,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-12-28**|**4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency**|Yuyang Yin et.al.|[2312.17225](http://arxiv.org/abs/2312.17225)|null|
+|**2023-12-28**|**DreamGaussian4D: Generative 4D Gaussian Splatting**|Jiawei Ren et.al.|[2312.17142](http://arxiv.org/abs/2312.17142)|**[link](https://github.com/jiawei-ren/dreamgaussian4d)**|
+|**2023-12-28**|**Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis**|Zhan Li et.al.|[2312.16812](http://arxiv.org/abs/2312.16812)|null|
 |**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084](http://arxiv.org/abs/2312.16084)|null|
 |**2023-12-26**|**2D-Guided 3D Gaussian Segmentation**|Kun Lan et.al.|[2312.16047](http://arxiv.org/abs/2312.16047)|null|
 |**2023-12-25**|**Sparse-view CT Reconstruction with 3D Gaussian Volumetric Representation**|Yingtai Li et.al.|[2312.15676](http://arxiv.org/abs/2312.15676)|null|
@@ -477,8 +487,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2023-12-28**|**FFCA-Net: Stereo Image Compression via Fast Cascade Alignment of Side Information**|Yichong Xia et.al.|[2312.16963](http://arxiv.org/abs/2312.16963)|null|
 |**2023-12-26**|**Quantum-Hybrid Stereo Matching With Nonlinear Regularization and Spatial Pyramids**|Cameron Braunstein et.al.|[2312.16118](http://arxiv.org/abs/2312.16118)|null|
-|**2023-12-26**|**Learning Deformable Hypothesis Sampling for Accurate PatchMatch Multi-View Stereo**|Hongjie Li et.al.|[2312.15970](http://arxiv.org/abs/2312.15970)|null|
+|**2023-12-26**|**Learning Deformable Hypothesis Sampling for Accurate PatchMatch Multi-View Stereo**|Hongjie Li et.al.|[2312.15970](http://arxiv.org/abs/2312.15970)|**[link](https://github.com/geo-tell/ds-pmnet)**|
 |**2023-12-25**|**BDIS-SLAM: A lightweight CPU-based dense stereo SLAM for surgery**|Jingwei Song et.al.|[2312.15679](http://arxiv.org/abs/2312.15679)|**[link](https://github.com/jingweisong/bdis-slam)**|
 |**2023-12-23**|**NoPose-NeuS: Jointly Optimizing Camera Poses with Neural Implicit Surfaces for Multi-view Reconstruction**|Mohamed Shawky Sabae et.al.|[2312.15238](http://arxiv.org/abs/2312.15238)|null|
 |**2023-12-22**|**Global Occlusion-Aware Transformer for Robust Stereo Matching**|Zihua Liu et.al.|[2312.14650](http://arxiv.org/abs/2312.14650)|**[link](https://github.com/magicboomliu/goat)**|
