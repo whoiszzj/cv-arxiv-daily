@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.01.05
+## Updated on 2024.01.06
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-01-04**|**What You See is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs**|Alex Trevithick et.al.|[2401.02411](http://arxiv.org/abs/2401.02411)|null|
+|**2024-01-04**|**Fit-NGP: Fitting Object Models to Neural Graphics Primitives**|Marwan Taher et.al.|[2401.02357](http://arxiv.org/abs/2401.02357)|null|
+|**2024-01-04**|**Slot-guided Volumetric Object Radiance Fields**|Di Qi et.al.|[2401.02241](http://arxiv.org/abs/2401.02241)|null|
 |**2024-01-03**|**SIGNeRF: Scene Integrated Generation for Neural Radiance Fields**|Jan-Niklas Dihlmann et.al.|[2401.01647](http://arxiv.org/abs/2401.01647)|null|
 |**2024-01-02**|**On Optimal Sampling for Learning SDF Using MLPs Equipped with Positional Encoding**|Guying Lin et.al.|[2401.01391](http://arxiv.org/abs/2401.01391)|null|
 |**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339](http://arxiv.org/abs/2401.01339)|null|
@@ -385,6 +388,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-01-04**|**PEGASUS: Physically Enhanced Gaussian Splatting Simulation System for 6DOF Object Pose Dataset Generation**|Lukas Meyer et.al.|[2401.02281](http://arxiv.org/abs/2401.02281)|null|
+|**2024-01-03**|**FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding**|Xingxing Zuo et.al.|[2401.01970](http://arxiv.org/abs/2401.01970)|null|
 |**2024-01-02**|**Street Gaussians for Modeling Dynamic Urban Scenes**|Yunzhi Yan et.al.|[2401.01339](http://arxiv.org/abs/2401.01339)|null|
 |**2024-01-01**|**Deblurring 3D Gaussian Splatting**|Byeonghyeon Lee et.al.|[2401.00834](http://arxiv.org/abs/2401.00834)|null|
 |**2023-12-28**|**4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency**|Yuyang Yin et.al.|[2312.17225](http://arxiv.org/abs/2312.17225)|null|
@@ -491,6 +496,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-01-04**|**ODIN: A Single Model for 2D and 3D Perception**|Ayush Jain et.al.|[2401.02416](http://arxiv.org/abs/2401.02416)|null|
+|**2024-01-04**|**What You See is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs**|Alex Trevithick et.al.|[2401.02411](http://arxiv.org/abs/2401.02411)|null|
 |**2024-01-03**|**S3Net: Innovating Stereo Matching and Semantic Segmentation with a Single-Branch Semantic Stereo Network in Satellite Epipolar Imagery**|Qingyuan Yang et.al.|[2401.01643](http://arxiv.org/abs/2401.01643)|null|
 |**2024-01-03**|**DDN-SLAM: Real-time Dense Dynamic Neural Implicit SLAM with Joint Semantic Encoding**|Mingrui Li et.al.|[2401.01545](http://arxiv.org/abs/2401.01545)|null|
 |**2023-12-30**|**3D Human Pose Perception from Egocentric Stereo Videos**|Hiroyasu Akada et.al.|[2401.00889](http://arxiv.org/abs/2401.00889)|null|
