@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.07
+## Updated on 2024.01.08
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -502,7 +502,7 @@ layout: default
 |**2024-01-03**|**DDN-SLAM: Real-time Dense Dynamic Neural Implicit SLAM with Joint Semantic Encoding**|Mingrui Li et.al.|[2401.01545](http://arxiv.org/abs/2401.01545)|null|
 |**2023-12-30**|**3D Human Pose Perception from Egocentric Stereo Videos**|Hiroyasu Akada et.al.|[2401.00889](http://arxiv.org/abs/2401.00889)|null|
 |**2023-12-30**|**Inpaint4DNeRF: Promptable Spatio-Temporal NeRF Inpainting with Generative Diffusion Models**|Han Jiang et.al.|[2401.00208](http://arxiv.org/abs/2401.00208)|null|
-|**2023-12-30**|**ODAQ: Open Dataset of Audio Quality**|Matteo Torcoli et.al.|[2401.00197](http://arxiv.org/abs/2401.00197)|null|
+|**2023-12-30**|**ODAQ: Open Dataset of Audio Quality**|Matteo Torcoli et.al.|[2401.00197](http://arxiv.org/abs/2401.00197)|**[link](https://github.com/fraunhofer-iis/odaq)**|
 |**2023-12-29**|**In-Plane Magnon Valve Effect in Magnetic Insulator/Heavy Metal/ Magnetic Insulator Device**|Tianyi Zhang et.al.|[2312.17413](http://arxiv.org/abs/2312.17413)|null|
 |**2023-12-29**|**FFCA-Net: Stereo Image Compression via Fast Cascade Alignment of Side Information**|Yichong Xia et.al.|[2312.16963](http://arxiv.org/abs/2312.16963)|null|
 |**2023-12-26**|**Quantum-Hybrid Stereo Matching With Nonlinear Regularization and Spatial Pyramids**|Cameron Braunstein et.al.|[2312.16118](http://arxiv.org/abs/2312.16118)|null|
