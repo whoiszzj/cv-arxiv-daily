@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.12
+## Updated on 2024.01.13
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -516,7 +516,7 @@ layout: default
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
 |**2024-01-10**|**DISCOVER: 2-D Multiview Summarization of Optical Coherence Tomography Angiography for Automatic Diabetic Retinopathy Diagnosis**|Mostafa El Habib Daho et.al.|[2401.05137](http://arxiv.org/abs/2401.05137)|null|
 |**2024-01-10**|**Electronic transport in amorphous Ge2Sb2Te5 phase-change memory line cells and its response to photoexcitation**|A. Talukder et.al.|[2401.04913](http://arxiv.org/abs/2401.04913)|null|
-|**2024-01-10**|**Real-time and Continuous Turn-taking Prediction Using Voice Activity Projection**|Koji Inoue et.al.|[2401.04868](http://arxiv.org/abs/2401.04868)|null|
+|**2024-01-10**|**Real-time and Continuous Turn-taking Prediction Using Voice Activity Projection**|Koji Inoue et.al.|[2401.04868](http://arxiv.org/abs/2401.04868)|**[link](https://github.com/ErikEkstedt/VoiceActivityProjection)**|
 |**2024-01-09**|**Convolutional Neural Network Ensemble Learning for Hyperspectral Imaging-based Blackberry Fruit Ripeness Detection in Uncontrolled Farm Environment**|Chollette C. Olisah et.al.|[2401.04748](http://arxiv.org/abs/2401.04748)|null|
 |**2024-01-09**|**Morphable Diffusion: 3D-Consistent Diffusion for Single-image Avatar Creation**|Xiyi Chen et.al.|[2401.04728](http://arxiv.org/abs/2401.04728)|null|
 |**2024-01-09**|**Mixture of multilayer stochastic block models for multiview clustering**|Kylliann De Santiago et.al.|[2401.04682](http://arxiv.org/abs/2401.04682)|null|
