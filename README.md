@@ -58,7 +58,7 @@
 |**2023-12-29**|**DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision**|Lu Ling et.al.|[2312.16256](http://arxiv.org/abs/2312.16256)|null|
 |**2023-12-24**|**Hyper-VolTran: Fast and Generalizable One-Shot Image to 3D Object Structure via HyperNetworks**|Christian Simon et.al.|[2312.16218](http://arxiv.org/abs/2312.16218)|null|
 |**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215](http://arxiv.org/abs/2312.16215)|null|
-|**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084](http://arxiv.org/abs/2312.16084)|null|
+|**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084](http://arxiv.org/abs/2312.16084)|**[link](https://github.com/minghanqin/LangSplat)**|
 |**2023-12-26**|**2D-Guided 3D Gaussian Segmentation**|Kun Lan et.al.|[2312.16047](http://arxiv.org/abs/2312.16047)|null|
 |**2023-12-26**|**Pano-NeRF: Synthesizing High Dynamic Range Novel Views with Geometry from Sparse Low Dynamic Range Panoramic Images**|Zhan Lu et.al.|[2312.15942](http://arxiv.org/abs/2312.15942)|null|
 |**2023-12-26**|**SERF: Fine-Grained Interactive 3D Segmentation and Editing with Radiance Fields**|Kaichen Zhou et.al.|[2312.15856](http://arxiv.org/abs/2312.15856)|null|
@@ -137,7 +137,7 @@
 |**2023-12-11**|**DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior**|Tianyu Huang et.al.|[2312.06439](http://arxiv.org/abs/2312.06439)|**[link](https://github.com/tyhuang0428/dreamcontrol)**|
 |**2023-12-11**|**NVFi: Neural Velocity Fields for 3D Physics Learning from Dynamic Videos**|Jinxi Li et.al.|[2312.06398](http://arxiv.org/abs/2312.06398)|**[link](https://github.com/vlar-group/nvfi)**|
 |**2023-12-11**|**Optimized View and Geometry Distillation from Multi-view Diffuser**|Youjia Zhang et.al.|[2312.06198](http://arxiv.org/abs/2312.06198)|null|
-|**2023-12-11**|**Implicit Shape Modeling for Anatomical Structure Refinement of Volumetric Medical Images**|Minghui Zhang et.al.|[2312.06164](http://arxiv.org/abs/2312.06164)|null|
+|**2023-12-11**|**Implicit Shape Modeling for Anatomical Structure Refinement of Volumetric Medical Images**|Minghui Zhang et.al.|[2312.06164](http://arxiv.org/abs/2312.06164)|**[link](https://github.com/endoluminalsurgicalvision-imr/ismm)**|
 |**2023-12-10**|**Accurate Differential Operators for Hybrid Neural Fields**|Aditya Chetan et.al.|[2312.05984](http://arxiv.org/abs/2312.05984)|**[link](https://github.com/justachetan/hnf-derivatives)**|
 |**2023-12-10**|**Learning for CasADi: Data-driven Models in Numerical Optimization**|Tim Salzmann et.al.|[2312.05873](http://arxiv.org/abs/2312.05873)|**[link](https://github.com/Tim-Salzmann/l4casadi)**|
 |**2023-12-10**|**NeVRF: Neural Video-based Radiance Fields for Long-duration Sequences**|Minye Wu et.al.|[2312.05855](http://arxiv.org/abs/2312.05855)|null|
@@ -412,7 +412,7 @@
 |**2023-12-28**|**4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency**|Yuyang Yin et.al.|[2312.17225](http://arxiv.org/abs/2312.17225)|null|
 |**2023-12-29**|**DreamGaussian4D: Generative 4D Gaussian Splatting**|Jiawei Ren et.al.|[2312.17142](http://arxiv.org/abs/2312.17142)|**[link](https://github.com/jiawei-ren/dreamgaussian4d)**|
 |**2023-12-28**|**Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis**|Zhan Li et.al.|[2312.16812](http://arxiv.org/abs/2312.16812)|null|
-|**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084](http://arxiv.org/abs/2312.16084)|null|
+|**2023-12-26**|**LangSplat: 3D Language Gaussian Splatting**|Minghan Qin et.al.|[2312.16084](http://arxiv.org/abs/2312.16084)|**[link](https://github.com/minghanqin/LangSplat)**|
 |**2023-12-26**|**2D-Guided 3D Gaussian Segmentation**|Kun Lan et.al.|[2312.16047](http://arxiv.org/abs/2312.16047)|null|
 |**2023-12-25**|**Sparse-view CT Reconstruction with 3D Gaussian Volumetric Representation**|Yingtai Li et.al.|[2312.15676](http://arxiv.org/abs/2312.15676)|null|
 |**2023-12-23**|**Human101: Training 100+FPS Human Gaussians in 100s from 1 View**|Mingwei Li et.al.|[2312.15258](http://arxiv.org/abs/2312.15258)|**[link](https://github.com/longxiang-ai/human101)**|
@@ -530,7 +530,7 @@
 |**2024-01-08**|**A multimodal gesture recognition dataset for desktop human-computer interaction**|Qi Wang et.al.|[2401.03828](http://arxiv.org/abs/2401.03828)|null|
 |**2024-01-07**|**Global density equations for interacting particle systems with stochastic resetting: from overdamped Brownian motion to phase synchronization**|Paul C Bressloff et.al.|[2401.03501](http://arxiv.org/abs/2401.03501)|null|
 |**2024-01-05**|**Explicit numerical approximations for McKean-Vlasov stochastic differential equations in finite and infinite time**|Cui Yuanping et.al.|[2401.02878](http://arxiv.org/abs/2401.02878)|null|
-|**2024-01-05**|**Enhancing 3D-Air Signature by Pen Tip Tail Trajectory Awareness: Dataset and Featuring by Novel Spatio-temporal CNN**|Saurabh Atreya et.al.|[2401.02649](http://arxiv.org/abs/2401.02649)|null|
+|**2024-01-05**|**Enhancing 3D-Air Signature by Pen Tip Tail Trajectory Awareness: Dataset and Featuring by Novel Spatio-temporal CNN**|Saurabh Atreya et.al.|[2401.02649](http://arxiv.org/abs/2401.02649)|**[link](https://github.com/atrey-a/t3aas-v1-benchmarking)**|
 |**2024-01-05**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616](http://arxiv.org/abs/2401.02616)|**[link](https://github.com/zhang1023/fed-nerf)**|
 |**2024-01-04**|**ODIN: A Single Model for 2D and 3D Perception**|Ayush Jain et.al.|[2401.02416](http://arxiv.org/abs/2401.02416)|null|
 |**2024-01-04**|**What You See is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs**|Alex Trevithick et.al.|[2401.02411](http://arxiv.org/abs/2401.02411)|null|
