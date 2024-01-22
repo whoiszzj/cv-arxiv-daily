@@ -324,7 +324,7 @@
 |**2023-10-31**|**NeRF Revisited: Fixing Quadrature Instability in Volume Rendering**|Mikaela Angelina Uy et.al.|[2310.20685](http://arxiv.org/abs/2310.20685)|null|
 |**2023-10-31**|**$p$ -Poisson surface reconstruction in curl-free flow from point clouds**|Yesom Park et.al.|[2310.20095](http://arxiv.org/abs/2310.20095)|**[link](https://github.com/yebbi/pinc)**|
 |**2023-10-30**|**Generative Neural Fields by Mixtures of Neural Implicit Functions**|Tackgeun You et.al.|[2310.19464](http://arxiv.org/abs/2310.19464)|null|
-|**2023-10-31**|**DynPoint: Dynamic Neural Point For View Synthesis**|Kaichen Zhou et.al.|[2310.18999](http://arxiv.org/abs/2310.18999)|null|
+|**2023-10-31**|**DynPoint: Dynamic Neural Point For View Synthesis**|Kaichen Zhou et.al.|[2310.18999](http://arxiv.org/abs/2310.18999)|**[link](https://github.com/kaichen-z/dynpoint)**|
 |**2023-11-04**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917](http://arxiv.org/abs/2310.18917)|null|
 |**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846](http://arxiv.org/abs/2310.18846)|**[link](https://github.com/xmindflow/INCODE)**|
 |**2023-10-27**|**Multi-fidelity Design of Porous Microstructures for Thermofluidic Applications**|Jonathan Tammer Eweis-LaBolle et.al.|[2310.18505](http://arxiv.org/abs/2310.18505)|null|
@@ -384,7 +384,7 @@
 |**2023-10-13**|**PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm**|Haoyi Zhu et.al.|[2310.08586](http://arxiv.org/abs/2310.08586)|**[link](https://github.com/OpenGVLab/PonderV2)**|
 |**2023-10-12**|**OmniControl: Control Any Joint at Any Time for Human Motion Generation**|Yiming Xie et.al.|[2310.08580](http://arxiv.org/abs/2310.08580)|null|
 |**2023-10-12**|**Would you trust a vehicle merging into your lane? Subjective evaluation of negotiating behaviour in a congested merging scenario**|Akinobu Goto et.al.|[2310.08361](http://arxiv.org/abs/2310.08361)|null|
-|**2023-10-12**|**Spectral deferred correction methods for second-order problems**|Ikrom Akramov et.al.|[2310.08352](http://arxiv.org/abs/2310.08352)|null|
+|**2023-10-12**|**Spectral deferred correction methods for second-order problems**|Ikrom Akramov et.al.|[2310.08352](http://arxiv.org/abs/2310.08352)|**[link](https://github.com/Parallel-in-Time/pySDC/tree/master/pySDC/projects/Second_orderSDC)**|
 |**2023-10-12**|**Multimodal Variational Auto-encoder based Audio-Visual Segmentation**|Yuxin Mao et.al.|[2310.08303](http://arxiv.org/abs/2310.08303)|**[link](https://github.com/opennlplab/mmvae-avs)**|
 |**2023-10-12**|**Generalized Riemann Problem Method for the Kapila Model of Compressible Multiphase Flows I: Temporal-Spatial Coupling Finite Volume Scheme**|Zhifang Du et.al.|[2310.08241](http://arxiv.org/abs/2310.08241)|null|
 |**2023-10-12**|**Long-Tailed Classification Based on Coarse-Grained Leading Forest and Multi-Center Loss**|Jinye Yang et.al.|[2310.08206](http://arxiv.org/abs/2310.08206)|**[link](https://github.com/jinyery/cognisance)**|
@@ -555,7 +555,7 @@
 |**2024-01-05**|**FED-NeRF: Achieve High 3D Consistency and Temporal Coherence for Face Video Editing on Dynamic NeRF**|Hao Zhang et.al.|[2401.02616](http://arxiv.org/abs/2401.02616)|**[link](https://github.com/zhang1023/fed-nerf)**|
 |**2024-01-04**|**ODIN: A Single Model for 2D and 3D Perception**|Ayush Jain et.al.|[2401.02416](http://arxiv.org/abs/2401.02416)|null|
 |**2024-01-04**|**What You See is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs**|Alex Trevithick et.al.|[2401.02411](http://arxiv.org/abs/2401.02411)|null|
-|**2024-01-03**|**S3Net: Innovating Stereo Matching and Semantic Segmentation with a Single-Branch Semantic Stereo Network in Satellite Epipolar Imagery**|Qingyuan Yang et.al.|[2401.01643](http://arxiv.org/abs/2401.01643)|null|
+|**2024-01-03**|**S3Net: Innovating Stereo Matching and Semantic Segmentation with a Single-Branch Semantic Stereo Network in Satellite Epipolar Imagery**|Qingyuan Yang et.al.|[2401.01643](http://arxiv.org/abs/2401.01643)|**[link](https://github.com/cveo/s3net)**|
 |**2024-01-03**|**DDN-SLAM: Real-time Dense Dynamic Neural Implicit SLAM with Joint Semantic Encoding**|Mingrui Li et.al.|[2401.01545](http://arxiv.org/abs/2401.01545)|null|
 |**2023-12-30**|**3D Human Pose Perception from Egocentric Stereo Videos**|Hiroyasu Akada et.al.|[2401.00889](http://arxiv.org/abs/2401.00889)|null|
 |**2023-12-30**|**Inpaint4DNeRF: Promptable Spatio-Temporal NeRF Inpainting with Generative Diffusion Models**|Han Jiang et.al.|[2401.00208](http://arxiv.org/abs/2401.00208)|null|
