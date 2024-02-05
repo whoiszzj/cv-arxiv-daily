@@ -42,7 +42,7 @@ layout: default
 |**2024-01-19**|**Sat2Scene: 3D Urban Scene Generation from Satellite Images with Diffusion**|Zuoyue Li et.al.|[2401.10786](http://arxiv.org/abs/2401.10786)|null|
 |**2024-01-18**|**GPAvatar: Generalizable and Precise Head Avatar from Image(s)**|Xuangeng Chu et.al.|[2401.10215](http://arxiv.org/abs/2401.10215)|**[link](https://github.com/xg-chu/gpavatar)**|
 |**2024-01-22**|**IPR-NeRF: Ownership Verification meets Neural Radiance Field**|Win Kent Ong et.al.|[2401.09495](http://arxiv.org/abs/2401.09495)|null|
-|**2024-01-17**|**GARField: Group Anything with Radiance Fields**|Chung Min Kim et.al.|[2401.09419](http://arxiv.org/abs/2401.09419)|null|
+|**2024-01-17**|**GARField: Group Anything with Radiance Fields**|Chung Min Kim et.al.|[2401.09419](http://arxiv.org/abs/2401.09419)|**[link](https://github.com/chungmin99/garfield)**|
 |**2024-01-17**|**ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization**|Weiyao Wang et.al.|[2401.08937](http://arxiv.org/abs/2401.08937)|null|
 |**2024-01-18**|**ProvNeRF: Modeling per Point Provenance in NeRFs as a Stochastic Process**|Kiyohiro Nakayama et.al.|[2401.08140](http://arxiv.org/abs/2401.08140)|null|
 |**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[2401.08045](http://arxiv.org/abs/2401.08045)|**[link](https://github.com/zhanghm1995/forge_vfm4ad)**|
@@ -52,7 +52,7 @@ layout: default
 |**2024-01-11**|**Dubbing for Everyone: Data-Efficient Visual Dubbing using Neural Rendering Priors**|Jack Saunders et.al.|[2401.06126](http://arxiv.org/abs/2401.06126)|null|
 |**2024-01-11**|**Gaussian Shadow Casting for Neural Characters**|Luis Bolanos et.al.|[2401.06116](http://arxiv.org/abs/2401.06116)|null|
 |**2024-01-11**|**Fast High Dynamic Range Radiance Fields for Dynamic Scenes**|Guanjun Wu et.al.|[2401.06052](http://arxiv.org/abs/2401.06052)|null|
-|**2024-01-11**|**TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering**|Linus Franke et.al.|[2401.06003](http://arxiv.org/abs/2401.06003)|null|
+|**2024-01-11**|**TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering**|Linus Franke et.al.|[2401.06003](http://arxiv.org/abs/2401.06003)|**[link](https://github.com/lfranke/trips)**|
 |**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925](http://arxiv.org/abs/2401.05925)|null|
 |**2024-01-13**|**Neural Implicit Surface Reconstruction for Freehand 3D Ultrasound Volumetric Point Clouds with Geometric Constraints**|Hongbo Chen et.al.|[2401.05915](http://arxiv.org/abs/2401.05915)|null|
 |**2024-01-11**|**GO-NeRF: Generating Virtual Objects in Neural Radiance Fields**|Peng Dai et.al.|[2401.05750](http://arxiv.org/abs/2401.05750)|null|
@@ -245,7 +245,7 @@ layout: default
 |**2023-11-28**|**Point'n Move: Interactive Scene Object Manipulation on Gaussian Splatting Radiance Fields**|Jiajun Huang et.al.|[2311.16737](http://arxiv.org/abs/2311.16737)|null|
 |**2023-11-28**|**Photo-SLAM: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras**|Huajian Huang et.al.|[2311.16728](http://arxiv.org/abs/2311.16728)|null|
 |**2023-11-28**|**SplitNeRF: Split Sum Approximation Neural Field for Joint Geometry, Illumination, and Material Estimation**|Jesus Zarzar et.al.|[2311.16671](http://arxiv.org/abs/2311.16671)|**[link](https://github.com/zarzarj/SplitNeRF)**|
-|**2023-11-28**|**LiveNVS: Neural View Synthesis on Live RGB-D Streams**|Laura Fink et.al.|[2311.16668](http://arxiv.org/abs/2311.16668)|null|
+|**2023-11-28**|**LiveNVS: Neural View Synthesis on Live RGB-D Streams**|Laura Fink et.al.|[2311.16668](http://arxiv.org/abs/2311.16668)|**[link](https://github.com/fraunhofer-iis/livenvs)**|
 |**2023-11-28**|**DGNR: Density-Guided Neural Point Rendering of Large Driving Scenes**|Zhuopeng Li et.al.|[2311.16664](http://arxiv.org/abs/2311.16664)|null|
 |**2023-11-28**|**SCALAR-NeRF: SCAlable LARge-scale Neural Radiance Fields for Scene Reconstruction**|Yu Chen et.al.|[2311.16657](http://arxiv.org/abs/2311.16657)|null|
 |**2023-11-28**|**Rethinking Directional Integration in Neural Radiance Fields**|Congyue Deng et.al.|[2311.16504](http://arxiv.org/abs/2311.16504)|null|
@@ -470,7 +470,7 @@ layout: default
 |**2024-01-16**|**Fast Dynamic 3D Object Generation from a Single-view Video**|Zijie Pan et.al.|[2401.08742](http://arxiv.org/abs/2401.08742)|null|
 |**2024-01-16**|**Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities**|Xu Yan et.al.|[2401.08045](http://arxiv.org/abs/2401.08045)|**[link](https://github.com/zhanghm1995/forge_vfm4ad)**|
 |**2024-01-11**|**Gaussian Shadow Casting for Neural Characters**|Luis Bolanos et.al.|[2401.06116](http://arxiv.org/abs/2401.06116)|null|
-|**2024-01-11**|**TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering**|Linus Franke et.al.|[2401.06003](http://arxiv.org/abs/2401.06003)|null|
+|**2024-01-11**|**TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering**|Linus Franke et.al.|[2401.06003](http://arxiv.org/abs/2401.06003)|**[link](https://github.com/lfranke/trips)**|
 |**2024-01-11**|**CoSSegGaussians: Compact and Swift Scene Segmenting 3D Gaussians**|Bin Dou et.al.|[2401.05925](http://arxiv.org/abs/2401.05925)|null|
 |**2024-01-08**|**AGG: Amortized Generative 3D Gaussians for Single Image to 3D**|Dejia Xu et.al.|[2401.04099](http://arxiv.org/abs/2401.04099)|null|
 |**2024-01-08**|**A Survey on 3D Gaussian Splatting**|Guikun Chen et.al.|[2401.03890](http://arxiv.org/abs/2401.03890)|null|
@@ -738,7 +738,7 @@ layout: default
 |**2023-11-07**|**High-fidelity 3D Reconstruction of Plants using Neural Radiance Field**|Kewei Hu et.al.|[2311.04154](http://arxiv.org/abs/2311.04154)|null|
 |**2023-11-06**|**Geometric contexts and applications to logic**|Mayk de Andrade et.al.|[2311.03507](http://arxiv.org/abs/2311.03507)|null|
 |**2023-11-04**|**The Three Hundred Project: Mapping The Matter Distribution in Galaxy Clusters Via Deep Learning from Multiview Mock Observations**|Daniel de Andres et.al.|[2311.02469](http://arxiv.org/abs/2311.02469)|null|
-|**2023-11-04**|**MC-Stereo: Multi-peak Lookup and Cascade Search Range for Stereo Matching**|Miaojie Feng et.al.|[2311.02340](http://arxiv.org/abs/2311.02340)|null|
+|**2023-11-04**|**MC-Stereo: Multi-peak Lookup and Cascade Search Range for Stereo Matching**|Miaojie Feng et.al.|[2311.02340](http://arxiv.org/abs/2311.02340)|**[link](https://github.com/miaojief/mc-stereo)**|
 |**2023-11-04**|**ECMD: An Event-Centric Multisensory Driving Dataset for SLAM**|Peiyu Chen et.al.|[2311.02327](http://arxiv.org/abs/2311.02327)|**[link](https://github.com/arclab-hku/event_based_vo-vio-slam)**|
 |**2023-11-02**|**Novel View Synthesis from a Single RGBD Image for Indoor Scenes**|Congrui Hetang et.al.|[2311.01065](http://arxiv.org/abs/2311.01065)|null|
 |**2023-11-02**|**Augmentation is AUtO-Net: Augmentation-Driven Contrastive Multiview Learning for Medical Image Segmentation**|Yanming Guo et.al.|[2311.01023](http://arxiv.org/abs/2311.01023)|null|
