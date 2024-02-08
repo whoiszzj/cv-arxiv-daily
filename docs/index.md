@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.02.07
+## Updated on 2024.02.08
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-02-06**|**Improved Generalization of Weight Space Networks via Augmentations**|Aviv Shamsian et.al.|[2402.04081](http://arxiv.org/abs/2402.04081)|null|
+|**2024-02-06**|**OASim: an Open and Adaptive Simulator based on Neural Rendering for Autonomous Driving**|Guohang Yan et.al.|[2402.03830](http://arxiv.org/abs/2402.03830)|**[link](https://github.com/pjlab-adg/oasim)**|
+|**2024-02-05**|**Denoising Diffusion via Image-Based Rendering**|Titas Anciukevicius et.al.|[2402.03445](http://arxiv.org/abs/2402.03445)|null|
 |**2024-02-05**|**AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion**|Mohamad Qadri et.al.|[2402.03309](http://arxiv.org/abs/2402.03309)|null|
 |**2024-02-05**|**ViewFusion: Learning Composable Diffusion Models for Novel View Synthesis**|Bernard Spiegl et.al.|[2402.02906](http://arxiv.org/abs/2402.02906)|**[link](https://github.com/bronemos/view-fusion)**|
 |**2024-02-05**|**TensoSDF: Roughness-aware Tensorial Representation for Robust Geometry and Material Reconstruction**|Jia Li et.al.|[2402.02771](http://arxiv.org/abs/2402.02771)|null|
@@ -465,9 +468,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-02-06**|**Rig3DGS: Creating Controllable Portraits from Casual Monocular Videos**|Alfredo Rivero et.al.|[2402.03723](http://arxiv.org/abs/2402.03723)|null|
 |**2024-02-05**|**4D Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes**|Yuanxing Duan et.al.|[2402.03307](http://arxiv.org/abs/2402.03307)|null|
 |**2024-02-05**|**SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM**|Mingrui Li et.al.|[2402.03246](http://arxiv.org/abs/2402.03246)|null|
-|**2024-02-02**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459](http://arxiv.org/abs/2402.01459)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
+|**2024-02-06**|**GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting**|Joanna Waczyńska et.al.|[2402.01459](http://arxiv.org/abs/2402.01459)|**[link](https://github.com/waczjoan/gaussian-mesh-splatting)**|
 |**2024-02-01**|**360-GS: Layout-guided Panoramic Gaussian Splatting For Indoor Roaming**|Jiayang Bai et.al.|[2402.00763](http://arxiv.org/abs/2402.00763)|null|
 |**2024-02-02**|**Optimal Projection for 3D Gaussian Splatting**|Letian Huang et.al.|[2402.00752](http://arxiv.org/abs/2402.00752)|null|
 |**2024-02-01**|**StopThePop: Sorted Gaussian Splatting for View-Consistent Real-time Rendering**|Lukas Radl et.al.|[2402.00525](http://arxiv.org/abs/2402.00525)|null|
@@ -599,6 +603,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-02-06**|**MMAUD: A Comprehensive Multi-Modal Anti-UAV Dataset for Modern Miniature Drone Threats**|Shenghai Yuan et.al.|[2402.03706](http://arxiv.org/abs/2402.03706)|**[link](https://github.com/ntu-aris/mmaud)**|
+|**2024-02-05**|**Constrained Multiview Representation for Self-supervised Contrastive Learning**|Siyuan Dai et.al.|[2402.03456](http://arxiv.org/abs/2402.03456)|null|
 |**2024-02-02**|**Immersive Video Compression using Implicit Neural Representations**|Ho Man Kwan et.al.|[2402.01596](http://arxiv.org/abs/2402.01596)|**[link](https://github.com/hmkx/mv-hinerv)**|
 |**2024-02-02**|**SignSGD with Federated Defense: Harnessing Adversarial Attacks through Gradient Sign Decoding**|Chanho Park et.al.|[2402.01340](http://arxiv.org/abs/2402.01340)|null|
 |**2024-01-29**|**Gadolinium scandate by high-pressure sputtering for future generations of high-k dielectrics**|Pedro Carlos Feijoo et.al.|[2402.00887](http://arxiv.org/abs/2402.00887)|null|
