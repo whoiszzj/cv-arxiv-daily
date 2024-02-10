@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.02.09
+## Updated on 2024.02.10
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-02-08**|**Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**|Yuxi Wei et.al.|[2402.05746](http://arxiv.org/abs/2402.05746)|null|
+|**2024-02-08**|**NCRF: Neural Contact Radiance Fields for Free-Viewpoint Rendering of Hand-Object Interaction**|Zhongqun Zhang et.al.|[2402.05532](http://arxiv.org/abs/2402.05532)|null|
 |**2024-02-07**|**NITO: Neural Implicit Fields for Resolution-free Topology Optimization**|Amin Heyrani Nobari et.al.|[2402.05073](http://arxiv.org/abs/2402.05073)|null|
 |**2024-02-07**|**NeRF as Non-Distant Environment Emitter in Physics-based Inverse Rendering**|Jingwang Ling et.al.|[2402.04829](http://arxiv.org/abs/2402.04829)|null|
 |**2024-02-07**|**Mesh-based Gaussian Splatting for Real-time Large-scale Deformation**|Lin Gao et.al.|[2402.04796](http://arxiv.org/abs/2402.04796)|null|
@@ -610,7 +612,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
-|**2024-02-07**|**Fast Timing-Conditioned Latent Audio Diffusion**|Zach Evans et.al.|[2402.04825](http://arxiv.org/abs/2402.04825)|**[link](https://github.com/stability-ai/stable-audio-metrics)**|
+|**2024-02-08**|**Extending 6D Object Pose Estimators for Stereo Vision**|Thomas Pöllabauer et.al.|[2402.05610](http://arxiv.org/abs/2402.05610)|null|
+|**2024-02-07**|**SPAD : Spatially Aware Multiview Diffusers**|Yash Kant et.al.|[2402.05235](http://arxiv.org/abs/2402.05235)|null|
+|**2024-02-08**|**Fast Timing-Conditioned Latent Audio Diffusion**|Zach Evans et.al.|[2402.04825](http://arxiv.org/abs/2402.04825)|**[link](https://github.com/stability-ai/stable-audio-metrics)**|
 |**2024-02-07**|**Meet JEANIE: a Similarity Measure for 3D Skeleton Sequences via Temporal-Viewpoint Alignment**|Lei Wang et.al.|[2402.04599](http://arxiv.org/abs/2402.04599)|null|
 |**2024-02-06**|**Ultrafast terahertz field control of the emergent magnetic and electronic interactions at oxide interfaces**|A. M. Derrico et.al.|[2402.04302](http://arxiv.org/abs/2402.04302)|null|
 |**2024-02-06**|**MMAUD: A Comprehensive Multi-Modal Anti-UAV Dataset for Modern Miniature Drone Threats**|Shenghai Yuan et.al.|[2402.03706](http://arxiv.org/abs/2402.03706)|**[link](https://github.com/ntu-aris/mmaud)**|
