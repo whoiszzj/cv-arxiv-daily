@@ -295,7 +295,7 @@ layout: default
 |**2023-11-22**|**Test-Time Augmentation for 3D Point Cloud Classification and Segmentation**|Tuan-Anh Vu et.al.|[2311.13152](http://arxiv.org/abs/2311.13152)|null|
 |**2023-11-22**|**PIE-NeRF: Physics-based Interactive Elastodynamics with NeRF**|Yutao Feng et.al.|[2311.13099](http://arxiv.org/abs/2311.13099)|null|
 |**2023-11-21**|**An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic Scenes**|Kai Katsumata et.al.|[2311.12897](http://arxiv.org/abs/2311.12897)|null|
-|**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|null|
+|**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|**[link](https://github.com/Anttwo/SuGaR)**|
 |**2023-11-21**|**Hyb-NeRF: A Multiresolution Hybrid Encoding for Neural Radiance Fields**|Yifan Wang et.al.|[2311.12490](http://arxiv.org/abs/2311.12490)|null|
 |**2023-11-20**|**LABELMAKER: Automatic Semantic Label Generation from RGB-D Trajectories**|Silvan Weder et.al.|[2311.12174](http://arxiv.org/abs/2311.12174)|null|
 |**2023-11-18**|**DatasetNeRF: Efficient 3D-aware Data Factory with Generative Radiance Fields**|Yu Chi et.al.|[2311.12063](http://arxiv.org/abs/2311.12063)|null|
@@ -446,7 +446,7 @@ layout: default
 |**2023-11-26**|**Efficient Encoding of Graphics Primitives with Simplex-based Structures**|Yibo Wen et.al.|[2311.15439](http://arxiv.org/abs/2311.15439)|null|
 |**2023-11-21**|**3D Compression Using Neural Fields**|Janis Postels et.al.|[2311.13009](http://arxiv.org/abs/2311.13009)|null|
 |**2023-11-21**|**An $\mathcal{O}(\log_2N)$ SMC$^2$ Algorithm on Distributed Memory with an Approx. Optimal L-Kernel**|Conor Rosato et.al.|[2311.12973](http://arxiv.org/abs/2311.12973)|**[link](https://github.com/j-j-murphy/o-logn-smc-squared-on-mpi)**|
-|**2023-12-02**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|null|
+|**2023-12-02**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|**[link](https://github.com/Anttwo/SuGaR)**|
 |**2023-11-29**|**SelfOcc: Self-Supervised Vision-Based 3D Occupancy Prediction**|Yuanhui Huang et.al.|[2311.12754](http://arxiv.org/abs/2311.12754)|**[link](https://github.com/huang-yh/selfocc)**|
 |**2023-11-18**|**Towards Function Space Mesh Watermarking: Protecting the Copyright of Signed Distance Fields**|Xingyu Zhu et.al.|[2311.12059](http://arxiv.org/abs/2311.12059)|null|
 |**2023-11-20**|**Holistic Inverse Rendering of Complex Facade via Aerial 3D Scanning**|Zixuan Xie et.al.|[2311.11825](http://arxiv.org/abs/2311.11825)|null|
@@ -588,7 +588,7 @@ layout: default
 |**2023-11-22**|**Depth-Regularized Optimization for 3D Gaussian Splatting in Few-Shot Images**|Jaeyoung Chung et.al.|[2311.13398](http://arxiv.org/abs/2311.13398)|null|
 |**2023-11-23**|**LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes**|Jaeyoung Chung et.al.|[2311.13384](http://arxiv.org/abs/2311.13384)|null|
 |**2023-11-21**|**An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic Scenes**|Kai Katsumata et.al.|[2311.12897](http://arxiv.org/abs/2311.12897)|null|
-|**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|null|
+|**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|**[link](https://github.com/Anttwo/SuGaR)**|
 |**2023-11-22**|**PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics**|Tianyi Xie et.al.|[2311.12198](http://arxiv.org/abs/2311.12198)|null|
 |**2023-11-21**|**GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting**|Chi Yan et.al.|[2311.11700](http://arxiv.org/abs/2311.11700)|null|
 |**2023-11-22**|**LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching**|Yixun Liang et.al.|[2311.11284](http://arxiv.org/abs/2311.11284)|**[link](https://github.com/envision-research/luciddreamer)**|
