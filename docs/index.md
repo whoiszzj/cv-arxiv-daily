@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.17
+## Updated on 2024.02.18
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -494,7 +494,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
 |**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
-|**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|null|
+|**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|**[link](https://github.com/zhen-dong/magic-me)**|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
 |**2024-02-11**|**GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting**|Xiaoyu Zhou et.al.|[2402.07207](http://arxiv.org/abs/2402.07207)|null|
 |**2024-02-11**|**3D Gaussian as a New Vision Era: A Survey**|Ben Fei et.al.|[2402.07181](http://arxiv.org/abs/2402.07181)|null|
@@ -641,7 +641,7 @@ layout: default
 |**2024-02-14**|**A comparison of next-generation turbulence profiling instruments at Paranal**|Ryan Griffiths et.al.|[2402.09144](http://arxiv.org/abs/2402.09144)|null|
 |**2024-02-14**|**Depth-aware Volume Attention for Texture-less Stereo Matching**|Tong Zhao et.al.|[2402.08931](http://arxiv.org/abs/2402.08931)|**[link](https://github.com/ztsrxh/DVANet)**|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
-|**2024-02-13**|**Tracking solar radio bursts using Bayesian multilateration**|L. A. Cañizares et.al.|[2402.08590](http://arxiv.org/abs/2402.08590)|null|
+|**2024-02-13**|**Tracking solar radio bursts using Bayesian multilateration**|L. A. Cañizares et.al.|[2402.08590](http://arxiv.org/abs/2402.08590)|**[link](https://github.com/tcdsolar/bella)**|
 |**2024-02-13**|**Integration of multiview microbiome data for deciphering microbiome-metabolome-disease pathways**|Lei Fang et.al.|[2402.08222](http://arxiv.org/abs/2402.08222)|null|
 |**2024-02-12**|**Anisotropic molecular photoemission dynamics: Interpreting and accounting for the nuclear motion**|Antoine Desrier et.al.|[2402.08124](http://arxiv.org/abs/2402.08124)|null|
 |**2024-02-12**|**Evaluation of a Smart Mobile Robotic System for Industrial Plant Inspection and Supervision**|Georg K. J. Fischer et.al.|[2402.07691](http://arxiv.org/abs/2402.07691)|null|
