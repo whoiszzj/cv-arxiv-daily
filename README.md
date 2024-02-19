@@ -23,7 +23,7 @@
 |**2024-02-13**|**H2O-SDF: Two-phase Learning for 3D Indoor Reconstruction using Object Surface Fields**|Minyoung Park et.al.|[2402.08138](http://arxiv.org/abs/2402.08138)|null|
 |**2024-02-12**|**Signed Distance Field based Segmentation and Statistical Shape Modelling of the Left Atrial Appendage**|Kristine Aavild Juhl et.al.|[2402.07708](http://arxiv.org/abs/2402.07708)|null|
 |**2024-02-12**|**DeformNet: Latent Space Modeling and Dynamics Prediction for Deformable Object Manipulation**|Chenchang Li et.al.|[2402.07648](http://arxiv.org/abs/2402.07648)|null|
-|**2024-02-11**|**BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**|Leandro A. Passos et.al.|[2402.07310](http://arxiv.org/abs/2402.07310)|null|
+|**2024-02-11**|**BioNeRF: Biologically Plausible Neural Radiance Fields for View Synthesis**|Leandro A. Passos et.al.|[2402.07310](http://arxiv.org/abs/2402.07310)|**[link](https://github.com/leandropassosjr/bionerf)**|
 |**2024-02-11**|**LISR: Learning Linear 3D Implicit Surface Representation Using Compactly Supported Radial Basis Functions**|Atharva Pandey et.al.|[2402.07301](http://arxiv.org/abs/2402.07301)|null|
 |**2024-02-11**|**3D Gaussian as a New Vision Era: A Survey**|Ben Fei et.al.|[2402.07181](http://arxiv.org/abs/2402.07181)|null|
 |**2024-02-09**|**Neural Rendering based Urban Scene Reconstruction for Autonomous Driving**|Shihao Shen et.al.|[2402.06826](http://arxiv.org/abs/2402.06826)|null|
@@ -564,7 +564,7 @@
 |**2023-12-04**|**GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians**|Liangxiao Hu et.al.|[2312.02134](http://arxiv.org/abs/2312.02134)|null|
 |**2023-12-04**|**SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM**|Nikhil Keetha et.al.|[2312.02126](http://arxiv.org/abs/2312.02126)|null|
 |**2023-12-04**|**Mathematical Supplement for the $\texttt{gsplat}$ Library**|Vickie Ye et.al.|[2312.02121](http://arxiv.org/abs/2312.02121)|**[link](https://github.com/nerfstudio-project/gsplat)**|
-|**2023-12-04**|**GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians**|Shenhan Qian et.al.|[2312.02069](http://arxiv.org/abs/2312.02069)|null|
+|**2023-12-04**|**GaussianAvatars: Photorealistic Head Avatars with Rigged 3D Gaussians**|Shenhan Qian et.al.|[2312.02069](http://arxiv.org/abs/2312.02069)|**[link](https://github.com/ShenhanQian/GaussianAvatars)**|
 |**2023-12-04**|**GaussianHead: Impressive 3D Gaussian-based Head Avatars with Dynamic Hybrid Neural Field**|Jie Wang et.al.|[2312.01632](http://arxiv.org/abs/2312.01632)|**[link](https://github.com/chiehwangs/gaussian-head)**|
 |**2023-12-02**|**Neural Parametric Gaussians for Monocular Non-Rigid Object Reconstruction**|Devikalyan Das et.al.|[2312.01196](http://arxiv.org/abs/2312.01196)|null|
 |**2023-12-01**|**Segment Any 3D Gaussians**|Jiazhong Cen et.al.|[2312.00860](http://arxiv.org/abs/2312.00860)|null|
@@ -671,7 +671,7 @@
 |**2024-01-23**|**Stereo-Matching Knowledge Distilled Monocular Depth Estimation Filtered by Multiple Disparity Consistency**|Woonghyun Ka et.al.|[2401.12019](http://arxiv.org/abs/2401.12019)|null|
 |**2024-01-23**|**Modeling Stereo-Confidence Out of the End-to-End Stereo-Matching Network via Disparity Plane Sweep**|Jae Young Lee et.al.|[2401.12001](http://arxiv.org/abs/2401.12001)|null|
 |**2024-01-24**|**Boosting Multi-view Stereo with Late Cost Aggregation**|Jiang Wu et.al.|[2401.11751](http://arxiv.org/abs/2401.11751)|**[link](https://github.com/wuuu3511/lamvsnet)**|
-|**2024-01-22**|**MVSFormer++: Revealing the Devil in Transformer's Details for Multi-View Stereo**|Chenjie Cao et.al.|[2401.11673](http://arxiv.org/abs/2401.11673)|null|
+|**2024-01-22**|**MVSFormer++: Revealing the Devil in Transformer's Details for Multi-View Stereo**|Chenjie Cao et.al.|[2401.11673](http://arxiv.org/abs/2401.11673)|**[link](https://github.com/maybelx/mvsformerplusplus)**|
 |**2024-01-21**|**S $^3$ M-Net: Joint Learning of Semantic Segmentation and Stereo Matching for Autonomous Driving**|Zhiyuan Wu et.al.|[2401.11414](http://arxiv.org/abs/2401.11414)|null|
 |**2024-01-19**|**Dense 3D Reconstruction Through Lidar: A Comparative Study on Ex-vivo Porcine Tissue**|Guido Caccianiga et.al.|[2401.10709](http://arxiv.org/abs/2401.10709)|null|
 |**2024-01-18**|**Thin Ice Lithospheres and High Heat Flows on Europa From Large Impact Structure Ring-graben**|Kelsi N. Singer et.al.|[2401.10380](http://arxiv.org/abs/2401.10380)|null|
@@ -888,7 +888,7 @@
 |**2023-09-28**|**Sparse Submodular Function Minimization**|Andrei Graur et.al.|[2309.16632](http://arxiv.org/abs/2309.16632)|null|
 |**2023-09-24**|**Motion Segmentation from a Moving Monocular Camera**|Yuxiang Huang et.al.|[2309.13772](http://arxiv.org/abs/2309.13772)|null|
 |**2023-09-22**|**Scalable Semantic 3D Mapping of Coral Reefs with Deep Learning**|Jonathan Sauder et.al.|[2309.12804](http://arxiv.org/abs/2309.12804)|null|
-|**2023-09-21**|**On-the-Fly SfM: What you capture is What you get**|Zongqian Zhan et.al.|[2309.11883](http://arxiv.org/abs/2309.11883)|null|
+|**2023-09-21**|**On-the-Fly SfM: What you capture is What you get**|Zongqian Zhan et.al.|[2309.11883](http://arxiv.org/abs/2309.11883)|**[link](https://github.com/RayShark0605/On_the_fly_SfM)**|
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
