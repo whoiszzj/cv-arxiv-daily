@@ -2,11 +2,18 @@
 layout: default
 ---
 
-## Updated on 2024.02.23
+## Updated on 2024.02.24
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-02-22**|**Consolidating Attention Features for Multi-view Image Editing**|Or Patashnik et.al.|[2402.14792](http://arxiv.org/abs/2402.14792)|null|
+|**2024-02-22**|**GaussianPro: 3D Gaussian Splatting with Progressive Propagation**|Kai Cheng et.al.|[2402.14650](http://arxiv.org/abs/2402.14650)|null|
+|**2024-02-22**|**Distributed Radiance Fields for Edge Video Compression and Metaverse Integration in Autonomous Driving**|Eugen Šlapak et.al.|[2402.14642](http://arxiv.org/abs/2402.14642)|null|
+|**2024-02-22**|**FrameNeRF: A Simple and Efficient Framework for Few-shot Novel View Synthesis**|Yan Xing et.al.|[2402.14586](http://arxiv.org/abs/2402.14586)|null|
+|**2024-02-22**|**NeRF-Det++: Incorporating Semantic Cues and Perspective-aware Depth Supervision for Indoor Multi-View 3D Detection**|Chenxi Huang et.al.|[2402.14464](http://arxiv.org/abs/2402.14464)|**[link](https://github.com/mrsempress/nerf-detplusplus)**|
+|**2024-02-22**|**TaylorGrid: Towards Fast and High-Quality Implicit Field Learning via Direct Taylor-based Grid Optimization**|Renyi Mao et.al.|[2402.14415](http://arxiv.org/abs/2402.14415)|null|
+|**2024-02-22**|**Mip-Grid: Anti-aliased Grid Representations for Neural Radiance Fields**|Seungtae Nam et.al.|[2402.14196](http://arxiv.org/abs/2402.14196)|null|
 |**2024-02-21**|**Dealing with unbounded gradients in stochastic saddle-point optimization**|Gergely Neu et.al.|[2402.13903](http://arxiv.org/abs/2402.13903)|null|
 |**2024-02-21**|**Identifying Unnecessary 3D Gaussians using Clustering for Fast Rendering of 3D Gaussian Splatting**|Joongho Jo et.al.|[2402.13827](http://arxiv.org/abs/2402.13827)|null|
 |**2024-02-21**|**Flexible Physical Camouflage Generation Based on a Differential Approach**|Yang Li et.al.|[2402.13575](http://arxiv.org/abs/2402.13575)|null|
@@ -507,11 +514,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-02-22**|**GaussianPro: 3D Gaussian Splatting with Progressive Propagation**|Kai Cheng et.al.|[2402.14650](http://arxiv.org/abs/2402.14650)|null|
 |**2024-02-21**|**Identifying Unnecessary 3D Gaussians using Clustering for Fast Rendering of 3D Gaussian Splatting**|Joongho Jo et.al.|[2402.13827](http://arxiv.org/abs/2402.13827)|null|
 |**2024-02-20**|**How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey**|Fabio Tosi et.al.|[2402.13255](http://arxiv.org/abs/2402.13255)|null|
 |**2024-02-16**|**GaussianHair: Hair Modeling and Rendering with Light-aware Gaussians**|Haimin Luo et.al.|[2402.10483](http://arxiv.org/abs/2402.10483)|null|
 |**2024-02-20**|**GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting**|Chen Yang et.al.|[2402.10259](http://arxiv.org/abs/2402.10259)|**[link](https://github.com/GaussianObject/GaussianObject)**|
-|**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|null|
+|**2024-02-15**|**GES: Generalized Exponential Splatting for Efficient Radiance Field Rendering**|Abdullah Hamdi et.al.|[2402.10128](http://arxiv.org/abs/2402.10128)|**[link](https://github.com/ajhamdi/ges-splatting)**|
 |**2024-02-14**|**Magic-Me: Identity-Specific Video Customized Diffusion**|Ze Ma et.al.|[2402.09368](http://arxiv.org/abs/2402.09368)|**[link](https://github.com/zhen-dong/magic-me)**|
 |**2024-02-13**|**IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation**|Luke Melas-Kyriazi et.al.|[2402.08682](http://arxiv.org/abs/2402.08682)|null|
 |**2024-02-11**|**GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting**|Xiaoyu Zhou et.al.|[2402.07207](http://arxiv.org/abs/2402.07207)|null|
@@ -655,6 +663,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-02-22**|**Deep Learning Models for Conditioning Extremely Noisy Signals**|Andrea Faúndez Quezada et.al.|[2402.14713](http://arxiv.org/abs/2402.14713)|null|
+|**2024-02-22**|**GaussianPro: 3D Gaussian Splatting with Progressive Propagation**|Kai Cheng et.al.|[2402.14650](http://arxiv.org/abs/2402.14650)|null|
+|**2024-02-22**|**MVD $^2$ : Efficient Multiview 3D Reconstruction for Multiview Diffusion**|Xin-Yang Zheng et.al.|[2402.14253](http://arxiv.org/abs/2402.14253)|null|
 |**2024-02-20**|**Design and Flight Demonstration of a Quadrotor for Urban Mapping and Target Tracking Research**|Collin Hague et.al.|[2402.13195](http://arxiv.org/abs/2402.13195)|null|
 |**2024-02-19**|**Landmark-based Localization using Stereo Vision and Deep Learning in GPS-Denied Battlefield Environment**|Ganesh Sapkota et.al.|[2402.12551](http://arxiv.org/abs/2402.12551)|null|
 |**2024-02-19**|**An evaluation of Deep Learning based stereo dense matching dataset shift from aerial images and a large scale stereo dataset**|Teng Wu et.al.|[2402.12522](http://arxiv.org/abs/2402.12522)|**[link](https://github.com/whuwuteng/aerial_stereo_dataset)**|
@@ -877,6 +888,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-02-22**|**GaussianPro: 3D Gaussian Splatting with Progressive Propagation**|Kai Cheng et.al.|[2402.14650](http://arxiv.org/abs/2402.14650)|null|
 |**2024-02-19**|**Speech Translation with Speech Foundation Models and Large Language Models: What is There and What is Missing?**|Marco Gaido et.al.|[2402.12025](http://arxiv.org/abs/2402.12025)|null|
 |**2024-02-18**|**A Robust Error-Resistant View Selection Method for 3D Reconstruction**|Shaojie Zhang et.al.|[2402.11431](http://arxiv.org/abs/2402.11431)|null|
 |**2024-02-17**|**Dense Matchers for Dense Tracking**|Tomáš Jelínek et.al.|[2402.11287](http://arxiv.org/abs/2402.11287)|null|
