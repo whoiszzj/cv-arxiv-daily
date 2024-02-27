@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.02.26
+## Updated on 2024.02.27
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-02-23**|**Optimisic Information Directed Sampling**|Gergely Neu et.al.|[2402.15411](http://arxiv.org/abs/2402.15411)|null|
+|**2024-02-22**|**The Neural Network First-Level Hardware Track Trigger of the Belle II Experiment**|S. Bähr et.al.|[2402.14962](http://arxiv.org/abs/2402.14962)|null|
 |**2024-02-22**|**Consolidating Attention Features for Multi-view Image Editing**|Or Patashnik et.al.|[2402.14792](http://arxiv.org/abs/2402.14792)|null|
 |**2024-02-22**|**GaussianPro: 3D Gaussian Splatting with Progressive Propagation**|Kai Cheng et.al.|[2402.14650](http://arxiv.org/abs/2402.14650)|null|
 |**2024-02-22**|**Distributed Radiance Fields for Edge Video Compression and Metaverse Integration in Autonomous Driving**|Eugen Šlapak et.al.|[2402.14642](http://arxiv.org/abs/2402.14642)|null|
