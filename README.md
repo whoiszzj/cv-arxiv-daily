@@ -1,4 +1,4 @@
-## Updated on 2024.02.28
+## Updated on 2024.02.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-02-27**|**Diffusion Meets DAgger: Supercharging Eye-in-hand Imitation Learning**|Xiaoyu Zhang et.al.|[2402.17768](http://arxiv.org/abs/2402.17768)|null|
+|**2024-02-27**|**AlignMiF: Geometry-Aligned Multimodal Implicit Field for LiDAR-Camera Joint Synthesis**|Tao Tang et.al.|[2402.17483](http://arxiv.org/abs/2402.17483)|**[link](https://github.com/tangtaogo/alignmif)**|
+|**2024-02-27**|**VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction**|Jiaqi Lin et.al.|[2402.17427](http://arxiv.org/abs/2402.17427)|null|
+|**2024-02-27**|**Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis**|Zicheng Zhang et.al.|[2402.17364](http://arxiv.org/abs/2402.17364)|**[link](https://github.com/zhangzc21/dyntet)**|
+|**2024-02-27**|**DivAvatar: Diverse 3D Avatar Generation with a Single Prompt**|Weijing Tao et.al.|[2402.17292](http://arxiv.org/abs/2402.17292)|null|
+|**2024-02-27**|**A new graph-neural-network flavor tagger for Belle II and measurement of $\sin2φ_1$ in $B^0 \to J/ψK^0_\text{S}$ decays**|Belle II Collaboration et.al.|[2402.17260](http://arxiv.org/abs/2402.17260)|null|
+|**2024-02-27**|**CharNeRF: 3D Character Generation from Concept Art**|Eddy Chu et.al.|[2402.17115](http://arxiv.org/abs/2402.17115)|null|
+|**2024-02-26**|**HOISDF: Constraining 3D Hand-Object Pose Estimation with Global Signed Distance Fields**|Haozhe Qi et.al.|[2402.17062](http://arxiv.org/abs/2402.17062)|**[link](https://github.com/amathislab/hoisdf)**|
+|**2024-02-26**|**Disentangled 3D Scene Generation with Layout Learning**|Dave Epstein et.al.|[2402.16936](http://arxiv.org/abs/2402.16936)|null|
+|**2024-02-26**|**Neural Mesh Fusion: Unsupervised 3D Planar Surface Understanding**|Farhad G. Zanjani et.al.|[2402.16739](http://arxiv.org/abs/2402.16739)|null|
 |**2024-02-26**|**CMC: Few-shot Novel View Synthesis via Cross-view Multiplane Consistency**|Hanxin Zhu et.al.|[2402.16407](http://arxiv.org/abs/2402.16407)|null|
 |**2024-02-26**|**SPC-NeRF: Spatial Predictive Compression for Voxel Based Radiance Field**|Zetian Song et.al.|[2402.16366](http://arxiv.org/abs/2402.16366)|null|
 |**2024-02-26**|**DreamUp3D: Object-Centric Generative Models for Single-View 3D Scene Understanding and Real-to-Sim Transfer**|Yizhe Wu et.al.|[2402.16308](http://arxiv.org/abs/2402.16308)|null|
@@ -503,12 +513,14 @@
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639](http://arxiv.org/abs/2309.12639)|null|
 
-<p align=right>(<a href=#updated-on-20240228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240229>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-02-27**|**VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction**|Jiaqi Lin et.al.|[2402.17427](http://arxiv.org/abs/2402.17427)|null|
+|**2024-02-26**|**GEA: Reconstructing Expressive 3D Gaussian Avatar from Monocular Video**|Xinqi Liu et.al.|[2402.16607](http://arxiv.org/abs/2402.16607)|null|
 |**2024-02-24**|**Spec-Gaussian: Anisotropic View-Dependent Appearance for 3D Gaussian Splatting**|Ziyi Yang et.al.|[2402.15870](http://arxiv.org/abs/2402.15870)|null|
 |**2024-02-22**|**GaussianPro: 3D Gaussian Splatting with Progressive Propagation**|Kai Cheng et.al.|[2402.14650](http://arxiv.org/abs/2402.14650)|null|
 |**2024-02-21**|**Identifying Unnecessary 3D Gaussians using Clustering for Fast Rendering of 3D Gaussian Splatting**|Joongho Jo et.al.|[2402.13827](http://arxiv.org/abs/2402.13827)|null|
@@ -655,12 +667,15 @@
 |**2023-10-16**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 
-<p align=right>(<a href=#updated-on-20240228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240229>back to top</a>)</p>
 
 ## MVS
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-02-27**|**A TDM-based Analog Front-End for Ear-EEG Recording with 83-G $Ω$ Input Impedance, 384-mV DC Tolerance and 0.47-$μ$ Vrms Input-Referred Noise**|Huiyong Zheng et.al.|[2402.17538](http://arxiv.org/abs/2402.17538)|null|
+|**2024-02-27**|**Real-Time Estimation of Relative Pose for UAVs Using a Dual-Channel Feature Association**|Zhaoying Wang et.al.|[2402.17504](http://arxiv.org/abs/2402.17504)|null|
+|**2024-02-25**|**Slow electron holes in the Earth's magnetosheath**|Z. I. Shaikh et.al.|[2402.16916](http://arxiv.org/abs/2402.16916)|null|
 |**2024-02-26**|**DCVSMNet: Double Cost Volume Stereo Matching Network**|Mahmoud Tahmasebi et.al.|[2402.16473](http://arxiv.org/abs/2402.16473)|**[link](https://github.com/m2219/dcvsmnet)**|
 |**2024-02-26**|**MV-Swin-T: Mammogram Classification with Multi-view Swin Transformer**|Sushmita Sarker et.al.|[2402.16298](http://arxiv.org/abs/2402.16298)|**[link](https://github.com/prithuls/mv-swin-t)**|
 |**2024-02-25**|**Finding Near-Optimal Portfolios With Quality-Diversity**|Bruno Gašperov et.al.|[2402.16118](http://arxiv.org/abs/2402.16118)|null|
@@ -885,7 +900,7 @@
 |**2023-10-06**|**Rotation of a Stealth CME on 2012 October 5 Observed in the Inner Heliosphere**|Sandeep Kumar et.al.|[2310.04023](http://arxiv.org/abs/2310.04023)|null|
 |**2023-10-05**|**Design Methodology for a Medium Voltage Single Stage LLC Resonant Solar PV Inverter**|Parthkumar Bhuvela et.al.|[2310.03834](http://arxiv.org/abs/2310.03834)|null|
 
-<p align=right>(<a href=#updated-on-20240228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240229>back to top</a>)</p>
 
 ## SFM
 
@@ -943,5 +958,5 @@
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
-<p align=right>(<a href=#updated-on-20240228>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240229>back to top</a>)</p>
 
