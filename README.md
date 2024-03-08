@@ -1,4 +1,4 @@
-## Updated on 2024.03.07
+## Updated on 2024.03.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-03-06**|**DART: Implicit Doppler Tomography for Radar Novel View Synthesis**|Tianshu Huang et.al.|[2403.03896](http://arxiv.org/abs/2403.03896)|null|
+|**2024-03-06**|**GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**|Zi-Ting Chou et.al.|[2403.03608](http://arxiv.org/abs/2403.03608)|null|
+|**2024-03-05**|**A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction**|Haofan Lu et.al.|[2403.03241](http://arxiv.org/abs/2403.03241)|null|
 |**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|null|
 |**2024-03-05**|**Measurement of $CP$ asymmetries in $B^0 \rightarrow K^0_S K^0_S K^0_S$ decays at Belle II**|Belle II Collaboration et.al.|[2403.02590](http://arxiv.org/abs/2403.02590)|null|
 |**2024-03-05**|**Semantic Human Mesh Reconstruction with Textures**|Xiaoyu Zhan et.al.|[2403.02561](http://arxiv.org/abs/2403.02561)|null|
@@ -530,12 +533,13 @@
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639](http://arxiv.org/abs/2309.12639)|null|
 
-<p align=right>(<a href=#updated-on-20240307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240308>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-03-06**|**Online Photon Guiding with 3D Gaussians for Caustics Rendering**|Jiawei Huang et.al.|[2403.03641](http://arxiv.org/abs/2403.03641)|null|
 |**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|null|
 |**2024-03-05**|**3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos**|Jiakai Sun et.al.|[2403.01444](http://arxiv.org/abs/2403.01444)|null|
 |**2024-02-29**|**3D Gaussian Model for Animation and Texturing**|Xiangzhi Eric Wang et.al.|[2402.19441](http://arxiv.org/abs/2402.19441)|null|
@@ -687,12 +691,14 @@
 |**2023-10-16**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 
-<p align=right>(<a href=#updated-on-20240307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240308>back to top</a>)</p>
 
 ## MVS
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-03-06**|**Photonic-electronic spiking neuron with multi-modal and multi-wavelength excitatory and inhibitory operation for high-speed neuromorphic sensing and computing**|Weikang Zhang et.al.|[2403.03775](http://arxiv.org/abs/2403.03775)|null|
+|**2024-03-05**|**F $^3$ Loc: Fusion and Filtering for Floorplan Localization**|Changan Chen et.al.|[2403.03370](http://arxiv.org/abs/2403.03370)|null|
 |**2024-03-05**|**Surface and sub-surface modifications of copper electrodes exposed to high-field conditioning at cryogenic temperatures**|Marek Jacewicz et.al.|[2403.03198](http://arxiv.org/abs/2403.03198)|null|
 |**2024-03-05**|**Regularised Canonical Correlation Analysis: graphical lasso, biplots and beyond**|Lennie Wells et.al.|[2403.02979](http://arxiv.org/abs/2403.02979)|null|
 |**2024-03-05**|**Towards Geometric-Photometric Joint Alignment for Facial Mesh Registration**|Xizhi Wang et.al.|[2403.02629](http://arxiv.org/abs/2403.02629)|null|
@@ -700,7 +706,7 @@
 |**2024-03-03**|**Multiview Subspace Clustering of Hyperspectral Images based on Graph Convolutional Networks**|Xianju Li et.al.|[2403.01465](http://arxiv.org/abs/2403.01465)|null|
 |**2024-03-01**|**The solar cycle 25 multi-spacecraft solar energetic particle event catalog of the SERPENTINE project**|N. Dresing et.al.|[2403.00658](http://arxiv.org/abs/2403.00658)|null|
 |**2024-03-01**|**Selective-Stereo: Adaptive Frequency Information Selection for Stereo Matching**|Xianqi Wang et.al.|[2403.00486](http://arxiv.org/abs/2403.00486)|**[link](https://github.com/windsrain/selective-stereo)**|
-|**2024-02-29**|**Learning Intra-view and Cross-view Geometric Knowledge for Stereo Matching**|Rui Gong et.al.|[2402.19270](http://arxiv.org/abs/2402.19270)|null|
+|**2024-03-06**|**Learning Intra-view and Cross-view Geometric Knowledge for Stereo Matching**|Rui Gong et.al.|[2402.19270](http://arxiv.org/abs/2402.19270)|null|
 |**2024-02-28**|**Correction method applied to MC simulated LST images affected by clouds**|Natalia Żywucka et.al.|[2402.18416](http://arxiv.org/abs/2402.18416)|null|
 |**2024-02-28**|**Attention-Propagation Network for Egocentric Heatmap to 3D Pose Lifting**|Taeho Kang et.al.|[2402.18330](http://arxiv.org/abs/2402.18330)|**[link](https://github.com/tho-kn/egotap)**|
 |**2024-02-29**|**CFDNet: A Generalizable Foggy Stereo Matching Network with Contrastive Feature Distillation**|Zihua Liu et.al.|[2402.18181](http://arxiv.org/abs/2402.18181)|null|
@@ -933,7 +939,7 @@
 |**2023-10-06**|**Rotation of a Stealth CME on 2012 October 5 Observed in the Inner Heliosphere**|Sandeep Kumar et.al.|[2310.04023](http://arxiv.org/abs/2310.04023)|null|
 |**2023-10-05**|**Design Methodology for a Medium Voltage Single Stage LLC Resonant Solar PV Inverter**|Parthkumar Bhuvela et.al.|[2310.03834](http://arxiv.org/abs/2310.03834)|null|
 
-<p align=right>(<a href=#updated-on-20240307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240308>back to top</a>)</p>
 
 ## SFM
 
@@ -993,5 +999,5 @@
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
-<p align=right>(<a href=#updated-on-20240307>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240308>back to top</a>)</p>
 
