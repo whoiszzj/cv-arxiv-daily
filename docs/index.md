@@ -2,11 +2,19 @@
 layout: default
 ---
 
-## Updated on 2024.03.12
+## Updated on 2024.03.13
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-03-11**|**DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization**|Jiahe Li et.al.|[2403.06912](http://arxiv.org/abs/2403.06912)|**[link](https://github.com/fictionarry/dngaussian)**|
+|**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/abs/2403.06877)|null|
+|**2024-03-11**|**Vosh: Voxel-Mesh Hybrid Representation for Real-Time View Synthesis**|Chenhao Zhang et.al.|[2403.06505](http://arxiv.org/abs/2403.06505)|null|
+|**2024-03-11**|**FSViewFusion: Few-Shots View Generation of Novel Objects**|Rukhshanda Hussain et.al.|[2403.06394](http://arxiv.org/abs/2403.06394)|null|
+|**2024-03-10**|**S-DyRF: Reference-Based Stylized Radiance Fields for Dynamic Scenes**|Xingyi Li et.al.|[2403.06205](http://arxiv.org/abs/2403.06205)|null|
+|**2024-03-10**|**Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?**|Hanxin Zhu et.al.|[2403.06092](http://arxiv.org/abs/2403.06092)|null|
+|**2024-03-09**|**Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving**|Junyi Cao et.al.|[2403.05907](http://arxiv.org/abs/2403.05907)|null|
+|**2024-03-09**|**Large Generative Model Assisted 3D Semantic Communication**|Feibo Jiang et.al.|[2403.05783](http://arxiv.org/abs/2403.05783)|null|
 |**2024-03-08**|**GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting**|Francesco Palandra et.al.|[2403.05154](http://arxiv.org/abs/2403.05154)|null|
 |**2024-03-07**|**BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling**|Cheng Peng et.al.|[2403.04926](http://arxiv.org/abs/2403.04926)|**[link](https://github.com/snldmt/bags)**|
 |**2024-03-08**|**Finding Waldo: Towards Efficient Exploration of NeRF Scene Spaces**|Evangelos Skartados et.al.|[2403.04508](http://arxiv.org/abs/2403.04508)|null|
@@ -558,6 +566,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-03-11**|**DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization**|Jiahe Li et.al.|[2403.06912](http://arxiv.org/abs/2403.06912)|**[link](https://github.com/fictionarry/dngaussian)**|
+|**2024-03-11**|**FreGS: 3D Gaussian Splatting with Progressive Frequency Regularization**|Jiahui Zhang et.al.|[2403.06908](http://arxiv.org/abs/2403.06908)|null|
+|**2024-03-11**|**V3D: Video Diffusion Models are Effective 3D Generators**|Zilong Chen et.al.|[2403.06738](http://arxiv.org/abs/2403.06738)|**[link](https://github.com/heheyas/v3d)**|
 |**2024-03-08**|**GSEdit: Efficient Text-Guided Editing of 3D Objects via Gaussian Splatting**|Francesco Palandra et.al.|[2403.05154](http://arxiv.org/abs/2403.05154)|null|
 |**2024-03-08**|**SplattingAvatar: Realistic Real-Time Human Avatars with Mesh-Embedded Gaussian Splatting**|Zhijing Shao et.al.|[2403.05087](http://arxiv.org/abs/2403.05087)|**[link](https://github.com/initialneil/splattingavatar)**|
 |**2024-03-07**|**BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling**|Cheng Peng et.al.|[2403.04926](http://arxiv.org/abs/2403.04926)|**[link](https://github.com/snldmt/bags)**|
@@ -718,6 +729,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-03-11**|**Aggregated distribution grid flexibilities in subtransmission grid operational management**|Neelotpal Majumdar et.al.|[2403.06635](http://arxiv.org/abs/2403.06635)|null|
+|**2024-03-11**|**Search for a new charged particle in the mass range of 2-100 MeV**|M. H. Anikina et.al.|[2403.06628](http://arxiv.org/abs/2403.06628)|null|
+|**2024-03-11**|**Reconstructing Visual Stimulus Images from EEG Signals Based on Deep Visual Representation Model**|Hongguang Pan et.al.|[2403.06532](http://arxiv.org/abs/2403.06532)|null|
+|**2024-03-10**|**Monotone Mean-Variance Portfolio Selection in Semimartingale Markets: Martingale Method**|Yuchen Li et.al.|[2403.06190](http://arxiv.org/abs/2403.06190)|null|
+|**2024-03-10**|**PSS-BA: LiDAR Bundle Adjustment with Progressive Spatial Smoothing**|Jianping Li et.al.|[2403.06124](http://arxiv.org/abs/2403.06124)|null|
+|**2024-03-09**|**A New Mechanism For Generating Type-III Radiation From The Sun**|Forrest Mozer et.al.|[2403.05984](http://arxiv.org/abs/2403.05984)|null|
 |**2024-03-08**|**Generalized Correspondence Matching via Flexible Hierarchical Refinement and Patch Descriptor Distillation**|Yu Han et.al.|[2403.05388](http://arxiv.org/abs/2403.05388)|null|
 |**2024-03-08**|**StereoDiffusion: Training-Free Stereo Image Generation Using Latent Diffusion Models**|Lezhong Wang et.al.|[2403.04965](http://arxiv.org/abs/2403.04965)|null|
 |**2024-03-09**|**Single-to-Dual-View Adaptation for Egocentric 3D Hand Pose Estimation**|Ruicong Liu et.al.|[2403.04381](http://arxiv.org/abs/2403.04381)|null|
@@ -968,6 +985,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/abs/2403.06877)|null|
 |**2024-03-07**|**BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling**|Cheng Peng et.al.|[2403.04926](http://arxiv.org/abs/2403.04926)|**[link](https://github.com/snldmt/bags)**|
 |**2024-03-05**|**Depth resolution in piezoresponse force microscopy**|Matthias Roeper et.al.|[2403.02797](http://arxiv.org/abs/2403.02797)|null|
 |**2024-02-28**|**JWST/MIRI unveils the stellar component of the GN20 dusty galaxy overdensity at $z$ =4.05**|A. Crespo Gómez et.al.|[2402.18672](http://arxiv.org/abs/2402.18672)|null|
@@ -976,7 +994,7 @@ layout: default
 |**2024-02-25**|**A Robust Error-Resistant View Selection Method for 3D Reconstruction**|Shaojie Zhang et.al.|[2402.11431](http://arxiv.org/abs/2402.11431)|null|
 |**2024-02-17**|**Dense Matchers for Dense Tracking**|Tomáš Jelínek et.al.|[2402.11287](http://arxiv.org/abs/2402.11287)|null|
 |**2024-02-14**|**UniEnc-CASSNAT: An Encoder-only Non-autoregressive ASR for Speech SSL Models**|Ruchao Fan et.al.|[2402.08898](http://arxiv.org/abs/2402.08898)|null|
-|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
+|**2024-03-11**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
 |**2024-01-24**|**Speech foundation models on intelligibility prediction for hearing-impaired listeners**|Santiago Cuervo et.al.|[2401.14289](http://arxiv.org/abs/2401.14289)|null|
 |**2024-01-22**|**HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs**|Zelin Gao et.al.|[2401.11711](http://arxiv.org/abs/2401.11711)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
