@@ -2,11 +2,20 @@
 layout: default
 ---
 
-## Updated on 2024.03.22
+## Updated on 2024.03.23
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-03-21**|**ClusteringSDF: Self-Organized Neural Implicit Surfaces for 3D Decomposition**|Tianhao Wu et.al.|[2403.14619](http://arxiv.org/abs/2403.14619)|null|
+|**2024-03-21**|**Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering**|Antoine Guédon et.al.|[2403.14554](http://arxiv.org/abs/2403.14554)|null|
+|**2024-03-21**|**CombiNeRF: A Combination of Regularization Techniques for Few-Shot Neural Radiance Field View Synthesis**|Matteo Bonotto et.al.|[2403.14412](http://arxiv.org/abs/2403.14412)|**[link](https://github.com/sarroccoluigi/combinerf)**|
+|**2024-03-21**|**InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity**|Jiabin Liang et.al.|[2403.14376](http://arxiv.org/abs/2403.14376)|null|
+|**2024-03-21**|**SurroundSDF: Implicit 3D Scene Understanding Based on Signed Distance Field**|Lizhe Liu et.al.|[2403.14366](http://arxiv.org/abs/2403.14366)|null|
+|**2024-03-21**|**Isotropic Gaussian Splatting for Real-Time Radiance Field Rendering**|Yuanhao Gong et.al.|[2403.14244](http://arxiv.org/abs/2403.14244)|null|
+|**2024-03-21**|**Surface Reconstruction from Point Clouds via Grid-based Intersection Prediction**|Hui Tian et.al.|[2403.14085](http://arxiv.org/abs/2403.14085)|null|
+|**2024-03-21**|**Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions**|Jiacong Xu et.al.|[2403.14053](http://arxiv.org/abs/2403.14053)|null|
+|**2024-03-20**|**High Accuracy Numerical Optimal Control for Rigid Bodies with Patch Contacts through Equivalent Contact Points -- Extended Version**|Christian Dietz et.al.|[2403.13931](http://arxiv.org/abs/2403.13931)|null|
 |**2024-03-20**|**RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS**|Michael Niemeyer et.al.|[2403.13806](http://arxiv.org/abs/2403.13806)|null|
 |**2024-03-20**|**Advancing 6D Pose Estimation in Augmented Reality -- Overcoming Projection Ambiguity with Uncontrolled Imagery**|Mayura Manawadu et.al.|[2403.13434](http://arxiv.org/abs/2403.13434)|null|
 |**2024-03-20**|**MULAN-WC: Multi-Robot Localization Uncertainty-aware Active NeRF with Wireless Coordination**|Weiying Wang et.al.|[2403.13348](http://arxiv.org/abs/2403.13348)|null|
@@ -615,6 +624,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-03-21**|**MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images**|Yuedong Chen et.al.|[2403.14627](http://arxiv.org/abs/2403.14627)|**[link](https://github.com/donydchen/mvsplat)**|
+|**2024-03-21**|**GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation**|Yinghao Xu et.al.|[2403.14621](http://arxiv.org/abs/2403.14621)|**[link](https://github.com/justimyhxu/grm)**|
+|**2024-03-21**|**Gaussian Frosting: Editable Complex Radiance Fields with Real-Time Rendering**|Antoine Guédon et.al.|[2403.14554](http://arxiv.org/abs/2403.14554)|null|
+|**2024-03-21**|**HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression**|Yihang Chen et.al.|[2403.14530](http://arxiv.org/abs/2403.14530)|**[link](https://github.com/yihangchen-ee/hac)**|
+|**2024-03-21**|**SyncTweedies: A General Generative Framework Based on Synchronized Diffusions**|Jaihoon Kim et.al.|[2403.14370](http://arxiv.org/abs/2403.14370)|null|
+|**2024-03-21**|**Isotropic Gaussian Splatting for Real-Time Radiance Field Rendering**|Yuanhao Gong et.al.|[2403.14244](http://arxiv.org/abs/2403.14244)|null|
+|**2024-03-21**|**Mini-Splatting: Representing Scenes with a Constrained Number of Gaussians**|Guangchi Fang et.al.|[2403.14166](http://arxiv.org/abs/2403.14166)|null|
 |**2024-03-20**|**RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS**|Michael Niemeyer et.al.|[2403.13806](http://arxiv.org/abs/2403.13806)|null|
 |**2024-03-20**|**Gaussian Splatting on the Move: Blur and Rolling Shutter Compensation for Natural Camera Motion**|Otto Seiskari et.al.|[2403.13327](http://arxiv.org/abs/2403.13327)|null|
 |**2024-03-19**|**GVGEN: Text-to-3D Generation with Volumetric Representation**|Xianglong He et.al.|[2403.12957](http://arxiv.org/abs/2403.12957)|null|
@@ -816,6 +832,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-03-21**|**ODTFormer: Efficient Obstacle Detection and Tracking with Stereo Cameras Based on Transformer**|Tianye Ding et.al.|[2403.14626](http://arxiv.org/abs/2403.14626)|null|
+|**2024-03-21**|**Superpower E-Beam Sources and Performance Estimates for Compact THz FELs**|Richard B. True et.al.|[2403.14546](http://arxiv.org/abs/2403.14546)|null|
+|**2024-03-21**|**Exploring 3D Human Pose Estimation and Forecasting from the Robot's Perspective: The HARPER Dataset**|Andrea Avogaro. Andrea Toaiari et.al.|[2403.14447](http://arxiv.org/abs/2403.14447)|null|
+|**2024-03-21**|**A theoretic analysis of magnetoactive GES-based turbulent solar plasma instability**|Souvik Das et.al.|[2403.14182](http://arxiv.org/abs/2403.14182)|null|
 |**2024-03-20**|**Experience gained about Resistive Plate Chambers ageing from the ALICE Muon TRigger/IDentifier detector**|Alessandro Ferretti et.al.|[2403.13618](http://arxiv.org/abs/2403.13618)|null|
 |**2024-03-20**|**Record-high Anomalous Ettingshausen effect in a micron-sized magnetic Weyl semimetal on-chip cooler**|Mohammadali Razeghi et.al.|[2403.13598](http://arxiv.org/abs/2403.13598)|null|
 |**2024-03-20**|**FACT: Fast and Active Coordinate Initialization for Vision-based Drone Swarms**|Yuan Li et.al.|[2403.13455](http://arxiv.org/abs/2403.13455)|null|
