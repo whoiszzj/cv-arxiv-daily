@@ -1,4 +1,4 @@
-## Updated on 2024.05.06
+## Updated on 2024.05.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,9 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-05-03**|**WateRF: Robust Watermarks in Radiance Fields for Protection of Copyrights**|Youngdong Jang et.al.|[2405.02066](http://arxiv.org/abs/2405.02066)|null|
 |**2024-05-02**|**Multi-view Action Recognition via Directed Gromov-Wasserstein Discrepancy**|Hoang-Quan Nguyen et.al.|[2405.01337](http://arxiv.org/abs/2405.01337)|null|
 |**2024-05-02**|**NeRF in Robotics: A Survey**|Guangming Wang et.al.|[2405.01333](http://arxiv.org/abs/2405.01333)|null|
-|**2024-05-01**|**DiL-NeRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900](http://arxiv.org/abs/2405.00900)|null|
+|**2024-05-04**|**LidaRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900](http://arxiv.org/abs/2405.00900)|null|
 |**2024-05-01**|**Depth Priors in Removal Neural Radiance Fields**|Zhihao Guo et.al.|[2405.00630](http://arxiv.org/abs/2405.00630)|null|
 |**2024-05-01**|**NeRF-Guided Unsupervised Learning of RGB-D Registration**|Zhinan Yu et.al.|[2405.00507](http://arxiv.org/abs/2405.00507)|null|
 |**2024-05-01**|**Implicit Swept Volume SDF: Enabling Continuous Collision-Free Trajectory Generation for Arbitrary Shapes**|Jingping Wang et.al.|[2405.00362](http://arxiv.org/abs/2405.00362)|null|
@@ -775,12 +776,14 @@
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639](http://arxiv.org/abs/2309.12639)|null|
 
-<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240507>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-05-03**|**DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos**|Wen-Hsuan Chu et.al.|[2405.02280](http://arxiv.org/abs/2405.02280)|null|
+|**2024-05-03**|**HoloGS: Instant Depth-based 3D Gaussian Splatting with Microsoft HoloLens 2**|Miriam Jäger et.al.|[2405.02005](http://arxiv.org/abs/2405.02005)|null|
 |**2024-05-02**|**Efficient Data-driven Scene Simulation using Robotic Surgery Videos via Physics-embedded 3D Gaussians**|Zhenya Yang et.al.|[2405.00956](http://arxiv.org/abs/2405.00956)|null|
 |**2024-05-01**|**Spectrally Pruned Gaussian Fields with Neural Compensation**|Runyi Yang et.al.|[2405.00676](http://arxiv.org/abs/2405.00676)|**[link](https://github.com/runyiyang/sundae)**|
 |**2024-05-01**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706](http://arxiv.org/abs/2404.19706)|null|
@@ -1088,12 +1091,15 @@
 |**2023-10-16**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 
-<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240507>back to top</a>)</p>
 
 ## MVS
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-05-03**|**Water Structure and Electric Fields at the Interface of Oil Droplets**|Lixue Shi et.al.|[2405.02207](http://arxiv.org/abs/2405.02207)|null|
+|**2024-05-03**|**Histogram-Based Federated XGBoost using Minimal Variance Sampling for Federated Tabular Data**|William Lindskog et.al.|[2405.02067](http://arxiv.org/abs/2405.02067)|null|
+|**2024-05-02**|**ShadowNav: Autonomous Global Localization for Lunar Navigation in Darkness**|Deegan Atha et.al.|[2405.01673](http://arxiv.org/abs/2405.01673)|null|
 |**2024-05-02**|**Improved weak convergence for the long time simulation of Mean-field Langevin equations**|Xingyuan Chen et.al.|[2405.01346](http://arxiv.org/abs/2405.01346)|null|
 |**2024-05-02**|**Sports Analysis and VR Viewing System Based on Player Tracking and Pose Estimation with Multimodal and Multiview Sensors**|Wenxuan Guo et.al.|[2405.01112](http://arxiv.org/abs/2405.01112)|null|
 |**2024-05-02**|**Efficient Data-driven Scene Simulation using Robotic Surgery Videos via Physics-embedded 3D Gaussians**|Zhenya Yang et.al.|[2405.00956](http://arxiv.org/abs/2405.00956)|null|
@@ -1458,12 +1464,13 @@
 |**2023-10-06**|**Rotation of a Stealth CME on 2012 October 5 Observed in the Inner Heliosphere**|Sandeep Kumar et.al.|[2310.04023](http://arxiv.org/abs/2310.04023)|null|
 |**2023-10-05**|**Design Methodology for a Medium Voltage Single Stage LLC Resonant Solar PV Inverter**|Parthkumar Bhuvela et.al.|[2310.03834](http://arxiv.org/abs/2310.03834)|null|
 
-<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240507>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-05-03**|**HoloGS: Instant Depth-based 3D Gaussian Splatting with Microsoft HoloLens 2**|Miriam Jäger et.al.|[2405.02005](http://arxiv.org/abs/2405.02005)|null|
 |**2024-04-25**|**The MAGPI Survey: Evolution of radial trends in star formation activity across cosmic time**|Marcie Mun et.al.|[2404.16319](http://arxiv.org/abs/2404.16319)|null|
 |**2024-04-23**|**FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent**|Cameron Smith et.al.|[2404.15259](http://arxiv.org/abs/2404.15259)|**[link](https://github.com/dcharatan/flowmap)**|
 |**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351](http://arxiv.org/abs/2404.14351)|null|
@@ -1547,5 +1554,5 @@
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
-<p align=right>(<a href=#updated-on-20240506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240507>back to top</a>)</p>
 

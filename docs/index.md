@@ -2,14 +2,15 @@
 layout: default
 ---
 
-## Updated on 2024.05.06
+## Updated on 2024.05.07
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-05-03**|**WateRF: Robust Watermarks in Radiance Fields for Protection of Copyrights**|Youngdong Jang et.al.|[2405.02066](http://arxiv.org/abs/2405.02066)|null|
 |**2024-05-02**|**Multi-view Action Recognition via Directed Gromov-Wasserstein Discrepancy**|Hoang-Quan Nguyen et.al.|[2405.01337](http://arxiv.org/abs/2405.01337)|null|
 |**2024-05-02**|**NeRF in Robotics: A Survey**|Guangming Wang et.al.|[2405.01333](http://arxiv.org/abs/2405.01333)|null|
-|**2024-05-01**|**DiL-NeRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900](http://arxiv.org/abs/2405.00900)|null|
+|**2024-05-04**|**LidaRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900](http://arxiv.org/abs/2405.00900)|null|
 |**2024-05-01**|**Depth Priors in Removal Neural Radiance Fields**|Zhihao Guo et.al.|[2405.00630](http://arxiv.org/abs/2405.00630)|null|
 |**2024-05-01**|**NeRF-Guided Unsupervised Learning of RGB-D Registration**|Zhinan Yu et.al.|[2405.00507](http://arxiv.org/abs/2405.00507)|null|
 |**2024-05-01**|**Implicit Swept Volume SDF: Enabling Continuous Collision-Free Trajectory Generation for Arbitrary Shapes**|Jingping Wang et.al.|[2405.00362](http://arxiv.org/abs/2405.00362)|null|
@@ -794,6 +795,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-05-03**|**DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos**|Wen-Hsuan Chu et.al.|[2405.02280](http://arxiv.org/abs/2405.02280)|null|
+|**2024-05-03**|**HoloGS: Instant Depth-based 3D Gaussian Splatting with Microsoft HoloLens 2**|Miriam Jäger et.al.|[2405.02005](http://arxiv.org/abs/2405.02005)|null|
 |**2024-05-02**|**Efficient Data-driven Scene Simulation using Robotic Surgery Videos via Physics-embedded 3D Gaussians**|Zhenya Yang et.al.|[2405.00956](http://arxiv.org/abs/2405.00956)|null|
 |**2024-05-01**|**Spectrally Pruned Gaussian Fields with Neural Compensation**|Runyi Yang et.al.|[2405.00676](http://arxiv.org/abs/2405.00676)|**[link](https://github.com/runyiyang/sundae)**|
 |**2024-05-01**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706](http://arxiv.org/abs/2404.19706)|null|
@@ -1105,6 +1108,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-05-03**|**Water Structure and Electric Fields at the Interface of Oil Droplets**|Lixue Shi et.al.|[2405.02207](http://arxiv.org/abs/2405.02207)|null|
+|**2024-05-03**|**Histogram-Based Federated XGBoost using Minimal Variance Sampling for Federated Tabular Data**|William Lindskog et.al.|[2405.02067](http://arxiv.org/abs/2405.02067)|null|
+|**2024-05-02**|**ShadowNav: Autonomous Global Localization for Lunar Navigation in Darkness**|Deegan Atha et.al.|[2405.01673](http://arxiv.org/abs/2405.01673)|null|
 |**2024-05-02**|**Improved weak convergence for the long time simulation of Mean-field Langevin equations**|Xingyuan Chen et.al.|[2405.01346](http://arxiv.org/abs/2405.01346)|null|
 |**2024-05-02**|**Sports Analysis and VR Viewing System Based on Player Tracking and Pose Estimation with Multimodal and Multiview Sensors**|Wenxuan Guo et.al.|[2405.01112](http://arxiv.org/abs/2405.01112)|null|
 |**2024-05-02**|**Efficient Data-driven Scene Simulation using Robotic Surgery Videos via Physics-embedded 3D Gaussians**|Zhenya Yang et.al.|[2405.00956](http://arxiv.org/abs/2405.00956)|null|
@@ -1473,6 +1479,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-05-03**|**HoloGS: Instant Depth-based 3D Gaussian Splatting with Microsoft HoloLens 2**|Miriam Jäger et.al.|[2405.02005](http://arxiv.org/abs/2405.02005)|null|
 |**2024-04-25**|**The MAGPI Survey: Evolution of radial trends in star formation activity across cosmic time**|Marcie Mun et.al.|[2404.16319](http://arxiv.org/abs/2404.16319)|null|
 |**2024-04-23**|**FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent**|Cameron Smith et.al.|[2404.15259](http://arxiv.org/abs/2404.15259)|**[link](https://github.com/dcharatan/flowmap)**|
 |**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351](http://arxiv.org/abs/2404.14351)|null|
