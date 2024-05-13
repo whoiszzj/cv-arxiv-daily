@@ -32,7 +32,7 @@ layout: default
 |**2024-05-04**|**LidaRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900](http://arxiv.org/abs/2405.00900)|null|
 |**2024-05-01**|**Depth Priors in Removal Neural Radiance Fields**|Zhihao Guo et.al.|[2405.00630](http://arxiv.org/abs/2405.00630)|null|
 |**2024-05-01**|**NeRF-Guided Unsupervised Learning of RGB-D Registration**|Zhinan Yu et.al.|[2405.00507](http://arxiv.org/abs/2405.00507)|null|
-|**2024-05-01**|**Implicit Swept Volume SDF: Enabling Continuous Collision-Free Trajectory Generation for Arbitrary Shapes**|Jingping Wang et.al.|[2405.00362](http://arxiv.org/abs/2405.00362)|null|
+|**2024-05-01**|**Implicit Swept Volume SDF: Enabling Continuous Collision-Free Trajectory Generation for Arbitrary Shapes**|Jingping Wang et.al.|[2405.00362](http://arxiv.org/abs/2405.00362)|**[link](https://github.com/zju-fast-lab/implicit-svsdf-planner)**|
 |**2024-05-01**|**NC-SDF: Enhancing Indoor Scene Reconstruction Using Neural SDFs with View-Dependent Normal Compensation**|Ziyi Chen et.al.|[2405.00340](http://arxiv.org/abs/2405.00340)|null|
 |**2024-05-01**|**RTG-SLAM: Real-time 3D Reconstruction at Scale using Gaussian Splatting**|Zhexi Peng et.al.|[2404.19706](http://arxiv.org/abs/2404.19706)|null|
 |**2024-04-30**|**BAD-NEUS: Rapidly converging trajectory stratification**|John Strahan et.al.|[2404.19653](http://arxiv.org/abs/2404.19653)|null|
@@ -245,7 +245,7 @@ layout: default
 |**2024-03-15**|**URS-NeRF: Unordered Rolling Shutter Bundle Adjustment for Neural Radiance Fields**|Bo Xu et.al.|[2403.10119](http://arxiv.org/abs/2403.10119)|null|
 |**2024-03-14**|**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**|Yuhang Zheng et.al.|[2403.09637](http://arxiv.org/abs/2403.09637)|**[link](https://github.com/mrsecant/gaussiangrasper)**|
 |**2024-03-14**|**The NeRFect Match: Exploring NeRF Features for Visual Localization**|Qunjie Zhou et.al.|[2403.09577](http://arxiv.org/abs/2403.09577)|null|
-|**2024-03-14**|**VIRUS-NeRF -- Vision, InfraRed and UltraSonic based Neural Radiance Fields**|Nicolaj Schmid et.al.|[2403.09477](http://arxiv.org/abs/2403.09477)|null|
+|**2024-03-14**|**VIRUS-NeRF -- Vision, InfraRed and UltraSonic based Neural Radiance Fields**|Nicolaj Schmid et.al.|[2403.09477](http://arxiv.org/abs/2403.09477)|**[link](https://github.com/ethz-asl/virus_nerf)**|
 |**2024-03-14**|**3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation**|Frank Zhang et.al.|[2403.09439](http://arxiv.org/abs/2403.09439)|null|
 |**2024-03-14**|**RoDUS: Robust Decomposition of Static and Dynamic Elements in Urban Scenes**|Thang-Anh-Quan Nguyen et.al.|[2403.09419](http://arxiv.org/abs/2403.09419)|null|
 |**2024-03-14**|**PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**|Tianyuan Yuan et.al.|[2403.09079](http://arxiv.org/abs/2403.09079)|**[link](https://github.com/yuantianyuan01/presight)**|
@@ -279,7 +279,7 @@ layout: default
 |**2024-03-04**|**DaReNeRF: Direction-aware Representation for Dynamic Scenes**|Ange Lou et.al.|[2403.02265](http://arxiv.org/abs/2403.02265)|null|
 |**2024-03-04**|**Depth-Guided Robust and Fast Point Cloud Fusion NeRF for Sparse Input Views**|Shuai Guo et.al.|[2403.02063](http://arxiv.org/abs/2403.02063)|null|
 |**2024-03-04**|**AiSDF: Structure-aware Neural Signed Distance Fields in Indoor Scenes**|Jaehoon Jang et.al.|[2403.01861](http://arxiv.org/abs/2403.01861)|null|
-|**2024-03-05**|**3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos**|Jiakai Sun et.al.|[2403.01444](http://arxiv.org/abs/2403.01444)|null|
+|**2024-03-05**|**3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos**|Jiakai Sun et.al.|[2403.01444](http://arxiv.org/abs/2403.01444)|**[link](https://github.com/SJoJoK/3DGStream)**|
 |**2024-03-03**|**Unsigned Orthogonal Distance Fields: An Accurate Neural Implicit Representation for Diverse 3D Shapes**|Yujie Lu et.al.|[2403.01414](http://arxiv.org/abs/2403.01414)|**[link](https://github.com/cscvlab/UODFs)**|
 |**2024-03-02**|**NeRF-VPT: Learning Novel View Representations with Neural Radiance Fields via View Prompt Tuning**|Linsheng Chen et.al.|[2403.01325](http://arxiv.org/abs/2403.01325)|**[link](https://github.com/freedomcls/nerf-vpt)**|
 |**2024-03-02**|**Neural radiance fields-based holography [Invited]**|Minsung Kang et.al.|[2403.01137](http://arxiv.org/abs/2403.01137)|null|
@@ -582,7 +582,7 @@ layout: default
 |**2023-11-30**|**LucidDreaming: Controllable Object-Centric 3D Generation**|Zhaoning Wang et.al.|[2312.00588](http://arxiv.org/abs/2312.00588)|null|
 |**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451](http://arxiv.org/abs/2312.00451)|null|
 |**2023-11-30**|**PyNeRF: Pyramidal Neural Radiance Fields**|Haithem Turki et.al.|[2312.00252](http://arxiv.org/abs/2312.00252)|**[link](https://github.com/hturki/pynerf)**|
-|**2023-11-30**|**SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting**|Haolin Xiong et.al.|[2312.00206](http://arxiv.org/abs/2312.00206)|null|
+|**2023-11-30**|**SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting**|Haolin Xiong et.al.|[2312.00206](http://arxiv.org/abs/2312.00206)|**[link](https://github.com/ForMyCat/SparseGS)**|
 |**2023-11-30**|**Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering**|Tao Lu et.al.|[2312.00109](http://arxiv.org/abs/2312.00109)|**[link](https://github.com/city-super/Scaffold-GS)**|
 |**2023-11-30**|**DiffusionAvatars: Deferred Diffusion for High-fidelity 3D Head Avatars**|Tobias Kirschstein et.al.|[2311.18635](http://arxiv.org/abs/2311.18635)|null|
 |**2023-11-30**|**Contrastive Denoising Score for Text-guided Latent Diffusion Image Editing**|Hyelin Nam et.al.|[2311.18608](http://arxiv.org/abs/2311.18608)|null|
@@ -719,7 +719,7 @@ layout: default
 |**2023-10-18**|**Towards Abdominal 3-D Scene Rendering from Laparoscopy Surgical Videos using NeRFs**|Khoa Tuan Nguyen et.al.|[2310.11645](http://arxiv.org/abs/2310.11645)|null|
 |**2023-10-17**|**Hybrid Trajectory Optimization of Simple Skateboarding Tricks through Contact**|Michael Burgess et.al.|[2310.11599](http://arxiv.org/abs/2310.11599)|null|
 |**2023-10-17**|**Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors**|Pengchong Hu et.al.|[2310.11598](http://arxiv.org/abs/2310.11598)|null|
-|**2023-10-17**|**Seeking Neural Nuggets: Knowledge Transfer in Large Language Models from a Parametric Perspective**|Ming Zhong et.al.|[2310.11451](http://arxiv.org/abs/2310.11451)|null|
+|**2023-10-17**|**Seeking Neural Nuggets: Knowledge Transfer in Large Language Models from a Parametric Perspective**|Ming Zhong et.al.|[2310.11451](http://arxiv.org/abs/2310.11451)|**[link](https://github.com/maszhongming/paraknowtransfer)**|
 |**2023-10-17**|**Towards Generalizable Multi-Camera 3D Object Detection via Perspective Debiasing**|Hao Lu et.al.|[2310.11346](http://arxiv.org/abs/2310.11346)|**[link](https://github.com/envision-research/generalizable-bev)**|
 |**2023-10-17**|**Dual Cognitive Architecture: Incorporating Biases and Multi-Memory Systems for Lifelong Learning**|Shruthi Gowda et.al.|[2310.11341](http://arxiv.org/abs/2310.11341)|**[link](https://github.com/neurai-lab/dn4il-dataset)**|
 |**2023-10-17**|**Source Code Comprehension: A Contemporary Definition and Conceptual Model for Empirical Investigation**|Marvin Wyrich et.al.|[2310.11301](http://arxiv.org/abs/2310.11301)|null|
@@ -981,7 +981,7 @@ layout: default
 |**2024-03-07**|**Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis**|Yuanhao Cai et.al.|[2403.04116](http://arxiv.org/abs/2403.04116)|**[link](https://github.com/caiyuanhao1998/x-gaussian)**|
 |**2024-03-06**|**Online Photon Guiding with 3D Gaussians for Caustics Rendering**|Jiawei Huang et.al.|[2403.03641](http://arxiv.org/abs/2403.03641)|null|
 |**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|null|
-|**2024-03-05**|**3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos**|Jiakai Sun et.al.|[2403.01444](http://arxiv.org/abs/2403.01444)|null|
+|**2024-03-05**|**3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos**|Jiakai Sun et.al.|[2403.01444](http://arxiv.org/abs/2403.01444)|**[link](https://github.com/SJoJoK/3DGStream)**|
 |**2024-02-29**|**3D Gaussian Model for Animation and Texturing**|Xiangzhi Eric Wang et.al.|[2402.19441](http://arxiv.org/abs/2402.19441)|null|
 |**2024-02-27**|**VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction**|Jiaqi Lin et.al.|[2402.17427](http://arxiv.org/abs/2402.17427)|null|
 |**2024-02-26**|**GEA: Reconstructing Expressive 3D Gaussian Avatar from Monocular Video**|Xinqi Liu et.al.|[2402.16607](http://arxiv.org/abs/2402.16607)|null|
@@ -1082,11 +1082,11 @@ layout: default
 |**2023-12-01**|**Gaussian Grouping: Segment and Edit Anything in 3D Scenes**|Mingqiao Ye et.al.|[2312.00732](http://arxiv.org/abs/2312.00732)|**[link](https://github.com/lkeab/gaussian-grouping)**|
 |**2023-11-30**|**MD-Splatting: Learning Metric Deformation from 4D Gaussians in Highly Deformable Scenes**|Bardienus P. Duisterhof et.al.|[2312.00583](http://arxiv.org/abs/2312.00583)|null|
 |**2023-12-01**|**FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting**|Zehao Zhu et.al.|[2312.00451](http://arxiv.org/abs/2312.00451)|null|
-|**2023-11-30**|**SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting**|Haolin Xiong et.al.|[2312.00206](http://arxiv.org/abs/2312.00206)|null|
+|**2023-11-30**|**SparseGS: Real-Time 360° Sparse View Synthesis using Gaussian Splatting**|Haolin Xiong et.al.|[2312.00206](http://arxiv.org/abs/2312.00206)|**[link](https://github.com/ForMyCat/SparseGS)**|
 |**2023-11-30**|**DynMF: Neural Motion Factorization for Real-time Dynamic View Synthesis with 3D Gaussian Splatting**|Agelos Kratimenos et.al.|[2312.00112](http://arxiv.org/abs/2312.00112)|null|
 |**2023-11-30**|**Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering**|Tao Lu et.al.|[2312.00109](http://arxiv.org/abs/2312.00109)|**[link](https://github.com/city-super/Scaffold-GS)**|
 |**2023-11-30**|**Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering**|Yurui Chen et.al.|[2311.18561](http://arxiv.org/abs/2311.18561)|null|
-|**2023-11-30**|**Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding**|Jin-Chuan Shi et.al.|[2311.18482](http://arxiv.org/abs/2311.18482)|null|
+|**2023-11-30**|**Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding**|Jin-Chuan Shi et.al.|[2311.18482](http://arxiv.org/abs/2311.18482)|**[link](https://github.com/buaavrcg/LEGaussians)**|
 |**2023-11-30**|**Compact3D: Compressing Gaussian Splat Radiance Field Models with Vector Quantization**|KL Navaneet et.al.|[2311.18159](http://arxiv.org/abs/2311.18159)|**[link](https://github.com/ucdvision/compact3d)**|
 |**2023-11-29**|**GaussianShader: 3D Gaussian Splatting with Shading Functions for Reflective Surfaces**|Yingwenqi Jiang et.al.|[2311.17977](http://arxiv.org/abs/2311.17977)|null|
 |**2023-11-29**|**HUGS: Human Gaussian Splats**|Muhammed Kocabas et.al.|[2311.17910](http://arxiv.org/abs/2311.17910)|**[link](https://github.com/apple/ml-hugs)**|
@@ -1260,7 +1260,7 @@ layout: default
 |**2024-03-13**|**Content-aware Masked Image Modeling Transformer for Stereo Image Compression**|Xinjie Zhang et.al.|[2403.08505](http://arxiv.org/abs/2403.08505)|null|
 |**2024-03-13**|**Improved Image-based Pose Regressor Models for Underwater Environments**|Luyuan Peng et.al.|[2403.08360](http://arxiv.org/abs/2403.08360)|null|
 |**2024-03-12**|**Robust Synthetic-to-Real Transfer for Stereo Matching**|Jiawei Zhang et.al.|[2403.07705](http://arxiv.org/abs/2403.07705)|**[link](https://github.com/jiaw-z/dkt-stereo)**|
-|**2024-03-12**|**Stereo-NEC: Enhancing Stereo Visual-Inertial SLAM Initialization with Normal Epipolar Constraints**|Weihan Wang et.al.|[2403.07225](http://arxiv.org/abs/2403.07225)|null|
+|**2024-03-12**|**Stereo-NEC: Enhancing Stereo Visual-Inertial SLAM Initialization with Normal Epipolar Constraints**|Weihan Wang et.al.|[2403.07225](http://arxiv.org/abs/2403.07225)|**[link](https://github.com/apdowjn/stereo-nec)**|
 |**2024-03-11**|**Aggregated distribution grid flexibilities in subtransmission grid operational management**|Neelotpal Majumdar et.al.|[2403.06635](http://arxiv.org/abs/2403.06635)|null|
 |**2024-03-11**|**Search for a new charged particle in the mass range of 2-100 MeV**|M. H. Anikina et.al.|[2403.06628](http://arxiv.org/abs/2403.06628)|null|
 |**2024-03-11**|**Reconstructing Visual Stimulus Images from EEG Signals Based on Deep Visual Representation Model**|Hongguang Pan et.al.|[2403.06532](http://arxiv.org/abs/2403.06532)|null|
@@ -1434,7 +1434,7 @@ layout: default
 |**2023-11-30**|**Fool the Hydra: Adversarial Attacks against Multi-view Object Detection Systems**|Bilel Tarchoun et.al.|[2312.00173](http://arxiv.org/abs/2312.00173)|null|
 |**2023-11-30**|**An Aliasing-Free Hybrid Digital-Analog Polyphonic Synthesizer**|Jonas Roth et.al.|[2311.18774](http://arxiv.org/abs/2311.18774)|null|
 |**2023-11-30**|**Mid-infrared top-gated Ge/Ge $_{0.82}$Sn$_{0.18}$ nanowire phototransistors**|Lu Luo et.al.|[2311.18569](http://arxiv.org/abs/2311.18569)|null|
-|**2023-11-30**|**Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives**|Kristen Grauman et.al.|[2311.18259](http://arxiv.org/abs/2311.18259)|null|
+|**2023-11-30**|**Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives**|Kristen Grauman et.al.|[2311.18259](http://arxiv.org/abs/2311.18259)|**[link](https://github.com/facebookresearch/Ego4d)**|
 |**2023-11-30**|**Event-based Visual Inertial Velometer**|Xiuyuan Lu et.al.|[2311.18189](http://arxiv.org/abs/2311.18189)|null|
 |**2023-11-29**|**Driving into the Future: Multiview Visual Forecasting and Planning with World Model for Autonomous Driving**|Yuqi Wang et.al.|[2311.17918](http://arxiv.org/abs/2311.17918)|**[link](https://github.com/bravegroup/drive-wm)**|
 |**2023-11-29**|**Volumetric Cloud Field Reconstruction**|Jacob Lin et.al.|[2311.17657](http://arxiv.org/abs/2311.17657)|null|
