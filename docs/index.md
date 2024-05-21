@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -832,6 +832,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-05-17**|**ART3D: 3D Gaussian Splatting for Text-Guided Artistic Scenes Generation**|Pengzhi Li et.al.|[2405.10508](http://arxiv.org/abs/2405.10508)|null|
 |**2024-05-16**|**GS-Planner: A Gaussian-Splatting-based Planning Framework for Active High-Fidelity Reconstruction**|Rui Jin et.al.|[2405.10142](http://arxiv.org/abs/2405.10142)|null|
 |**2024-05-15**|**From NeRFs to Gaussian Splats, and Back**|Siming He et.al.|[2405.09717](http://arxiv.org/abs/2405.09717)|**[link](https://github.com/grasp-lyrl/nerftogsandback)**|
 |**2024-05-13**|**GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting**|Haodong Chen et.al.|[2405.07472](http://arxiv.org/abs/2405.07472)|null|
@@ -1161,6 +1162,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-05-17**|**Monitoring electrochemical dynamics through single-molecule imaging of hBN surface emitters in organic solvents**|Eveline Mayner et.al.|[2405.10686](http://arxiv.org/abs/2405.10686)|null|
 |**2024-05-16**|**JIGGLE: An Active Sensing Framework for Boundary Parameters Estimation in Deformable Surgical Environments**|Nikhil Uday Shinde et.al.|[2405.09743](http://arxiv.org/abs/2405.09743)|null|
 |**2024-05-15**|**Classifying geospatial objects from multiview aerial imagery using semantic meshes**|David Russell et.al.|[2405.09544](http://arxiv.org/abs/2405.09544)|null|
 |**2024-05-15**|**Comparative Performance of Fluorite-Structured Materials for Nanosupercapacitor Applications**|Grégoire Magagnin et.al.|[2405.09345](http://arxiv.org/abs/2405.09345)|null|

@@ -1,4 +1,4 @@
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -813,12 +813,13 @@
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639](http://arxiv.org/abs/2309.12639)|null|
 
-<p align=right>(<a href=#updated-on-20240520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-05-17**|**ART3D: 3D Gaussian Splatting for Text-Guided Artistic Scenes Generation**|Pengzhi Li et.al.|[2405.10508](http://arxiv.org/abs/2405.10508)|null|
 |**2024-05-16**|**GS-Planner: A Gaussian-Splatting-based Planning Framework for Active High-Fidelity Reconstruction**|Rui Jin et.al.|[2405.10142](http://arxiv.org/abs/2405.10142)|null|
 |**2024-05-15**|**From NeRFs to Gaussian Splats, and Back**|Siming He et.al.|[2405.09717](http://arxiv.org/abs/2405.09717)|**[link](https://github.com/grasp-lyrl/nerftogsandback)**|
 |**2024-05-13**|**GaussianVTON: 3D Human Virtual Try-ON via Multi-Stage Gaussian Splatting Editing with Image Prompting**|Haodong Chen et.al.|[2405.07472](http://arxiv.org/abs/2405.07472)|null|
@@ -1144,12 +1145,13 @@
 |**2023-10-16**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 
-<p align=right>(<a href=#updated-on-20240520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
 
 ## MVS
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-05-17**|**Monitoring electrochemical dynamics through single-molecule imaging of hBN surface emitters in organic solvents**|Eveline Mayner et.al.|[2405.10686](http://arxiv.org/abs/2405.10686)|null|
 |**2024-05-16**|**JIGGLE: An Active Sensing Framework for Boundary Parameters Estimation in Deformable Surgical Environments**|Nikhil Uday Shinde et.al.|[2405.09743](http://arxiv.org/abs/2405.09743)|null|
 |**2024-05-15**|**Classifying geospatial objects from multiview aerial imagery using semantic meshes**|David Russell et.al.|[2405.09544](http://arxiv.org/abs/2405.09544)|null|
 |**2024-05-15**|**Comparative Performance of Fluorite-Structured Materials for Nanosupercapacitor Applications**|Grégoire Magagnin et.al.|[2405.09345](http://arxiv.org/abs/2405.09345)|null|
@@ -1537,7 +1539,7 @@
 |**2023-10-06**|**Rotation of a Stealth CME on 2012 October 5 Observed in the Inner Heliosphere**|Sandeep Kumar et.al.|[2310.04023](http://arxiv.org/abs/2310.04023)|null|
 |**2023-10-05**|**Design Methodology for a Medium Voltage Single Stage LLC Resonant Solar PV Inverter**|Parthkumar Bhuvela et.al.|[2310.03834](http://arxiv.org/abs/2310.03834)|null|
 
-<p align=right>(<a href=#updated-on-20240520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
 
 ## SFM
 
@@ -1633,5 +1635,5 @@
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
-<p align=right>(<a href=#updated-on-20240520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
 
