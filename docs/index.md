@@ -2,11 +2,20 @@
 layout: default
 ---
 
-## Updated on 2024.05.29
+## Updated on 2024.05.30
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-05-28**|**NeRAF: 3D Scene Infused Neural Radiance and Acoustic Fields**|Amandine Brunetto et.al.|[2405.18213](http://arxiv.org/abs/2405.18213)|null|
+|**2024-05-28**|**Self-Supervised Dual Contouring**|Ramana Sundararaman et.al.|[2405.18131](http://arxiv.org/abs/2405.18131)|null|
+|**2024-05-28**|**FlowSDF: Flow Matching for Medical Image Segmentation Using Distance Transforms**|Lea Bogensperger et.al.|[2405.18087](http://arxiv.org/abs/2405.18087)|null|
+|**2024-05-28**|**RT-GS2: Real-Time Generalizable Semantic Segmentation for 3D Gaussian Representations of Radiance Fields**|Mihnea-Bogdan Jurca et.al.|[2405.18033](http://arxiv.org/abs/2405.18033)|null|
+|**2024-05-28**|**Self-supervised Pre-training for Transferable Multi-modal Perception**|Xiaohao Xu et.al.|[2405.17942](http://arxiv.org/abs/2405.17942)|null|
+|**2024-05-28**|**A Refined 3D Gaussian Representation for High-Quality Dynamic Scene Reconstruction**|Bin Zhang et.al.|[2405.17891](http://arxiv.org/abs/2405.17891)|null|
+|**2024-05-29**|**HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction**|Haoyu Zhao et.al.|[2405.17872](http://arxiv.org/abs/2405.17872)|null|
+|**2024-05-28**|**Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**|Xiangjun Gao et.al.|[2405.17811](http://arxiv.org/abs/2405.17811)|null|
+|**2024-05-29**|**DC-Gaussian: Improving 3D Gaussian Splatting for Reflective Dash Cam Videos**|Linhan Wang et.al.|[2405.17705](http://arxiv.org/abs/2405.17705)|null|
 |**2024-05-27**|**Memorize What Matters: Emergent Scene Decomposition from Multitraverse**|Yiming Li et.al.|[2405.17187](http://arxiv.org/abs/2405.17187)|null|
 |**2024-05-28**|**F-3DGS: Factorized Coordinates and Representations for 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2405.17083](http://arxiv.org/abs/2405.17083)|null|
 |**2024-05-27**|**Part123: Part-aware 3D Reconstruction from a Single-view Image**|Anran Liu et.al.|[2405.16888](http://arxiv.org/abs/2405.16888)|null|
@@ -867,6 +876,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-05-28**|**GFlow: Recovering 4D World from Monocular Video**|Shizun Wang et.al.|[2405.18426](http://arxiv.org/abs/2405.18426)|null|
+|**2024-05-28**|**3DitScene: Editing Any Scene via Language-guided Disentangled Gaussian Splatting**|Qihang Zhang et.al.|[2405.18424](http://arxiv.org/abs/2405.18424)|null|
+|**2024-05-28**|**3D StreetUnveiler with Semantic-Aware 2DGS**|Jingwei Xu et.al.|[2405.18416](http://arxiv.org/abs/2405.18416)|null|
+|**2024-05-28**|**NegGS: Negative Gaussian Splatting**|Artur Kasymov et.al.|[2405.18163](http://arxiv.org/abs/2405.18163)|null|
+|**2024-05-28**|**A Grid-Free Fluid Solver based on Gaussian Spatial Representation**|Jingrui Xing et.al.|[2405.18133](http://arxiv.org/abs/2405.18133)|null|
+|**2024-05-28**|**EG4D: Explicit Generation of 4D Object without Score Distillation**|Qi Sun et.al.|[2405.18132](http://arxiv.org/abs/2405.18132)|null|
+|**2024-05-28**|**RT-GS2: Real-Time Generalizable Semantic Segmentation for 3D Gaussian Representations of Radiance Fields**|Mihnea-Bogdan Jurca et.al.|[2405.18033](http://arxiv.org/abs/2405.18033)|null|
+|**2024-05-28**|**FreeSplat: Generalizable 3D Gaussian Splatting Towards Free-View Synthesis of Indoor Scenes**|Yunsong Wang et.al.|[2405.17958](http://arxiv.org/abs/2405.17958)|**[link](https://github.com/wangys16/freesplat)**|
+|**2024-05-28**|**A Refined 3D Gaussian Representation for High-Quality Dynamic Scene Reconstruction**|Bin Zhang et.al.|[2405.17891](http://arxiv.org/abs/2405.17891)|null|
+|**2024-05-29**|**HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction**|Haoyu Zhao et.al.|[2405.17872](http://arxiv.org/abs/2405.17872)|null|
 |**2024-05-27**|**GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction**|Yuanhui Huang et.al.|[2405.17429](http://arxiv.org/abs/2405.17429)|**[link](https://github.com/huang-yh/gaussianformer)**|
 |**2024-05-27**|**MoSca: Dynamic Gaussian Fusion from Casual Videos via 4D Motion Scaffolds**|Jiahui Lei et.al.|[2405.17421](http://arxiv.org/abs/2405.17421)|null|
 |**2024-05-27**|**DOF-GS: Adjustable Depth-of-Field 3D Gaussian Splatting for Refocusing,Defocus Rendering and Blur Removal**|Yujie Wang et.al.|[2405.17351](http://arxiv.org/abs/2405.17351)|null|
@@ -1236,6 +1255,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-05-28**|**Batch VUV4 Characterization for the SBC-LAr10 scintillating bubble chamber**|H. Hawley-Herrera et.al.|[2405.18403](http://arxiv.org/abs/2405.18403)|null|
+|**2024-05-28**|**A Calibration Tool for Refractive Underwater Vision**|Felix Seegräber et.al.|[2405.18018](http://arxiv.org/abs/2405.18018)|null|
+|**2024-05-28**|**FreeSplat: Generalizable 3D Gaussian Splatting Towards Free-View Synthesis of Indoor Scenes**|Yunsong Wang et.al.|[2405.17958](http://arxiv.org/abs/2405.17958)|**[link](https://github.com/wangys16/freesplat)**|
 |**2024-05-27**|**EF-Calib: Spatiotemporal Calibration of Event- and Frame-Based Cameras Using Continuous-Time Trajectories**|Shaoan Wang et.al.|[2405.17278](http://arxiv.org/abs/2405.17278)|**[link](https://github.com/wsakobe/ef-calib)**|
 |**2024-05-27**|**SDL-MVS: View Space and Depth Deformable Learning Paradigm for Multi-View Stereo Reconstruction in Remote Sensing**|Yong-Qiang Mao et.al.|[2405.17140](http://arxiv.org/abs/2405.17140)|null|
 |**2024-05-27**|**Part123: Part-aware 3D Reconstruction from a Single-view Image**|Anran Liu et.al.|[2405.16888](http://arxiv.org/abs/2405.16888)|null|
@@ -1651,11 +1673,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
-|**2024-05-28**|**3D Reconstruction with Fast Dipole Sums**|Hanyu Chen et.al.|[2405.16788](http://arxiv.org/abs/2405.16788)|null|
+|**2024-05-29**|**3D Reconstruction with Fast Dipole Sums**|Hanyu Chen et.al.|[2405.16788](http://arxiv.org/abs/2405.16788)|null|
 |**2024-05-26**|**MCGMapper: Light-Weight Incremental Structure from Motion and Visual Localization With Planar Markers and Camera Groups**|Yusen Xie et.al.|[2405.16599](http://arxiv.org/abs/2405.16599)|null|
 |**2024-05-26**|**Categorical Flow Matching on Statistical Manifolds**|Chaoran Cheng et.al.|[2405.16441](http://arxiv.org/abs/2405.16441)|null|
 |**2024-05-22**|**Exploring Galaxy Properties of eCALIFA with Contrastive Learning**|G. Martínez-Solaeche et.al.|[2405.13471](http://arxiv.org/abs/2405.13471)|null|
 |**2024-05-23**|**Switched Flow Matching: Eliminating Singularities via Switching ODEs**|Qunxi Zhu et.al.|[2405.11605](http://arxiv.org/abs/2405.11605)|null|
+|**2024-05-28**|**NeRO: Neural Road Surface Reconstruction**|Ruibo Wang et.al.|[2405.10554](http://arxiv.org/abs/2405.10554)|null|
 |**2024-05-15**|**Three Dimensional Spatial Cognition: Bees and Bats**|Robert Worden et.al.|[2405.09413](http://arxiv.org/abs/2405.09413)|null|
 |**2024-05-09**|**Similarity Guided Multimodal Fusion Transformer for Semantic Location Prediction in Social Media**|Zhizhen Zhang et.al.|[2405.05760](http://arxiv.org/abs/2405.05760)|null|
 |**2024-05-09**|**Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment**|Simon Weber et.al.|[2405.05079](http://arxiv.org/abs/2405.05079)|null|
