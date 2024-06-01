@@ -1,4 +1,4 @@
-## Updated on 2024.05.31
+## Updated on 2024.06.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-05-30**|**$\textit{S}^3$ Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323](http://arxiv.org/abs/2405.20323)|**[link](https://github.com/nnanhuang/s3gaussian)**|
+|**2024-05-30**|**TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**|Minghao Guo et.al.|[2405.20283](http://arxiv.org/abs/2405.20283)|null|
+|**2024-05-30**|**NeRF View Synthesis: Subjective Quality Assessment and Objective Metrics Evaluation**|Pedro Martin et.al.|[2405.20078](http://arxiv.org/abs/2405.20078)|null|
+|**2024-05-30**|**IReNe: Instant Recoloring in Neural Radiance Fields**|Alessio Mazzucchelli et.al.|[2405.19876](http://arxiv.org/abs/2405.19876)|null|
+|**2024-05-30**|**Gated Fields: Learning Scene Reconstruction from Gated Videos**|Andrea Ramazzina et.al.|[2405.19819](http://arxiv.org/abs/2405.19819)|null|
+|**2024-05-30**|**Search for the decay $B^{0}\toγγ$ using Belle and Belle II data**|Belle et.al.|[2405.19734](http://arxiv.org/abs/2405.19734)|null|
+|**2024-05-30**|**HINT: Learning Complete Human Neural Representations from Limited Viewpoints**|Alessandro Sanvito et.al.|[2405.19712](http://arxiv.org/abs/2405.19712)|null|
+|**2024-05-30**|**View-Consistent Hierarchical 3D SegmentationUsing Ultrametric Feature Fields**|Haodi He et.al.|[2405.19678](http://arxiv.org/abs/2405.19678)|null|
+|**2024-05-30**|**GaussianRoom: Improving 3D Gaussian Splatting with SDF Guidance and Monocular Cues for Indoor Scene Reconstruction**|Haodong Xiang et.al.|[2405.19671](http://arxiv.org/abs/2405.19671)|null|
 |**2024-05-29**|**DGD: Dynamic 3D Gaussians Distillation**|Isaac Labe et.al.|[2405.19321](http://arxiv.org/abs/2405.19321)|null|
 |**2024-05-29**|**Neural Scene Baking for Permutation Invariant Transparency Rendering with Real-time Global Illumination**|Ziyang Zhang et.al.|[2405.19056](http://arxiv.org/abs/2405.19056)|null|
 |**2024-05-29**|**Measurement of the energy dependence of the $e^+e^- \to B\bar{B}$, $B\bar{B}{}^*$, and $B^*\bar{B}{}^*$ cross sections at Belle~II**|Belle II Collaboration et.al.|[2405.18928](http://arxiv.org/abs/2405.18928)|null|
@@ -862,12 +871,20 @@
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639](http://arxiv.org/abs/2309.12639)|null|
 
-<p align=right>(<a href=#updated-on-20240531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240601>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-05-30**|**$\textit{S}^3$ Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323](http://arxiv.org/abs/2405.20323)|**[link](https://github.com/nnanhuang/s3gaussian)**|
+|**2024-05-30**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen et.al.|[2405.20310](http://arxiv.org/abs/2405.20310)|null|
+|**2024-05-30**|**Object-centric Reconstruction and Tracking of Dynamic Unknown Objects using 3D Gaussian Splatting**|Kuldeep R Barad et.al.|[2405.20104](http://arxiv.org/abs/2405.20104)|null|
+|**2024-05-30**|**PLA4D: Pixel-Level Alignments for Text-to-4D Gaussian Splatting**|Qiaowei Miao et.al.|[2405.19957](http://arxiv.org/abs/2405.19957)|null|
+|**2024-05-30**|**GaussianPrediction: Dynamic 3D Gaussian Prediction for Motion Extrapolation and Free View Synthesis**|Boming Zhao et.al.|[2405.19745](http://arxiv.org/abs/2405.19745)|null|
+|**2024-05-30**|**GaussianRoom: Improving 3D Gaussian Splatting with SDF Guidance and Monocular Cues for Indoor Scene Reconstruction**|Haodong Xiang et.al.|[2405.19671](http://arxiv.org/abs/2405.19671)|null|
+|**2024-05-30**|**Uncertainty-guided Optimal Transport in Depth Supervised Sparse-View 3D Gaussian**|Wei Sun et.al.|[2405.19657](http://arxiv.org/abs/2405.19657)|null|
+|**2024-05-30**|**TAMBRIDGE: Bridging Frame-Centered Tracking and 3D Gaussian Splatting for Enhanced SLAM**|Peifeng Jiang et.al.|[2405.19614](http://arxiv.org/abs/2405.19614)|null|
 |**2024-05-29**|**NPGA: Neural Parametric Gaussian Avatars**|Simon Giebenhain et.al.|[2405.19331](http://arxiv.org/abs/2405.19331)|null|
 |**2024-05-29**|**DGD: Dynamic 3D Gaussians Distillation**|Isaac Labe et.al.|[2405.19321](http://arxiv.org/abs/2405.19321)|null|
 |**2024-05-30**|**$E^{3}$ Gen: Efficient, Expressive and Editable Avatars Generation**|Weitian Zhang et.al.|[2405.19203](http://arxiv.org/abs/2405.19203)|null|
@@ -1247,12 +1264,15 @@
 |**2023-10-16**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 
-<p align=right>(<a href=#updated-on-20240531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240601>back to top</a>)</p>
 
 ## MVS
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-05-30**|**An Ultra-High Vacuum Scanning Tunneling Microscope with Pulse Tube and Joule-Thomson cooling operating at sub-pm z-noise**|Marcus Eßer et.al.|[2405.20187](http://arxiv.org/abs/2405.20187)|null|
+|**2024-05-30**|**Modeling of Nitric Oxide Infrared radiative flux in lower thermosphere: a machine learning perspective**|Dayakrishna Nailwal et.al.|[2405.19801](http://arxiv.org/abs/2405.19801)|null|
+|**2024-05-29**|**Contrasting Multiple Representations with the Multi-Marginal Matching Gap**|Zoe Piran et.al.|[2405.19532](http://arxiv.org/abs/2405.19532)|null|
 |**2024-05-28**|**Track Initialization and Re-Identification for~3D Multi-View Multi-Object Tracking**|Linh Van Ma et.al.|[2405.18606](http://arxiv.org/abs/2405.18606)|**[link](https://github.com/linh-gist/mv-glmb-ab)**|
 |**2024-05-28**|**Batch VUV4 Characterization for the SBC-LAr10 scintillating bubble chamber**|H. Hawley-Herrera et.al.|[2405.18403](http://arxiv.org/abs/2405.18403)|null|
 |**2024-05-28**|**A Calibration Tool for Refractive Underwater Vision**|Felix Seegräber et.al.|[2405.18018](http://arxiv.org/abs/2405.18018)|null|
@@ -1668,7 +1688,7 @@
 |**2023-10-06**|**Rotation of a Stealth CME on 2012 October 5 Observed in the Inner Heliosphere**|Sandeep Kumar et.al.|[2310.04023](http://arxiv.org/abs/2310.04023)|null|
 |**2023-10-05**|**Design Methodology for a Medium Voltage Single Stage LLC Resonant Solar PV Inverter**|Parthkumar Bhuvela et.al.|[2310.03834](http://arxiv.org/abs/2310.03834)|null|
 
-<p align=right>(<a href=#updated-on-20240531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240601>back to top</a>)</p>
 
 ## SFM
 
@@ -1771,5 +1791,5 @@
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
-<p align=right>(<a href=#updated-on-20240531>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240601>back to top</a>)</p>
 
