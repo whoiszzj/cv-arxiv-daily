@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.06.03
+## Updated on 2024.06.04
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-05-31**|**R $^2$ -Gaussian: Rectifying Radiative Gaussian Splatting for Tomographic Reconstruction**|Ruyi Zha et.al.|[2405.20693](http://arxiv.org/abs/2405.20693)|null|
+|**2024-05-31**|**4Diffusion: Multi-view Video Diffusion Model for 4D Generation**|Haiyu Zhang et.al.|[2405.20674](http://arxiv.org/abs/2405.20674)|null|
 |**2024-05-30**|**$\textit{S}^3$ Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323](http://arxiv.org/abs/2405.20323)|**[link](https://github.com/nnanhuang/s3gaussian)**|
 |**2024-05-30**|**TetSphere Splatting: Representing High-Quality Geometry with Lagrangian Volumetric Meshes**|Minghao Guo et.al.|[2405.20283](http://arxiv.org/abs/2405.20283)|null|
 |**2024-05-31**|**NeRF View Synthesis: Subjective Quality Assessment and Objective Metrics Evaluation**|Pedro Martin et.al.|[2405.20078](http://arxiv.org/abs/2405.20078)|null|
@@ -890,6 +892,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-05-31**|**GS-Phong: Meta-Learned 3D Gaussians for Relightable Novel View Synthesis**|Yumeng He et.al.|[2405.20791](http://arxiv.org/abs/2405.20791)|null|
+|**2024-05-31**|**ContextGS: Compact 3D Gaussian Splatting with Anchor Level Context Model**|Yufei Wang et.al.|[2405.20721](http://arxiv.org/abs/2405.20721)|**[link](https://github.com/wyf0912/contextgs)**|
+|**2024-05-31**|**R $^2$ -Gaussian: Rectifying Radiative Gaussian Splatting for Tomographic Reconstruction**|Ruyi Zha et.al.|[2405.20693](http://arxiv.org/abs/2405.20693)|null|
+|**2024-05-31**|**Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation**|Shuzhou Yang et.al.|[2405.20669](http://arxiv.org/abs/2405.20669)|null|
 |**2024-05-30**|**$\textit{S}^3$ Gaussian: Self-Supervised Street Gaussians for Autonomous Driving**|Nan Huang et.al.|[2405.20323](http://arxiv.org/abs/2405.20323)|**[link](https://github.com/nnanhuang/s3gaussian)**|
 |**2024-05-31**|**A Pixel Is Worth More Than One 3D Gaussians in Single-View 3D Reconstruction**|Jianghao Shen et.al.|[2405.20310](http://arxiv.org/abs/2405.20310)|null|
 |**2024-05-30**|**Object-centric Reconstruction and Tracking of Dynamic Unknown Objects using 3D Gaussian Splatting**|Kuldeep R Barad et.al.|[2405.20104](http://arxiv.org/abs/2405.20104)|null|
