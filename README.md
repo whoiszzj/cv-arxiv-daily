@@ -1,4 +1,4 @@
-## Updated on 2024.06.12
+## Updated on 2024.06.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-06-11**|**Neural Gaffer: Relighting Any Object via Diffusion**|Haian Jin et.al.|[2406.07520](http://arxiv.org/abs/2406.07520)|null|
+|**2024-06-11**|**Active Scout: Multi-Target Tracking Using Neural Radiance Fields in Dense Urban Environments**|Christopher D. Hsu et.al.|[2406.07431](http://arxiv.org/abs/2406.07431)|null|
+|**2024-06-11**|**Cinematic Gaussians: Real-Time HDR Radiance Fields with Depth of Field**|Chao Wang et.al.|[2406.07329](http://arxiv.org/abs/2406.07329)|null|
+|**2024-06-11**|**VoxNeuS: Enhancing Voxel-Based Neural Surface Reconstruction via Gradient Interpolation**|Sidun Liu et.al.|[2406.07170](http://arxiv.org/abs/2406.07170)|null|
+|**2024-06-11**|**Generative Lifting of Multiview to 3D from Unknown Pose: Wrapping NeRF inside Diffusion**|Xin Yuan et.al.|[2406.06972](http://arxiv.org/abs/2406.06972)|null|
+|**2024-06-11**|**Neural Visibility Field for Uncertainty-Driven Active Mapping**|Shangjie Xue et.al.|[2406.06948](http://arxiv.org/abs/2406.06948)|null|
 |**2024-06-10**|**IllumiNeRF: 3D Relighting without Inverse Rendering**|Xiaoming Zhao et.al.|[2406.06527](http://arxiv.org/abs/2406.06527)|null|
 |**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526](http://arxiv.org/abs/2406.06526)|null|
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521](http://arxiv.org/abs/2406.06521)|null|
@@ -908,12 +914,14 @@
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639](http://arxiv.org/abs/2309.12639)|null|
 
-<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-06-11**|**Trim 3D Gaussian Splatting for Accurate Geometry Representation**|Lue Fan et.al.|[2406.07499](http://arxiv.org/abs/2406.07499)|null|
+|**2024-06-11**|**Cinematic Gaussians: Real-Time HDR Radiance Fields with Depth of Field**|Chao Wang et.al.|[2406.07329](http://arxiv.org/abs/2406.07329)|null|
 |**2024-06-10**|**GaussianCity: Generative Gaussian Splatting for Unbounded 3D City Generation**|Haozhe Xie et.al.|[2406.06526](http://arxiv.org/abs/2406.06526)|null|
 |**2024-06-10**|**PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction**|Danpeng Chen et.al.|[2406.06521](http://arxiv.org/abs/2406.06521)|null|
 |**2024-06-10**|**MVGamba: Unify 3D Content Generation as State Space Sequence Modeling**|Xuanyu Yi et.al.|[2406.06367](http://arxiv.org/abs/2406.06367)|null|
@@ -1333,12 +1341,18 @@
 |**2023-10-16**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 
-<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
 
 ## MVS
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-06-11**|**NeRSP: Neural 3D Reconstruction for Reflective Objects with Sparse Polarized Images**|Yufei Han et.al.|[2406.07111](http://arxiv.org/abs/2406.07111)|null|
+|**2024-06-11**|**The evolution of coronal shock wave properties and their relation with solar energetic particles**|Manon Jarry et.al.|[2406.07058](http://arxiv.org/abs/2406.07058)|null|
+|**2024-06-11**|**Half Heusler alloy CoVSn as self-supported electrocatalyst for hydrogen evolution reaction**|Deepak Gujjar et.al.|[2406.06981](http://arxiv.org/abs/2406.06981)|null|
+|**2024-06-11**|**Generative Lifting of Multiview to 3D from Unknown Pose: Wrapping NeRF inside Diffusion**|Xin Yuan et.al.|[2406.06972](http://arxiv.org/abs/2406.06972)|null|
+|**2024-06-11**|**Stepwise Regression and Pre-trained Edge for Robust Stereo Matching**|Weiqing Xiao et.al.|[2406.06953](http://arxiv.org/abs/2406.06953)|null|
+|**2024-06-10**|**FlexLoc: Conditional Neural Networks for Zero-Shot Sensor Perspective Invariance in Object Localization with Distributed Multimodal Sensors**|Jason Wu et.al.|[2406.06796](http://arxiv.org/abs/2406.06796)|**[link](https://github.com/nesl/flexloc)**|
 |**2024-06-09**|**Predictors of the Sense of Presence in an Immersive Audio Storytelling Experience, a Mixed Methods Study. PREPRINT**|Isabelle Verhulst et.al.|[2406.05856](http://arxiv.org/abs/2406.05856)|null|
 |**2024-06-09**|**Error analysis of vertical test for CEPC 650 MHz superconducting radio-frequency cavity**|Lingxi Ye et.al.|[2406.05715](http://arxiv.org/abs/2406.05715)|null|
 |**2024-06-07**|**Normal-guided Detail-Preserving Neural Implicit Functions for High-Fidelity 3D Surface Reconstruction**|Aarya Patel et.al.|[2406.04861](http://arxiv.org/abs/2406.04861)|null|
@@ -1776,7 +1790,7 @@
 |**2023-10-06**|**Rotation of a Stealth CME on 2012 October 5 Observed in the Inner Heliosphere**|Sandeep Kumar et.al.|[2310.04023](http://arxiv.org/abs/2310.04023)|null|
 |**2023-10-05**|**Design Methodology for a Medium Voltage Single Stage LLC Resonant Solar PV Inverter**|Parthkumar Bhuvela et.al.|[2310.03834](http://arxiv.org/abs/2310.03834)|null|
 
-<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
 
 ## SFM
 
@@ -1884,5 +1898,5 @@
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
-<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240613>back to top</a>)</p>
 
