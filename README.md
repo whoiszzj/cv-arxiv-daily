@@ -1,4 +1,4 @@
-## Updated on 2024.06.17
+## Updated on 2024.06.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|null|
+|**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111](http://arxiv.org/abs/2406.10111)|null|
+|**2024-06-14**|**D-NPC: Dynamic Neural Point Clouds for Non-Rigid View Synthesis from Monocular Video**|Moritz Kappel et.al.|[2406.10078](http://arxiv.org/abs/2406.10078)|null|
+|**2024-06-14**|**OrientDream: Streamlining Text-to-3D Generation with Explicit Orientation Control**|Yuzhong Huang et.al.|[2406.10000](http://arxiv.org/abs/2406.10000)|null|
+|**2024-06-14**|**dGrasp: NeRF-Informed Implicit Grasp Policies with Supervised Optimization Slopes**|Gergely Sóti et.al.|[2406.09939](http://arxiv.org/abs/2406.09939)|null|
+|**2024-06-14**|**RaNeuS: Ray-adaptive Neural Surface Reconstruction**|Yida Wang et.al.|[2406.09801](http://arxiv.org/abs/2406.09801)|**[link](https://github.com/wangyida/ra-neus)**|
 |**2024-06-13**|**Rethinking Score Distillation as a Bridge Between Image Distributions**|David McAllister et.al.|[2406.09417](http://arxiv.org/abs/2406.09417)|null|
 |**2024-06-13**|**Preserving Identity with Variational Score for General-purpose 3D Editing**|Duong H. Le et.al.|[2406.08953](http://arxiv.org/abs/2406.08953)|null|
 |**2024-06-13**|**Neural NeRF Compression**|Tuan Pham et.al.|[2406.08943](http://arxiv.org/abs/2406.08943)|null|
@@ -928,12 +934,16 @@
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639](http://arxiv.org/abs/2309.12639)|null|
 
-<p align=right>(<a href=#updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|null|
+|**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111](http://arxiv.org/abs/2406.10111)|null|
+|**2024-06-14**|**GradeADreamer: Enhanced Text-to-3D Generation Using Gaussian Splatting and Multi-View Diffusion**|Trapoom Ukarapol et.al.|[2406.09850](http://arxiv.org/abs/2406.09850)|**[link](https://github.com/trapoom555/gradeadreamer)**|
+|**2024-06-14**|**Unified Gaussian Primitives for Scene Representation and Rendering**|Yang Zhou et.al.|[2406.09733](http://arxiv.org/abs/2406.09733)|null|
 |**2024-06-13**|**Modeling Ambient Scene Dynamics for Free-view Synthesis**|Meng-Li Shih et.al.|[2406.09395](http://arxiv.org/abs/2406.09395)|null|
 |**2024-06-13**|**GGHead: Fast and Generalizable 3D Gaussian Heads**|Tobias Kirschstein et.al.|[2406.09377](http://arxiv.org/abs/2406.09377)|null|
 |**2024-06-14**|**AV-GS: Learning Material and Geometry Aware Priors for Novel View Acoustic Synthesis**|Swapnil Bhosale et.al.|[2406.08920](http://arxiv.org/abs/2406.08920)|null|
@@ -1362,12 +1372,15 @@
 |**2023-10-16**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 
-<p align=right>(<a href=#updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
 
 ## MVS
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-06-14**|**Quasinormal modes of slowly-spinning horizonless compact objects**|M. V. S. Saketh et.al.|[2406.10070](http://arxiv.org/abs/2406.10070)|null|
+|**2024-06-14**|**DurLAR: A High-fidelity 128-channel LiDAR Dataset with Panoramic Ambient and Reflectivity Imagery for Multi-modal Autonomous Driving Applications**|Li Li et.al.|[2406.10068](http://arxiv.org/abs/2406.10068)|**[link](https://github.com/l1997i/DurLAR)**|
+|**2024-06-14**|**Learning Multi-view Molecular Representations with Structured and Unstructured Knowledge**|Yizhen Luo et.al.|[2406.09841](http://arxiv.org/abs/2406.09841)|**[link](https://github.com/pharmolix/openbiomed)**|
 |**2024-06-13**|**MuirBench: A Comprehensive Benchmark for Robust Multi-image Understanding**|Fei Wang et.al.|[2406.09411](http://arxiv.org/abs/2406.09411)|null|
 |**2024-06-13**|**LLAVIDAL: Benchmarking Large Language Vision Models for Daily Activities of Living**|Rajatsubhra Chakraborty et.al.|[2406.09390](http://arxiv.org/abs/2406.09390)|null|
 |**2024-06-13**|**Scale-Invariant Monocular Depth Estimation via SSI Depth**|S. Mahdi H. Miangoleh et.al.|[2406.09374](http://arxiv.org/abs/2406.09374)|null|
@@ -1823,12 +1836,13 @@
 |**2023-10-06**|**Rotation of a Stealth CME on 2012 October 5 Observed in the Inner Heliosphere**|Sandeep Kumar et.al.|[2310.04023](http://arxiv.org/abs/2310.04023)|null|
 |**2023-10-05**|**Design Methodology for a Medium Voltage Single Stage LLC Resonant Solar PV Inverter**|Parthkumar Bhuvela et.al.|[2310.03834](http://arxiv.org/abs/2310.03834)|null|
 
-<p align=right>(<a href=#updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-06-14**|**On the Evaluation of Speech Foundation Models for Spoken Language Understanding**|Siddhant Arora et.al.|[2406.10083](http://arxiv.org/abs/2406.10083)|null|
 |**2024-06-12**|**Self-supervised Learning of Neural Implicit Feature Fields for Camera Pose Refinement**|Maxime Pietrantoni et.al.|[2406.08463](http://arxiv.org/abs/2406.08463)|null|
 |**2024-06-12**|**SVSNet+: Enhancing Speaker Voice Similarity Assessment Models with Representations from Speech Foundation Models**|Chun Yin et.al.|[2406.08445](http://arxiv.org/abs/2406.08445)|null|
 |**2024-06-10**|**Lighting Every Darkness with 3DGS: Fast Training and Real-Time Rendering for HDR View Synthesis**|Xin Jin et.al.|[2406.06216](http://arxiv.org/abs/2406.06216)|**[link](https://github.com/srameo/le3d)**|
@@ -1933,5 +1947,5 @@
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
-<p align=right>(<a href=#updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
 
