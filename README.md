@@ -1,4 +1,4 @@
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-06-17**|**LLaNA: Large Language and NeRF Assistant**|Andrea Amaduzzi et.al.|[2406.11840](http://arxiv.org/abs/2406.11840)|null|
+|**2024-06-17**|**Matching Query Image Against Selected NeRF Feature for Efficient and Scalable Localization**|Huaiji Zhou et.al.|[2406.11766](http://arxiv.org/abs/2406.11766)|null|
+|**2024-06-17**|**InterNeRF: Scaling Radiance Fields via Parameter Interpolation**|Clinton Wang et.al.|[2406.11737](http://arxiv.org/abs/2406.11737)|null|
+|**2024-06-17**|**Projecting Radiance Fields to Mesh Surfaces**|Adrian Xuan Wei Lim et.al.|[2406.11570](http://arxiv.org/abs/2406.11570)|null|
+|**2024-06-17**|**NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation**|Niu Guanchen et.al.|[2406.11259](http://arxiv.org/abs/2406.11259)|null|
+|**2024-06-16**|**Learning Relighting and Intrinsic Decomposition in Neural Radiance Fields**|Yixiong Yang et.al.|[2406.11077](http://arxiv.org/abs/2406.11077)|null|
+|**2024-06-15**|**fNeRF: High Quality Radiance Fields from Practical Cameras**|Yi Hua et.al.|[2406.10633](http://arxiv.org/abs/2406.10633)|null|
+|**2024-06-15**|**NeRFDeformer: NeRF Transformation from a Single View via 3D Scene Flows**|Zhenggang Tang et.al.|[2406.10543](http://arxiv.org/abs/2406.10543)|**[link](https://github.com/nerfdeformer/nerfdeformer)**|
+|**2024-06-15**|**Federated Neural Radiance Field for Distributed Intelligence**|Yintian Zhang et.al.|[2406.10474](http://arxiv.org/abs/2406.10474)|null|
+|**2024-06-14**|**Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections**|Jiacong Xu et.al.|[2406.10373](http://arxiv.org/abs/2406.10373)|null|
 |**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|null|
 |**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111](http://arxiv.org/abs/2406.10111)|null|
 |**2024-06-14**|**D-NPC: Dynamic Neural Point Clouds for Non-Rigid View Synthesis from Monocular Video**|Moritz Kappel et.al.|[2406.10078](http://arxiv.org/abs/2406.10078)|null|
@@ -934,12 +944,18 @@
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639](http://arxiv.org/abs/2309.12639)|null|
 
-<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240619>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-06-17**|**RetinaGS: Scalable Training for Dense Scene Rendering with Billion-Scale 3D Gaussians**|Bingling Li et.al.|[2406.11836](http://arxiv.org/abs/2406.11836)|null|
+|**2024-06-18**|**Effective Rank Analysis and Regularization for Enhanced 3D Gaussian Splatting**|Junha Hyung et.al.|[2406.11672](http://arxiv.org/abs/2406.11672)|null|
+|**2024-06-17**|**Projecting Radiance Fields to Mesh Surfaces**|Adrian Xuan Wei Lim et.al.|[2406.11570](http://arxiv.org/abs/2406.11570)|null|
+|**2024-06-16**|**Physically Embodied Gaussian Splatting: A Realtime Correctable World Model for Robotics**|Jad Abou-Chakra et.al.|[2406.10788](http://arxiv.org/abs/2406.10788)|null|
+|**2024-06-14**|**Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections**|Jiacong Xu et.al.|[2406.10373](http://arxiv.org/abs/2406.10373)|null|
+|**2024-06-14**|**L4GM: Large 4D Gaussian Reconstruction Model**|Jiawei Ren et.al.|[2406.10324](http://arxiv.org/abs/2406.10324)|null|
 |**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|null|
 |**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111](http://arxiv.org/abs/2406.10111)|null|
 |**2024-06-14**|**GradeADreamer: Enhanced Text-to-3D Generation Using Gaussian Splatting and Multi-View Diffusion**|Trapoom Ukarapol et.al.|[2406.09850](http://arxiv.org/abs/2406.09850)|**[link](https://github.com/trapoom555/gradeadreamer)**|
@@ -1372,12 +1388,17 @@
 |**2023-10-16**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 
-<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240619>back to top</a>)</p>
 
 ## MVS
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-06-17**|**Joint Linked Component Analysis for Multiview Data**|Lin Xiao et.al.|[2406.11761](http://arxiv.org/abs/2406.11761)|null|
+|**2024-06-17**|**Multispectral Snapshot Image Registration Using Learned Cross Spectral Disparity Estimation and a Deep Guided Occlusion Reconstruction Network**|Frank Sippel et.al.|[2406.11284](http://arxiv.org/abs/2406.11284)|null|
+|**2024-06-17**|**Vid3D: Synthesis of Dynamic 3D Scenes using 2D Video Diffusion**|Rishab Parthasarathy et.al.|[2406.11196](http://arxiv.org/abs/2406.11196)|null|
+|**2024-06-16**|**Rectified Iterative Disparity for Stereo Matching**|Weiqing Xiao et.al.|[2406.10943](http://arxiv.org/abs/2406.10943)|null|
+|**2024-06-14**|**L4GM: Large 4D Gaussian Reconstruction Model**|Jiawei Ren et.al.|[2406.10324](http://arxiv.org/abs/2406.10324)|null|
 |**2024-06-14**|**Quasinormal modes of slowly-spinning horizonless compact objects**|M. V. S. Saketh et.al.|[2406.10070](http://arxiv.org/abs/2406.10070)|null|
 |**2024-06-14**|**DurLAR: A High-fidelity 128-channel LiDAR Dataset with Panoramic Ambient and Reflectivity Imagery for Multi-modal Autonomous Driving Applications**|Li Li et.al.|[2406.10068](http://arxiv.org/abs/2406.10068)|**[link](https://github.com/l1997i/DurLAR)**|
 |**2024-06-14**|**Learning Multi-view Molecular Representations with Structured and Unstructured Knowledge**|Yizhen Luo et.al.|[2406.09841](http://arxiv.org/abs/2406.09841)|**[link](https://github.com/pharmolix/openbiomed)**|
@@ -1836,12 +1857,14 @@
 |**2023-10-06**|**Rotation of a Stealth CME on 2012 October 5 Observed in the Inner Heliosphere**|Sandeep Kumar et.al.|[2310.04023](http://arxiv.org/abs/2310.04023)|null|
 |**2023-10-05**|**Design Methodology for a Medium Voltage Single Stage LLC Resonant Solar PV Inverter**|Parthkumar Bhuvela et.al.|[2310.03834](http://arxiv.org/abs/2310.03834)|null|
 
-<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240619>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-06-17**|**MegaScenes: Scene-Level View Synthesis at Scale**|Joseph Tung et.al.|[2406.11819](http://arxiv.org/abs/2406.11819)|null|
+|**2024-06-15**|**Benchmarking Children's ASR with Supervised and Self-supervised Speech Foundation Models**|Ruchao Fan et.al.|[2406.10507](http://arxiv.org/abs/2406.10507)|**[link](https://github.com/Diamondfan/SPAPL_KidsASR)**|
 |**2024-06-14**|**On the Evaluation of Speech Foundation Models for Spoken Language Understanding**|Siddhant Arora et.al.|[2406.10083](http://arxiv.org/abs/2406.10083)|null|
 |**2024-06-12**|**Self-supervised Learning of Neural Implicit Feature Fields for Camera Pose Refinement**|Maxime Pietrantoni et.al.|[2406.08463](http://arxiv.org/abs/2406.08463)|null|
 |**2024-06-12**|**SVSNet+: Enhancing Speaker Voice Similarity Assessment Models with Representations from Speech Foundation Models**|Chun Yin et.al.|[2406.08445](http://arxiv.org/abs/2406.08445)|null|
@@ -1947,5 +1970,5 @@
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
-<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240619>back to top</a>)</p>
 
