@@ -2,11 +2,17 @@
 layout: default
 ---
 
-## Updated on 2024.06.19
+## Updated on 2024.06.20
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-06-18**|**Latent Intuitive Physics: Learning to Transfer Hidden Physics from A 3D Video**|Xiangming Zhu et.al.|[2406.12769](http://arxiv.org/abs/2406.12769)|null|
+|**2024-06-18**|**Generalization bounds for mixing processes via delayed online-to-PAC conversions**|Baptiste Abeles et.al.|[2406.12600](http://arxiv.org/abs/2406.12600)|null|
+|**2024-06-18**|**Fast Global Localization on Neural Radiance Field**|Mangyu Kong et.al.|[2406.12202](http://arxiv.org/abs/2406.12202)|null|
+|**2024-06-17**|**TutteNet: Injective 3D Deformations by Composition of 2D Mesh Deformations**|Bo Sun et.al.|[2406.12121](http://arxiv.org/abs/2406.12121)|null|
+|**2024-06-17**|**DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**|Letian Wang et.al.|[2406.12095](http://arxiv.org/abs/2406.12095)|null|
+|**2024-06-17**|**Uncertainty modeling for fine-tuned implicit functions**|Anna Susmelj et.al.|[2406.12082](http://arxiv.org/abs/2406.12082)|null|
 |**2024-06-17**|**LLaNA: Large Language and NeRF Assistant**|Andrea Amaduzzi et.al.|[2406.11840](http://arxiv.org/abs/2406.11840)|null|
 |**2024-06-17**|**Matching Query Image Against Selected NeRF Feature for Efficient and Scalable Localization**|Huaiji Zhou et.al.|[2406.11766](http://arxiv.org/abs/2406.11766)|null|
 |**2024-06-17**|**InterNeRF: Scaling Radiance Fields via Parameter Interpolation**|Clinton Wang et.al.|[2406.11737](http://arxiv.org/abs/2406.11737)|null|
@@ -963,6 +969,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-06-18**|**HumanSplat: Generalizable Single-Image Human Gaussian Splatting with Structure Priors**|Panwang Pan et.al.|[2406.12459](http://arxiv.org/abs/2406.12459)|**[link](https://github.com/humansplat/humansplat.github.io)**|
+|**2024-06-17**|**A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets**|Bernhard Kerbl et.al.|[2406.12080](http://arxiv.org/abs/2406.12080)|null|
 |**2024-06-17**|**RetinaGS: Scalable Training for Dense Scene Rendering with Billion-Scale 3D Gaussians**|Bingling Li et.al.|[2406.11836](http://arxiv.org/abs/2406.11836)|null|
 |**2024-06-18**|**Effective Rank Analysis and Regularization for Enhanced 3D Gaussian Splatting**|Junha Hyung et.al.|[2406.11672](http://arxiv.org/abs/2406.11672)|null|
 |**2024-06-17**|**Projecting Radiance Fields to Mesh Surfaces**|Adrian Xuan Wei Lim et.al.|[2406.11570](http://arxiv.org/abs/2406.11570)|null|
@@ -1405,6 +1413,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-06-18**|**Restorer: Solving Multiple Image Restoration Tasks with One Set of Parameters**|Jiawei Mao et.al.|[2406.12587](http://arxiv.org/abs/2406.12587)|null|
+|**2024-06-18**|**Moiré flat bands and antiferroelectric domains in lattice relaxed twisted bilayer hexagonal boron nitride under perpendicular electric fields**|Fengping Li et.al.|[2406.12231](http://arxiv.org/abs/2406.12231)|null|
+|**2024-06-17**|**Inside the Working Mechanism of Meta-generalized Gradient Density Functional Approximations: The Example of Quantum Spin-Hall Insulator 1T`-WTe2**|Li Yin et.al.|[2406.12124](http://arxiv.org/abs/2406.12124)|null|
 |**2024-06-17**|**Joint Linked Component Analysis for Multiview Data**|Lin Xiao et.al.|[2406.11761](http://arxiv.org/abs/2406.11761)|null|
 |**2024-06-17**|**Multispectral Snapshot Image Registration Using Learned Cross Spectral Disparity Estimation and a Deep Guided Occlusion Reconstruction Network**|Frank Sippel et.al.|[2406.11284](http://arxiv.org/abs/2406.11284)|null|
 |**2024-06-17**|**Vid3D: Synthesis of Dynamic 3D Scenes using 2D Video Diffusion**|Rishab Parthasarathy et.al.|[2406.11196](http://arxiv.org/abs/2406.11196)|null|
