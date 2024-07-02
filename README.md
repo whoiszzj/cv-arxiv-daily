@@ -1,4 +1,4 @@
-## Updated on 2024.07.01
+## Updated on 2024.07.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-06-28**|**HouseCrafter: Lifting Floorplans to 3D Scenes with 2D Diffusion Model**|Hieu T. Nguyen et.al.|[2406.20077](http://arxiv.org/abs/2406.20077)|null|
+|**2024-06-28**|**ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**|Ding-Jiun Huang et.al.|[2406.20066](http://arxiv.org/abs/2406.20066)|null|
+|**2024-06-28**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811](http://arxiv.org/abs/2406.19811)|null|
 |**2024-06-27**|**Shorter SPECT Scans Using Self-supervised Coordinate Learning to Synthesize Skipped Projection Views**|Zongyu Li et.al.|[2406.18840](http://arxiv.org/abs/2406.18840)|null|
 |**2024-06-26**|**Trimming the Fat: Efficient Compression of 3D Gaussian Splats through Pruning**|Muhammad Salman Ali et.al.|[2406.18214](http://arxiv.org/abs/2406.18214)|null|
 |**2024-06-26**|**GS-Octree: Octree-based 3D Gaussian Splatting for Robust Object-level 3D Reconstruction Under Strong Lighting**|Jiaze Li et.al.|[2406.18199](http://arxiv.org/abs/2406.18199)|null|
@@ -976,12 +979,15 @@
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639](http://arxiv.org/abs/2309.12639)|null|
 
-<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240702>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-06-28**|**SpotlessSplats: Ignoring Distractors in 3D Gaussian Splatting**|Sara Sabour et.al.|[2406.20055](http://arxiv.org/abs/2406.20055)|null|
+|**2024-06-28**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811](http://arxiv.org/abs/2406.19811)|null|
+|**2024-06-27**|**Lightweight Predictive 3D Gaussian Splats**|Junli Cao et.al.|[2406.19434](http://arxiv.org/abs/2406.19434)|**[link](https://github.com/plumpuddings/lpgs)**|
 |**2024-06-28**|**FAGhead: Fully Animate Gaussian Head from Monocular Videos**|Yixin Xuan et.al.|[2406.19070](http://arxiv.org/abs/2406.19070)|null|
 |**2024-06-26**|**Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos**|Colton Stearns et.al.|[2406.18717](http://arxiv.org/abs/2406.18717)|null|
 |**2024-06-26**|**On Scaling Up 3D Gaussian Splatting Training**|Hexu Zhao et.al.|[2406.18533](http://arxiv.org/abs/2406.18533)|**[link](https://github.com/nyu-systems/grendel-gs)**|
@@ -1443,12 +1449,15 @@
 |**2023-10-16**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 
-<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240702>back to top</a>)</p>
 
 ## MVS
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-06-28**|**Tense logics based on posets**|Ivan Chajda et.al.|[2406.20034](http://arxiv.org/abs/2406.20034)|null|
+|**2024-06-28**|**LightStereo: Channel Boost Is All Your Need for Efficient 2D Cost Aggregation**|Xianda Guo et.al.|[2406.19833](http://arxiv.org/abs/2406.19833)|**[link](https://github.com/xiandaguo/openstereo)**|
+|**2024-06-27**|**Stereo Vision Based Robot for Remote Monitoring with VR Support**|Mohamed Fazil M. S. et.al.|[2406.19498](http://arxiv.org/abs/2406.19498)|null|
 |**2024-06-27**|**Design and First Tests of the Trapped Electrons Experiment T-REX**|Francesco Romano et.al.|[2406.19123](http://arxiv.org/abs/2406.19123)|null|
 |**2024-06-27**|**Retain, Blend, and Exchange: A Quality-aware Spatial-Stereo Fusion Approach for Event Stream Recognition**|Lan Chen et.al.|[2406.18845](http://arxiv.org/abs/2406.18845)|**[link](https://github.com/event-ahu/efv_event_classification)**|
 |**2024-06-26**|**DoubleTake: Geometry Guided Depth Estimation**|Mohamed Sayed et.al.|[2406.18387](http://arxiv.org/abs/2406.18387)|null|
@@ -1932,7 +1941,7 @@
 |**2023-10-06**|**Rotation of a Stealth CME on 2012 October 5 Observed in the Inner Heliosphere**|Sandeep Kumar et.al.|[2310.04023](http://arxiv.org/abs/2310.04023)|null|
 |**2023-10-05**|**Design Methodology for a Medium Voltage Single Stage LLC Resonant Solar PV Inverter**|Parthkumar Bhuvela et.al.|[2310.03834](http://arxiv.org/abs/2310.03834)|null|
 
-<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240702>back to top</a>)</p>
 
 ## SFM
 
@@ -2052,5 +2061,5 @@
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
-<p align=right>(<a href=#updated-on-20240701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240702>back to top</a>)</p>
 
