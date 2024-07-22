@@ -242,7 +242,7 @@
 |**2024-05-21**|**MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**|Hongsheng Wang et.al.|[2405.12806](http://arxiv.org/abs/2405.12806)|null|
 |**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728](http://arxiv.org/abs/2405.12728)|null|
 |**2024-05-22**|**AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field**|Rong Liu et.al.|[2405.12369](http://arxiv.org/abs/2405.12369)|null|
-|**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218](http://arxiv.org/abs/2405.12218)|null|
+|**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218](http://arxiv.org/abs/2405.12218)|**[link](https://github.com/TQTQliu/MVSGaussian)**|
 |**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155](http://arxiv.org/abs/2405.12155)|null|
 |**2024-05-20**|**CoR-GS: Sparse-View 3D Gaussian Splatting via Co-Regularization**|Jiawei Zhang et.al.|[2405.12110](http://arxiv.org/abs/2405.12110)|null|
 |**2024-05-20**|**NPLMV-PS: Neural Point-Light Multi-View Photometric Stereo**|Fotios Logothetis et.al.|[2405.12057](http://arxiv.org/abs/2405.12057)|null|
@@ -410,7 +410,7 @@
 |**2024-04-02**|**Surface Reconstruction from Gaussian Splatting via Novel Stereo Views**|Yaniv Wolf et.al.|[2404.01810](http://arxiv.org/abs/2404.01810)|null|
 |**2024-04-02**|**Efficient 3D Implicit Head Avatar with Mesh-anchored Hash Table Blendshapes**|Ziqian Bai et.al.|[2404.01543](http://arxiv.org/abs/2404.01543)|null|
 |**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400](http://arxiv.org/abs/2404.01400)|null|
-|**2024-04-01**|**NeRF-MAE : Masked AutoEncoders for Self Supervised 3D representation Learning for Neural Radiance Fields**|Muhammad Zubair Irshad et.al.|[2404.01300](http://arxiv.org/abs/2404.01300)|null|
+|**2024-04-01**|**NeRF-MAE : Masked AutoEncoders for Self Supervised 3D representation Learning for Neural Radiance Fields**|Muhammad Zubair Irshad et.al.|[2404.01300](http://arxiv.org/abs/2404.01300)|**[link](https://github.com/zubair-irshad/NeRF-MAE)**|
 |**2024-04-01**|**MagicMirror: Fast and High-Quality Avatar Generation with a Constrained Search Space**|Armand Comas-Massagué et.al.|[2404.01296](http://arxiv.org/abs/2404.01296)|null|
 |**2024-04-02**|**StructLDM: Structured Latent Diffusion for 3D Human Generation**|Tao Hu et.al.|[2404.01241](http://arxiv.org/abs/2404.01241)|null|
 |**2024-04-01**|**Mirror-3DGS: Incorporating Mirror Reflections into 3D Gaussian Splatting**|Jiarui Meng et.al.|[2404.01168](http://arxiv.org/abs/2404.01168)|null|
@@ -466,7 +466,7 @@
 |**2024-03-21**|**SurroundSDF: Implicit 3D Scene Understanding Based on Signed Distance Field**|Lizhe Liu et.al.|[2403.14366](http://arxiv.org/abs/2403.14366)|null|
 |**2024-03-21**|**Isotropic Gaussian Splatting for Real-Time Radiance Field Rendering**|Yuanhao Gong et.al.|[2403.14244](http://arxiv.org/abs/2403.14244)|null|
 |**2024-03-21**|**Surface Reconstruction from Point Clouds via Grid-based Intersection Prediction**|Hui Tian et.al.|[2403.14085](http://arxiv.org/abs/2403.14085)|null|
-|**2024-03-21**|**Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions**|Jiacong Xu et.al.|[2403.14053](http://arxiv.org/abs/2403.14053)|null|
+|**2024-03-21**|**Leveraging Thermal Modality to Enhance Reconstruction in Low-Light Conditions**|Jiacong Xu et.al.|[2403.14053](http://arxiv.org/abs/2403.14053)|**[link](https://github.com/xujiacong/thermal-nerf)**|
 |**2024-03-20**|**High Accuracy Numerical Optimal Control for Rigid Bodies with Patch Contacts through Equivalent Contact Points -- Extended Version**|Christian Dietz et.al.|[2403.13931](http://arxiv.org/abs/2403.13931)|null|
 |**2024-03-20**|**RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS**|Michael Niemeyer et.al.|[2403.13806](http://arxiv.org/abs/2403.13806)|null|
 |**2024-03-20**|**Advancing 6D Pose Estimation in Augmented Reality -- Overcoming Projection Ambiguity with Uncontrolled Imagery**|Mayura Manawadu et.al.|[2403.13434](http://arxiv.org/abs/2403.13434)|null|
@@ -1232,7 +1232,7 @@
 |**2024-05-21**|**Gaussian Control with Hierarchical Semantic Graphs in 3D Human Recovery**|Hongsheng Wang et.al.|[2405.12477](http://arxiv.org/abs/2405.12477)|null|
 |**2024-05-20**|**GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details**|Boqian Li et.al.|[2405.12420](http://arxiv.org/abs/2405.12420)|null|
 |**2024-05-22**|**AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field**|Rong Liu et.al.|[2405.12369](http://arxiv.org/abs/2405.12369)|null|
-|**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218](http://arxiv.org/abs/2405.12218)|null|
+|**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218](http://arxiv.org/abs/2405.12218)|**[link](https://github.com/TQTQliu/MVSGaussian)**|
 |**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155](http://arxiv.org/abs/2405.12155)|null|
 |**2024-05-20**|**CoR-GS: Sparse-View 3D Gaussian Splatting via Co-Regularization**|Jiawei Zhang et.al.|[2405.12110](http://arxiv.org/abs/2405.12110)|null|
 |**2024-05-21**|**Gaussian Head & Shoulders: High Fidelity Neural Upper Body Avatars with Anchor Gaussian Guided Texture Warping**|Tianhao Wu et.al.|[2405.12069](http://arxiv.org/abs/2405.12069)|null|
@@ -1572,7 +1572,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
-|**2024-07-18**|**CookAR: Affordance Augmentations in Wearable AR to Support Kitchen Tool Interactions for People with Low Vision**|Jaewook Lee et.al.|[2407.13515](http://arxiv.org/abs/2407.13515)|null|
+|**2024-07-18**|**CookAR: Affordance Augmentations in Wearable AR to Support Kitchen Tool Interactions for People with Low Vision**|Jaewook Lee et.al.|[2407.13515](http://arxiv.org/abs/2407.13515)|**[link](https://github.com/makeabilitylab/cookar)**|
 |**2024-07-18**|**MIR laser CEP estimation using machine learning concepts in bulk high harmonic generation**|Balázs Nagyillés et.al.|[2407.13512](http://arxiv.org/abs/2407.13512)|null|
 |**2024-07-17**|**Propagation of Interplanetary Shocks in the Heliosphere**|Munkhjargal Lkhagvadorj et.al.|[2407.12689](http://arxiv.org/abs/2407.12689)|null|
 |**2024-07-17**|**Further improvement of medium temperature heat treated SRF cavities for high gradients**|L. Steder et.al.|[2407.12570](http://arxiv.org/abs/2407.12570)|null|
@@ -1593,7 +1593,7 @@
 |**2024-07-09**|**Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images**|Chuanrui Zhang et.al.|[2407.06984](http://arxiv.org/abs/2407.06984)|null|
 |**2024-07-09**|**Computer vision tasks for intelligent aerospace missions: An overview**|Huilin Chen et.al.|[2407.06513](http://arxiv.org/abs/2407.06513)|null|
 |**2024-07-09**|**LuSNAR:A Lunar Segmentation, Navigation and Reconstruction Dataset based on Muti-sensor for Autonomous Exploration**|Jiayi Liu et.al.|[2407.06512](http://arxiv.org/abs/2407.06512)|**[link](https://github.com/autumn999999/lusnar-dataset)**|
-|**2024-07-06**|**Incremental Multiview Point Cloud Registration**|Xiaoya Cheng et.al.|[2407.05021](http://arxiv.org/abs/2407.05021)|null|
+|**2024-07-06**|**Incremental Multiview Point Cloud Registration**|Xiaoya Cheng et.al.|[2407.05021](http://arxiv.org/abs/2407.05021)|**[link](https://github.com/choyaa/incremvr)**|
 |**2024-07-06**|**SID: Stereo Image Dataset for Autonomous Driving in Adverse Conditions**|Zaid A. El-Shair et.al.|[2407.04908](http://arxiv.org/abs/2407.04908)|null|
 |**2024-07-04**|**The SOHO LASCO CME Catalog -- Version 2**|Nat Gopalswamy et.al.|[2407.04165](http://arxiv.org/abs/2407.04165)|null|
 |**2024-07-04**|**High Fidelity Text-Guided Music Generation and Editing via Single-Stage Flow Matching**|Gael Le Lan et.al.|[2407.03648](http://arxiv.org/abs/2407.03648)|null|
@@ -1694,7 +1694,7 @@
 |**2024-05-20**|**MHD modeling of a geoeffective interplanetary CME with the magnetic topology informed by in-situ observations**|E. Provornikova et.al.|[2405.13069](http://arxiv.org/abs/2405.13069)|null|
 |**2024-05-21**|**Cross-spectral Gated-RGB Stereo Depth Estimation**|Samuel Brucker et.al.|[2405.12759](http://arxiv.org/abs/2405.12759)|null|
 |**2024-05-20**|**In-situ Measurements of Dark Photon Dark Matter using Parker Solar Probe: Going beyond the Radio Window**|Haipeng An et.al.|[2405.12285](http://arxiv.org/abs/2405.12285)|null|
-|**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218](http://arxiv.org/abs/2405.12218)|null|
+|**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218](http://arxiv.org/abs/2405.12218)|**[link](https://github.com/TQTQliu/MVSGaussian)**|
 |**2024-05-20**|**NPLMV-PS: Neural Point-Light Multi-View Photometric Stereo**|Fotios Logothetis et.al.|[2405.12057](http://arxiv.org/abs/2405.12057)|null|
 |**2024-05-20**|**Stereo-Knowledge Distillation from dpMV to Dual Pixels for Light Field Video Reconstruction**|Aryan Garg et.al.|[2405.11823](http://arxiv.org/abs/2405.11823)|null|
 |**2024-05-20**|**Distill-then-prune: An Efficient Compression Framework for Real-time Stereo Matching Network on Edge Devices**|Baiyu Pan et.al.|[2405.11809](http://arxiv.org/abs/2405.11809)|null|
@@ -1714,7 +1714,7 @@
 |**2024-05-10**|**MGS-SLAM: Monocular Sparse Tracking and Gaussian Mapping with Depth Smooth Regularization**|Pengcheng Zhu et.al.|[2405.06241](http://arxiv.org/abs/2405.06241)|null|
 |**2024-05-09**|**NGM-SLAM: Gaussian Splatting SLAM with Radiance Field Submap**|Mingrui Li et.al.|[2405.05702](http://arxiv.org/abs/2405.05702)|null|
 |**2024-05-09**|**ASGrasp: Generalizable Transparent Object Reconstruction and Grasping from RGB-D Active Stereo Camera**|Jun Shi et.al.|[2405.05648](http://arxiv.org/abs/2405.05648)|null|
-|**2024-05-09**|**Multi-Level Feature Fusion Network for Lightweight Stereo Image Super-Resolution**|Yunxiang Li et.al.|[2405.05497](http://arxiv.org/abs/2405.05497)|null|
+|**2024-05-09**|**Multi-Level Feature Fusion Network for Lightweight Stereo Image Super-Resolution**|Yunxiang Li et.al.|[2405.05497](http://arxiv.org/abs/2405.05497)|**[link](https://github.com/karoslyx/mffssr)**|
 |**2024-05-08**|**Giant Thermoelectric Response of Fluxons in Superconductors**|Alok Nath Singh et.al.|[2405.05456](http://arxiv.org/abs/2405.05456)|null|
 |**2024-05-08**|**Geometry-Informed Distance Candidate Selection for Adaptive Lightweight Omnidirectional Stereo Vision with Fisheye Images**|Conner Pulling et.al.|[2405.05355](http://arxiv.org/abs/2405.05355)|null|
 |**2024-05-07**|**Cross-Platform Autonomous Control of Minimal Kitaev Chains**|David van Driel et.al.|[2405.04596](http://arxiv.org/abs/2405.04596)|null|
@@ -2132,10 +2132,10 @@
 |**2024-05-26**|**Categorical Flow Matching on Statistical Manifolds**|Chaoran Cheng et.al.|[2405.16441](http://arxiv.org/abs/2405.16441)|null|
 |**2024-05-22**|**Exploring Galaxy Properties of eCALIFA with Contrastive Learning**|G. Martínez-Solaeche et.al.|[2405.13471](http://arxiv.org/abs/2405.13471)|null|
 |**2024-05-23**|**Switched Flow Matching: Eliminating Singularities via Switching ODEs**|Qunxi Zhu et.al.|[2405.11605](http://arxiv.org/abs/2405.11605)|null|
-|**2024-05-28**|**NeRO: Neural Road Surface Reconstruction**|Ruibo Wang et.al.|[2405.10554](http://arxiv.org/abs/2405.10554)|null|
+|**2024-05-28**|**NeRO: Neural Road Surface Reconstruction**|Ruibo Wang et.al.|[2405.10554](http://arxiv.org/abs/2405.10554)|**[link](https://github.com/toeleot/nero)**|
 |**2024-05-15**|**Three Dimensional Spatial Cognition: Bees and Bats**|Robert Worden et.al.|[2405.09413](http://arxiv.org/abs/2405.09413)|null|
 |**2024-05-09**|**Similarity Guided Multimodal Fusion Transformer for Semantic Location Prediction in Social Media**|Zhizhen Zhang et.al.|[2405.05760](http://arxiv.org/abs/2405.05760)|null|
-|**2024-05-09**|**Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment**|Simon Weber et.al.|[2405.05079](http://arxiv.org/abs/2405.05079)|null|
+|**2024-05-09**|**Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment**|Simon Weber et.al.|[2405.05079](http://arxiv.org/abs/2405.05079)|**[link](https://github.com/tum-vision/povar)**|
 |**2024-05-07**|**Novel View Synthesis with Neural Radiance Fields for Industrial Robot Applications**|Markus Hillemann et.al.|[2405.04345](http://arxiv.org/abs/2405.04345)|null|
 |**2024-05-07**|**Non-rigid Structure-from-Motion: Temporally-smooth Procrustean Alignment and Spatially-variant Deformation Modeling**|Jiawei Shi et.al.|[2405.04309](http://arxiv.org/abs/2405.04309)|null|
 |**2024-05-06**|**Transformer-based RGB-T Tracking with Channel and Spatial Feature Fusion**|Yunfeng Li et.al.|[2405.03177](http://arxiv.org/abs/2405.03177)|**[link](https://github.com/liyunfenglyf/cstnet)**|
