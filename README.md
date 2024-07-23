@@ -1,4 +1,4 @@
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,11 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-07-19**|**HOTS3D: Hyper-Spherical Optimal Transport for Semantic Alignment of Text-to-3D Generation**|Zezeng Li et.al.|[2407.14419](http://arxiv.org/abs/2407.14419)|null|
+|**2024-07-19**|**SparseCraft: Few-Shot Neural Reconstruction through Stereopsis Guided Geometric Linearization**|Mae Younes et.al.|[2407.14257](http://arxiv.org/abs/2407.14257)|null|
+|**2024-07-19**|**Regularizing Dynamic Radiance Fields with Kinematic Fields**|Woobin Im et.al.|[2407.14059](http://arxiv.org/abs/2407.14059)|null|
+|**2024-07-19**|**DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays**|Zongyuan Yang et.al.|[2407.14053](http://arxiv.org/abs/2407.14053)|null|
+|**2024-07-19**|**Semantic Communications for 3D Human Face Transmission with Neural Radiance Fields**|Guanlin Wu et.al.|[2407.13992](http://arxiv.org/abs/2407.13992)|null|
 |**2024-07-18**|**EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**|Yuchen Weng et.al.|[2407.13520](http://arxiv.org/abs/2407.13520)|null|
 |**2024-07-18**|**GeometrySticker: Enabling Ownership Claim of Recolorized Neural Radiance Fields**|Xiufeng Huang et.al.|[2407.13390](http://arxiv.org/abs/2407.13390)|null|
 |**2024-07-18**|**Implicit Filtering for Learning Neural Signed Distance Functions from 3D Point Clouds**|Shengtao Li et.al.|[2407.13342](http://arxiv.org/abs/2407.13342)|null|
 |**2024-07-18**|**KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter**|Yifan Zhan et.al.|[2407.13185](http://arxiv.org/abs/2407.13185)|null|
-|**2024-07-18**|**Modeling and Driving Human Body Soundfields through Acoustic Primitives**|Chao Huan et.al.|[2407.13083](http://arxiv.org/abs/2407.13083)|null|
+|**2024-07-20**|**Modeling and Driving Human Body Soundfields through Acoustic Primitives**|Chao Huang et.al.|[2407.13083](http://arxiv.org/abs/2407.13083)|null|
 |**2024-07-17**|**SMooDi: Stylized Motion Diffusion Model**|Lei Zhong et.al.|[2407.12783](http://arxiv.org/abs/2407.12783)|null|
 |**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777](http://arxiv.org/abs/2407.12777)|null|
 |**2024-07-17**|**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**|Yiyang Chen et.al.|[2407.12667](http://arxiv.org/abs/2407.12667)|**[link](https://github.com/iris-cyy/sg-nerf)**|
@@ -1051,13 +1056,17 @@
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639](http://arxiv.org/abs/2309.12639)|null|
 
-<p align=right>(<a href=#updated-on-20240722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
-|**2024-07-18**|**Connecting Consistency Distillation to Score Distillation for Text-to-3D Generation**|Zongrui Li et.al.|[2407.13584](http://arxiv.org/abs/2407.13584)|null|
+|**2024-07-19**|**A Benchmark for Gaussian Splatting Compression and Quality Assessment Study**|Qi Yang et.al.|[2407.14197](http://arxiv.org/abs/2407.14197)|**[link](https://github.com/qi-yangsjtu/ggsc)**|
+|**2024-07-19**|**GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation**|Florian Chabot et.al.|[2407.14108](http://arxiv.org/abs/2407.14108)|null|
+|**2024-07-19**|**DirectL: Efficient Radiance Fields Rendering for 3D Light Field Displays**|Zongyuan Yang et.al.|[2407.14053](http://arxiv.org/abs/2407.14053)|null|
+|**2024-07-19**|**PlacidDreamer: Advancing Harmony in Text-to-3D Generation**|Shuo Huang et.al.|[2407.13976](http://arxiv.org/abs/2407.13976)|**[link](https://github.com/hansenhuang0823/placiddreamer)**|
+|**2024-07-20**|**Connecting Consistency Distillation to Score Distillation for Text-to-3D Generation**|Zongrui Li et.al.|[2407.13584](http://arxiv.org/abs/2407.13584)|null|
 |**2024-07-18**|**EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**|Yuchen Weng et.al.|[2407.13520](http://arxiv.org/abs/2407.13520)|null|
 |**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777](http://arxiv.org/abs/2407.12777)|null|
 |**2024-07-17**|**Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections**|Congrong Xu et.al.|[2407.12306](http://arxiv.org/abs/2407.12306)|null|
@@ -1566,12 +1575,15 @@
 |**2023-10-16**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 
-<p align=right>(<a href=#updated-on-20240722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
 
 ## MVS
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-07-19**|**Stable Audio Open**|Zach Evans et.al.|[2407.14358](http://arxiv.org/abs/2407.14358)|**[link](https://github.com/stability-ai/stable-audio-tools)**|
+|**2024-07-19**|**High strength self-healable supercapacitor based on supramolecular polymer hydrogel with upper critical solubility temperature**|Roman Elashnikov et.al.|[2407.14354](http://arxiv.org/abs/2407.14354)|null|
+|**2024-07-19**|**SparseCraft: Few-Shot Neural Reconstruction through Stereopsis Guided Geometric Linearization**|Mae Younes et.al.|[2407.14257](http://arxiv.org/abs/2407.14257)|null|
 |**2024-07-18**|**CookAR: Affordance Augmentations in Wearable AR to Support Kitchen Tool Interactions for People with Low Vision**|Jaewook Lee et.al.|[2407.13515](http://arxiv.org/abs/2407.13515)|**[link](https://github.com/makeabilitylab/cookar)**|
 |**2024-07-18**|**MIR laser CEP estimation using machine learning concepts in bulk high harmonic generation**|Balázs Nagyillés et.al.|[2407.13512](http://arxiv.org/abs/2407.13512)|null|
 |**2024-07-17**|**Propagation of Interplanetary Shocks in the Heliosphere**|Munkhjargal Lkhagvadorj et.al.|[2407.12689](http://arxiv.org/abs/2407.12689)|null|
@@ -2090,7 +2102,7 @@
 |**2023-10-06**|**Rotation of a Stealth CME on 2012 October 5 Observed in the Inner Heliosphere**|Sandeep Kumar et.al.|[2310.04023](http://arxiv.org/abs/2310.04023)|null|
 |**2023-10-05**|**Design Methodology for a Medium Voltage Single Stage LLC Resonant Solar PV Inverter**|Parthkumar Bhuvela et.al.|[2310.03834](http://arxiv.org/abs/2310.03834)|null|
 
-<p align=right>(<a href=#updated-on-20240722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
 
 ## SFM
 
@@ -2223,5 +2235,5 @@
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
-<p align=right>(<a href=#updated-on-20240722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240723>back to top</a>)</p>
 
