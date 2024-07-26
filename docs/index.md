@@ -2,16 +2,18 @@
 layout: default
 ---
 
-## Updated on 2024.07.25
+## Updated on 2024.07.26
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470](http://arxiv.org/abs/2407.17470)|null|
+|**2024-07-24**|**Determination of $|V_{ub}|$ from simultaneous measurements of untagged $B^0\toπ^- \ell^+ ν_{\ell}$ and $B^+\toρ^0 \ell^+ν_{\ell}$ decays**|Belle II Collaboration et.al.|[2407.17403](http://arxiv.org/abs/2407.17403)|null|
 |**2024-07-23**|**DHGS: Decoupled Hybrid Gaussian Splatting for Driving Scene**|Xi Shi et.al.|[2407.16600](http://arxiv.org/abs/2407.16600)|null|
 |**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503](http://arxiv.org/abs/2407.16503)|null|
 |**2024-07-23**|**DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**|Zizheng Yan et.al.|[2407.16260](http://arxiv.org/abs/2407.16260)|null|
 |**2024-07-22**|**BoostMVSNeRFs: Boosting MVS-based NeRFs to Generalizable View Synthesis in Large-scale Scenes**|Chih-Hai Su et.al.|[2407.15848](http://arxiv.org/abs/2407.15848)|null|
-|**2024-07-22**|**Differentiable Convex Polyhedra Optimization from Multi-view Images**|Daxuan Ren et.al.|[2407.15686](http://arxiv.org/abs/2407.15686)|null|
+|**2024-07-22**|**Differentiable Convex Polyhedra Optimization from Multi-view Images**|Daxuan Ren et.al.|[2407.15686](http://arxiv.org/abs/2407.15686)|**[link](https://github.com/kimren227/diffconvex)**|
 |**2024-07-22**|**SETTP: Style Extraction and Tunable Inference via Dual-level Transferable Prompt Learning**|Chunzhen Jin et.al.|[2407.15556](http://arxiv.org/abs/2407.15556)|null|
 |**2024-07-22**|**Enhancement of 3D Gaussian Splatting using Raw Mesh for Photorealistic Recreation of Architectures**|Ruizhe Wang et.al.|[2407.15435](http://arxiv.org/abs/2407.15435)|null|
 |**2024-07-22**|**ThermalNeRF: Thermal Radiance Fields**|Yvette Y. Lin et.al.|[2407.15337](http://arxiv.org/abs/2407.15337)|null|
@@ -1083,6 +1085,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-07-24**|**3D Gaussian Splatting: Survey, Technologies, Challenges, and Opportunities**|Yanqi Bao et.al.|[2407.17418](http://arxiv.org/abs/2407.17418)|**[link](https://github.com/qqqqqqy0227/awesome-3dgs)**|
 |**2024-07-23**|**DHGS: Decoupled Hybrid Gaussian Splatting for Driving Scene**|Xi Shi et.al.|[2407.16600](http://arxiv.org/abs/2407.16600)|null|
 |**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503](http://arxiv.org/abs/2407.16503)|null|
 |**2024-07-23**|**Integrating Meshes and 3D Gaussians for Indoor Scene Reconstruction with SAM Mask Guidance**|Jiyeop Kim et.al.|[2407.16173](http://arxiv.org/abs/2407.16173)|null|
@@ -1608,6 +1611,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-07-25**|**Monolithic beta-Ga2O3 Bidirectional MOSFET**|Pooja Sharma et.al.|[2407.17263](http://arxiv.org/abs/2407.17263)|null|
+|**2024-07-24**|**Sparse Tensor PCA via Tensor Decomposition for Unsupervised Feature Selection**|Junjing Zheng et.al.|[2407.16985](http://arxiv.org/abs/2407.16985)|**[link](https://github.com/zjj20212035/stpca)**|
 |**2024-07-24**|**FCNR: Fast Compressive Neural Representation of Visualization Images**|Yunfei Lu et.al.|[2407.16369](http://arxiv.org/abs/2407.16369)|**[link](https://github.com/yunfeilu0112/fcnr)**|
 |**2024-07-22**|**Characterization of a modified clinical linear accelerator for ultra-high dose rate electron beam delivery**|Umberto Deut et.al.|[2407.16027](http://arxiv.org/abs/2407.16027)|null|
 |**2024-07-21**|**Improving Prediction of Need for Mechanical Ventilation using Cross-Attention**|Anwesh Mohanty et.al.|[2407.15885](http://arxiv.org/abs/2407.15885)|null|
