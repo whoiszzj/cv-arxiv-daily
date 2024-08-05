@@ -24,7 +24,7 @@ layout: default
 |**2024-07-25**|**Neural Surface Detection for Unsigned Distance Fields**|Federico Stella et.al.|[2407.18381](http://arxiv.org/abs/2407.18381)|null|
 |**2024-07-25**|**StreamMOS: Streaming Moving Object Segmentation with Multi-View Perception and Dual-Span Memory**|Zhiheng Li et.al.|[2407.17905](http://arxiv.org/abs/2407.17905)|**[link](https://github.com/neu-real/streammos)**|
 |**2024-07-24**|**SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency**|Yiming Xie et.al.|[2407.17470](http://arxiv.org/abs/2407.17470)|null|
-|**2024-07-24**|**Determination of $|V_{ub}|$ from simultaneous measurements of untagged $B^0\toπ^- \ell^+ ν_{\ell}$ and $B^+\toρ^0 \ell^+ν_{\ell}$ decays**|Belle II Collaboration et.al.|[2407.17403](http://arxiv.org/abs/2407.17403)|null|
+|**2024-07-24**|**Determination of $|V_{ub}|$ from simultaneous measurements of untagged $B^0\toπ^- \ell^+ ν_{\ell}$ and $B^+\toρ^0 \ell^+ν_{\ell}$ decays**|Belle II Collaboration et.al.|
 |**2024-07-29**|**DHGS: Decoupled Hybrid Gaussian Splatting for Driving Scene**|Xi Shi et.al.|[2407.16600](http://arxiv.org/abs/2407.16600)|null|
 |**2024-07-23**|**HDRSplat: Gaussian Splatting for High Dynamic Range 3D Scene Reconstruction from Raw Images**|Shreyas Singh et.al.|[2407.16503](http://arxiv.org/abs/2407.16503)|**[link](https://github.com/shreyesss/hdrsplat)**|
 |**2024-07-23**|**DreamDissector: Learning Disentangled Text-to-3D Generation from 2D Diffusion Priors**|Zizheng Yan et.al.|[2407.16260](http://arxiv.org/abs/2407.16260)|null|
@@ -432,7 +432,7 @@ layout: default
 |**2024-04-02**|**NeRFCodec: Neural Feature Compression Meets Neural Radiance Fields for Memory-Efficient Scene Representation**|Sicheng Li et.al.|[2404.02185](http://arxiv.org/abs/2404.02185)|null|
 |**2024-04-02**|**Alpha Invariance: On Inverse Scaling Between Distance and Volume Density in Neural Radiance Fields**|Joshua Ahn et.al.|[2404.02155](http://arxiv.org/abs/2404.02155)|null|
 |**2024-04-02**|**Uncertainty-aware Active Learning of NeRF-based Object Models for Robot Manipulators using Visual and Re-orientation Actions**|Saptarshi Dasgupta et.al.|[2404.01812](http://arxiv.org/abs/2404.01812)|null|
-|**2024-04-02**|**Surface Reconstruction from Gaussian Splatting via Novel Stereo Views**|Yaniv Wolf et.al.|[2404.01810](http://arxiv.org/abs/2404.01810)|null|
+|**2024-04-02**|**Surface Reconstruction from Gaussian Splatting via Novel Stereo Views**|Yaniv Wolf et.al.|[2404.01810](http://arxiv.org/abs/2404.01810)|**[link](https://github.com/yanivw12/gs2mesh)**|
 |**2024-04-02**|**Efficient 3D Implicit Head Avatar with Mesh-anchored Hash Table Blendshapes**|Ziqian Bai et.al.|[2404.01543](http://arxiv.org/abs/2404.01543)|null|
 |**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400](http://arxiv.org/abs/2404.01400)|null|
 |**2024-04-01**|**NeRF-MAE : Masked AutoEncoders for Self Supervised 3D representation Learning for Neural Radiance Fields**|Muhammad Zubair Irshad et.al.|[2404.01300](http://arxiv.org/abs/2404.01300)|**[link](https://github.com/zubair-irshad/NeRF-MAE)**|
@@ -923,7 +923,7 @@ layout: default
 |**2023-11-21**|**SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering**|Antoine Guédon et.al.|[2311.12775](http://arxiv.org/abs/2311.12775)|**[link](https://github.com/Anttwo/SuGaR)**|
 |**2023-11-21**|**Hyb-NeRF: A Multiresolution Hybrid Encoding for Neural Radiance Fields**|Yifan Wang et.al.|[2311.12490](http://arxiv.org/abs/2311.12490)|null|
 |**2023-11-20**|**LABELMAKER: Automatic Semantic Label Generation from RGB-D Trajectories**|Silvan Weder et.al.|[2311.12174](http://arxiv.org/abs/2311.12174)|null|
-|**2023-11-18**|**DatasetNeRF: Efficient 3D-aware Data Factory with Generative Radiance Fields**|Yu Chi et.al.|[2311.12063](http://arxiv.org/abs/2311.12063)|null|
+|**2023-11-18**|**DatasetNeRF: Efficient 3D-aware Data Factory with Generative Radiance Fields**|Yu Chi et.al.|[2311.12063](http://arxiv.org/abs/2311.12063)|**[link](https://github.com/genintel/datasetnerf)**|
 |**2023-11-18**|**Towards Function Space Mesh Watermarking: Protecting the Copyright of Signed Distance Fields**|Xingyu Zhu et.al.|[2311.12059](http://arxiv.org/abs/2311.12059)|null|
 |**2023-11-20**|**GP-NeRF: Generalized Perception NeRF for Context-Aware 3D Scene Understanding**|Hao Li et.al.|[2311.11863](http://arxiv.org/abs/2311.11863)|null|
 |**2023-11-20**|**Entangled View-Epipolar Information Aggregation for Generalizable Neural Radiance Fields**|Zhiyuan Min et.al.|[2311.11845](http://arxiv.org/abs/2311.11845)|**[link](https://github.com/tatakai1/evenerf)**|
@@ -1395,7 +1395,7 @@ layout: default
 |**2024-04-04**|**GaSpCT: Gaussian Splatting for Novel CT Projection View Synthesis**|Emmanouil Nikolakakis et.al.|[2404.03126](http://arxiv.org/abs/2404.03126)|null|
 |**2024-04-03**|**TCLC-GS: Tightly Coupled LiDAR-Camera Gaussian Splatting for Surrounding Autonomous Driving Scenes**|Cheng Zhao et.al.|[2404.02410](http://arxiv.org/abs/2404.02410)|null|
 |**2024-04-07**|**Sketch3D: Style-Consistent Guidance for Sketch-to-3D Generation**|Wangguandong Zheng et.al.|[2404.01843](http://arxiv.org/abs/2404.01843)|null|
-|**2024-04-02**|**Surface Reconstruction from Gaussian Splatting via Novel Stereo Views**|Yaniv Wolf et.al.|[2404.01810](http://arxiv.org/abs/2404.01810)|null|
+|**2024-04-02**|**Surface Reconstruction from Gaussian Splatting via Novel Stereo Views**|Yaniv Wolf et.al.|[2404.01810](http://arxiv.org/abs/2404.01810)|**[link](https://github.com/yanivw12/gs2mesh)**|
 |**2024-04-01**|**Feature Splatting: Language-Driven Physics-Based Scene Synthesis and Editing**|Ri-Zhao Qiu et.al.|[2404.01223](http://arxiv.org/abs/2404.01223)|null|
 |**2024-04-01**|**Mirror-3DGS: Incorporating Mirror Reflections into 3D Gaussian Splatting**|Jiarui Meng et.al.|[2404.01168](http://arxiv.org/abs/2404.01168)|null|
 |**2024-04-01**|**CityGaussian: Real-time High-quality Large-Scale Scene Rendering with Gaussians**|Yang Liu et.al.|[2404.01133](http://arxiv.org/abs/2404.01133)|null|
@@ -1875,7 +1875,7 @@ layout: default
 |**2024-04-02**|**CHOSEN: Contrastive Hypothesis Selection for Multi-View Depth Refinement**|Di Qiu et.al.|[2404.02225](http://arxiv.org/abs/2404.02225)|null|
 |**2024-04-02**|**Superionic Fluoride Gate Dielectrics with Low Diffusion Barrier for Advanced Electronics**|Kui Meng et.al.|[2404.02011](http://arxiv.org/abs/2404.02011)|null|
 |**2024-04-02**|**CME Deflection and East-West Asymmetry of ESP Intensity in Solar Cycles 23 and 24**|Adolfo Santa Fe Dueñas et.al.|[2404.01993](http://arxiv.org/abs/2404.01993)|null|
-|**2024-04-02**|**Surface Reconstruction from Gaussian Splatting via Novel Stereo Views**|Yaniv Wolf et.al.|[2404.01810](http://arxiv.org/abs/2404.01810)|null|
+|**2024-04-02**|**Surface Reconstruction from Gaussian Splatting via Novel Stereo Views**|Yaniv Wolf et.al.|[2404.01810](http://arxiv.org/abs/2404.01810)|**[link](https://github.com/yanivw12/gs2mesh)**|
 |**2024-04-02**|**Spin-UP: Spin Light for Natural Light Uncalibrated Photometric Stereo**|Zongrui Li et.al.|[2404.01612](http://arxiv.org/abs/2404.01612)|**[link](https://github.com/LMozart/CVPR2024-SpinUP)**|
 |**2024-03-30**|**Reusable Architecture Growth for Continual Stereo Matching**|Chenghao Zhang et.al.|[2404.00360](http://arxiv.org/abs/2404.00360)|null|
 |**2024-03-30**|**SGDFormer: One-stage Transformer-based Architecture for Cross-Spectral Stereo Image Guided Denoising**|Runmin Zhang et.al.|[2404.00349](http://arxiv.org/abs/2404.00349)|null|
