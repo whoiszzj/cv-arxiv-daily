@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-08-13**|**PBIR-NIE: Glossy Object Capture under Non-Distant Lighting**|Guangyan Cai et.al.|[2408.06878](http://arxiv.org/abs/2408.06878)|null|
+|**2024-08-13**|**SlotLifter: Slot-guided Feature Lifting for Learning Object-centric Radiance Fields**|Yu Liu et.al.|[2408.06697](http://arxiv.org/abs/2408.06697)|null|
+|**2024-08-13**|**Potamoi: Accelerating Neural Rendering via a Unified Streaming Architecture**|Yu Feng et.al.|[2408.06608](http://arxiv.org/abs/2408.06608)|null|
+|**2024-08-13**|**ActiveNeRF: Learning Accurate 3D Geometry by Active Pattern Projection**|Jianyu Tao et.al.|[2408.06592](http://arxiv.org/abs/2408.06592)|**[link](https://github.com/hcp16/active_nerf)**|
+|**2024-08-13**|**HDRGS: High Dynamic Range Gaussian Splatting**|Jiahao Wu et.al.|[2408.06543](http://arxiv.org/abs/2408.06543)|**[link](https://github.com/wujh2001/hdrgs)**|
 |**2024-08-12**|**Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering**|Jiameng Li et.al.|[2408.06286](http://arxiv.org/abs/2408.06286)|null|
 |**2024-08-12**|**3D Reconstruction of Protein Structures from Multi-view AFM Images using Neural Radiance Fields (NeRFs)**|Jaydeep Rade et.al.|[2408.06244](http://arxiv.org/abs/2408.06244)|null|
 |**2024-08-12**|**FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework**|Lukas Meyer et.al.|[2408.06190](http://arxiv.org/abs/2408.06190)|**[link](https://github.com/meyerls/fruitnerf)**|
@@ -1127,13 +1132,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-08-13**|**SpectralGaussians: Semantic, spectral 3D Gaussian splatting for multi-spectral scene representation, visualization and analysis**|Saptarshi Neil Sinha et.al.|[2408.06975](http://arxiv.org/abs/2408.06975)|null|
+|**2024-08-13**|**HDRGS: High Dynamic Range Gaussian Splatting**|Jiahao Wu et.al.|[2408.06543](http://arxiv.org/abs/2408.06543)|**[link](https://github.com/wujh2001/hdrgs)**|
 |**2024-08-12**|**Mipmap-GS: Let Gaussians Deform with Scale-specific Mipmap for Anti-aliasing Rendering**|Jiameng Li et.al.|[2408.06286](http://arxiv.org/abs/2408.06286)|null|
 |**2024-08-12**|**Developing Smart MAVs for Autonomous Inspection in GPS-denied Constructions**|Paoqiang Pan et.al.|[2408.06030](http://arxiv.org/abs/2408.06030)|null|
 |**2024-08-12**|**HeadGAP: Few-shot 3D Head Avatar via Generalizable Gaussian Priors**|Xiaozheng Zheng et.al.|[2408.06019](http://arxiv.org/abs/2408.06019)|null|
 |**2024-08-10**|**Visual SLAM with 3D Gaussian Primitives and Depth Priors Enabling Novel View Synthesis**|Zhongche Qu et.al.|[2408.05635](http://arxiv.org/abs/2408.05635)|null|
 |**2024-08-10**|**PRTGaussian: Efficient Relighting Using 3D Gaussians with Precomputed Radiance Transfer**|Libo Zhang et.al.|[2408.05631](http://arxiv.org/abs/2408.05631)|**[link](https://github.com/zhanglbthu/prtgaussian)**|
 |**2024-08-09**|**DreamCouple: Exploring High Quality Text-to-3D Generation Via Rectified Flow**|Hangyu Li et.al.|[2408.05008](http://arxiv.org/abs/2408.05008)|null|
-|**2024-08-09**|**Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction**|Lingbei Meng et.al.|[2408.04831](http://arxiv.org/abs/2408.04831)|null|
+|**2024-08-14**|**Self-augmented Gaussian Splatting with Structure-aware Masks for Sparse-view 3D Reconstruction**|Lingbei Meng et.al.|[2408.04831](http://arxiv.org/abs/2408.04831)|null|
 |**2024-08-06**|**LumiGauss: High-Fidelity Outdoor Relighting with 2D Gaussian Splatting**|Joanna Kaleta et.al.|[2408.04474](http://arxiv.org/abs/2408.04474)|null|
 |**2024-08-08**|**A Review of 3D Reconstruction Techniques for Deformable Tissues in Robotic Surgery**|Mengya Xu et.al.|[2408.04426](http://arxiv.org/abs/2408.04426)|**[link](https://github.com/epsilon404/surgicalnerf)**|
 |**2024-08-08**|**InstantStyleGaussian: Efficient Art Style Transfer with 3D Gaussian Splatting**|Xin-Yi Yu et.al.|[2408.04249](http://arxiv.org/abs/2408.04249)|null|
@@ -1680,6 +1687,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-08-13**|**Enhancing Multiview Synergy: Robust Learning by Exploiting the Wave Loss Function with Consensus and Complementarity Principles**|A. Quadir et.al.|[2408.06819](http://arxiv.org/abs/2408.06819)|null|
+|**2024-08-13**|**DC3DO: Diffusion Classifier for 3D Objects**|Nursena Koprucu et.al.|[2408.06693](http://arxiv.org/abs/2408.06693)|null|
+|**2024-08-13**|**MV-DETR: Multi-modality indoor object detection by Multi-View DEtecton TRansformers**|Zichao Dong et.al.|[2408.06604](http://arxiv.org/abs/2408.06604)|null|
+|**2024-08-13**|**Can Wireless Environmental Information Decrease Pilot Overhead: A CSI Prediction Example**|Lianzheng Shi et.al.|[2408.06558](http://arxiv.org/abs/2408.06558)|null|
 |**2024-08-12**|**IIT Bombay Racing Driverless: Autonomous Driving Stack for Formula Student AI**|Yash Rampuria et.al.|[2408.06113](http://arxiv.org/abs/2408.06113)|null|
 |**2024-08-10**|**EV-MGDispNet: Motion-Guided Event-Based Stereo Disparity Estimation Network with Left-Right Consistency**|Junjie Jiang et.al.|[2408.05452](http://arxiv.org/abs/2408.05452)|null|
 |**2024-08-09**|**Meta-Learning Guided Label Noise Distillation for Robust Signal Modulation Classification**|Xiaoyang Hao et.al.|[2408.05151](http://arxiv.org/abs/2408.05151)|null|
@@ -2243,6 +2254,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-08-13**|**A Miniature Vision-Based Localization System for Indoor Blimps**|Shicong Ma et.al.|[2408.06648](http://arxiv.org/abs/2408.06648)|null|
 |**2024-08-07**|**Towards Real-Time Gaussian Splatting: Accelerating 3DGS through Photometric SLAM**|Yan Song Hu et.al.|[2408.03825](http://arxiv.org/abs/2408.03825)|null|
 |**2024-08-05**|**Context-aware Mamba-based Reinforcement Learning for social robot navigation**|Syed Muhammad Mustafa et.al.|[2408.02661](http://arxiv.org/abs/2408.02661)|null|
 |**2024-08-04**|**Birational geometry of critical loci in Algebraic Vision**|Marina Bertolini et.al.|[2408.02067](http://arxiv.org/abs/2408.02067)|null|
