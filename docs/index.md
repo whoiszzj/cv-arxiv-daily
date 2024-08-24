@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.08.23
+## Updated on 2024.08.24
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-08-22**|**ND-SDF: Learning Normal Deflection Fields for High-Fidelity Indoor Reconstruction**|Ziyu Tang et.al.|[2408.12598](http://arxiv.org/abs/2408.12598)|null|
+|**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-21**|**HumanCoser: Layered 3D Human Generation via Semantic-Aware Diffusion Model**|Yi Wang et.al.|[2408.11357](http://arxiv.org/abs/2408.11357)|null|
 |**2024-08-21**|**Irregularity Inspection using Neural Radiance Field**|Tianqi Ding et.al.|[2408.11251](http://arxiv.org/abs/2408.11251)|null|
 |**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
@@ -1153,6 +1155,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-08-22**|**Subsurface Scattering for 3D Gaussian Splatting**|Jan-Niklas Dihlmann et.al.|[2408.12282](http://arxiv.org/abs/2408.12282)|null|
 |**2024-08-21**|**Robust 3D Gaussian Splatting for Novel View Synthesis in Presence of Distractors**|Paul Ungermann et.al.|[2408.11697](http://arxiv.org/abs/2408.11697)|**[link](https://github.com/paulungermann/Robust3DGaussians)**|
 |**2024-08-22**|**DeRainGS: Gaussian Splatting for Enhanced Scene Reconstruction in Rainy Environments**|Shuhong Liu et.al.|[2408.11540](http://arxiv.org/abs/2408.11540)|null|
 |**2024-08-21**|**GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting**|Wanshui Gan et.al.|[2408.11447](http://arxiv.org/abs/2408.11447)|**[link](https://github.com/ganwanshui/gaussianocc)**|
@@ -1728,12 +1731,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-08-22**|**Mapping Hydrogen Evolution Activity Trends of V-based A15 Superconducting Alloys**|Peifeng Yu et.al.|[2408.12160](http://arxiv.org/abs/2408.12160)|null|
+|**2024-08-21**|**CaRDiff: Video Salient Object Ranking Chain of Thought Reasoning for Saliency Prediction with Diffusion**|Yunlong Tang et.al.|[2408.12009](http://arxiv.org/abs/2408.12009)|null|
 |**2024-08-21**|**Dielectric Reliability and Interface Trap Characterization in MOCVD grown In-situ Al $_2$O$_3$ on $β$-Ga$_2$O$_3$**|Saurav Roy et.al.|[2408.11342](http://arxiv.org/abs/2408.11342)|null|
 |**2024-08-20**|**SDI-Net: Toward Sufficient Dual-View Interaction for Low-light Stereo Image Enhancement**|Linlin Hu et.al.|[2408.10934](http://arxiv.org/abs/2408.10934)|null|
 |**2024-08-20**|**A Noncontact Technique for Wave Measurement Based on Thermal Stereography and Deep Learning**|Deyu Li et.al.|[2408.10670](http://arxiv.org/abs/2408.10670)|null|
 |**2024-08-20**|**MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation**|Jintao Cheng et.al.|[2408.10602](http://arxiv.org/abs/2408.10602)|null|
 |**2024-08-20**|**DEGAS: Detailed Expressions on Full-Body Gaussian Avatars**|Zhijing Shao et.al.|[2408.10588](http://arxiv.org/abs/2408.10588)|null|
-|**2024-08-20**|**Multi-view Hand Reconstruction with a Point-Embedded Transformer**|Lixin Yang et.al.|[2408.10581](http://arxiv.org/abs/2408.10581)|null|
+|**2024-08-20**|**Multi-view Hand Reconstruction with a Point-Embedded Transformer**|Lixin Yang et.al.|[2408.10581](http://arxiv.org/abs/2408.10581)|**[link](https://github.com/jubsteven/poem-v2)**|
 |**2024-08-19**|**GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching**|Xiao Han et.al.|[2408.10286](http://arxiv.org/abs/2408.10286)|null|
 |**2024-08-19**|**Gapless spin excitations in nanographene-based antiferromagnetic spin-1/2 Heisenberg chains**|Chenxiao Zhao et.al.|[2408.10045](http://arxiv.org/abs/2408.10045)|null|
 |**2024-08-17**|**Intuitive Human-Robot Interface: A 3-Dimensional Action Recognition and UAV Collaboration Framework**|Akash Chaudhary et.al.|[2408.09232](http://arxiv.org/abs/2408.09232)|null|
@@ -2313,6 +2318,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-20**|**TrackNeRF: Bundle Adjusting NeRF from Sparse and Noisy Views via Feature Tracks**|Jinjie Mai et.al.|[2408.10739](http://arxiv.org/abs/2408.10739)|null|
 |**2024-08-16**|**Correspondence-Guided SfM-Free 3D Gaussian Splatting for NVS**|Wei Sun et.al.|[2408.08723](http://arxiv.org/abs/2408.08723)|null|
 |**2024-08-15**|**CorrAdaptor: Adaptive Local Context Learning for Correspondence Pruning**|Wei Zhu et.al.|[2408.08134](http://arxiv.org/abs/2408.08134)|**[link](https://github.com/TaoWangzj/CorrAdaptor)**|
