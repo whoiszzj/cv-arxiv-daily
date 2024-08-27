@@ -1,4 +1,4 @@
-## Updated on 2024.08.26
+## Updated on 2024.08.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-08-23**|**Multi-finger Manipulation via Trajectory Optimization with Differentiable Rolling and Geometric Constraints**|Fan Yang et.al.|[2408.13229](http://arxiv.org/abs/2408.13229)|null|
+|**2024-08-23**|**ShapeICP: Iterative Category-level Object Pose and Shape Estimation from Depth**|Yihao Zhang et.al.|[2408.13147](http://arxiv.org/abs/2408.13147)|null|
+|**2024-08-23**|**Deep Learning at the Intersection: Certified Robustness as a Tool for 3D Vision**|Gabriel Pérez S et.al.|[2408.13135](http://arxiv.org/abs/2408.13135)|null|
 |**2024-08-22**|**ND-SDF: Learning Normal Deflection Fields for High-Fidelity Indoor Reconstruction**|Ziyu Tang et.al.|[2408.12598](http://arxiv.org/abs/2408.12598)|null|
 |**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-21**|**HumanCoser: Layered 3D Human Generation via Semantic-Aware Diffusion Model**|Yi Wang et.al.|[2408.11357](http://arxiv.org/abs/2408.11357)|null|
@@ -1136,12 +1139,17 @@
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639](http://arxiv.org/abs/2309.12639)|null|
 
-<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-08-23**|**LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation**|Shuai Yang et.al.|[2408.13252](http://arxiv.org/abs/2408.13252)|null|
+|**2024-08-23**|**Atlas Gaussians Diffusion for 3D Generation with Infinite Number of Points**|Haitao Yang et.al.|[2408.13055](http://arxiv.org/abs/2408.13055)|null|
+|**2024-08-23**|**S4D: Streaming 4D Real-World Reconstruction with Gaussians and 3D Control Points**|Bing He et.al.|[2408.13036](http://arxiv.org/abs/2408.13036)|null|
+|**2024-08-23**|**FLoD: Integrating Flexible Level of Detail into 3D Gaussian Splatting for Customizable Rendering**|Yunji Seo et.al.|[2408.12894](http://arxiv.org/abs/2408.12894)|null|
+|**2024-08-26**|**GSFusion: Online RGB-D Mapping Where Gaussian Splatting Meets TSDF Fusion**|Jiaxin Wei et.al.|[2408.12677](http://arxiv.org/abs/2408.12677)|**[link](https://github.com/goldoak/gsfusion)**|
 |**2024-08-22**|**Subsurface Scattering for 3D Gaussian Splatting**|Jan-Niklas Dihlmann et.al.|[2408.12282](http://arxiv.org/abs/2408.12282)|null|
 |**2024-08-21**|**Robust 3D Gaussian Splatting for Novel View Synthesis in Presence of Distractors**|Paul Ungermann et.al.|[2408.11697](http://arxiv.org/abs/2408.11697)|**[link](https://github.com/paulungermann/Robust3DGaussians)**|
 |**2024-08-22**|**DeRainGS: Gaussian Splatting for Enhanced Scene Reconstruction in Rainy Environments**|Shuhong Liu et.al.|[2408.11540](http://arxiv.org/abs/2408.11540)|null|
@@ -1714,12 +1722,14 @@
 |**2023-10-16**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 
-<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
 
 ## MVS
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-08-23**|**Focus on Neighbors and Know the Whole: Towards Consistent Dense Multiview Text-to-Image Generator for 3D Creation**|Bonan Li et.al.|[2408.13149](http://arxiv.org/abs/2408.13149)|null|
+|**2024-08-23**|**VCEMO: Multi-Modal Emotion Recognition for Chinese Voiceprints**|Jinghua Tang et.al.|[2408.13019](http://arxiv.org/abs/2408.13019)|null|
 |**2024-08-22**|**Mapping Hydrogen Evolution Activity Trends of V-based A15 Superconducting Alloys**|Peifeng Yu et.al.|[2408.12160](http://arxiv.org/abs/2408.12160)|null|
 |**2024-08-21**|**CaRDiff: Video Salient Object Ranking Chain of Thought Reasoning for Saliency Prediction with Diffusion**|Yunlong Tang et.al.|[2408.12009](http://arxiv.org/abs/2408.12009)|null|
 |**2024-08-21**|**Dielectric Reliability and Interface Trap Characterization in MOCVD grown In-situ Al $_2$O$_3$ on $β$-Ga$_2$O$_3$**|Saurav Roy et.al.|[2408.11342](http://arxiv.org/abs/2408.11342)|null|
@@ -2303,7 +2313,7 @@
 |**2023-10-06**|**Rotation of a Stealth CME on 2012 October 5 Observed in the Inner Heliosphere**|Sandeep Kumar et.al.|[2310.04023](http://arxiv.org/abs/2310.04023)|null|
 |**2023-10-05**|**Design Methodology for a Medium Voltage Single Stage LLC Resonant Solar PV Inverter**|Parthkumar Bhuvela et.al.|[2310.03834](http://arxiv.org/abs/2310.03834)|null|
 
-<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
 
 ## SFM
 
@@ -2451,5 +2461,5 @@
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
-<p align=right>(<a href=#updated-on-20240826>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240827>back to top</a>)</p>
 
