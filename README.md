@@ -47,7 +47,7 @@
 |**2024-08-19**|**$R^2$ -Mesh: Reinforcement Learning Powered Mesh Reconstruction via Geometry and Appearance Refinement**|Haoyang Wang et.al.|[2408.10135](http://arxiv.org/abs/2408.10135)|null|
 |**2024-08-19**|**DiscoNeRF: Class-Agnostic Object Field for 3D Object Discovery**|Corentin Dumery et.al.|[2408.09928](http://arxiv.org/abs/2408.09928)|null|
 |**2024-08-20**|**CHASE: 3D-Consistent Human Avatars with Sparse Inputs via Gaussian Splatting and Contrastive Learning**|Haoyu Zhao et.al.|[2408.09663](http://arxiv.org/abs/2408.09663)|null|
-|**2024-08-18**|**ContactSDF: Signed Distance Functions as Multi-Contact Models for Dexterous Manipulation**|Wen Yang et.al.|[2408.09612](http://arxiv.org/abs/2408.09612)|null|
+|**2024-08-18**|**ContactSDF: Signed Distance Functions as Multi-Contact Models for Dexterous Manipulation**|Wen Yang et.al.|[2408.09612](http://arxiv.org/abs/2408.09612)|**[link](https://github.com/asu-iris/ContactSDF)**|
 |**2024-08-18**|**S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis**|Dongze Li et.al.|[2408.09347](http://arxiv.org/abs/2408.09347)|null|
 |**2024-08-17**|**SSNeRF: Sparse View Semi-supervised Neural Radiance Fields with Augmentation**|Xiao Cao et.al.|[2408.09144](http://arxiv.org/abs/2408.09144)|null|
 |**2024-08-20**|**Gaussian in the Dark: Real-Time View Synthesis From Inconsistent Dark Images Using Gaussian Splatting**|Sheng Ye et.al.|[2408.09130](http://arxiv.org/abs/2408.09130)|**[link](https://github.com/yec22/Gaussian-DK)**|
@@ -125,7 +125,7 @@
 |**2024-07-18**|**KFD-NeRF: Rethinking Dynamic NeRF with Kalman Filter**|Yifan Zhan et.al.|[2407.13185](http://arxiv.org/abs/2407.13185)|null|
 |**2024-07-20**|**Modeling and Driving Human Body Soundfields through Acoustic Primitives**|Chao Huang et.al.|[2407.13083](http://arxiv.org/abs/2407.13083)|null|
 |**2024-07-17**|**SMooDi: Stylized Motion Diffusion Model**|Lei Zhong et.al.|[2407.12783](http://arxiv.org/abs/2407.12783)|null|
-|**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777](http://arxiv.org/abs/2407.12777)|null|
+|**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777](http://arxiv.org/abs/2407.12777)|**[link](https://github.com/humansensinglab/Generalizable-Human-Gaussians)**|
 |**2024-07-17**|**SG-NeRF: Neural Surface Reconstruction with Scene Graph Optimization**|Yiyang Chen et.al.|[2407.12667](http://arxiv.org/abs/2407.12667)|**[link](https://github.com/iris-cyy/sg-nerf)**|
 |**2024-07-17**|**InfoNorm: Mutual Information Shaping of Normals for Sparse-View Reconstruction**|Xulong Wang et.al.|[2407.12661](http://arxiv.org/abs/2407.12661)|**[link](https://github.com/muliphein/infonorm)**|
 |**2024-07-17**|**Efficient Depth-Guided Urban View Synthesis**|Sheng Miao et.al.|[2407.12395](http://arxiv.org/abs/2407.12395)|null|
@@ -549,7 +549,7 @@
 |**2024-03-26**|**Learning with Unreliability: Fast Few-shot Voxel Radiance Fields with Relative Geometric Consistency**|Yingjie Xu et.al.|[2403.17638](http://arxiv.org/abs/2403.17638)|**[link](https://github.com/hkclynn/revorf)**|
 |**2024-03-26**|**AniArtAvatar: Animatable 3D Art Avatar from a Single Image**|Shaoxu Li et.al.|[2403.17631](http://arxiv.org/abs/2403.17631)|null|
 |**2024-03-26**|**Fully-fused Multi-Layer Perceptrons on Intel Data Center GPUs**|Kai Yuan et.al.|[2403.17607](http://arxiv.org/abs/2403.17607)|**[link](https://github.com/intel/tiny-dpcpp-nn)**|
-|**2024-03-26**|**DeepMIF: Deep Monotonic Implicit Fields for Large-Scale LiDAR 3D Mapping**|Kutay Yılmaz et.al.|[2403.17550](http://arxiv.org/abs/2403.17550)|null|
+|**2024-03-26**|**DeepMIF: Deep Monotonic Implicit Fields for Large-Scale LiDAR 3D Mapping**|Kutay Yılmaz et.al.|[2403.17550](http://arxiv.org/abs/2403.17550)|**[link](https://github.com/artonson/deepmif)**|
 |**2024-03-26**|**NeRF-HuGS: Improved Neural Radiance Fields in Non-static Scenes Using Heuristics-Guided Segmentation**|Jiahao Chen et.al.|[2403.17537](http://arxiv.org/abs/2403.17537)|null|
 |**2024-03-25**|**VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation**|Yang Chen et.al.|[2403.17001](http://arxiv.org/abs/2403.17001)|null|
 |**2024-03-25**|**GSDF: 3DGS Meets SDF for Improved Rendering and Reconstruction**|Mulin Yu et.al.|[2403.16964](http://arxiv.org/abs/2403.16964)|null|
@@ -605,7 +605,7 @@
 |**2024-03-15**|**Lifelong LERF: Local 3D Semantic Inventory Monitoring Using FogROS2**|Adam Rashid et.al.|[2403.10494](http://arxiv.org/abs/2403.10494)|null|
 |**2024-03-15**|**SWAG: Splatting in the Wild images with Appearance-conditioned Gaussians**|Hiba Dahmani et.al.|[2403.10427](http://arxiv.org/abs/2403.10427)|null|
 |**2024-03-15**|**SCILLA: SurfaCe Implicit Learning for Large Urban Area, a volumetric hybrid solution**|Hala Djeghim et.al.|[2403.10344](http://arxiv.org/abs/2403.10344)|null|
-|**2024-03-15**|**Thermal-NeRF: Neural Radiance Fields from an Infrared Camera**|Tianxiang Ye et.al.|[2403.10340](http://arxiv.org/abs/2403.10340)|null|
+|**2024-03-15**|**Thermal-NeRF: Neural Radiance Fields from an Infrared Camera**|Tianxiang Ye et.al.|[2403.10340](http://arxiv.org/abs/2403.10340)|**[link](https://github.com/cerf-volant425/thermal-nerf)**|
 |**2024-03-15**|**NECA: Neural Customizable Human Avatar**|Junjin Xiao et.al.|[2403.10335](http://arxiv.org/abs/2403.10335)|**[link](https://github.com/isee-laboratory/neca)**|
 |**2024-03-15**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297](http://arxiv.org/abs/2403.10297)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
 |**2024-03-15**|**SemanticHuman-HD: High-Resolution Semantic Disentangled 3D Human Generation**|Peng Zheng et.al.|[2403.10166](http://arxiv.org/abs/2403.10166)|null|
@@ -715,7 +715,7 @@
 |**2024-02-09**|**SIR: Multi-view Inverse Rendering with Decomposable Shadow for Indoor Scenes**|Xiaokang Wei et.al.|[2402.06136](http://arxiv.org/abs/2402.06136)|null|
 |**2024-02-08**|**Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**|Yuxi Wei et.al.|[2402.05746](http://arxiv.org/abs/2402.05746)|**[link](https://github.com/yifanlu0227/chatsim)**|
 |**2024-02-09**|**NCRF: Neural Contact Radiance Fields for Free-Viewpoint Rendering of Hand-Object Interaction**|Zhongqun Zhang et.al.|[2402.05532](http://arxiv.org/abs/2402.05532)|null|
-|**2024-02-07**|**NITO: Neural Implicit Fields for Resolution-free Topology Optimization**|Amin Heyrani Nobari et.al.|[2402.05073](http://arxiv.org/abs/2402.05073)|null|
+|**2024-02-07**|**NITO: Neural Implicit Fields for Resolution-free Topology Optimization**|Amin Heyrani Nobari et.al.|[2402.05073](http://arxiv.org/abs/2402.05073)|**[link](https://github.com/ahnobari/NITO_Public)**|
 |**2024-02-07**|**NeRF as Non-Distant Environment Emitter in Physics-based Inverse Rendering**|Jingwang Ling et.al.|[2402.04829](http://arxiv.org/abs/2402.04829)|null|
 |**2024-02-07**|**Mesh-based Gaussian Splatting for Real-time Large-scale Deformation**|Lin Gao et.al.|[2402.04796](http://arxiv.org/abs/2402.04796)|null|
 |**2024-02-07**|**OV-NeRF: Open-vocabulary Neural Radiance Fields with Vision and Language Foundation Models for 3D Semantic Understanding**|Guibiao Liao et.al.|[2402.04648](http://arxiv.org/abs/2402.04648)|null|
@@ -1249,7 +1249,7 @@
 |**2024-07-19**|**PlacidDreamer: Advancing Harmony in Text-to-3D Generation**|Shuo Huang et.al.|[2407.13976](http://arxiv.org/abs/2407.13976)|**[link](https://github.com/hansenhuang0823/placiddreamer)**|
 |**2024-07-20**|**Connecting Consistency Distillation to Score Distillation for Text-to-3D Generation**|Zongrui Li et.al.|[2407.13584](http://arxiv.org/abs/2407.13584)|**[link](https://github.com/LMozart/ECCV2024-GCS-BEG)**|
 |**2024-07-18**|**EaDeblur-GS: Event assisted 3D Deblur Reconstruction with Gaussian Splatting**|Yuchen Weng et.al.|[2407.13520](http://arxiv.org/abs/2407.13520)|null|
-|**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777](http://arxiv.org/abs/2407.12777)|null|
+|**2024-07-17**|**Generalizable Human Gaussians for Sparse View Synthesis**|Youngjoong Kwon et.al.|[2407.12777](http://arxiv.org/abs/2407.12777)|**[link](https://github.com/humansensinglab/Generalizable-Human-Gaussians)**|
 |**2024-07-17**|**Splatfacto-W: A Nerfstudio Implementation of Gaussian Splatting for Unconstrained Photo Collections**|Congrong Xu et.al.|[2407.12306](http://arxiv.org/abs/2407.12306)|null|
 |**2024-07-16**|**MVG-Splatting: Multi-View Guided Gaussian Splatting with Adaptive Quantile-Based Geometric Consistency Densification**|Zhuoxiao Li et.al.|[2407.11840](http://arxiv.org/abs/2407.11840)|null|
 |**2024-07-16**|**Click-Gaussian: Interactive Segmentation to Any 3D Gaussians**|Seokhun Choi et.al.|[2407.11793](http://arxiv.org/abs/2407.11793)|null|
@@ -1765,8 +1765,8 @@
 |**2024-08-29**|**Spurfies: Sparse Surface Reconstruction using Local Geometry Priors**|Kevin Raj et.al.|[2408.16544](http://arxiv.org/abs/2408.16544)|null|
 |**2024-08-28**|**Direct measurement of surface interactions experienced by sticky microcapsules made from environmentally benign materials**|Hairou Yu et.al.|[2408.15945](http://arxiv.org/abs/2408.15945)|null|
 |**2024-08-28**|**DiffAge3D: Diffusion-based 3D-aware Face Aging**|Junaid Wahid et.al.|[2408.15922](http://arxiv.org/abs/2408.15922)|null|
-|**2024-08-30**|**Addressing the challenges of loop detection in agricultural environments**|Nicolás Soncini et.al.|[2408.15761](http://arxiv.org/abs/2408.15761)|null|
-|**2024-08-28**|**ES-PTAM: Event-based Stereo Parallel Tracking and Mapping**|Suman Ghosh et.al.|[2408.15605](http://arxiv.org/abs/2408.15605)|null|
+|**2024-08-30**|**Addressing the challenges of loop detection in agricultural environments**|Nicolás Soncini et.al.|[2408.15761](http://arxiv.org/abs/2408.15761)|**[link](https://github.com/CIFASIS/StereoLoopDetector)**|
+|**2024-08-28**|**ES-PTAM: Event-based Stereo Parallel Tracking and Mapping**|Suman Ghosh et.al.|[2408.15605](http://arxiv.org/abs/2408.15605)|**[link](https://github.com/tub-rip/es-ptam)**|
 |**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235](http://arxiv.org/abs/2408.15235)|null|
 |**2024-08-27**|**GeoTransfer : Generalizable Few-Shot Multi-View Reconstruction via Transfer Learning**|Shubhendu Jena et.al.|[2408.14724](http://arxiv.org/abs/2408.14724)|null|
 |**2024-08-26**|**One-dimensional Photonic Crystal Structure Enhanced External-Magnetic-Field-Free Spintronic Terahertz High-Field Emitter**|Zehao Yang et.al.|[2408.14054](http://arxiv.org/abs/2408.14054)|null|
@@ -1848,7 +1848,7 @@
 |**2024-07-16**|**MVG-Splatting: Multi-View Guided Gaussian Splatting with Adaptive Quantile-Based Geometric Consistency Densification**|Zhuoxiao Li et.al.|[2407.11840](http://arxiv.org/abs/2407.11840)|null|
 |**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705](http://arxiv.org/abs/2407.11705)|null|
 |**2024-07-16**|**Animate3D: Animating Any 3D Model with Multi-view Video Diffusion**|Yanqin Jiang et.al.|[2407.11398](http://arxiv.org/abs/2407.11398)|null|
-|**2024-07-15**|**Temporal Event Stereo via Joint Learning with Stereoscopic Flow**|Hoonhee Cho et.al.|[2407.10831](http://arxiv.org/abs/2407.10831)|null|
+|**2024-07-15**|**Temporal Event Stereo via Joint Learning with Stereoscopic Flow**|Hoonhee Cho et.al.|[2407.10831](http://arxiv.org/abs/2407.10831)|**[link](https://github.com/mickeykang16/temporaleventstereo)**|
 |**2024-07-15**|**Bidirectional Stereo Image Compression with Cross-Dimensional Entropy Model**|Zhening Liu et.al.|[2407.10632](http://arxiv.org/abs/2407.10632)|null|
 |**2024-07-15**|**ConTEXTure: Consistent Multiview Images to Texture**|Jaehoon Ahn et.al.|[2407.10558](http://arxiv.org/abs/2407.10558)|null|
 |**2024-07-15**|**Lite2Relight: 3D-aware Single Image Portrait Relighting**|Pramod Rao et.al.|[2407.10487](http://arxiv.org/abs/2407.10487)|null|
@@ -2248,7 +2248,7 @@
 |**2023-12-14**|**Revisiting Depth Completion from a Stereo Matching Perspective for Cross-domain Generalization**|Luca Bartolomei et.al.|[2312.09254](http://arxiv.org/abs/2312.09254)|**[link](https://github.com/bartn8/vppdc)**|
 |**2023-12-14**|**Tailoring Amorphous Boron Nitride for High-Performance 2D Electronics**|Cindy Y. Chen et.al.|[2312.09136](http://arxiv.org/abs/2312.09136)|null|
 |**2023-12-14**|**A Guided Upsampling Network for Short Wave Infrared Images Using Graph Regularization**|Frank Sippel et.al.|[2312.08949](http://arxiv.org/abs/2312.08949)|null|
-|**2023-12-14**|**Color Agnostic Cross-Spectral Disparity Estimation**|Frank Sippel et.al.|[2312.08946](http://arxiv.org/abs/2312.08946)|null|
+|**2023-12-14**|**Color Agnostic Cross-Spectral Disparity Estimation**|Frank Sippel et.al.|[2312.08946](http://arxiv.org/abs/2312.08946)|**[link](https://github.com/fau-lms/cade)**|
 |**2023-12-14**|**Unlocking High Performance, Ultra-Low Power Van der Waals Transistors: Towards Back-End-of-Line In-Sensor Machine Vision Applications**|Olaiyan Alolaiyan et.al.|[2312.08634](http://arxiv.org/abs/2312.08634)|null|
 |**2023-12-14**|**CT-MVSNet: Efficient Multi-View Stereo with Cross-scale Transformer**|Sicheng Wang et.al.|[2312.08594](http://arxiv.org/abs/2312.08594)|**[link](https://github.com/wscstrive/ct-mvsnet)**|
 |**2023-12-13**|**Efficient-NeRF2NeRF: Streamlining Text-Driven 3D Editing with Multiview Correspondence-Enhanced Diffusion Models**|Liangchen Song et.al.|[2312.08563](http://arxiv.org/abs/2312.08563)|null|
