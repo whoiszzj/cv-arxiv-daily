@@ -352,7 +352,7 @@ layout: default
 |**2024-05-21**|**Implicit-ARAP: Efficient Handle-Guided Deformation of High-Resolution Meshes and Neural Fields via Local Patch Meshing**|Daniele Baieri et.al.|[2405.12895](http://arxiv.org/abs/2405.12895)|null|
 |**2024-05-21**|**MOSS: Motion-based 3D Clothed Human Synthesis from Monocular Video**|Hongsheng Wang et.al.|[2405.12806](http://arxiv.org/abs/2405.12806)|null|
 |**2024-05-21**|**Leveraging Neural Radiance Fields for Pose Estimation of an Unknown Space Object during Proximity Operations**|Antoine Legrand et.al.|[2405.12728](http://arxiv.org/abs/2405.12728)|null|
-|**2024-05-22**|**AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field**|Rong Liu et.al.|[2405.12369](http://arxiv.org/abs/2405.12369)|null|
+|**2024-05-22**|**AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field**|Rong Liu et.al.|[2405.12369](http://arxiv.org/abs/2405.12369)|**[link](https://github.com/RongLiu-Leo/AtomGS)**|
 |**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218](http://arxiv.org/abs/2405.12218)|**[link](https://github.com/TQTQliu/MVSGaussian)**|
 |**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155](http://arxiv.org/abs/2405.12155)|null|
 |**2024-05-20**|**CoR-GS: Sparse-View 3D Gaussian Splatting via Co-Regularization**|Jiawei Zhang et.al.|[2405.12110](http://arxiv.org/abs/2405.12110)|null|
@@ -1458,7 +1458,7 @@ layout: default
 |**2024-05-21**|**LAGA: Layered 3D Avatar Generation and Customization via Gaussian Splatting**|Jia Gong et.al.|[2405.12663](http://arxiv.org/abs/2405.12663)|null|
 |**2024-05-21**|**Gaussian Control with Hierarchical Semantic Graphs in 3D Human Recovery**|Hongsheng Wang et.al.|[2405.12477](http://arxiv.org/abs/2405.12477)|null|
 |**2024-05-20**|**GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details**|Boqian Li et.al.|[2405.12420](http://arxiv.org/abs/2405.12420)|null|
-|**2024-05-22**|**AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field**|Rong Liu et.al.|[2405.12369](http://arxiv.org/abs/2405.12369)|null|
+|**2024-05-22**|**AtomGS: Atomizing Gaussian Splatting for High-Fidelity Radiance Field**|Rong Liu et.al.|[2405.12369](http://arxiv.org/abs/2405.12369)|**[link](https://github.com/RongLiu-Leo/AtomGS)**|
 |**2024-05-20**|**Fast Generalizable Gaussian Splatting Reconstruction from Multi-View Stereo**|Tianqi Liu et.al.|[2405.12218](http://arxiv.org/abs/2405.12218)|**[link](https://github.com/TQTQliu/MVSGaussian)**|
 |**2024-05-20**|**Embracing Radiance Field Rendering in 6G: Over-the-Air Training and Inference with 3D Contents**|Guanlin Wu et.al.|[2405.12155](http://arxiv.org/abs/2405.12155)|null|
 |**2024-05-20**|**CoR-GS: Sparse-View 3D Gaussian Splatting via Co-Regularization**|Jiawei Zhang et.al.|[2405.12110](http://arxiv.org/abs/2405.12110)|null|
