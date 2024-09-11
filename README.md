@@ -1,4 +1,4 @@
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-09-09**|**G-NeLF: Memory- and Data-Efficient Hybrid Neural Light Field for Novel View Synthesis**|Lutao Jiang et.al.|[2409.05617](http://arxiv.org/abs/2409.05617)|null|
+|**2024-09-09**|**PVP-Recon: Progressive View Planning via Warping Consistency for Sparse-View Surface Reconstruction**|Sheng Ye et.al.|[2409.05474](http://arxiv.org/abs/2409.05474)|null|
+|**2024-09-09**|**From Words to Poses: Enhancing Novel Object Pose Estimation with Vision Language Models**|Tessa Pulli et.al.|[2409.05413](http://arxiv.org/abs/2409.05413)|null|
+|**2024-09-09**|**KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**|Davide Di Nucci et.al.|[2409.05407](http://arxiv.org/abs/2409.05407)|null|
+|**2024-09-09**|**Lagrangian Hashing for Compressed Neural Field Representations**|Shrisudhan Govindarajan et.al.|[2409.05334](http://arxiv.org/abs/2409.05334)|null|
+|**2024-09-09**|**Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems**|Jianheng Liu et.al.|[2409.05310](http://arxiv.org/abs/2409.05310)|null|
+|**2024-09-08**|**PhysHand: A Hand Simulation Model with Physiological Geometry, Physical Deformation, and Accurate Contact Handling**|Mingyang Sun et.al.|[2409.05143](http://arxiv.org/abs/2409.05143)|null|
+|**2024-09-06**|**SCARF: Scalable Continual Learning Framework for Memory-efficient Multiple Neural Radiance Fields**|Yuze Wang et.al.|[2409.04482](http://arxiv.org/abs/2409.04482)|null|
 |**2024-09-05**|**Recon-all-clinical: Cortical surface reconstruction and analysis of heterogeneous clinical brain MRI**|Karthik Gopinath et.al.|[2409.03889](http://arxiv.org/abs/2409.03889)|null|
 |**2024-09-05**|**Surface-Centric Modeling for High-Fidelity Generalizable Neural Surface Reconstruction**|Rui Peng et.al.|[2409.03634](http://arxiv.org/abs/2409.03634)|**[link](https://github.com/prstrive/surf)**|
 |**2024-09-05**|**Weight Conditioning for Smooth Optimization of Neural Networks**|Hemanth Saratchandran et.al.|[2409.03424](http://arxiv.org/abs/2409.03424)|null|
@@ -1169,12 +1177,17 @@
 |**2023-09-26**|**PHRIT: Parametric Hand Representation with Implicit Template**|Zhisheng Huang et.al.|[2309.14916](http://arxiv.org/abs/2309.14916)|null|
 |**2023-09-22**|**CINFormer: Transformer network with multi-stage CNN feature injection for surface defect segmentation**|Xiaoheng Jiang et.al.|[2309.12639](http://arxiv.org/abs/2309.12639)|null|
 
-<p align=right>(<a href=#updated-on-20240910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-09-09**|**GASP: Gaussian Splatting for Physic-Based Simulations**|Piotr Borycki et.al.|[2409.05819](http://arxiv.org/abs/2409.05819)|null|
+|**2024-09-09**|**Lagrangian Hashing for Compressed Neural Field Representations**|Shrisudhan Govindarajan et.al.|[2409.05334](http://arxiv.org/abs/2409.05334)|null|
+|**2024-09-08**|**DreamMapping: High-Fidelity Text-to-3D Generation via Variational Distribution Mapping**|Zeyu Cai et.al.|[2409.05099](http://arxiv.org/abs/2409.05099)|null|
+|**2024-09-08**|**GS-PT: Exploiting 3D Gaussian Splatting for Comprehensive Point Cloud Understanding via Self-supervised Learning**|Keyi Liu et.al.|[2409.04963](http://arxiv.org/abs/2409.04963)|null|
+|**2024-09-07**|**Fisheye-GS: Lightweight and Extensible Gaussian Splatting Module for Fisheye Cameras**|Zimu Liao et.al.|[2409.04751](http://arxiv.org/abs/2409.04751)|null|
 |**2024-09-06**|**GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers**|Lorenza Prospero et.al.|[2409.04196](http://arxiv.org/abs/2409.04196)|null|
 |**2024-09-06**|**3D-GP-LMVIC: Learning-based Multi-View Image Coding with 3D Gaussian Geometric Priors**|Yujun Huang et.al.|[2409.04013](http://arxiv.org/abs/2409.04013)|null|
 |**2024-09-05**|**LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors**|Hanyang Yu et.al.|[2409.03456](http://arxiv.org/abs/2409.03456)|null|
@@ -1783,12 +1796,16 @@
 |**2023-10-16**|**Decoherence in Neutrino Oscillation between 3D Gaussian Wave Packets**|Haruhi Mitani et.al.|[2307.12230](http://arxiv.org/abs/2307.12230)|null|
 |**2023-06-15**|**DiViNeT: 3D Reconstruction from Disparate Views via Neural Template Regularization**|Aditya Vora et.al.|[2306.04699](http://arxiv.org/abs/2306.04699)|null|
 
-<p align=right>(<a href=#updated-on-20240910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
 
 ## MVS
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-09-10**|**Evaluating Multiview Object Consistency in Humans and Image Models**|Tyler Bonnen et.al.|[2409.05862](http://arxiv.org/abs/2409.05862)|**[link](https://github.com/tzler/mochi_code)**|
+|**2024-09-09**|**LayeredFlow: A Real-World Benchmark for Non-Lambertian Multi-Layer Optical Flow**|Hongyu Wen et.al.|[2409.05688](http://arxiv.org/abs/2409.05688)|null|
+|**2024-09-10**|**Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios**|Zhiqiang Chen et.al.|[2409.04961](http://arxiv.org/abs/2409.04961)|null|
+|**2024-09-07**|**GRVFL-2V: Graph Random Vector Functional Link Based on Two-View Learning**|M. Tanveer et.al.|[2409.04743](http://arxiv.org/abs/2409.04743)|null|
 |**2024-09-06**|**Inverted Pyramid 3-axis Silicon Hall Effect Magnetic Sensor With Offset Cancellation**|Jacopo Ruggeri et.al.|[2409.04333](http://arxiv.org/abs/2409.04333)|null|
 |**2024-09-06**|**3D-GP-LMVIC: Learning-based Multi-View Image Coding with 3D Gaussian Geometric Priors**|Yujun Huang et.al.|[2409.04013](http://arxiv.org/abs/2409.04013)|null|
 |**2024-09-05**|**LM-Gaussian: Boost Sparse-view 3D Gaussian Splatting with Large Model Priors**|Hanyang Yu et.al.|[2409.03456](http://arxiv.org/abs/2409.03456)|null|
@@ -2403,12 +2420,13 @@
 |**2023-10-06**|**Rotation of a Stealth CME on 2012 October 5 Observed in the Inner Heliosphere**|Sandeep Kumar et.al.|[2310.04023](http://arxiv.org/abs/2310.04023)|null|
 |**2023-10-05**|**Design Methodology for a Medium Voltage Single Stage LLC Resonant Solar PV Inverter**|Parthkumar Bhuvela et.al.|[2310.03834](http://arxiv.org/abs/2310.03834)|null|
 
-<p align=right>(<a href=#updated-on-20240910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
 
 ## SFM
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-09-09**|**KRONC: Keypoint-based Robust Camera Optimization for 3D Car Reconstruction**|Davide Di Nucci et.al.|[2409.05407](http://arxiv.org/abs/2409.05407)|null|
 |**2024-09-06**|**The Arizona Molecular ISM Survey with the SMT: Variations in the CO(2-1)/CO(1-0) Line Ratio Across the Galaxy Population**|Ryan P. Keenan et.al.|[2409.03963](http://arxiv.org/abs/2409.03963)|null|
 |**2024-09-05**|**Active Galactic Nuclei in the Green Valley at z $\sim$ 0.7**|Charity Woodrum et.al.|[2409.03197](http://arxiv.org/abs/2409.03197)|null|
 |**2024-09-04**|**Object Gaussian for Monocular 6D Pose Estimation from Sparse Views**|Luqing Luo et.al.|[2409.02581](http://arxiv.org/abs/2409.02581)|null|
@@ -2558,5 +2576,5 @@
 |**2023-09-19**|**SHOWMe: Benchmarking Object-agnostic Hand-Object 3D Reconstruction**|Anilkumar Swamy et.al.|[2309.10748](http://arxiv.org/abs/2309.10748)|null|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
 
-<p align=right>(<a href=#updated-on-20240910>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240911>back to top</a>)</p>
 
