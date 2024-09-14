@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.09.13
+## Updated on 2024.09.14
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-09-12**|**DreamHOI: Subject-Driven Generation of 3D Human-Object Interactions with Diffusion Priors**|Thomas Hanwen Zhu et.al.|[2409.08278](http://arxiv.org/abs/2409.08278)|null|
+|**2024-09-12**|**Expansive Supervision for Neural Radiance Field**|Weixiang Zhang et.al.|[2409.08056](http://arxiv.org/abs/2409.08056)|null|
+|**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 |**2024-09-11**|**Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering**|Dafei Qin et.al.|[2409.07441](http://arxiv.org/abs/2409.07441)|null|
 |**2024-09-11**|**ThermalGaussian: Thermal 3D Gaussian Splatting**|Rongfeng Lu et.al.|[2409.07200](http://arxiv.org/abs/2409.07200)|null|
@@ -1206,6 +1209,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-09-12**|**FlashSplat: 2D to 3D Gaussian Splatting Segmentation Solved Optimally**|Qiuhong Shen et.al.|[2409.08270](http://arxiv.org/abs/2409.08270)|**[link](https://github.com/florinshen/flashsplat)**|
+|**2024-09-12**|**Thermal3D-GS: Physics-induced 3D Gaussians for Thermal Infrared Novel-view Synthesis**|Qian Chen et.al.|[2409.08042](http://arxiv.org/abs/2409.08042)|**[link](https://github.com/mzzcdf/thermal3dgs)**|
+|**2024-09-12**|**SwinGS: Sliding Window Gaussian Splatting for Volumetric Video Streaming with Arbitrary Length**|Bangya Liu et.al.|[2409.07759](http://arxiv.org/abs/2409.07759)|null|
 |**2024-09-11**|**Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered Stereo Pairs**|Sadra Safadoust et.al.|[2409.07456](http://arxiv.org/abs/2409.07456)|null|
 |**2024-09-11**|**Hi3D: Pursuing High-Resolution Image-to-3D Generation with Video Diffusion Models**|Haibo Yang et.al.|[2409.07452](http://arxiv.org/abs/2409.07452)|**[link](https://github.com/yanghb22-fdu/hi3d-official)**|
 |**2024-09-11**|**Instant Facial Gaussians Translator for Relightable and Interactable Facial Rendering**|Dafei Qin et.al.|[2409.07441](http://arxiv.org/abs/2409.07441)|null|
@@ -1833,6 +1839,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-09-12**|**FIReStereo: Forest InfraRed Stereo Dataset for UAS Depth Perception in Visually Degraded Environments**|Devansh Dhrafani et.al.|[2409.07715](http://arxiv.org/abs/2409.07715)|null|
+|**2024-09-11**|**Object Depth and Size Estimation using Stereo-vision and Integration with SLAM**|Layth Hamad et.al.|[2409.07623](http://arxiv.org/abs/2409.07623)|null|
 |**2024-09-11**|**Self-Evolving Depth-Supervised 3D Gaussian Splatting from Rendered Stereo Pairs**|Sadra Safadoust et.al.|[2409.07456](http://arxiv.org/abs/2409.07456)|null|
 |**2024-09-11**|**VMAS: Video-to-Music Generation via Semantic Alignment in Web Music Videos**|Yan-Bo Lin et.al.|[2409.07450](http://arxiv.org/abs/2409.07450)|null|
 |**2024-09-11**|**StereoCrafter: Diffusion-based Generation of Long and High-fidelity Stereoscopic 3D from Monocular Videos**|Sijie Zhao et.al.|[2409.07447](http://arxiv.org/abs/2409.07447)|null|
