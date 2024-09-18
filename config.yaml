@@ -19,11 +19,12 @@ md_gitpage_path: './docs/index.md'
 
 # keywords to search
 keywords:
-    "NeRF":
-        filters: ["nerf", "neural rendering", "implicit field", "radiance field", "volumetric rendering", "neus", "sdf"]
-    "GaussianSplatting":
-        filters: ["gaussian splatting", "3d gaussians"]
-    "MVS":
-        filters: ["mvs", "multi-view", "multiview", "stereo"]
-    "SFM":
-        filters: ["sfm", "Structure from Motion"]
+  "NeRF":
+    filters: [ "nerf", "neural rendering", "implicit field", "radiance field", "volumetric rendering", "neus", "sdf" ]
+  "GaussianSplatting":
+    filters: [ "gaussian splatting", "3d gaussians", "3DGS", "point-based rendering" ]
+  "Image Super-Resolution":
+    filters: [ "image super-resolution", "super-resolution", "image enhancement", "image restoration",
+               "single image super-resolution", "multi-Frame super-resolution" "image inpainting",
+               "implicit neural representation", "INR"
+    ]
