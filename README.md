@@ -1,4 +1,4 @@
-## Updated on 2024.09.23
+## Updated on 2024.09.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,11 +14,11 @@
 |:-:|:-:|:-:|:-:|:-:|
 |**2024-09-18**|**Vista3D: Unravel the 3D Darkside of a Single Image**|Qiuhong Shen et.al.|[2409.12193](http://arxiv.org/abs/2409.12193)|**[link](https://github.com/florinshen/vista3d)**|
 |**2024-09-18**|**JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation**|Sai Tanmay Reddy Chakkera et.al.|[2409.12156](http://arxiv.org/abs/2409.12156)|null|
-|**2024-09-18**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014](http://arxiv.org/abs/2409.12014)|**[link](https://github.com/lulinzhang/brdf-nerf)**|
+|**2024-09-22**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014](http://arxiv.org/abs/2409.12014)|**[link](https://github.com/lulinzhang/brdf-nerf)**|
 |**2024-09-18**|**Intraoperative Registration by Cross-Modal Inverse Neural Rendering**|Maximilian Fehrentz et.al.|[2409.11983](http://arxiv.org/abs/2409.11983)|null|
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356](http://arxiv.org/abs/2409.11356)|null|
 |**2024-09-17**|**GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**|Yichen Zhang et.al.|[2409.11307](http://arxiv.org/abs/2409.11307)|null|
-|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](http://arxiv.org/abs/2409.10925)|null|
+|**2024-09-21**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](http://arxiv.org/abs/2409.10925)|null|
 |**2024-09-16**|**Baking Relightable NeRF for Real-time Direct/Indirect Illumination Rendering**|Euntae Choi et.al.|[2409.10327](http://arxiv.org/abs/2409.10327)|null|
 |**2024-09-16**|**DENSER: 3D Gaussians Splatting for Scene Reconstruction of Dynamic Urban Environments**|Mahmud A. Mohamad et.al.|[2409.10041](http://arxiv.org/abs/2409.10041)|**[link](https://github.com/sntubix/denser)**|
 |**2024-09-15**|**SAFER-Splat: A Control Barrier Function for Safe Navigation with Online Gaussian Splatting Maps**|Timothy Chen et.al.|[2409.09868](http://arxiv.org/abs/2409.09868)|null|
@@ -30,7 +30,7 @@
 |**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 
-<p align=right>(<a href=#updated-on-20240923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240924>back to top</a>)</p>
 
 ## GaussianSplatting
 
@@ -44,7 +44,7 @@
 |**2024-09-17**|**GS-Net: Generalizable Plug-and-Play 3D Gaussian Splatting Module**|Yichen Zhang et.al.|[2409.11307](http://arxiv.org/abs/2409.11307)|null|
 |**2024-09-17**|**SplatFields: Neural Gaussian Splats for Sparse 3D and 4D Reconstruction**|Marko Mihajlovic et.al.|[2409.11211](http://arxiv.org/abs/2409.11211)|null|
 |**2024-09-17**|**GLC-SLAM: Gaussian Splatting SLAM with Efficient Loop Closure**|Ziheng Xu et.al.|[2409.10982](http://arxiv.org/abs/2409.10982)|null|
-|**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](http://arxiv.org/abs/2409.10925)|null|
+|**2024-09-21**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](http://arxiv.org/abs/2409.10925)|null|
 |**2024-09-16**|**Phys3DGS: Physically-based 3D Gaussian Splatting for Inverse Rendering**|Euntae Choi et.al.|[2409.10335](http://arxiv.org/abs/2409.10335)|null|
 |**2024-09-16**|**BEINGS: Bayesian Embodied Image-goal Navigation with Gaussian Splatting**|Wugang Meng et.al.|[2409.10216](http://arxiv.org/abs/2409.10216)|**[link](https://github.com/guaMass/BEINGS)**|
 |**2024-09-16**|**SplatSim: Zero-Shot Sim2Real Transfer of RGB Manipulation Policies Using Gaussian Splatting**|Mohammad Nomaan Qureshi et.al.|[2409.10161](http://arxiv.org/abs/2409.10161)|null|
@@ -56,7 +56,7 @@
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 
-<p align=right>(<a href=#updated-on-20240923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240924>back to top</a>)</p>
 
 ## Image Super-Resolution
 
@@ -83,5 +83,5 @@
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 
-<p align=right>(<a href=#updated-on-20240923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240924>back to top</a>)</p>
 
