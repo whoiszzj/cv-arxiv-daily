@@ -2,11 +2,21 @@
 layout: default
 ---
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-09-24**|**SDFit: 3D Object Pose and Shape by Fitting a Morphable SDF to a Single Image**|Dimitrije Antić et.al.|[2409.16178](http://arxiv.org/abs/2409.16178)|null|
+|**2024-09-24**|**AIR-Embodied: An Efficient Active 3DGS-based Interaction and Reconstruction Framework with Embodied Large Language Model**|Zhenghao Qi et.al.|[2409.16019](http://arxiv.org/abs/2409.16019)|null|
+|**2024-09-24**|**Search for $C\!P$ violation in $D^+_{(s)}\to{}K_{S}^{0}K^{-}π^{+}π^{+}$ decays using triple and quadruple products**|Belle et.al.|[2409.15777](http://arxiv.org/abs/2409.15777)|null|
+|**2024-09-24**|**Disentangled Generation and Aggregation for Robust Radiance Fields**|Shihe Shen et.al.|[2409.15715](http://arxiv.org/abs/2409.15715)|null|
+|**2024-09-24**|**Plenoptic PNG: Real-Time Neural Radiance Fields in 150 KB**|Jae Yong Lee et.al.|[2409.15689](http://arxiv.org/abs/2409.15689)|null|
+|**2024-09-23**|**AgriNeRF: Neural Radiance Fields for Agriculture in Challenging Lighting Conditions**|Samarth Chopra et.al.|[2409.15487](http://arxiv.org/abs/2409.15487)|null|
+|**2024-09-23**|**SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**|Jinze Yu et.al.|[2409.15176](http://arxiv.org/abs/2409.15176)|null|
+|**2024-09-23**|**FusionRF: High-Fidelity Satellite Neural Radiance Fields from Multispectral and Panchromatic Acquisitions**|Michael Sprintson et.al.|[2409.15132](http://arxiv.org/abs/2409.15132)|null|
+|**2024-09-23**|**AIM 2024 Sparse Neural Rendering Challenge: Methods and Results**|Michal Nazarczuk et.al.|[2409.15045](http://arxiv.org/abs/2409.15045)|null|
+|**2024-09-23**|**AIM 2024 Sparse Neural Rendering Challenge: Dataset and Benchmark**|Michal Nazarczuk et.al.|[2409.15041](http://arxiv.org/abs/2409.15041)|null|
 |**2024-09-18**|**Vista3D: Unravel the 3D Darkside of a Single Image**|Qiuhong Shen et.al.|[2409.12193](http://arxiv.org/abs/2409.12193)|**[link](https://github.com/florinshen/vista3d)**|
 |**2024-09-18**|**JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation**|Sai Tanmay Reddy Chakkera et.al.|[2409.12156](http://arxiv.org/abs/2409.12156)|null|
 |**2024-09-22**|**BRDF-NeRF: Neural Radiance Fields with Optical Satellite Images and BRDF Modelling**|Lulin Zhang et.al.|[2409.12014](http://arxiv.org/abs/2409.12014)|**[link](https://github.com/lulinzhang/brdf-nerf)**|
@@ -29,6 +39,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-09-23**|**Gaussian Déjà-vu: Creating Controllable 3D Gaussian Head-Avatars with Enhanced Generalization and Personalization Abilities**|Peizhi Yan et.al.|[2409.16147](http://arxiv.org/abs/2409.16147)|null|
+|**2024-09-24**|**AIR-Embodied: An Efficient Active 3DGS-based Interaction and Reconstruction Framework with Embodied Large Language Model**|Zhenghao Qi et.al.|[2409.16019](http://arxiv.org/abs/2409.16019)|null|
+|**2024-09-24**|**Semantics-Controlled Gaussian Splatting for Outdoor Scene Reconstruction and Rendering in Virtual Reality**|Hannah Schieber et.al.|[2409.15959](http://arxiv.org/abs/2409.15959)|null|
+|**2024-09-24**|**Plenoptic PNG: Real-Time Neural Radiance Fields in 150 KB**|Jae Yong Lee et.al.|[2409.15689](http://arxiv.org/abs/2409.15689)|null|
+|**2024-09-23**|**SpikeGS: Learning 3D Gaussian Fields from Continuous Spike Stream**|Jinze Yu et.al.|[2409.15176](http://arxiv.org/abs/2409.15176)|null|
+|**2024-09-23**|**Human Hair Reconstruction with Strand-Aligned 3D Gaussians**|Egor Zakharov et.al.|[2409.14778](http://arxiv.org/abs/2409.14778)|null|
+|**2024-09-22**|**MVPGS: Excavating Multi-view Priors for Gaussian Splatting from Sparse Input Views**|Wangze Xu et.al.|[2409.14316](http://arxiv.org/abs/2409.14316)|null|
+|**2024-09-21**|**SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality**|Hongjia Zhai et.al.|[2409.14067](http://arxiv.org/abs/2409.14067)|null|
+|**2024-09-23**|**V^3: Viewing Volumetric Videos on Mobiles via Streamable 2D Dynamic Gaussians**|Penghao Wang et.al.|[2409.13648](http://arxiv.org/abs/2409.13648)|null|
+|**2024-09-20**|**Portrait Video Editing Empowered by Multimodal Generative Priors**|Xuan Gao et.al.|[2409.13591](http://arxiv.org/abs/2409.13591)|null|
 |**2024-09-18**|**Vista3D: Unravel the 3D Darkside of a Single Image**|Qiuhong Shen et.al.|[2409.12193](http://arxiv.org/abs/2409.12193)|**[link](https://github.com/florinshen/vista3d)**|
 |**2024-09-18**|**GaussianHeads: End-to-End Learning of Drivable Gaussian Head Avatars from Coarse-to-fine Representations**|Kartik Teotia et.al.|[2409.11951](http://arxiv.org/abs/2409.11951)|null|
 |**2024-09-18**|**SRIF: Semantic Shape Registration Empowered by Diffusion-based Image Morphing and Flow Estimation**|Mingze Sun et.al.|[2409.11682](http://arxiv.org/abs/2409.11682)|null|
@@ -53,6 +73,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-09-24**|**Liger at W.M. Keck Observatory: imager structural analysis, fabrication, and characterization plan**|James Wiley et.al.|[2409.16263](http://arxiv.org/abs/2409.16263)|null|
+|**2024-09-25**|**Ring Artifacts Removal Based on Implicit Neural Representation of Sinogram Data**|Ligen Shi et.al.|[2409.15731](http://arxiv.org/abs/2409.15731)|null|
+|**2024-09-23**|**PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions**|Weifeng Lin et.al.|[2409.15278](http://arxiv.org/abs/2409.15278)|null|
+|**2024-09-23**|**Non-renormalizable theories and finite formulation of QFT**|Y. Ageeva et.al.|[2409.15036](http://arxiv.org/abs/2409.15036)|null|
+|**2024-09-23**|**Reflecting Reality: Enabling Diffusion Models to Produce Faithful Mirror Reflections**|Ankit Dhiman et.al.|[2409.14677](http://arxiv.org/abs/2409.14677)|null|
+|**2024-09-22**|**Low-Light Enhancement Effect on Classification and Detection: An Empirical Study**|Xu Wu et.al.|[2409.14461](http://arxiv.org/abs/2409.14461)|null|
+|**2024-09-22**|**Quantitative and Qualitative Evaluation of NLM and Wavelet Methods in Image Enhancement**|Cameron Khanpour et.al.|[2409.14334](http://arxiv.org/abs/2409.14334)|null|
+|**2024-09-21**|**Implicit Neural Representations for Speed-of-Sound Estimation in Ultrasound**|Michal Byra et.al.|[2409.14035](http://arxiv.org/abs/2409.14035)|null|
+|**2024-09-20**|**Occupancy-Based Dual Contouring**|Jisung Hwang et.al.|[2409.13418](http://arxiv.org/abs/2409.13418)|**[link](https://github.com/kaist-visual-ai-group/odc)**|
+|**2024-09-19**|**Breaking the Barriers of One-to-One Usage of Implicit Neural Representation in Image Compression: A Linear Combination Approach with Performance Guarantees**|Sai Sanjeet et.al.|[2409.13117](http://arxiv.org/abs/2409.13117)|null|
 |**2024-09-18**|**Denoising diffusion models for high-resolution microscopy image restoration**|Pamela Osuna-Vargas et.al.|[2409.12078](http://arxiv.org/abs/2409.12078)|null|
 |**2024-09-18**|**Intraoperative Registration by Cross-Modal Inverse Neural Rendering**|Maximilian Fehrentz et.al.|[2409.11983](http://arxiv.org/abs/2409.11983)|null|
 |**2024-09-18**|**Monomial Matrix Group Equivariant Neural Functional Networks**|Hoang V. Tran et.al.|[2409.11697](http://arxiv.org/abs/2409.11697)|null|
