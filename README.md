@@ -1,4 +1,4 @@
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804](http://arxiv.org/abs/2410.01804)|null|
+|**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647](http://arxiv.org/abs/2410.01647)|**[link](https://github.com/yangcaoai/3dgs-det)**|
+|**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614](http://arxiv.org/abs/2410.01614)|null|
+|**2024-10-02**|**GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians**|Shuyi Jiang et.al.|[2410.01535](http://arxiv.org/abs/2410.01535)|null|
+|**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404](http://arxiv.org/abs/2410.01404)|null|
+|**2024-10-02**|**AniSDF: Fused-Granularity Neural Surfaces with Anisotropic Encoding for High-Fidelity 3D Reconstruction**|Jingnan Gao et.al.|[2410.01202](http://arxiv.org/abs/2410.01202)|null|
+|**2024-10-01**|**BioFace3D: A fully automatic pipeline for facial biomarkers extraction of 3D face reconstructions segmented from MRI**|Álvaro Heredia-Lidón et.al.|[2410.00711](http://arxiv.org/abs/2410.00711)|null|
+|**2024-10-01**|**GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer**|Youngho Yoon et.al.|[2410.00672](http://arxiv.org/abs/2410.00672)|**[link](https://github.com/yh-yoon/gmt)**|
+|**2024-10-01**|**Cafca: High-quality Novel View Synthesis of Expressive Faces from Casual Few-shot Captures**|Marcel C. Bühler et.al.|[2410.00630](http://arxiv.org/abs/2410.00630)|null|
+|**2024-10-01**|**Seamless Augmented Reality Integration in Arthroscopy: A Pipeline for Articular Reconstruction and Guidance**|Hongchao Shu et.al.|[2410.00386](http://arxiv.org/abs/2410.00386)|null|
 |**2024-09-30**|**RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning**|Yuxuan Wu et.al.|[2409.20291](http://arxiv.org/abs/2409.20291)|null|
 |**2024-09-30**|**Distributed NeRF Learning for Collaborative Multi-Robot Perception**|Hongrui Zhao et.al.|[2409.20289](http://arxiv.org/abs/2409.20289)|null|
 |**2024-09-30**|**Active Neural Mapping at Scale**|Zijia Kuang et.al.|[2409.20276](http://arxiv.org/abs/2409.20276)|null|
@@ -60,12 +70,22 @@
 |**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 
-<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241004>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-10-02**|**EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis**|Alexander Mai et.al.|[2410.01804](http://arxiv.org/abs/2410.01804)|null|
+|**2024-10-02**|**3DGS-DET: Empower 3D Gaussian Splatting with Boundary Guidance and Box-Focused Sampling for 3D Object Detection**|Yang Cao et.al.|[2410.01647](http://arxiv.org/abs/2410.01647)|**[link](https://github.com/yangcaoai/3dgs-det)**|
+|**2024-10-02**|**Gaussian Splatting in Mirrors: Reflection-Aware Rendering via Virtual Camera Optimization**|Zihan Wang et.al.|[2410.01614](http://arxiv.org/abs/2410.01614)|null|
+|**2024-10-02**|**GaussianBlock: Building Part-Aware Compositional and Editable 3D Scene by Primitives and Gaussians**|Shuyi Jiang et.al.|[2410.01535](http://arxiv.org/abs/2410.01535)|null|
+|**2024-10-02**|**MiraGe: Editable 2D Images using Gaussian Splatting**|Joanna Waczyńska et.al.|[2410.01521](http://arxiv.org/abs/2410.01521)|**[link](https://github.com/waczjoan/mirage)**|
+|**2024-10-02**|**UW-GS: Distractor-Aware 3D Gaussian Splatting for Enhanced Underwater Scene Reconstruction**|Haoran Wang et.al.|[2410.01517](http://arxiv.org/abs/2410.01517)|null|
+|**2024-10-02**|**EVA-Gaussian: 3D Gaussian-based Real-time Human Novel View Synthesis under Diverse Camera Settings**|Yingdong Hu et.al.|[2410.01425](http://arxiv.org/abs/2410.01425)|null|
+|**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404](http://arxiv.org/abs/2410.01404)|null|
+|**2024-10-02**|**Flex3D: Feed-Forward 3D Generation With Flexible Reconstruction Model And Input View Curation**|Junlin Han et.al.|[2410.00890](http://arxiv.org/abs/2410.00890)|null|
+|**2024-10-02**|**CaRtGS: Computational Alignment for Real-Time Gaussian Splatting SLAM**|Dapeng Feng et.al.|[2410.00486](http://arxiv.org/abs/2410.00486)|null|
 |**2024-09-30**|**DressRecon: Freeform 4D Human Reconstruction from Monocular Video**|Jeff Tan et.al.|[2409.20563](http://arxiv.org/abs/2409.20563)|null|
 |**2024-09-30**|**RL-GSBridge: 3D Gaussian Splatting Based Real2Sim2Real Method for Robotic Manipulation Learning**|Yuxuan Wu et.al.|[2409.20291](http://arxiv.org/abs/2409.20291)|null|
 |**2024-09-30**|**Robust Gaussian Splatting SLAM by Leveraging Loop Closure**|Zunjie Zhu et.al.|[2409.20111](http://arxiv.org/abs/2409.20111)|null|
@@ -118,12 +138,20 @@
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 
-<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241004>back to top</a>)</p>
 
 ## Image Super-Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-10-03**|**Releasing the Parameter Latency of Neural Representation for High-Efficiency Video Compression**|Gai Zhang et.al.|[2410.01654](http://arxiv.org/abs/2410.01654)|null|
+|**2024-10-02**|**Coordinate-Based Neural Representation Enabling Zero-Shot Learning for 3D Multiparametric Quantitative MRI**|Guoyan Lao et.al.|[2410.01577](http://arxiv.org/abs/2410.01577)|null|
+|**2024-10-02**|**MiraGe: Editable 2D Images using Gaussian Splatting**|Joanna Waczyńska et.al.|[2410.01521](http://arxiv.org/abs/2410.01521)|**[link](https://github.com/waczjoan/mirage)**|
+|**2024-10-01**|**Three-Operator Splitting Method with Two-Step Inertial Extrapolation**|Olaniyi S. Iyiola et.al.|[2410.01099](http://arxiv.org/abs/2410.01099)|null|
+|**2024-10-01**|**GMT: Enhancing Generalizable Neural Rendering via Geometry-Driven Multi-Reference Texture Transfer**|Youngho Yoon et.al.|[2410.00672](http://arxiv.org/abs/2410.00672)|**[link](https://github.com/yh-yoon/gmt)**|
+|**2024-10-01**|**Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration**|Guy Ohayon et.al.|[2410.00418](http://arxiv.org/abs/2410.00418)|**[link](https://github.com/ohayonguy/PMRF)**|
+|**2024-10-01**|**GLMHA A Guided Low-rank Multi-Head Self-Attention for Efficient Image Restoration and Spectral Reconstruction**|Zaid Ilyas et.al.|[2410.00380](http://arxiv.org/abs/2410.00380)|null|
+|**2024-09-30**|**A Survey on Diffusion Models for Inverse Problems**|Giannis Daras et.al.|[2410.00083](http://arxiv.org/abs/2410.00083)|null|
 |**2024-09-30**|**UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation**|Cheng Zhang et.al.|[2409.20197](http://arxiv.org/abs/2409.20197)|**[link](https://github.com/justones/uir-lora)**|
 |**2024-09-30**|**WildFusion: Multimodal Implicit 3D Reconstructions in the Wild**|Yanbaihui Liu et.al.|[2409.19904](http://arxiv.org/abs/2409.19904)|null|
 |**2024-09-29**|**Underwater Organism Color Enhancement via Color Code Decomposition, Adaptation and Interpolation**|Xiaofeng Cong et.al.|[2409.19685](http://arxiv.org/abs/2409.19685)|**[link](https://github.com/xiaofeng-life/colorcode)**|
@@ -180,5 +208,5 @@
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 
-<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241004>back to top</a>)</p>
 
