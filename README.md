@@ -1,4 +1,4 @@
-## Updated on 2024.10.08
+## Updated on 2024.10.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,6 +12,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-10-07**|**LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**|Qifeng Chen et.al.|[2410.05111](http://arxiv.org/abs/2410.05111)|null|
+|**2024-10-07**|**GARField: Addressing the visual Sim-to-Real gap in garment manipulation with mesh-attached radiance fields**|Donatien Delehelle et.al.|[2410.05038](http://arxiv.org/abs/2410.05038)|null|
+|**2024-10-07**|**6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering**|Zhongpai Gao et.al.|[2410.04974](http://arxiv.org/abs/2410.04974)|null|
+|**2024-10-07**|**TeX-NeRF: Neural Radiance Fields from Pseudo-TeX Vision**|Chonghao Zhong et.al.|[2410.04873](http://arxiv.org/abs/2410.04873)|null|
+|**2024-10-06**|**Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering**|Yonghan Lee et.al.|[2410.04646](http://arxiv.org/abs/2410.04646)|null|
+|**2024-10-06**|**In-Place Panoptic Radiance Field Segmentation with Perceptual Prior for 3D Scene Understanding**|Shenghao Li et.al.|[2410.04529](http://arxiv.org/abs/2410.04529)|null|
+|**2024-10-06**|**Deformable NeRF using Recursively Subdivided Tetrahedra**|Zherui Qiu et.al.|[2410.04402](http://arxiv.org/abs/2410.04402)|null|
+|**2024-10-05**|**Hybrid NeRF-Stereo Vision: Pioneering Depth Estimation and 3D Reconstruction in Endoscopy**|Pengcheng Chen et.al.|[2410.04041](http://arxiv.org/abs/2410.04041)|null|
 |**2024-10-04**|**Shrinking: Reconstruction of Parameterized Surfaces from Signed Distance Fields**|Haotian Yin et.al.|[2410.03123](http://arxiv.org/abs/2410.03123)|null|
 |**2024-10-04**|**Partial-to-Full Registration based on Gradient-SDF for Computer-Assisted Orthopedic Surgery**|Tiancheng Li et.al.|[2410.03078](http://arxiv.org/abs/2410.03078)|null|
 |**2024-10-02**|**MVGS: Multi-view-regulated Gaussian Splatting for Novel View Synthesis**|Xiaobiao Du et.al.|[2410.02103](http://arxiv.org/abs/2410.02103)|null|
@@ -73,12 +81,20 @@
 |**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 
-<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-10-07**|**GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting**|Yukang Cao et.al.|[2410.05259](http://arxiv.org/abs/2410.05259)|null|
+|**2024-10-07**|**LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**|Qifeng Chen et.al.|[2410.05111](http://arxiv.org/abs/2410.05111)|null|
+|**2024-10-07**|**DreamSat: Towards a General 3D Model for Novel View Synthesis of Space Objects**|Nidhi Mathihalli et.al.|[2410.05097](http://arxiv.org/abs/2410.05097)|**[link](https://github.com/arclab-mit/space-nvs)**|
+|**2024-10-07**|**PhotoReg: Photometrically Registering 3D Gaussian Splatting Models**|Ziwen Yuan et.al.|[2410.05044](http://arxiv.org/abs/2410.05044)|null|
+|**2024-10-07**|**6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering**|Zhongpai Gao et.al.|[2410.04974](http://arxiv.org/abs/2410.04974)|null|
+|**2024-10-07**|**Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting**|Matthew Strong et.al.|[2410.04680](http://arxiv.org/abs/2410.04680)|null|
+|**2024-10-06**|**Mode-GS: Monocular Depth Guided Anchored 3D Gaussian Splatting for Robust Ground-View Scene Rendering**|Yonghan Lee et.al.|[2410.04646](http://arxiv.org/abs/2410.04646)|null|
+|**2024-10-06**|**StreetSurfGS: Scalable Urban Street Surface Reconstruction with Planar-based Gaussian Splatting**|Xiao Cui et.al.|[2410.04354](http://arxiv.org/abs/2410.04354)|null|
 |**2024-10-04**|**Variational Bayes Gaussian Splatting**|Toon Van de Maele et.al.|[2410.03592](http://arxiv.org/abs/2410.03592)|**[link](https://github.com/versestech/vbgs)**|
 |**2024-10-03**|**Flash-Splat: 3D Reflection Removal with Flash Cues and Gaussian Splats**|Mingyang Xie et.al.|[2410.02764](http://arxiv.org/abs/2410.02764)|null|
 |**2024-10-03**|**GI-GS: Global Illumination Decomposition on Gaussian Splatting for Inverse Rendering**|Hongze Chen et.al.|[2410.02619](http://arxiv.org/abs/2410.02619)|null|
@@ -146,12 +162,20 @@
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 
-<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
 
 ## Image Super-Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-10-07**|**FreSh: Frequency Shifting for Accelerated Neural Representation Learning**|Adam Kania et.al.|[2410.05050](http://arxiv.org/abs/2410.05050)|null|
+|**2024-10-07**|**Bi-Directional MS Lesion Filling and Synthesis Using Denoising Diffusion Implicit Model-based Lesion Repainting**|Jinwei Zhang et.al.|[2410.05027](http://arxiv.org/abs/2410.05027)|null|
+|**2024-10-07**|**Learning Efficient and Effective Trajectories for Differential Equation-based Image Restoration**|Zhiyu Zhu et.al.|[2410.04811](http://arxiv.org/abs/2410.04811)|**[link](https://github.com/ZHU-Zhiyu/FLUX-IR)**|
+|**2024-10-07**|**H-SIREN: Improving implicit neural representations with hyperbolic periodic functions**|Rui Gao et.al.|[2410.04716](http://arxiv.org/abs/2410.04716)|null|
+|**2024-10-07**|**SegINR: Segment-wise Implicit Neural Representation for Sequence Alignment in Neural Text-to-Speech**|Minchan Kim et.al.|[2410.04690](http://arxiv.org/abs/2410.04690)|null|
+|**2024-10-06**|**Generalizability analysis of deep learning predictions of human brain responses to augmented and semantically novel visual stimuli**|Valentyn Piskovskyi et.al.|[2410.04497](http://arxiv.org/abs/2410.04497)|null|
+|**2024-10-06**|**SITCOM: Step-wise Triple-Consistent Diffusion Sampling for Inverse Problems**|Ismail Alkhouri et.al.|[2410.04479](http://arxiv.org/abs/2410.04479)|null|
+|**2024-10-05**|**Overcoming False Illusions in Real-World Face Restoration with Multi-Modal Guided Diffusion Model**|Keda Tao et.al.|[2410.04161](http://arxiv.org/abs/2410.04161)|null|
 |**2024-10-04**|**Diffusion State-Guided Projected Gradient for Inverse Problems**|Rayhan Zirvi et.al.|[2410.03463](http://arxiv.org/abs/2410.03463)|null|
 |**2024-10-04**|**Shrinking: Reconstruction of Parameterized Surfaces from Signed Distance Fields**|Haotian Yin et.al.|[2410.03123](http://arxiv.org/abs/2410.03123)|null|
 |**2024-10-04**|**Theoretical Insights into 1:2 and 1:3 Internal Resonance for Frequency Stabilization in Nonlinear Micromechanical Resonators**|Ata Donmez et.al.|[2410.03109](http://arxiv.org/abs/2410.03109)|null|
@@ -224,5 +248,5 @@
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 
-<p align=right>(<a href=#updated-on-20241008>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241009>back to top</a>)</p>
 
