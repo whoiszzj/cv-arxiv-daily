@@ -1,4 +1,4 @@
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,12 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-10-21**|**FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors**|Chin-Yang Lin et.al.|[2410.16271](http://arxiv.org/abs/2410.16271)|null|
+|**2024-10-20**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392](http://arxiv.org/abs/2410.15392)|null|
+|**2024-10-20**|**Neural Active Structure-from-Motion in Dark and Textureless Environment**|Kazuto Ichimaru et.al.|[2410.15378](http://arxiv.org/abs/2410.15378)|null|
+|**2024-10-19**|**Neural Radiance Field Image Refinement through End-to-End Sampling Point Optimization**|Kazuhiro Ohta et.al.|[2410.14958](http://arxiv.org/abs/2410.14958)|null|
 |**2024-10-18**|**Shape Transformation Driven by Active Contour for Class-Imbalanced Semi-Supervised Medical Image Segmentation**|Yuliang Gu et.al.|[2410.14210](http://arxiv.org/abs/2410.14210)|**[link](https://github.com/gugull123/stac)**|
 |**2024-10-18**|**Neural Signed Distance Function Inference through Splatting 3D Gaussians Pulled on Zero-Level Set**|Wenyuan Zhang et.al.|[2410.14189](http://arxiv.org/abs/2410.14189)|null|
 |**2024-10-18**|**Learning autonomous driving from aerial imagery**|Varun Murali et.al.|[2410.14177](http://arxiv.org/abs/2410.14177)|null|
 |**2024-10-18**|**DaRePlane: Direction-aware Representations for Dynamic Scene Reconstruction**|Ange Lou et.al.|[2410.14169](http://arxiv.org/abs/2410.14169)|null|
 |**2024-10-17**|**DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering**|Jiahao Lu et.al.|[2410.13607](http://arxiv.org/abs/2410.13607)|null|
-|**2024-10-17**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[2410.13571](http://arxiv.org/abs/2410.13571)|null|
+|**2024-10-21**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[2410.13571](http://arxiv.org/abs/2410.13571)|null|
 |**2024-10-17**|**L3DG: Latent 3D Gaussian Diffusion**|Barbara Roessle et.al.|[2410.13530](http://arxiv.org/abs/2410.13530)|null|
 |**2024-10-17**|**Object Pose Estimation Using Implicit Representation For Transparent Objects**|Varun Burde et.al.|[2410.13465](http://arxiv.org/abs/2410.13465)|null|
 |**2024-10-17**|**GlossyGS: Inverse Rendering of Glossy Objects with 3D Gaussian Splatting**|Shuichang Lai et.al.|[2410.13349](http://arxiv.org/abs/2410.13349)|null|
@@ -127,12 +131,18 @@
 |**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 
-<p align=right>(<a href=#updated-on-20241022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-10-21**|**MvDrag3D: Drag-based Creative 3D Editing via Multi-view Generation-Reconstruction Priors**|Honghua Chen et.al.|[2410.16272](http://arxiv.org/abs/2410.16272)|null|
+|**2024-10-21**|**3DGS-Enhancer: Enhancing Unbounded 3D Gaussian Splatting with View-consistent 2D Diffusion Priors**|Xi Liu et.al.|[2410.16266](http://arxiv.org/abs/2410.16266)|null|
+|**2024-10-21**|**MSGField: A Unified Scene Representation Integrating Motion, Semantics, and Geometry for Robotic Manipulation**|Yu Sheng et.al.|[2410.15730](http://arxiv.org/abs/2410.15730)|null|
+|**2024-10-22**|**LucidFusion: Generating 3D Gaussians with Arbitrary Unposed Images**|Hao He et.al.|[2410.15636](http://arxiv.org/abs/2410.15636)|null|
+|**2024-10-22**|**Fully Explicit Dynamic Gaussian Splatting**|Junoh Lee et.al.|[2410.15629](http://arxiv.org/abs/2410.15629)|null|
+|**2024-10-20**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392](http://arxiv.org/abs/2410.15392)|null|
 |**2024-10-18**|**LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes**|Juliette Marrie et.al.|[2410.14462](http://arxiv.org/abs/2410.14462)|null|
 |**2024-10-18**|**Neural Signed Distance Function Inference through Splatting 3D Gaussians Pulled on Zero-Level Set**|Wenyuan Zhang et.al.|[2410.14189](http://arxiv.org/abs/2410.14189)|null|
 |**2024-10-18**|**DaRePlane: Direction-aware Representations for Dynamic Scene Reconstruction**|Ange Lou et.al.|[2410.14169](http://arxiv.org/abs/2410.14169)|null|
@@ -261,12 +271,16 @@
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 
-<p align=right>(<a href=#updated-on-20241022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
 
 ## Image Super-Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-10-20**|**TeV to PeV neutrinos from AGN coronae**|Simon Sotirov et.al.|[2410.15523](http://arxiv.org/abs/2410.15523)|null|
+|**2024-10-20**|**LoRA-IR: Taming Low-Rank Experts for Efficient All-in-One Image Restoration**|Yuang Ai et.al.|[2410.15385](http://arxiv.org/abs/2410.15385)|**[link](https://github.com/shallowdream204/lora-ir)**|
+|**2024-10-19**|**Implicit neural representation for free-breathing MR fingerprinting (INR-MRF): co-registered 3D whole-liver water T1, water T2, proton density fat fraction, and R2* mapping**|Chao Li et.al.|[2410.15175](http://arxiv.org/abs/2410.15175)|null|
+|**2024-10-19**|**A Survey on All-in-One Image Restoration: Taxonomy, Evaluation and Future Trends**|Junjun Jiang et.al.|[2410.15067](http://arxiv.org/abs/2410.15067)|null|
 |**2024-10-18**|**BiGR: Harnessing Binary Latent Codes for Image Generation and Improved Visual Representation Capabilities**|Shaozhe Hao et.al.|[2410.14672](http://arxiv.org/abs/2410.14672)|**[link](https://github.com/haoosz/BiGR)**|
 |**2024-10-17**|**Object Pose Estimation Using Implicit Representation For Transparent Objects**|Varun Burde et.al.|[2410.13465](http://arxiv.org/abs/2410.13465)|null|
 |**2024-10-17**|**Inductive Gradient Adjustment For Spectral Bias In Implicit Neural Representations**|Kexuan Shi et.al.|[2410.13271](http://arxiv.org/abs/2410.13271)|null|
@@ -369,5 +383,5 @@
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 
-<p align=right>(<a href=#updated-on-20241022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241023>back to top</a>)</p>
 
