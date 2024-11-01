@@ -2,11 +2,15 @@
 layout: default
 ---
 
-## Updated on 2024.10.31
+## Updated on 2024.11.01
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-10-30**|**ELMGS: Enhancing memory and computation scaLability through coMpression for 3D Gaussian Splatting**|Muhammad Salman Ali et.al.|[2410.23213](http://arxiv.org/abs/2410.23213)|null|
+|**2024-10-30**|**Model-independent measurement of $D^0$-$\overline{D}{}^0$ mixing parameters in $D^0\rightarrow K^0_{S}π^+π^-$ decays at Belle and Belle II**|Belle et.al.|[2410.22961](http://arxiv.org/abs/2410.22961)|null|
+|**2024-10-30**|**Bringing NeRFs to the Latent Space: Inverse Graphics Autoencoder**|Antoine Schnepf et.al.|[2410.22936](http://arxiv.org/abs/2410.22936)|null|
+|**2024-10-29**|**Exploiting Semantic Scene Reconstruction for Estimating Building Envelope Characteristics**|Chenghao Xu et.al.|[2410.22383](http://arxiv.org/abs/2410.22383)|null|
 |**2024-10-29**|**Neural Experts: Mixture of Experts for Implicit Neural Representations**|Yizhak Ben-Shabat et.al.|[2410.21643](http://arxiv.org/abs/2410.21643)|null|
 |**2024-10-28**|**MVSDet: Multi-View Indoor 3D Object Detection via Efficient Plane Sweeps**|Yating Xu et.al.|[2410.21566](http://arxiv.org/abs/2410.21566)|**[link](https://github.com/pixie8888/mvsdet)**|
 |**2024-10-29**|**EEG-Driven 3D Object Reconstruction with Color Consistency and Diffusion Prior**|Xin Xiang et.al.|[2410.20981](http://arxiv.org/abs/2410.20981)|null|
@@ -156,6 +160,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-10-30**|**ELMGS: Enhancing memory and computation scaLability through coMpression for 3D Gaussian Splatting**|Muhammad Salman Ali et.al.|[2410.23213](http://arxiv.org/abs/2410.23213)|null|
+|**2024-10-31**|**Epipolar-Free 3D Gaussian Splatting for Generalizable Novel View Synthesis**|Zhiyuan Min et.al.|[2410.22817](http://arxiv.org/abs/2410.22817)|null|
+|**2024-10-30**|**Geometry Cloak: Preventing TGS-based 3D Reconstruction from Copyrighted Images**|Qi Song et.al.|[2410.22705](http://arxiv.org/abs/2410.22705)|null|
 |**2024-10-29**|**PF3plat: Pose-Free Feed-Forward 3D Gaussian Splatting**|Sunghwan Hong et.al.|[2410.22128](http://arxiv.org/abs/2410.22128)|**[link](https://github.com/cvlab-kaist/PF3plat)**|
 |**2024-10-29**|**FreeGaussian: Guidance-free Controllable 3D Gaussian Splats with Flow Derivatives**|Qizhi Chen et.al.|[2410.22070](http://arxiv.org/abs/2410.22070)|null|
 |**2024-10-29**|**ActiveSplat: High-Fidelity Scene Reconstruction through Active Gaussian Splatting**|Yuetao Li et.al.|[2410.21955](http://arxiv.org/abs/2410.21955)|null|
@@ -320,6 +327,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-10-30**|**EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models**|Shangquan Sun et.al.|[2410.22959](http://arxiv.org/abs/2410.22959)|null|
 |**2024-10-29**|**PrefPaint: Aligning Image Inpainting Diffusion Model with Human Preference**|Kendong Liu et.al.|[2410.21966](http://arxiv.org/abs/2410.21966)|null|
 |**2024-10-30**|**Analyzing Noise Models and Advanced Filtering Algorithms for Image Enhancement**|Sahil Ali Akbar et.al.|[2410.21946](http://arxiv.org/abs/2410.21946)|**[link](https://github.com/SahilAliAkbar/Image_Noise_Analysis)**|
 |**2024-10-29**|**Predicting the Encoding Error of SIRENs**|Jeremy Vonderfecht et.al.|[2410.21645](http://arxiv.org/abs/2410.21645)|null|
