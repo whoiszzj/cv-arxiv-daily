@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-11-11**|**LuSh-NeRF: Lighting up and Sharpening NeRFs for Low-light Scenes**|Zefan Qu et.al.|[2411.06757](http://arxiv.org/abs/2411.06757)|null|
+|**2024-11-11**|**Shallow Signed Distance Functions for Kinematic Collision Bodies**|Osman Akar et.al.|[2411.06719](http://arxiv.org/abs/2411.06719)|null|
+|**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365](http://arxiv.org/abs/2411.06365)|null|
+|**2024-11-09**|**Acoustic Volume Rendering for Neural Impulse Response Fields**|Zitong Lan et.al.|[2411.06307](http://arxiv.org/abs/2411.06307)|null|
+|**2024-11-09**|**AI-Driven Stylization of 3D Environments**|Yuanbo Chen et.al.|[2411.06067](http://arxiv.org/abs/2411.06067)|null|
 |**2024-11-08**|**StdGEN: Semantic-Decomposed 3D Character Generation from Single Images**|Yuze He et.al.|[2411.05738](http://arxiv.org/abs/2411.05738)|null|
 |**2024-11-08**|**A Nerf-Based Color Consistency Method for Remote Sensing Images**|Zongcheng Zuo et.al.|[2411.05557](http://arxiv.org/abs/2411.05557)|null|
 |**2024-11-08**|**POC-SLT: Partial Object Completion with SDF Latent Transformers**|Faezeh Zakeri et.al.|[2411.05419](http://arxiv.org/abs/2411.05419)|null|
@@ -192,6 +197,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-11-11**|**A Hierarchical Compression Technique for 3D Gaussian Splatting Compression**|He Huang et.al.|[2411.06976](http://arxiv.org/abs/2411.06976)|null|
+|**2024-11-10**|**Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction**|Decai Chen et.al.|[2411.06602](http://arxiv.org/abs/2411.06602)|null|
+|**2024-11-10**|**SplatFormer: Point Transformer for Robust 3D Gaussian Splatting**|Yutong Chen et.al.|[2411.06390](http://arxiv.org/abs/2411.06390)|**[link](https://github.com/ChenYutongTHU/SplatFormer)**|
+|**2024-11-10**|**Through the Curved Cover: Synthesizing Cover Aberrated Scenes with Refractive Field**|Liuyue Xie et.al.|[2411.06365](http://arxiv.org/abs/2411.06365)|null|
+|**2024-11-09**|**AI-Driven Stylization of 3D Environments**|Yuanbo Chen et.al.|[2411.06067](http://arxiv.org/abs/2411.06067)|null|
+|**2024-11-09**|**GaussianSpa: An "Optimizing-Sparsifying" Simplification Framework for Compact and High-Quality 3D Gaussian Splatting**|Yangming Zhang et.al.|[2411.06019](http://arxiv.org/abs/2411.06019)|null|
 |**2024-11-08**|**PEP-GS: Perceptually-Enhanced Precise Structured 3D Gaussians for View-Adaptive Rendering**|Junxi Jin et.al.|[2411.05731](http://arxiv.org/abs/2411.05731)|null|
 |**2024-11-07**|**ProEdit: Simple Progression is All You Need for High-Quality 3D Scene Editing**|Jun-Kun Chen et.al.|[2411.05006](http://arxiv.org/abs/2411.05006)|null|
 |**2024-11-07**|**MVSplat360: Feed-Forward 360 Scene Synthesis from Sparse Views**|Yuedong Chen et.al.|[2411.04924](http://arxiv.org/abs/2411.04924)|**[link](https://github.com/donydchen/mvsplat360)**|
@@ -383,6 +394,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-11-11**|**Multi-scale Frequency Enhancement Network for Blind Image Deblurring**|Yawen Xiang et.al.|[2411.06893](http://arxiv.org/abs/2411.06893)|null|
+|**2024-11-10**|**Dropout the High-rate Downsampling: A Novel Design Paradigm for UHD Image Restoration**|Chen Wu et.al.|[2411.06456](http://arxiv.org/abs/2411.06456)|null|
+|**2024-11-10**|**Local Implicit Wavelet Transformer for Arbitrary-Scale Super-Resolution**|Minghong Duan et.al.|[2411.06442](http://arxiv.org/abs/2411.06442)|**[link](https://github.com/dmhdmhdmh/liwt)**|
+|**2024-11-10**|**SEM-Net: Efficient Pixel Modelling for image inpainting with Spatially Enhanced SSM**|Shuang Chen et.al.|[2411.06318](http://arxiv.org/abs/2411.06318)|**[link](https://github.com/chrischen1023/sem-net)**|
+|**2024-11-09**|**HiHa: Introducing Hierarchical Harmonic Decomposition to Implicit Neural Compression for Atmospheric Data**|Zhewen Xu et.al.|[2411.06155](http://arxiv.org/abs/2411.06155)|null|
+|**2024-11-08**|**A Modular Conditional Diffusion Framework for Image Reconstruction**|Magauiya Zhussip et.al.|[2411.05993](http://arxiv.org/abs/2411.05993)|null|
 |**2024-11-08**|**Image inpainting enhancement by replacing the original mask with a self-attended region from the input image**|Kourosh Kiani et.al.|[2411.05705](http://arxiv.org/abs/2411.05705)|null|
 |**2024-11-07**|**Reducing data resolution for better super-resolution: Reconstructing turbulent flows from noisy observation**|Kyongmin Yeo et.al.|[2411.05240](http://arxiv.org/abs/2411.05240)|null|
 |**2024-11-07**|**LoFi: Scalable Local Image Reconstruction with Implicit Neural Representation**|AmirEhsan Khorashadizadeh et.al.|[2411.04995](http://arxiv.org/abs/2411.04995)|null|
