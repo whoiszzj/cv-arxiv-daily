@@ -1,4 +1,4 @@
-## Updated on 2024.11.18
+## Updated on 2024.11.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,6 +12,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-11-15**|**4DPV: 4D Pet from Videos by Coarse-to-Fine Non-Rigid Radiance Fields**|Sergio M. de Paco et.al.|[2411.10275](http://arxiv.org/abs/2411.10275)|**[link](https://github.com/smontode24/4dpv)**|
+|**2024-11-15**|**Measurement of $B \to K{}^{*}(892)γ$ decays at Belle II**|Belle II Collaboration et.al.|[2411.10127](http://arxiv.org/abs/2411.10127)|null|
+|**2024-11-15**|**GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization**|Yanhao Sun et.al.|[2411.10033](http://arxiv.org/abs/2411.10033)|null|
+|**2024-11-15**|**Toward Robust and Accurate Adversarial Camouflage Generation against Vehicle Detectors**|Jiawei Zhou et.al.|[2411.10029](http://arxiv.org/abs/2411.10029)|null|
+|**2024-11-14**|**Adversarial Attacks Using Differentiable Rendering: A Survey**|Matthew Hull et.al.|[2411.09749](http://arxiv.org/abs/2411.09749)|null|
 |**2024-11-14**|**CropCraft: Inverse Procedural Modeling for 3D Reconstruction of Crop Plants**|Albert J. Zhai et.al.|[2411.09693](http://arxiv.org/abs/2411.09693)|null|
 |**2024-11-14**|**DyGASR: Dynamic Generalized Exponential Splatting with Surface Alignment for Accelerated 3D Mesh Reconstruction**|Shengchao Zhao et.al.|[2411.09156](http://arxiv.org/abs/2411.09156)|null|
 |**2024-11-13**|**Towards More Accurate Fake Detection on Images Generated from Advanced Generative and Neural Rendering Models**|Chengdong Dong et.al.|[2411.08642](http://arxiv.org/abs/2411.08642)|null|
@@ -207,12 +212,16 @@
 |**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-11-15**|**Efficient Density Control for 3D Gaussian Splatting**|Xiaobin Deng et.al.|[2411.10133](http://arxiv.org/abs/2411.10133)|null|
+|**2024-11-15**|**GSEditPro: 3D Gaussian Splatting Editing with Attention-based Progressive Localization**|Yanhao Sun et.al.|[2411.10033](http://arxiv.org/abs/2411.10033)|null|
+|**2024-11-15**|**GGAvatar: Reconstructing Garment-Separated 3D Gaussian Splatting Avatars from Monocular Video**|Jingxuan Chen et.al.|[2411.09952](http://arxiv.org/abs/2411.09952)|**[link](https://github.com/j-x-chen/ggavatar)**|
+|**2024-11-14**|**Adversarial Attacks Using Differentiable Rendering: A Survey**|Matthew Hull et.al.|[2411.09749](http://arxiv.org/abs/2411.09749)|null|
 |**2024-11-14**|**DyGASR: Dynamic Generalized Exponential Splatting with Surface Alignment for Accelerated 3D Mesh Reconstruction**|Shengchao Zhao et.al.|[2411.09156](http://arxiv.org/abs/2411.09156)|null|
 |**2024-11-13**|**4D Gaussian Splatting in the Wild with Uncertainty-Aware Regularization**|Mijeong Kim et.al.|[2411.08879](http://arxiv.org/abs/2411.08879)|null|
 |**2024-11-13**|**Towards More Accurate Fake Detection on Images Generated from Advanced Generative and Neural Rendering Models**|Chengdong Dong et.al.|[2411.08642](http://arxiv.org/abs/2411.08642)|null|
@@ -417,12 +426,14 @@
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
 ## Image Super-Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-11-15**|**Probabilistic Prior Driven Attention Mechanism Based on Diffusion Model for Imaging Through Atmospheric Turbulence**|Guodong Sun et.al.|[2411.10321](http://arxiv.org/abs/2411.10321)|null|
+|**2024-11-14**|**Architect: Generating Vivid and Interactive 3D Scenes with Hierarchical 2D Inpainting**|Yian Wang et.al.|[2411.09823](http://arxiv.org/abs/2411.09823)|null|
 |**2024-11-12**|**CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising**|Linxuan Li et.al.|[2411.07930](http://arxiv.org/abs/2411.07930)|null|
 |**2024-11-12**|**Joint multi-dimensional dynamic attention and transformer for general image restoration**|Huan Zhang et.al.|[2411.07893](http://arxiv.org/abs/2411.07893)|**[link](https://github.com/house-yuyu/mdda-former)**|
 |**2024-11-12**|**Numerical Homogenization by Continuous Super-Resolution**|Zhi-Song Liu et.al.|[2411.07576](http://arxiv.org/abs/2411.07576)|null|
@@ -575,5 +586,5 @@
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 
-<p align=right>(<a href=#updated-on-20241118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241119>back to top</a>)</p>
 
