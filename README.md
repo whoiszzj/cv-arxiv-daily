@@ -1,4 +1,4 @@
-## Updated on 2024.11.25
+## Updated on 2024.11.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,6 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-11-22**|**Neural 4D Evolution under Large Topological Changes from 2D Images**|AmirHossein Naghi Razlighi et.al.|[2411.15018](http://arxiv.org/abs/2411.15018)|null|
+|**2024-11-22**|**3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes**|Jan Held et.al.|[2411.14974](http://arxiv.org/abs/2411.14974)|**[link](https://github.com/convexsplatting/convex-splatting)**|
+|**2024-11-22**|**VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving**|Haiming Zhang et.al.|[2411.14716](http://arxiv.org/abs/2411.14716)|null|
 |**2024-11-21**|**Novel View Extrapolation with Video Diffusion Priors**|Kunhao Liu et.al.|[2411.14208](http://arxiv.org/abs/2411.14208)|null|
 |**2024-11-21**|**Measurement of the inclusive branching fractions for $B_s^0$ decays into $D$ mesons via hadronic tagging**|Belle et.al.|[2411.14032](http://arxiv.org/abs/2411.14032)|null|
 |**2024-11-20**|**Sparse Input View Synthesis: 3D Representations and Reliable Priors**|Nagabhushan Somraj et.al.|[2411.13631](http://arxiv.org/abs/2411.13631)|null|
@@ -228,12 +231,17 @@
 |**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 
-<p align=right>(<a href=#updated-on-20241125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-11-22**|**Neural 4D Evolution under Large Topological Changes from 2D Images**|AmirHossein Naghi Razlighi et.al.|[2411.15018](http://arxiv.org/abs/2411.15018)|null|
+|**2024-11-22**|**3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes**|Jan Held et.al.|[2411.14974](http://arxiv.org/abs/2411.14974)|**[link](https://github.com/convexsplatting/convex-splatting)**|
+|**2024-11-22**|**Dynamics-Aware Gaussian Splatting Streaming Towards Fast On-the-Fly Training for 4D Reconstruction**|Zhening Liu et.al.|[2411.14847](http://arxiv.org/abs/2411.14847)|null|
+|**2024-11-22**|**VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving**|Haiming Zhang et.al.|[2411.14716](http://arxiv.org/abs/2411.14716)|null|
+|**2024-11-21**|**NexusSplats: Efficient 3D Gaussian Splatting in the Wild**|Yuzhou Tang et.al.|[2411.14514](http://arxiv.org/abs/2411.14514)|null|
 |**2024-11-21**|**Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation**|Zhuoman Liu et.al.|[2411.14423](http://arxiv.org/abs/2411.14423)|null|
 |**2024-11-21**|**Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation**|Yuanhao Cai et.al.|[2411.14384](http://arxiv.org/abs/2411.14384)|null|
 |**2024-11-21**|**SplatR : Experience Goal Visual Rearrangement with 3D Gaussian Splatting and Dense Feature Matching**|Arjun P S et.al.|[2411.14322](http://arxiv.org/abs/2411.14322)|null|
@@ -466,12 +474,13 @@
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 
-<p align=right>(<a href=#updated-on-20241125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
 
 ## Image Super-Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-11-21**|**Unveiling the Hidden: A Comprehensive Evaluation of Underwater Image Enhancement and Its Impact on Object Detection**|Ali Awad et.al.|[2411.14626](http://arxiv.org/abs/2411.14626)|null|
 |**2024-11-21**|**Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion**|Jinhong He et.al.|[2411.13961](http://arxiv.org/abs/2411.13961)|**[link](https://github.com/hejh8/joint-wavelet-and-fourier-priors-guided-diffusion)**|
 |**2024-11-21**|**Geometric Algebra Planes: Convex Implicit Neural Volumes**|Irmak Sivgin et.al.|[2411.13525](http://arxiv.org/abs/2411.13525)|null|
 |**2024-11-20**|**Localized Electromagnetic Perturbations on Vector Solitons**|Yulia Galushkina et.al.|[2411.13514](http://arxiv.org/abs/2411.13514)|null|
@@ -645,5 +654,5 @@
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 
-<p align=right>(<a href=#updated-on-20241125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241126>back to top</a>)</p>
 

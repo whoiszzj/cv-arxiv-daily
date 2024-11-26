@@ -2,11 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.11.25
+## Updated on 2024.11.26
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-11-22**|**Neural 4D Evolution under Large Topological Changes from 2D Images**|AmirHossein Naghi Razlighi et.al.|[2411.15018](http://arxiv.org/abs/2411.15018)|null|
+|**2024-11-22**|**3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes**|Jan Held et.al.|[2411.14974](http://arxiv.org/abs/2411.14974)|**[link](https://github.com/convexsplatting/convex-splatting)**|
+|**2024-11-22**|**VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving**|Haiming Zhang et.al.|[2411.14716](http://arxiv.org/abs/2411.14716)|null|
 |**2024-11-21**|**Novel View Extrapolation with Video Diffusion Priors**|Kunhao Liu et.al.|[2411.14208](http://arxiv.org/abs/2411.14208)|null|
 |**2024-11-21**|**Measurement of the inclusive branching fractions for $B_s^0$ decays into $D$ mesons via hadronic tagging**|Belle et.al.|[2411.14032](http://arxiv.org/abs/2411.14032)|null|
 |**2024-11-20**|**Sparse Input View Synthesis: 3D Representations and Reliable Priors**|Nagabhushan Somraj et.al.|[2411.13631](http://arxiv.org/abs/2411.13631)|null|
@@ -227,6 +230,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-11-22**|**Neural 4D Evolution under Large Topological Changes from 2D Images**|AmirHossein Naghi Razlighi et.al.|[2411.15018](http://arxiv.org/abs/2411.15018)|null|
+|**2024-11-22**|**3D Convex Splatting: Radiance Field Rendering with 3D Smooth Convexes**|Jan Held et.al.|[2411.14974](http://arxiv.org/abs/2411.14974)|**[link](https://github.com/convexsplatting/convex-splatting)**|
+|**2024-11-22**|**Dynamics-Aware Gaussian Splatting Streaming Towards Fast On-the-Fly Training for 4D Reconstruction**|Zhening Liu et.al.|[2411.14847](http://arxiv.org/abs/2411.14847)|null|
+|**2024-11-22**|**VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving**|Haiming Zhang et.al.|[2411.14716](http://arxiv.org/abs/2411.14716)|null|
+|**2024-11-21**|**NexusSplats: Efficient 3D Gaussian Splatting in the Wild**|Yuzhou Tang et.al.|[2411.14514](http://arxiv.org/abs/2411.14514)|null|
 |**2024-11-21**|**Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation**|Zhuoman Liu et.al.|[2411.14423](http://arxiv.org/abs/2411.14423)|null|
 |**2024-11-21**|**Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation**|Yuanhao Cai et.al.|[2411.14384](http://arxiv.org/abs/2411.14384)|null|
 |**2024-11-21**|**SplatR : Experience Goal Visual Rearrangement with 3D Gaussian Splatting and Dense Feature Matching**|Arjun P S et.al.|[2411.14322](http://arxiv.org/abs/2411.14322)|null|
@@ -463,6 +471,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2024-11-21**|**Unveiling the Hidden: A Comprehensive Evaluation of Underwater Image Enhancement and Its Impact on Object Detection**|Ali Awad et.al.|[2411.14626](http://arxiv.org/abs/2411.14626)|null|
 |**2024-11-21**|**Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion**|Jinhong He et.al.|[2411.13961](http://arxiv.org/abs/2411.13961)|**[link](https://github.com/hejh8/joint-wavelet-and-fourier-priors-guided-diffusion)**|
 |**2024-11-21**|**Geometric Algebra Planes: Convex Implicit Neural Volumes**|Irmak Sivgin et.al.|[2411.13525](http://arxiv.org/abs/2411.13525)|null|
 |**2024-11-20**|**Localized Electromagnetic Perturbations on Vector Solitons**|Yulia Galushkina et.al.|[2411.13514](http://arxiv.org/abs/2411.13514)|null|
