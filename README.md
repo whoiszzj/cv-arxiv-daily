@@ -1,4 +1,4 @@
-## Updated on 2024.12.03
+## Updated on 2024.12.04
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -255,20 +255,20 @@
 |**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 
-<p align=right>(<a href=#updated-on-20241203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
-|**2024-11-29**|**GuardSplat: Robust and Efficient Watermarking for 3D Gaussian Splatting**|Zixuan Chen et.al.|[2411.19895](http://arxiv.org/abs/2411.19895)|**[link](https://github.com/narcissusex/guardsplat)**|
+|**2024-12-02**|**GuardSplat: Efficient and Robust Watermarking for 3D Gaussian Splatting**|Zixuan Chen et.al.|[2411.19895](http://arxiv.org/abs/2411.19895)|**[link](https://github.com/narcissusex/guardsplat)**|
 |**2024-11-29**|**DeSplat: Decomposed Gaussian Splatting for Distractor-Free Rendering**|Yihao Wang et.al.|[2411.19756](http://arxiv.org/abs/2411.19756)|null|
 |**2024-11-29**|**TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting**|Bojun Xiong et.al.|[2411.19654](http://arxiv.org/abs/2411.19654)|null|
 |**2024-11-29**|**Tortho-Gaussian: Splatting True Digital Orthophoto Maps**|Xin Wang et.al.|[2411.19594](http://arxiv.org/abs/2411.19594)|null|
 |**2024-11-29**|**Gaussian Splashing: Direct Volumetric Rendering Underwater**|Nir Mualem et.al.|[2411.19588](http://arxiv.org/abs/2411.19588)|null|
 |**2024-11-29**|**Bootstraping Clustering of Gaussians for View-consistent 3D Scene Understanding**|Wenbo Zhang et.al.|[2411.19551](http://arxiv.org/abs/2411.19551)|null|
 |**2024-11-29**|**ReconDreamer: Crafting World Models for Driving Scene Reconstruction via Online Restoration**|Chaojun Ni et.al.|[2411.19548](http://arxiv.org/abs/2411.19548)|null|
-|**2024-11-29**|**GausSurf: Geometry-Guided 3D Gaussian Splatting for Surface Reconstruction**|Jiepeng Wang et.al.|[2411.19454](http://arxiv.org/abs/2411.19454)|null|
+|**2024-12-02**|**GausSurf: Geometry-Guided 3D Gaussian Splatting for Surface Reconstruction**|Jiepeng Wang et.al.|[2411.19454](http://arxiv.org/abs/2411.19454)|null|
 |**2024-11-29**|**RF-3DGS: Wireless Channel Modeling with Radio Radiance Field and 3D Gaussian Splatting**|Lihao Zhang et.al.|[2411.19420](http://arxiv.org/abs/2411.19420)|null|
 |**2024-11-28**|**SAMa: Material-aware 3D Selection and Segmentation**|Michael Fischer et.al.|[2411.19322](http://arxiv.org/abs/2411.19322)|null|
 |**2024-11-27**|**Textured Gaussians for Enhanced 3D Scene Appearance Modeling**|Brian Chao et.al.|[2411.18625](http://arxiv.org/abs/2411.18625)|null|
@@ -536,7 +536,7 @@
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 
-<p align=right>(<a href=#updated-on-20241203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
 
 ## Image Super-Resolution
 
@@ -738,5 +738,5 @@
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 
-<p align=right>(<a href=#updated-on-20241203>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
 
