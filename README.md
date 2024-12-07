@@ -1,4 +1,4 @@
-## Updated on 2024.12.06
+## Updated on 2024.12.07
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,6 +12,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-12-05**|**Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering**|Cheng Sun et.al.|[2412.04459](http://arxiv.org/abs/2412.04459)|null|
+|**2024-12-05**|**GigaHands: A Massive Annotated Dataset of Bimanual Hand Activities**|Rao Fu et.al.|[2412.04244](http://arxiv.org/abs/2412.04244)|null|
+|**2024-12-05**|**CrossSDF: 3D Reconstruction of Thin Structures From Cross-Sections**|Thomas Walker et.al.|[2412.04120](http://arxiv.org/abs/2412.04120)|null|
+|**2024-12-05**|**HyperDefect-YOLO: Enhance YOLO with HyperGraph Computation for Industrial Defect Detection**|Zuo Zuo et.al.|[2412.03969](http://arxiv.org/abs/2412.03969)|null|
 |**2024-12-04**|**SGSST: Scaling Gaussian Splatting StyleTransfer**|Bruno Galerne et.al.|[2412.03371](http://arxiv.org/abs/2412.03371)|null|
 |**2024-12-04**|**NeRF and Gaussian Splatting SLAM in the Wild**|Fabian Schmidt et.al.|[2412.03263](http://arxiv.org/abs/2412.03263)|null|
 |**2024-12-03**|**Gaussian Splatting Under Attack: Investigating Adversarial Noise in 3D Objects**|Abdurrahman Zeybey et.al.|[2412.02803](http://arxiv.org/abs/2412.02803)|null|
@@ -268,12 +272,22 @@
 |**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 
-<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241207>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-12-05**|**Turbo3D: Ultra-fast Text-to-3D Generation**|Hanzhe Hu et.al.|[2412.04470](http://arxiv.org/abs/2412.04470)|null|
+|**2024-12-05**|**QUEEN: QUantized Efficient ENcoding of Dynamic Gaussians for Streaming Free-viewpoint Videos**|Sharath Girish et.al.|[2412.04469](http://arxiv.org/abs/2412.04469)|null|
+|**2024-12-05**|**Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering**|Cheng Sun et.al.|[2412.04459](http://arxiv.org/abs/2412.04459)|null|
+|**2024-12-05**|**Monocular Dynamic Gaussian Splatting is Fast and Brittle but Smooth Motion Helps**|Yiqing Liang et.al.|[2412.04457](http://arxiv.org/abs/2412.04457)|null|
+|**2024-12-05**|**PBDyG: Position Based Dynamic Gaussians for Motion-Aware Clothed Human Avatars**|Shota Sasaki et.al.|[2412.04433](http://arxiv.org/abs/2412.04433)|null|
+|**2024-12-05**|**EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding**|Yuqi Wu et.al.|[2412.04380](http://arxiv.org/abs/2412.04380)|null|
+|**2024-12-05**|**InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models**|Yifan Lu et.al.|[2412.03934](http://arxiv.org/abs/2412.03934)|null|
+|**2024-12-05**|**Multi-View Pose-Agnostic Change Localization with Zero Labels**|Chamuditha Jayanga Galappaththige et.al.|[2412.03911](http://arxiv.org/abs/2412.03911)|null|
+|**2024-12-05**|**DGNS: Deformable Gaussian Splatting and Dynamic Neural Surface for Monocular Dynamic 3D Reconstruction**|Xuesong Li et.al.|[2412.03910](http://arxiv.org/abs/2412.03910)|null|
+|**2024-12-05**|**HybridGS: Decoupling Transients and Statics with 2D and 3D Gaussian Splatting**|Jingyu Lin et.al.|[2412.03844](http://arxiv.org/abs/2412.03844)|null|
 |**2024-12-04**|**Feed-Forward Bullet-Time Reconstruction of Dynamic Scenes from Monocular Videos**|Hanxue Liang et.al.|[2412.03526](http://arxiv.org/abs/2412.03526)|null|
 |**2024-12-04**|**Dense Scene Reconstruction from Light-Field Images Affected by Rolling Shutter**|Hermes McGriff et.al.|[2412.03518](http://arxiv.org/abs/2412.03518)|null|
 |**2024-12-04**|**Urban4D: Semantic-Guided 4D Gaussian Splatting for Urban Scene Reconstruction**|Ziwen Li et.al.|[2412.03473](http://arxiv.org/abs/2412.03473)|null|
@@ -569,12 +583,20 @@
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 
-<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241207>back to top</a>)</p>
 
 ## Image Super-Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-12-05**|**Deep priors for satellite image restoration with accurate uncertainties**|Biquard Maud et.al.|[2412.04130](http://arxiv.org/abs/2412.04130)|null|
+|**2024-12-05**|**Blind Underwater Image Restoration using Co-Operational Regressor Networks**|Ozer Can Devecioglu et.al.|[2412.03995](http://arxiv.org/abs/2412.03995)|null|
+|**2024-12-05**|**INRetouch: Context Aware Implicit Neural Representation for Photography Retouching**|Omar Elezabi et.al.|[2412.03848](http://arxiv.org/abs/2412.03848)|null|
+|**2024-12-05**|**LL-ICM: Image Compression for Low-level Machine Vision via Large Vision-Language Model**|Yuan Xue et.al.|[2412.03841](http://arxiv.org/abs/2412.03841)|null|
+|**2024-12-05**|**Exploring Real&Synthetic Dataset and Linear Attention in Image Restoration**|Yuzhen Du et.al.|[2412.03814](http://arxiv.org/abs/2412.03814)|null|
+|**2024-12-05**|**Pinco: Position-induced Consistent Adapter for Diffusion Transformer in Foreground-conditioned Inpainting**|Guangben Lu et.al.|[2412.03812](http://arxiv.org/abs/2412.03812)|null|
+|**2024-12-04**|**HIIF: Hierarchical Encoding based Implicit Image Function for Continuous Super-resolution**|Yuxuan Jiang et.al.|[2412.03748](http://arxiv.org/abs/2412.03748)|null|
+|**2024-12-04**|**Active Beam Learning for Full-Duplex Wireless Systems**|Jeong Min Kong et.al.|[2412.03746](http://arxiv.org/abs/2412.03746)|null|
 |**2024-12-04**|**Pixel-level and Semantic-level Adjustable Super-resolution: A Dual-LoRA Approach**|Lingchen Sun et.al.|[2412.03017](http://arxiv.org/abs/2412.03017)|null|
 |**2024-12-04**|**Semantic Segmentation Prior for Diffusion-Based Real-World Super-Resolution**|Jiahua Xiao et.al.|[2412.02960](http://arxiv.org/abs/2412.02960)|null|
 |**2024-12-03**|**Multi-robot autonomous 3D reconstruction using Gaussian splatting with Semantic guidance**|Jing Zeng et.al.|[2412.02249](http://arxiv.org/abs/2412.02249)|null|
@@ -783,5 +805,5 @@
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 
-<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241207>back to top</a>)</p>
 
