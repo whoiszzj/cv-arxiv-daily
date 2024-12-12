@@ -1,4 +1,4 @@
-## Updated on 2024.12.11
+## Updated on 2024.12.12
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,6 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-12-10**|**EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering**|Toshiya Yura et.al.|[2412.07293](http://arxiv.org/abs/2412.07293)|null|
+|**2024-12-10**|**ArtFormer: Controllable Generation of Diverse 3D Articulated Objects**|Jiayi Su et.al.|[2412.07237](http://arxiv.org/abs/2412.07237)|**[link](https://github.com/shuyumo2003/artformer)**|
+|**2024-12-09**|**Diffusing Differentiable Representations**|Yash Savani et.al.|[2412.06981](http://arxiv.org/abs/2412.06981)|null|
 |**2024-12-09**|**Dynamic EventNeRF: Reconstructing General Dynamic Scenes from Multi-view Event Cameras**|Viktor Rudnev et.al.|[2412.06770](http://arxiv.org/abs/2412.06770)|null|
 |**2024-12-09**|**MAtCha Gaussians: Atlas of Charts for High-Quality Geometry and Photorealism From Sparse Views**|Antoine Guédon et.al.|[2412.06767](http://arxiv.org/abs/2412.06767)|null|
 |**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|null|
@@ -282,12 +285,18 @@
 |**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 
-<p align=right>(<a href=#updated-on-20241211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-12-10**|**GASP: Gaussian Avatars with Synthetic Priors**|Jack Saunders et.al.|[2412.07739](http://arxiv.org/abs/2412.07739)|null|
+|**2024-12-10**|**Proc-GS: Procedural Building Generation for City Assembly with 3D Gaussians**|Yixuan Li et.al.|[2412.07660](http://arxiv.org/abs/2412.07660)|null|
+|**2024-12-10**|**Faster and Better 3D Splatting via Group Training**|Chengbo Wang et.al.|[2412.07608](http://arxiv.org/abs/2412.07608)|null|
+|**2024-12-10**|**ResGS: Residual Densification of 3D Gaussian for Efficient Detail Recovery**|Yanzhe Lyu et.al.|[2412.07494](http://arxiv.org/abs/2412.07494)|null|
+|**2024-12-10**|**EventSplat: 3D Gaussian Splatting from Moving Event Cameras for Real-time Rendering**|Toshiya Yura et.al.|[2412.07293](http://arxiv.org/abs/2412.07293)|null|
+|**2024-12-09**|**MV-DUSt3R+: Single-Stage Scene Reconstruction from Sparse Views In 2 Seconds**|Zhenggang Tang et.al.|[2412.06974](http://arxiv.org/abs/2412.06974)|null|
 |**2024-12-09**|**Deblur4DGS: 4D Gaussian Splatting from Blurry Monocular Video**|Renlong Wu et.al.|[2412.06424](http://arxiv.org/abs/2412.06424)|null|
 |**2024-12-09**|**4D Gaussian Splatting with Scale-aware Residual Field and Adaptive Optimization for Real-time Rendering of Temporally Complex Dynamic Scenes**|Jinbo Yan et.al.|[2412.06299](http://arxiv.org/abs/2412.06299)|null|
 |**2024-12-09**|**Advancing Extended Reality with 3D Gaussian Splatting: Innovations and Prospects**|Shi Qiu et.al.|[2412.06257](http://arxiv.org/abs/2412.06257)|null|
@@ -608,12 +617,20 @@
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 
-<p align=right>(<a href=#updated-on-20241211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
 
 ## Image Super-Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-12-10**|**Leveraging Content and Context Cues for Low-Light Image Enhancement**|Igor Morawski et.al.|[2412.07693](http://arxiv.org/abs/2412.07693)|null|
+|**2024-12-10**|**Analytical-Heuristic Modeling and Optimization for Low-Light Image Enhancement**|Axel Martinez et.al.|[2412.07659](http://arxiv.org/abs/2412.07659)|null|
+|**2024-12-10**|**Deep Joint Unrolling for Deblurring and Low-Light Image Enhancement (JUDE).pdf**|Tu Vo et.al.|[2412.07527](http://arxiv.org/abs/2412.07527)|null|
+|**2024-12-10**|**Modeling Dual-Exposure Quad-Bayer Patterns for Joint Denoising and Deblurring**|Yuzhi Zhao et.al.|[2412.07256](http://arxiv.org/abs/2412.07256)|**[link](https://github.com/zhaoyuzhi/qrnet)**|
+|**2024-12-10**|**Moderating the Generalization of Score-based Generative Model**|Wan Jiang et.al.|[2412.07229](http://arxiv.org/abs/2412.07229)|null|
+|**2024-12-10**|**EchoIR: Advancing Image Restoration with Echo Upsampling and Bi-Level Optimization**|Yuhan He et.al.|[2412.07225](http://arxiv.org/abs/2412.07225)|null|
+|**2024-12-10**|**A Progressive Image Restoration Network for High-order Degradation Imaging in Remote Sensing**|Yujie Feng et.al.|[2412.07195](http://arxiv.org/abs/2412.07195)|null|
+|**2024-12-09**|**Generalized Least Squares Kernelized Tensor Factorization**|Mengying Lei et.al.|[2412.07041](http://arxiv.org/abs/2412.07041)|null|
 |**2024-12-09**|**InstantRestore: Single-Step Personalized Face Restoration with Shared-Image Attention**|Howard Zhang et.al.|[2412.06753](http://arxiv.org/abs/2412.06753)|null|
 |**2024-12-09**|**EchoSim4D: A Proof-of-Concept Gamified XR Echocardiography Training Simulator for Neonates using 4D Ultrasound Volume**|Deepthy Rose Jose et.al.|[2412.06271](http://arxiv.org/abs/2412.06271)|null|
 |**2024-12-08**|**3D-Consistent Image Inpainting with Diffusion Models**|Leonid Antsfeld et.al.|[2412.05881](http://arxiv.org/abs/2412.05881)|null|
@@ -838,5 +855,5 @@
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 
-<p align=right>(<a href=#updated-on-20241211>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
 
