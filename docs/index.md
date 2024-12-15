@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -293,7 +293,7 @@ layout: default
 |**2024-12-12**|**LiftImage3D: Lifting Any Single Image to 3D Gaussians with Video Generation Priors**|Yabo Chen et.al.|[2412.09597](http://arxiv.org/abs/2412.09597)|null|
 |**2024-12-12**|**FreeSplatter: Pose-free Gaussian Splatting for Sparse-view 3D Reconstruction**|Jiale Xu et.al.|[2412.09573](http://arxiv.org/abs/2412.09573)|null|
 |**2024-12-12**|**SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothing**|Xueting Li et.al.|[2412.09545](http://arxiv.org/abs/2412.09545)|null|
-|**2024-12-12**|**GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency**|Dongyue Lu et.al.|[2412.09511](http://arxiv.org/abs/2412.09511)|null|
+|**2024-12-12**|**GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency**|Dongyue Lu et.al.|[2412.09511](http://arxiv.org/abs/2412.09511)|**[link](https://github.com/DylanOrange/geal)**|
 |**2024-12-12**|**LIVE-GS: LLM Powers Interactive VR by Enhancing Gaussian Splatting**|Haotian Mao et.al.|[2412.09176](http://arxiv.org/abs/2412.09176)|null|
 |**2024-12-11**|**PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis**|Yifan Xie et.al.|[2412.08504](http://arxiv.org/abs/2412.08504)|null|
 |**2024-12-11**|**SLGaussian: Fast Language Gaussian Splatting in Sparse Views**|Kangjie Chen et.al.|[2412.08331](http://arxiv.org/abs/2412.08331)|null|
@@ -631,7 +631,7 @@ layout: default
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
 |**2024-12-12**|**OFTSR: One-Step Flow for Image Super-Resolution with Tunable Fidelity-Realism Trade-offs**|Yuanzhi Zhu et.al.|[2412.09465](http://arxiv.org/abs/2412.09465)|**[link](https://github.com/yuanzhi-zhu/oftsr)**|
 |**2024-12-12**|**Are Conditional Latent Diffusion Models Effective for Image Restoration?**|Yunchen Yuan et.al.|[2412.09324](http://arxiv.org/abs/2412.09324)|null|
-|**2024-12-12**|**Enhancing Implicit Neural Representations via Symmetric Power Transformation**|Weixiang Zhang et.al.|[2412.09213](http://arxiv.org/abs/2412.09213)|null|
+|**2024-12-12**|**Enhancing Implicit Neural Representations via Symmetric Power Transformation**|Weixiang Zhang et.al.|[2412.09213](http://arxiv.org/abs/2412.09213)|**[link](https://github.com/zwx-open/Symmetric-Power-Transformation-INR)**|
 |**2024-12-12**|**ExpRDiff: Short-exposure Guided Diffusion Model for Realistic Local Motion Deblurring**|Zhongbao Yang et.al.|[2412.09193](http://arxiv.org/abs/2412.09193)|null|
 |**2024-12-12**|**RAD: Region-Aware Diffusion Models for Image Inpainting**|Sora Kim et.al.|[2412.09191](http://arxiv.org/abs/2412.09191)|null|
 |**2024-12-12**|**Dynamic Contrastive Knowledge Distillation for Efficient Image Restoration**|Yunshuai Zhou et.al.|[2412.08939](http://arxiv.org/abs/2412.08939)|null|
