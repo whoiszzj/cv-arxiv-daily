@@ -1,4 +1,4 @@
-## Updated on 2024.12.19
+## Updated on 2024.12.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,9 +12,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983](http://arxiv.org/abs/2412.13983)|**[link](https://github.com/ucwxb/graphavatar)**|
+|**2024-12-18**|**RelationField: Relate Anything in Radiance Fields**|Sebastian Koch et.al.|[2412.13652](http://arxiv.org/abs/2412.13652)|null|
+|**2024-12-18**|**Turbo-GS: Accelerating 3D Gaussian Fitting for High-Quality Radiance Fields**|Tao Lu et.al.|[2412.13547](http://arxiv.org/abs/2412.13547)|null|
 |**2024-12-17**|**EOGS: Gaussian Splatting for Earth Observation**|Luca Savant Aira et.al.|[2412.13047](http://arxiv.org/abs/2412.13047)|null|
 |**2024-12-17**|**CATSplat: Context-Aware Transformer with Spatial Guidance for Generalizable 3D Gaussian Splatting from A Single-View Image**|Wonseok Roh et.al.|[2412.12906](http://arxiv.org/abs/2412.12906)|null|
-|**2024-12-17**|**Optimize the Unseen -- Fast NeRF Cleanup with Free Space Prior**|Leo Segre et.al.|[2412.12772](http://arxiv.org/abs/2412.12772)|null|
+|**2024-12-18**|**Optimize the Unseen -- Fast NeRF Cleanup with Free Space Prior**|Leo Segre et.al.|[2412.12772](http://arxiv.org/abs/2412.12772)|null|
 |**2024-12-17**|**Towards a Training Free Approach for 3D Scene Editing**|Vivek Madhavaram et.al.|[2412.12766](http://arxiv.org/abs/2412.12766)|null|
 |**2024-12-16**|**Observation of the decay $B^0 \to J/ψω$ at Belle II**|Belle II Collaboration et.al.|[2412.12338](http://arxiv.org/abs/2412.12338)|null|
 |**2024-12-16**|**CAP4D: Creating Animatable 4D Portrait Avatars with Morphable Multi-View Diffusion Models**|Felix Taubner et.al.|[2412.12093](http://arxiv.org/abs/2412.12093)|null|
@@ -308,12 +311,17 @@
 |**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241220>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-12-18**|**GraphAvatar: Compact Head Avatars with GNN-Generated 3D Gaussians**|Xiaobao Wei et.al.|[2412.13983](http://arxiv.org/abs/2412.13983)|**[link](https://github.com/ucwxb/graphavatar)**|
+|**2024-12-18**|**GAGS: Granularity-Aware Feature Distillation for Language Gaussian Splatting**|Yuning Peng et.al.|[2412.13654](http://arxiv.org/abs/2412.13654)|null|
+|**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639](http://arxiv.org/abs/2412.13639)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
+|**2024-12-18**|**Turbo-GS: Accelerating 3D Gaussian Fitting for High-Quality Radiance Fields**|Tao Lu et.al.|[2412.13547](http://arxiv.org/abs/2412.13547)|null|
+|**2024-12-18**|**Vivar: A Generative AR System for Intuitive Multi-Modal Sensor Data Presentation**|Yunqi Guo et.al.|[2412.13509](http://arxiv.org/abs/2412.13509)|null|
 |**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[2412.13193](http://arxiv.org/abs/2412.13193)|**[link](https://github.com/hustvl/gausstr)**|
 |**2024-12-17**|**Real-time Free-view Human Rendering from Sparse-view RGB Videos using Double Unprojected Textures**|Guoxing Sun et.al.|[2412.13183](http://arxiv.org/abs/2412.13183)|null|
 |**2024-12-17**|**NFL-BA: Improving Endoscopic SLAM with Near-Field Light Bundle Adjustment**|Andrea Dunn Beltran et.al.|[2412.13176](http://arxiv.org/abs/2412.13176)|null|
@@ -676,12 +684,17 @@
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241220>back to top</a>)</p>
 
 ## Image Super-Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2024-12-18**|**Fed-AugMix: Balancing Privacy and Utility via Data Augmentation**|Haoyang Li et.al.|[2412.13818](http://arxiv.org/abs/2412.13818)|null|
+|**2024-12-18**|**VIIS: Visible and Infrared Information Synthesis for Severe Low-light Image Enhancement**|Chen Zhao et.al.|[2412.13655](http://arxiv.org/abs/2412.13655)|**[link](https://github.com/chenz418/viis)**|
+|**2024-12-18**|**DarkIR: Robust Low-Light Image Restoration**|Daniel Feijoo et.al.|[2412.13443](http://arxiv.org/abs/2412.13443)|null|
+|**2024-12-18**|**Zero-Shot Low Light Image Enhancement with Diffusion Prior**|Joshua Cho et.al.|[2412.13401](http://arxiv.org/abs/2412.13401)|null|
+|**2024-12-17**|**iRBSM: A Deep Implicit 3D Breast Shape Model**|Maximilian Weiherer et.al.|[2412.13244](http://arxiv.org/abs/2412.13244)|null|
 |**2024-12-17**|**Subspace Implicit Neural Representations for Real-Time Cardiac Cine MR Imaging**|Wenqi Huang et.al.|[2412.12742](http://arxiv.org/abs/2412.12742)|**[link](https://github.com/wenqihuang/SubspaceINR-CMR)**|
 |**2024-12-17**|**Consistent Diffusion: Denoising Diffusion Model with Data-Consistent Training for Image Restoration**|Xinlong Cheng et.al.|[2412.12550](http://arxiv.org/abs/2412.12550)|null|
 |**2024-12-16**|**Expanded Comprehensive Robotic Cholecystectomy Dataset (CRCD)**|Ki-Hwan Oh et.al.|[2412.12238](http://arxiv.org/abs/2412.12238)|null|
@@ -932,5 +945,5 @@
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 
-<p align=right>(<a href=#updated-on-20241219>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241220>back to top</a>)</p>
 
