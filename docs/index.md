@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.27
+## Updated on 2024.12.28
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -724,9 +724,9 @@ layout: default
 |**2024-12-24**|**Underwater Image Restoration via Polymorphic Large Kernel CNNs**|Xiaojiao Guo et.al.|[2412.18459](http://arxiv.org/abs/2412.18459)|**[link](https://github.com/CXH-Research/UIR-PolyKernel)**|
 |**2024-12-24**|**UNet--: Memory-Efficient and Feature-Enhanced Network Architecture based on U-Net with Reduced Skip-Connections**|Lingxiao Yin et.al.|[2412.18276](http://arxiv.org/abs/2412.18276)|null|
 |**2024-12-24**|**SDM-Car: A Dataset for Small and Dim Moving Vehicles Detection in Satellite Videos**|Zhen Zhang et.al.|[2412.18214](http://arxiv.org/abs/2412.18214)|**[link](https://github.com/tanedam/sdm-car)**|
-|**2024-12-21**|**Optoelectronic generative adversarial networks**|Jumin Qiu et.al.|[2412.16672](http://arxiv.org/abs/2412.16672)|null|
+|**2024-12-21**|**Optoelectronic generative adversarial networks**|Jumin Qiu et.al.|[2412.16672](http://arxiv.org/abs/2412.16672)|**[link](https://github.com/qiujumin/OE-GAN)**|
 |**2024-12-21**|**Rethinking Model Redundancy for Low-light Image Enhancement**|Tong Li et.al.|[2412.16459](http://arxiv.org/abs/2412.16459)|null|
-|**2024-12-19**|**Defeasible Visual Entailment: Benchmark, Evaluator, and Reward-Driven Optimization**|Yue Zhang et.al.|[2412.16232](http://arxiv.org/abs/2412.16232)|null|
+|**2024-12-19**|**Defeasible Visual Entailment: Benchmark, Evaluator, and Reward-Driven Optimization**|Yue Zhang et.al.|[2412.16232](http://arxiv.org/abs/2412.16232)|**[link](https://github.com/skywalkerzhang/Defeasible_Visual_Entailment)**|
 |**2024-12-20**|**SeagrassFinder: Deep Learning for Eelgrass Detection and Coverage Estimation in the Wild**|Jannik Elsäßer et.al.|[2412.16147](http://arxiv.org/abs/2412.16147)|null|
 |**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890](http://arxiv.org/abs/2412.15890)|null|
 |**2024-12-20**|**Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation**|Aiwen Jiang et.al.|[2412.15845](http://arxiv.org/abs/2412.15845)|**[link](https://github.com/12138-chr/mtair)**|

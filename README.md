@@ -1,4 +1,4 @@
-## Updated on 2024.12.27
+## Updated on 2024.12.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -329,7 +329,7 @@
 |**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 
-<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241228>back to top</a>)</p>
 
 ## GaussianSplatting
 
@@ -724,7 +724,7 @@
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 
-<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241228>back to top</a>)</p>
 
 ## Image Super-Resolution
 
@@ -733,9 +733,9 @@
 |**2024-12-24**|**Underwater Image Restoration via Polymorphic Large Kernel CNNs**|Xiaojiao Guo et.al.|[2412.18459](http://arxiv.org/abs/2412.18459)|**[link](https://github.com/CXH-Research/UIR-PolyKernel)**|
 |**2024-12-24**|**UNet--: Memory-Efficient and Feature-Enhanced Network Architecture based on U-Net with Reduced Skip-Connections**|Lingxiao Yin et.al.|[2412.18276](http://arxiv.org/abs/2412.18276)|null|
 |**2024-12-24**|**SDM-Car: A Dataset for Small and Dim Moving Vehicles Detection in Satellite Videos**|Zhen Zhang et.al.|[2412.18214](http://arxiv.org/abs/2412.18214)|**[link](https://github.com/tanedam/sdm-car)**|
-|**2024-12-21**|**Optoelectronic generative adversarial networks**|Jumin Qiu et.al.|[2412.16672](http://arxiv.org/abs/2412.16672)|null|
+|**2024-12-21**|**Optoelectronic generative adversarial networks**|Jumin Qiu et.al.|[2412.16672](http://arxiv.org/abs/2412.16672)|**[link](https://github.com/qiujumin/OE-GAN)**|
 |**2024-12-21**|**Rethinking Model Redundancy for Low-light Image Enhancement**|Tong Li et.al.|[2412.16459](http://arxiv.org/abs/2412.16459)|null|
-|**2024-12-19**|**Defeasible Visual Entailment: Benchmark, Evaluator, and Reward-Driven Optimization**|Yue Zhang et.al.|[2412.16232](http://arxiv.org/abs/2412.16232)|null|
+|**2024-12-19**|**Defeasible Visual Entailment: Benchmark, Evaluator, and Reward-Driven Optimization**|Yue Zhang et.al.|[2412.16232](http://arxiv.org/abs/2412.16232)|**[link](https://github.com/skywalkerzhang/Defeasible_Visual_Entailment)**|
 |**2024-12-20**|**SeagrassFinder: Deep Learning for Eelgrass Detection and Coverage Estimation in the Wild**|Jannik Elsäßer et.al.|[2412.16147](http://arxiv.org/abs/2412.16147)|null|
 |**2024-12-20**|**NeuroPump: Simultaneous Geometric and Color Rectification for Underwater Images**|Yue Guo et.al.|[2412.15890](http://arxiv.org/abs/2412.15890)|null|
 |**2024-12-20**|**Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation**|Aiwen Jiang et.al.|[2412.15845](http://arxiv.org/abs/2412.15845)|**[link](https://github.com/12138-chr/mtair)**|
@@ -997,5 +997,5 @@
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 
-<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241228>back to top</a>)</p>
 
