@@ -368,7 +368,7 @@
 |**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149](http://arxiv.org/abs/2412.19149)|**[link](https://github.com/liguohao96/egg3d)**|
 |**2024-12-26**|**CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting**|Siyu Jiao et.al.|[2412.19142](http://arxiv.org/abs/2412.19142)|null|
 |**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130](http://arxiv.org/abs/2412.19130)|null|
-|**2024-12-25**|**WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting**|Chenghao Qian et.al.|[2412.18862](http://arxiv.org/abs/2412.18862)|null|
+|**2024-12-25**|**WeatherGS: 3D Scene Reconstruction in Adverse Weather Conditions via Gaussian Splatting**|Chenghao Qian et.al.|[2412.18862](http://arxiv.org/abs/2412.18862)|**[link](https://github.com/Jumponthemoon/WeatherGS)**|
 |**2024-12-25**|**GSAVS: Gaussian Splatting-based Autonomous Vehicle Simulator**|Rami Wilson et.al.|[2412.18816](http://arxiv.org/abs/2412.18816)|null|
 |**2024-12-24**|**Resolution-Robust 3D MRI Reconstruction with 2D Diffusion Priors: Diverse-Resolution Training Outperforms Interpolation**|Anselm Krainovic et.al.|[2412.18584](http://arxiv.org/abs/2412.18584)|null|
 |**2024-12-24**|**RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis**|Yiling Yao et.al.|[2412.18380](http://arxiv.org/abs/2412.18380)|null|
@@ -869,7 +869,7 @@
 |**2024-11-23**|**Gradient-Guided Parameter Mask for Multi-Scenario Image Restoration Under Adverse Weather**|Jilong Guo et.al.|[2411.16739](http://arxiv.org/abs/2411.16739)|**[link](https://github.com/aierlab/multitask)**|
 |**2024-11-25**|**Mixed Degradation Image Restoration via Local Dynamic Optimization and Conditional Embedding**|Yubin Gu et.al.|[2411.16217](http://arxiv.org/abs/2411.16217)|null|
 |**2024-11-25**|**U2NeRF: Unsupervised Underwater Image Restoration and Neural Radiance Fields**|Vinayak Gupta et.al.|[2411.16172](http://arxiv.org/abs/2411.16172)|null|
-|**2024-11-24**|**PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation**|Chia-Ming Lee et.al.|[2411.15922](http://arxiv.org/abs/2411.15922)|null|
+|**2024-11-24**|**PromptHSI: Universal Hyperspectral Image Restoration Framework for Composite Degradation**|Chia-Ming Lee et.al.|[2411.15922](http://arxiv.org/abs/2411.15922)|**[link](https://github.com/chingheng0808/PromptHSI)**|
 |**2024-11-24**|**MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking**|Chunhui Zhang et.al.|[2411.15761](http://arxiv.org/abs/2411.15761)|null|
 |**2024-11-24**|**LTCF-Net: A Transformer-Enhanced Dual-Channel Fourier Framework for Low-Light Image Restoration**|Gaojing Zhang et.al.|[2411.15740](http://arxiv.org/abs/2411.15740)|null|
 |**2024-11-22**|**Frequency-Guided Posterior Sampling for Diffusion-Based Image Restoration**|Darshan Thaker et.al.|[2411.15295](http://arxiv.org/abs/2411.15295)|null|
