@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.01.07
+## Updated on 2025.01.08
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-01-06**|**4D-CS: Exploiting Cluster Prior for 4D Spatio-Temporal LiDAR Semantic Segmentation**|Jiexi Zhong et.al.|[2501.02937](http://arxiv.org/abs/2501.02937)|null|
+|**2025-01-06**|**AE-NeRF: Augmenting Event-Based Neural Radiance Fields for Non-ideal Conditions and Larger Scene**|Chaoran Feng et.al.|[2501.02807](http://arxiv.org/abs/2501.02807)|null|
 |**2025-01-03**|**D $^3$ -Human: Dynamic Disentangled Digital Human from Monocular Video**|Honghu Chen et.al.|[2501.01589](http://arxiv.org/abs/2501.01589)|null|
 |**2024-12-31**|**Geometry Matters: Benchmarking Scientific ML Approaches for Flow Prediction around Complex Geometries**|Ali Rabeh et.al.|[2501.01453](http://arxiv.org/abs/2501.01453)|null|
 |**2025-01-03**|**DreamDrive: Generative 4D Scene Modeling from Street View Images**|Jiageng Mao et.al.|[2501.00601](http://arxiv.org/abs/2501.00601)|null|
@@ -14,7 +16,7 @@ layout: default
 |**2024-12-27**|**Sharpening Neural Implicit Functions with Frequency Consolidation Priors**|Chao Chen et.al.|[2412.19720](http://arxiv.org/abs/2412.19720)|null|
 |**2024-12-27**|**Measurement of the branching fraction, polarization, and time-dependent $CP$ asymmetry in $B^0 \to ρ^+ρ^-$ decays and constraint on the CKM angle $φ_2$**|Belle II Collaboration et.al.|[2412.19624](http://arxiv.org/abs/2412.19624)|null|
 |**2024-12-27**|**Learning Radiance Fields from a Single Snapshot Compressive Image**|Yunhao Li et.al.|[2412.19483](http://arxiv.org/abs/2412.19483)|null|
-|**2024-12-26**|**BeSplat -- Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370](http://arxiv.org/abs/2412.19370)|null|
+|**2025-01-05**|**BeSplat: Gaussian Splatting from a Single Blurry Image and Event Stream**|Gopi Raju Matta et.al.|[2412.19370](http://arxiv.org/abs/2412.19370)|null|
 |**2024-12-26**|**Generating Editable Head Avatars with 3D Gaussian GANs**|Guohao Li et.al.|[2412.19149](http://arxiv.org/abs/2412.19149)|**[link](https://github.com/liguohao96/egg3d)**|
 |**2024-12-26**|**MVS-GS: High-Quality 3D Gaussian Splatting Mapping via Online Multi-View Stereo**|Byeonggwon Lee et.al.|[2412.19130](http://arxiv.org/abs/2412.19130)|null|
 |**2024-12-26**|**Humans as a Calibration Pattern: Dynamic 3D Scene Reconstruction from Unsynchronized and Uncalibrated Videos**|Changwoon Choi et.al.|[2412.19089](http://arxiv.org/abs/2412.19089)|null|
@@ -339,6 +341,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-01-06**|**Gaussian Masked Autoencoders**|Jathushan Rajasegaran et.al.|[2501.03229](http://arxiv.org/abs/2501.03229)|null|
+|**2025-01-06**|**HOGSA: Bimanual Hand-Object Interaction Understanding with 3D Gaussian Splatting Based Data Augmentation**|Wentian Qu et.al.|[2501.02845](http://arxiv.org/abs/2501.02845)|null|
+|**2025-01-05**|**GS-DiT: Advancing Video Generation with Pseudo 4D Gaussian Fields through Efficient Dense 3D Point Tracking**|Weikang Bian et.al.|[2501.02690](http://arxiv.org/abs/2501.02690)|null|
 |**2025-01-03**|**EnerVerse: Envisioning Embodied Future Space for Robotics Manipulation**|Siyuan Huang et.al.|[2501.01895](http://arxiv.org/abs/2501.01895)|null|
 |**2025-01-03**|**Cloth-Splatting: 3D Cloth State Estimation from RGB Supervision**|Alberta Longhini et.al.|[2501.01715](http://arxiv.org/abs/2501.01715)|null|
 |**2025-01-03**|**CrossView-GS: Cross-view Gaussian Splatting For Large-scale Scene Reconstruction**|Chenhao Zhang et.al.|[2501.01695](http://arxiv.org/abs/2501.01695)|null|
@@ -762,6 +767,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-01-06**|**ImageMM: Joint multi-frame image restoration and super-resolution**|Yashil Sukurdeep et.al.|[2501.03002](http://arxiv.org/abs/2501.03002)|null|
+|**2025-01-06**|**InpDiffusion: Image Inpainting Localization via Conditional Diffusion Models**|Kai Wang et.al.|[2501.02816](http://arxiv.org/abs/2501.02816)|null|
+|**2025-01-06**|**Underwater Image Restoration Through a Prior Guided Hybrid Sense Approach and Extensive Benchmark Analysis**|Xiaojiao Guo et.al.|[2501.02701](http://arxiv.org/abs/2501.02701)|**[link](https://github.com/cxh-research/guidedhybsensuir)**|
+|**2025-01-05**|**MetaNeRV: Meta Neural Representations for Videos with Spatial-Temporal Guidance**|Jialong Guo et.al.|[2501.02427](http://arxiv.org/abs/2501.02427)|null|
+|**2025-01-04**|**CorrFill: Enhancing Faithfulness in Reference-based Inpainting with Correspondence Guidance in Diffusion Models**|Kuan-Hung Liu et.al.|[2501.02355](http://arxiv.org/abs/2501.02355)|null|
 |**2025-01-03**|**Few-shot Implicit Function Generation via Equivariance**|Suizhi Huang et.al.|[2501.01601](http://arxiv.org/abs/2501.01601)|null|
 |**2025-01-03**|**Conditional Consistency Guided Image Translation and Enhancement**|Amil Bhagat et.al.|[2501.01223](http://arxiv.org/abs/2501.01223)|**[link](https://github.com/amilbhagat/Conditional-Consistency-Models)**|
 |**2025-01-02**|**Generalized Task-Driven Medical Image Quality Enhancement with Gradient Promotion**|Dong Zhang et.al.|[2501.01114](http://arxiv.org/abs/2501.01114)|null|
