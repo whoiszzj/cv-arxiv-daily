@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.01.20
+## Updated on 2025.01.21
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-01-17**|**Surface-SOS: Self-Supervised Object Segmentation via Neural Surface Representation**|Xiaoyun Zheng et.al.|[2501.09947](http://arxiv.org/abs/2501.09947)|**[link](https://github.com/zhengxyun/surface-sos)**|
+|**2025-01-16**|**CrossModalityDiffusion: Multi-Modal Novel View Synthesis with Unified Intermediate Representation**|Alex Berian et.al.|[2501.09838](http://arxiv.org/abs/2501.09838)|null|
 |**2025-01-16**|**Normal-NeRF: Ambiguity-Robust Normal Estimation for Highly Reflective Scenes**|Ji Shi et.al.|[2501.09460](http://arxiv.org/abs/2501.09460)|**[link](https://github.com/sjj118/normal-nerf)**|
 |**2025-01-15**|**SLC $^2$ -SLAM: Semantic-guided Loop Closure with Shared Latent Code for NeRF SLAM**|Yuhang Ming et.al.|[2501.08880](http://arxiv.org/abs/2501.08880)|null|
 |**2025-01-15**|**Scalable and High-Quality Neural Implicit Representation for 3D Reconstruction**|Leyuan Yang et.al.|[2501.08577](http://arxiv.org/abs/2501.08577)|null|
@@ -364,6 +366,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-01-17**|**GSTAR: Gaussian Surface Tracking and Reconstruction**|Chengwei Zheng et.al.|[2501.10283](http://arxiv.org/abs/2501.10283)|null|
+|**2025-01-17**|**GaussianAvatar-Editor: Photorealistic Animatable Gaussian Head Avatar Editor**|Xiangyue Liu et.al.|[2501.09978](http://arxiv.org/abs/2501.09978)|null|
 |**2025-01-16**|**Creating Virtual Environments with 3D Gaussian Splatting: A Comparative Study**|Shi Qiu et.al.|[2501.09302](http://arxiv.org/abs/2501.09302)|null|
 |**2025-01-15**|**CityLoc: 6 DoF Localization of Text Descriptions in Large-Scale Scenes with Gaussian Representation**|Qi Ma et.al.|[2501.08982](http://arxiv.org/abs/2501.08982)|null|
 |**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672](http://arxiv.org/abs/2501.08672)|null|
@@ -818,6 +822,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-01-17**|**DiffStereo: High-Frequency Aware Diffusion Model for Stereo Image Restoration**|Huiyun Cao et.al.|[2501.10325](http://arxiv.org/abs/2501.10325)|null|
 |**2025-01-16**|**FLOL: Fast Baselines for Real-World Low-Light Enhancement**|Juan C. Benito et.al.|[2501.09718](http://arxiv.org/abs/2501.09718)|null|
 |**2025-01-16**|**Soft Knowledge Distillation with Multi-Dimensional Cross-Net Attention for Image Restoration Models Compression**|Yongheng Zhang et.al.|[2501.09321](http://arxiv.org/abs/2501.09321)|null|
 |**2025-01-16**|**Bias for Action: Video Implicit Neural Representations with Bias Modulation**|Alper Kayabasi et.al.|[2501.09277](http://arxiv.org/abs/2501.09277)|null|
