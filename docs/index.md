@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.30
+## Updated on 2025.01.31
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -382,6 +382,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-01-29**|**CrowdSplat: Exploring Gaussian Splatting For Crowd Rendering**|Xiaohan Sun et.al.|[2501.17792](http://arxiv.org/abs/2501.17792)|null|
+|**2025-01-29**|**FeatureGS: Eigenvalue-Feature Optimization in 3D Gaussian Splatting for Geometrically Accurate and Artifact-Reduced Reconstruction**|Miriam Jäger et.al.|[2501.17655](http://arxiv.org/abs/2501.17655)|null|
 |**2025-01-28**|**Evaluating CrowdSplat: Perceived Level of Detail for Gaussian Crowds**|Xiaohan Sun et.al.|[2501.17085](http://arxiv.org/abs/2501.17085)|null|
 |**2025-01-28**|**DiffSplat: Repurposing Image Diffusion Models for Scalable Gaussian Splat Generation**|Chenguo Lin et.al.|[2501.16764](http://arxiv.org/abs/2501.16764)|null|
 |**2025-01-28**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312](http://arxiv.org/abs/2501.16312)|null|
@@ -862,6 +864,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-01-29**|**Segmentation-Aware Generative Reinforcement Network (GRN) for Tissue Layer Segmentation in 3-D Ultrasound Images for Chronic Low-back Pain (cLBP) Assessment**|Zixue Zeng et.al.|[2501.17690](http://arxiv.org/abs/2501.17690)|null|
 |**2025-01-28**|**Text-to-Image Generation for Vocabulary Learning Using the Keyword Method**|Nuwan T. Attygalle et.al.|[2501.17099](http://arxiv.org/abs/2501.17099)|null|
 |**2025-01-27**|**Directing Mamba to Complex Textures: An Efficient Texture-Aware State Space Model for Image Restoration**|Long Peng et.al.|[2501.16583](http://arxiv.org/abs/2501.16583)|null|
 |**2025-01-27**|**UDBE: Unsupervised Diffusion-based Brightness Enhancement in Underwater Images**|Tatiana Taís Schein et.al.|[2501.16211](http://arxiv.org/abs/2501.16211)|**[link](https://github.com/gusanagy/udbe)**|
