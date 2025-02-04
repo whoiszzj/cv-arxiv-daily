@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.02.03
+## Updated on 2025.02.04
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-01-31**|**JGHand: Joint-Driven Animatable Hand Avater via 3D Gaussian Splatting**|Zhoutao Sun et.al.|[2501.19088](http://arxiv.org/abs/2501.19088)|null|
+|**2025-01-31**|**Laser: Efficient Language-Guided Segmentation in Neural Radiance Fields**|Xingyu Miao et.al.|[2501.19084](http://arxiv.org/abs/2501.19084)|null|
+|**2025-01-27**|**Deformable Beta Splatting**|Rong Liu et.al.|[2501.18630](http://arxiv.org/abs/2501.18630)|null|
+|**2025-01-27**|**A Radiance Field Loss for Fast and Simple Emissive Surface Reconstruction**|Ziyi Zhang et.al.|[2501.18627](http://arxiv.org/abs/2501.18627)|null|
 |**2025-01-30**|**StructuredField: Unifying Structured Geometry and Radiance Field**|Kaiwen Song et.al.|[2501.18152](http://arxiv.org/abs/2501.18152)|null|
-|**2025-01-29**|**VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting**|Nowak Mateusz et.al.|[2501.17978](http://arxiv.org/abs/2501.17978)|null|
+|**2025-01-31**|**VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting**|Mateusz Nowak et.al.|[2501.17978](http://arxiv.org/abs/2501.17978)|null|
 |**2025-01-28**|**Predicting 3D representations for Dynamic Scenes**|Di Qi et.al.|[2501.16617](http://arxiv.org/abs/2501.16617)|null|
 |**2025-01-28**|**LinPrim: Linear Primitives for Differentiable Volumetric Rendering**|Nicolas von Lützow et.al.|[2501.16312](http://arxiv.org/abs/2501.16312)|null|
 |**2025-01-24**|**SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation**|Yujian Liu et.al.|[2501.14646](http://arxiv.org/abs/2501.14646)|null|
@@ -384,8 +388,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-01-31**|**Advancing Dense Endoscopic Reconstruction with Gaussian Splatting-driven Surface Normal-aware Tracking and Mapping**|Yiming Huang et.al.|[2501.19319](http://arxiv.org/abs/2501.19319)|**[link](https://github.com/lastbasket/endo-2dtam)**|
+|**2025-01-31**|**RaySplats: Ray Tracing based Gaussian Splatting**|Krzysztof Byrski et.al.|[2501.19196](http://arxiv.org/abs/2501.19196)|**[link](https://github.com/kbyrski/raysplatting)**|
+|**2025-01-31**|**JGHand: Joint-Driven Animatable Hand Avater via 3D Gaussian Splatting**|Zhoutao Sun et.al.|[2501.19088](http://arxiv.org/abs/2501.19088)|null|
+|**2025-01-31**|**OmniPhysGS: 3D Constitutive Gaussians for General Physics-Based Dynamics Generation**|Yuchen Lin et.al.|[2501.18982](http://arxiv.org/abs/2501.18982)|null|
+|**2025-01-30**|**Zero-Shot Novel View and Depth Synthesis with Multi-View Geometric Diffusion**|Vitor Guizilini et.al.|[2501.18804](http://arxiv.org/abs/2501.18804)|null|
+|**2025-01-30**|**Drag Your Gaussian: Effective Drag-Based Editing with Score Distillation for 3D Gaussian Splatting**|Yansong Qu et.al.|[2501.18672](http://arxiv.org/abs/2501.18672)|null|
 |**2025-01-30**|**StructuredField: Unifying Structured Geometry and Radiance Field**|Kaiwen Song et.al.|[2501.18152](http://arxiv.org/abs/2501.18152)|null|
-|**2025-01-29**|**VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting**|Nowak Mateusz et.al.|[2501.17978](http://arxiv.org/abs/2501.17978)|null|
+|**2025-01-31**|**VoD-3DGS: View-opacity-Dependent 3D Gaussian Splatting**|Mateusz Nowak et.al.|[2501.17978](http://arxiv.org/abs/2501.17978)|null|
 |**2025-01-29**|**CrowdSplat: Exploring Gaussian Splatting For Crowd Rendering**|Xiaohan Sun et.al.|[2501.17792](http://arxiv.org/abs/2501.17792)|null|
 |**2025-01-29**|**FeatureGS: Eigenvalue-Feature Optimization in 3D Gaussian Splatting for Geometrically Accurate and Artifact-Reduced Reconstruction**|Miriam Jäger et.al.|[2501.17655](http://arxiv.org/abs/2501.17655)|null|
 |**2025-01-28**|**Evaluating CrowdSplat: Perceived Level of Detail for Gaussian Crowds**|Xiaohan Sun et.al.|[2501.17085](http://arxiv.org/abs/2501.17085)|null|
@@ -868,8 +878,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-01-30**|**Distillation-Driven Diffusion Model for Multi-Scale MRI Super-Resolution: Make 1.5T MRI Great Again**|Zhe Wang et.al.|[2501.18736](http://arxiv.org/abs/2501.18736)|null|
 |**2025-01-30**|**Integrating Spatial and Frequency Information for Under-Display Camera Image Restoration**|Kyusu Ahn et.al.|[2501.18517](http://arxiv.org/abs/2501.18517)|null|
-|**2025-01-30**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401](http://arxiv.org/abs/2501.18401)|**[link](https://github.com/wenjuan7275/matir)**|
+|**2025-01-31**|**MatIR: A Hybrid Mamba-Transformer Image Restoration Model**|Juan Wen et.al.|[2501.18401](http://arxiv.org/abs/2501.18401)|**[link](https://github.com/wenjuan7275/matir)**|
 |**2025-01-29**|**Pressure Field Reconstruction with SIREN: A Mesh-Free Approach for Image Velocimetry in Complex Noisy Environments**|Renato F. Miotto et.al.|[2501.17987](http://arxiv.org/abs/2501.17987)|null|
 |**2025-01-29**|**Segmentation-Aware Generative Reinforcement Network (GRN) for Tissue Layer Segmentation in 3-D Ultrasound Images for Chronic Low-back Pain (cLBP) Assessment**|Zixue Zeng et.al.|[2501.17690](http://arxiv.org/abs/2501.17690)|null|
 |**2025-01-28**|**Text-to-Image Generation for Vocabulary Learning Using the Keyword Method**|Nuwan T. Attygalle et.al.|[2501.17099](http://arxiv.org/abs/2501.17099)|null|
