@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.07
+## Updated on 2025.02.08
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -901,6 +901,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-02-05**|**All-in-One Image Compression and Restoration**|Huimin Zeng et.al.|[2502.03649](http://arxiv.org/abs/2502.03649)|null|
+|**2025-02-05**|**Efficient Image Restoration via Latent Consistency Flow Matching**|Elad Cohen et.al.|[2502.03500](http://arxiv.org/abs/2502.03500)|null|
 |**2025-02-05**|**Optimal control of the fidelity coefficient in a Cahn-Hilliard image inpainting model**|Elena Beretta et.al.|[2502.03025](http://arxiv.org/abs/2502.03025)|null|
 |**2025-02-05**|**INST-Sculpt: Interactive Stroke-based Neural SDF Sculpting**|Fizza Rubab et.al.|[2502.02891](http://arxiv.org/abs/2502.02891)|null|
 |**2025-02-04**|**Blind Visible Watermark Removal with Morphological Dilation**|Preston K. Robinette et.al.|[2502.02676](http://arxiv.org/abs/2502.02676)|null|
