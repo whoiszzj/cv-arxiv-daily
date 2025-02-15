@@ -2,12 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.02.14
+## Updated on 2025.02.15
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
-|**2025-02-12**|**Re $^3$ Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation**|Xiaoshen Han et.al.|[2502.08645](http://arxiv.org/abs/2502.08645)|null|
+|**2025-02-13**|**Embed Any NeRF: Graph Meta-Networks for Neural Tasks on Arbitrary NeRF Architectures**|Francesco Ballerini et.al.|[2502.09623](http://arxiv.org/abs/2502.09623)|null|
+|**2025-02-13**|**Latent Radiance Fields with 3D-aware 2D Representations**|Chaoyi Zhou et.al.|[2502.09613](http://arxiv.org/abs/2502.09613)|null|
+|**2025-02-13**|**A 3D Facial Reconstruction Evaluation Methodology: Comparing Smartphone Scans with Deep Learning Based Methods Using Geometry and Morphometry Criteria**|Álvaro Heredia-Lidón et.al.|[2502.09425](http://arxiv.org/abs/2502.09425)|null|
+|**2025-02-13**|**DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior**|Mingrui Li et.al.|[2502.09111](http://arxiv.org/abs/2502.09111)|null|
+|**2025-02-13**|**Re $^3$ Sim: Generating High-Fidelity Simulation Data via 3D-Photorealistic Real-to-Sim for Robotic Manipulation**|Xiaoshen Han et.al.|[2502.08645](http://arxiv.org/abs/2502.08645)|null|
 |**2025-02-12**|**Sat-DN: Implicit Surface Reconstruction from Multi-View Satellite Images with Depth and Normal Supervision**|Tianle Liu et.al.|[2502.08352](http://arxiv.org/abs/2502.08352)|null|
 |**2025-02-11**|**Flow Distillation Sampling: Regularizing 3D Gaussians with Pre-trained Matching Priors**|Lin-Zhuo Chen et.al.|[2502.07615](http://arxiv.org/abs/2502.07615)|null|
 |**2025-02-11**|**Few-Shot Multi-Human Neural Rendering Using Geometry Constraints**|Qian li et.al.|[2502.07140](http://arxiv.org/abs/2502.07140)|null|
@@ -412,6 +416,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-02-13**|**Self-Calibrating Gaussian Splatting for Large Field of View Reconstruction**|Youming Deng et.al.|[2502.09563](http://arxiv.org/abs/2502.09563)|null|
+|**2025-02-13**|**DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior**|Mingrui Li et.al.|[2502.09111](http://arxiv.org/abs/2502.09111)|null|
+|**2025-02-13**|**BevSplat: Resolving Height Ambiguity via Feature-Based Gaussian Primitives for Weakly-Supervised Cross-View Localization**|Qiwei Wang et.al.|[2502.09080](http://arxiv.org/abs/2502.09080)|null|
+|**2025-02-13**|**Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting**|Lingting Zhu et.al.|[2502.09039](http://arxiv.org/abs/2502.09039)|null|
 |**2025-02-12**|**Interactive Holographic Visualization for 3D Facial Avatar**|Tri Tung Nguyen Nguyen et.al.|[2502.08085](http://arxiv.org/abs/2502.08085)|null|
 |**2025-02-11**|**The establishment of static digital humans and the integration with spinal models**|Fujiao Ju et.al.|[2502.07844](http://arxiv.org/abs/2502.07844)|null|
 |**2025-02-11**|**TranSplat: Surface Embedding-guided 3D Gaussian Splatting for Transparent Object Manipulation**|Jeongyun Kim et.al.|[2502.07840](http://arxiv.org/abs/2502.07840)|null|
@@ -931,8 +939,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-02-13**|**Source function from two-particle correlation function through entropy-regularized Richardson-Lucy deblurring**|C. K. Tam et.al.|[2502.09478](http://arxiv.org/abs/2502.09478)|null|
+|**2025-02-13**|**Unsupervised Anomaly Detection on Implicit Shape representations for Sarcopenia Detection**|Louise Piecuch et.al.|[2502.09088](http://arxiv.org/abs/2502.09088)|null|
+|**2025-02-13**|**Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting**|Lingting Zhu et.al.|[2502.09039](http://arxiv.org/abs/2502.09039)|null|
+|**2025-02-12**|**Deep EEG Super-Resolution: Upsampling EEG Spatial Resolution with Generative Adversarial Networks**|Isaac Corley et.al.|[2502.08803](http://arxiv.org/abs/2502.08803)|null|
 |**2025-02-12**|**Rapid Whole Brain Mesoscale In-vivo MR Imaging using Multi-scale Implicit Neural Representation**|Jun Lyu et.al.|[2502.08634](http://arxiv.org/abs/2502.08634)|null|
-|**2025-02-11**|**MRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers**|Ao Li et.al.|[2502.07856](http://arxiv.org/abs/2502.07856)|null|
+|**2025-02-13**|**MRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers**|Ao Li et.al.|[2502.07856](http://arxiv.org/abs/2502.07856)|null|
 |**2025-02-11**|**Multi-Task-oriented Nighttime Haze Imaging Enhancer for Vision-driven Measurement Systems**|Ai Chen et.al.|[2502.07351](http://arxiv.org/abs/2502.07351)|**[link](https://github.com/ai-chen-lab/mtoie)**|
 |**2025-02-11**|**Few-Shot Multi-Human Neural Rendering Using Geometry Constraints**|Qian li et.al.|[2502.07140](http://arxiv.org/abs/2502.07140)|null|
 |**2025-02-10**|**A Large-scale AI-generated Image Inpainting Benchmark**|Paschalis Giakoumoglou et.al.|[2502.06593](http://arxiv.org/abs/2502.06593)|null|
