@@ -1,4 +1,4 @@
-## Updated on 2025.02.17
+## Updated on 2025.02.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2025-02-14**|**Evidence of the P_ccbars(4459)0 in Upsilon(1S, 2S) inclusive decays at Belle**|I. Adachi et.al.|[2502.09951](http://arxiv.org/abs/2502.09951)|null|
 |**2025-02-13**|**Embed Any NeRF: Graph Meta-Networks for Neural Tasks on Arbitrary NeRF Architectures**|Francesco Ballerini et.al.|[2502.09623](http://arxiv.org/abs/2502.09623)|null|
 |**2025-02-13**|**Latent Radiance Fields with 3D-aware 2D Representations**|Chaoyi Zhou et.al.|[2502.09613](http://arxiv.org/abs/2502.09613)|null|
 |**2025-02-13**|**A 3D Facial Reconstruction Evaluation Methodology: Comparing Smartphone Scans with Deep Learning Based Methods Using Geometry and Morphometry Criteria**|Álvaro Heredia-Lidón et.al.|[2502.09425](http://arxiv.org/abs/2502.09425)|null|
@@ -417,7 +418,7 @@
 |**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
 
 ## GaussianSplatting
 
@@ -426,10 +427,10 @@
 |**2025-02-13**|**Self-Calibrating Gaussian Splatting for Large Field of View Reconstruction**|Youming Deng et.al.|[2502.09563](http://arxiv.org/abs/2502.09563)|null|
 |**2025-02-13**|**DenseSplat: Densifying Gaussian Splatting SLAM with Neural Radiance Prior**|Mingrui Li et.al.|[2502.09111](http://arxiv.org/abs/2502.09111)|null|
 |**2025-02-13**|**BevSplat: Resolving Height Ambiguity via Feature-Based Gaussian Primitives for Weakly-Supervised Cross-View Localization**|Qiwei Wang et.al.|[2502.09080](http://arxiv.org/abs/2502.09080)|null|
-|**2025-02-13**|**Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting**|Lingting Zhu et.al.|[2502.09039](http://arxiv.org/abs/2502.09039)|null|
+|**2025-02-13**|**Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting**|Lingting Zhu et.al.|[2502.09039](http://arxiv.org/abs/2502.09039)|**[link](https://github.com/hku-medai/lig)**|
 |**2025-02-12**|**Interactive Holographic Visualization for 3D Facial Avatar**|Tri Tung Nguyen Nguyen et.al.|[2502.08085](http://arxiv.org/abs/2502.08085)|null|
 |**2025-02-11**|**The establishment of static digital humans and the integration with spinal models**|Fujiao Ju et.al.|[2502.07844](http://arxiv.org/abs/2502.07844)|null|
-|**2025-02-11**|**TranSplat: Surface Embedding-guided 3D Gaussian Splatting for Transparent Object Manipulation**|Jeongyun Kim et.al.|[2502.07840](http://arxiv.org/abs/2502.07840)|null|
+|**2025-02-11**|**TranSplat: Surface Embedding-guided 3D Gaussian Splatting for Transparent Object Manipulation**|Jeongyun Kim et.al.|[2502.07840](http://arxiv.org/abs/2502.07840)|**[link](https://github.com/jeongyun0609/TranSplat)**|
 |**2025-02-11**|**MeshSplats: Mesh-Based Rendering with Gaussian Splatting Initialization**|Rafał Tobiasz et.al.|[2502.07754](http://arxiv.org/abs/2502.07754)|**[link](https://github.com/gwilczynski95/meshsplats)**|
 |**2025-02-11**|**Flow Distillation Sampling: Regularizing 3D Gaussians with Pre-trained Matching Priors**|Lin-Zhuo Chen et.al.|[2502.07615](http://arxiv.org/abs/2502.07615)|null|
 |**2025-02-10**|**Grounding Creativity in Physics: A Brief Survey of Physical Priors in AIGC**|Siwei Meng et.al.|[2502.07007](http://arxiv.org/abs/2502.07007)|null|
@@ -942,15 +943,17 @@
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
 
 ## Image Super-Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2025-02-14**|**Compression-Aware One-Step Diffusion Model for JPEG Artifact Removal**|Jinpei Guo et.al.|[2502.09873](http://arxiv.org/abs/2502.09873)|null|
+|**2025-02-12**|**Meta-INR: Efficient Encoding of Volumetric Data via Meta-Learning Implicit Neural Representation**|Maizhe Yang et.al.|[2502.09669](http://arxiv.org/abs/2502.09669)|null|
 |**2025-02-13**|**Source function from two-particle correlation function through entropy-regularized Richardson-Lucy deblurring**|C. K. Tam et.al.|[2502.09478](http://arxiv.org/abs/2502.09478)|null|
 |**2025-02-13**|**Unsupervised Anomaly Detection on Implicit Shape representations for Sarcopenia Detection**|Louise Piecuch et.al.|[2502.09088](http://arxiv.org/abs/2502.09088)|null|
-|**2025-02-13**|**Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting**|Lingting Zhu et.al.|[2502.09039](http://arxiv.org/abs/2502.09039)|null|
+|**2025-02-13**|**Large Images are Gaussians: High-Quality Large Image Representation with Levels of 2D Gaussian Splatting**|Lingting Zhu et.al.|[2502.09039](http://arxiv.org/abs/2502.09039)|**[link](https://github.com/hku-medai/lig)**|
 |**2025-02-12**|**Deep EEG Super-Resolution: Upsampling EEG Spatial Resolution with Generative Adversarial Networks**|Isaac Corley et.al.|[2502.08803](http://arxiv.org/abs/2502.08803)|null|
 |**2025-02-12**|**Rapid Whole Brain Mesoscale In-vivo MR Imaging using Multi-scale Implicit Neural Representation**|Jun Lyu et.al.|[2502.08634](http://arxiv.org/abs/2502.08634)|null|
 |**2025-02-13**|**MRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers**|Ao Li et.al.|[2502.07856](http://arxiv.org/abs/2502.07856)|null|
@@ -1324,5 +1327,5 @@
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 
-<p align=right>(<a href=#updated-on-20250217>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250218>back to top</a>)</p>
 
