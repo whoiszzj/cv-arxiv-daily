@@ -1,4 +1,4 @@
-## Updated on 2025.03.25
+## Updated on 2025.03.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794](http://arxiv.org/abs/2503.18794)|null|
+|**2025-03-25**|**LookCloser: Frequency-aware Radiance Field for Tiny-Detail Scene**|Xiaoyu Zhang et.al.|[2503.18513](http://arxiv.org/abs/2503.18513)|null|
+|**2025-03-24**|**MonoInstance: Enhancing Monocular Priors via Multi-view Instance Alignment for Neural Rendering and Reconstruction**|Wenyuan Zhang et.al.|[2503.18363](http://arxiv.org/abs/2503.18363)|null|
+|**2025-03-24**|**NeRFPrior: Learning Neural Radiance Field as a Prior for Indoor Scene Reconstruction**|Wenyuan Zhang et.al.|[2503.18361](http://arxiv.org/abs/2503.18361)|null|
+|**2025-03-23**|**End-to-End Implicit Neural Representations for Classification**|Alexander Gielisse et.al.|[2503.18123](http://arxiv.org/abs/2503.18123)|null|
+|**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108](http://arxiv.org/abs/2503.18108)|null|
+|**2025-03-23**|**PanopticSplatting: End-to-End Panoptic Gaussian Splatting**|Yuxuan Xie et.al.|[2503.18073](http://arxiv.org/abs/2503.18073)|null|
+|**2025-03-22**|**GaussianFocus: Constrained Attention Focus for 3D Gaussian Splatting**|Zexu Huang et.al.|[2503.17798](http://arxiv.org/abs/2503.17798)|null|
+|**2025-03-22**|**Measurements of the branching fractions of $Ξ_{c}^{+}\to Σ^{+}K_{S}^{0}$, $Ξ_{c}^{+}\to Ξ^{0}π^{+}$, and $Ξ_{c}^{+}\to Ξ^{0}K^{+}$ at Belle and Belle II**|Belle et.al.|[2503.17643](http://arxiv.org/abs/2503.17643)|null|
+|**2025-03-21**|**Splat-LOAM: Gaussian Splatting LiDAR Odometry and Mapping**|Emanuele Giacomini et.al.|[2503.17491](http://arxiv.org/abs/2503.17491)|null|
 |**2025-03-21**|**3D Neural Operator-Based Flow Surrogates around 3D geometries: Signed Distance Functions and Derivative Constraints**|Ali Rabeh et.al.|[2503.17289](http://arxiv.org/abs/2503.17289)|null|
 |**2025-03-21**|**FFaceNeRF: Few-shot Face Editing in Neural Radiance Fields**|Kwan Yun et.al.|[2503.17095](http://arxiv.org/abs/2503.17095)|**[link](https://github.com/kwanyun/FFaceNeRF)**|
 |**2025-03-21**|**DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery**|Jiadong Tang et.al.|[2503.16964](http://arxiv.org/abs/2503.16964)|null|
@@ -529,12 +539,22 @@
 |**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|null|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2025-03-24**|**NexusGS: Sparse View Synthesis with Epipolar Depth Priors in 3D Gaussian Splatting**|Yulong Zheng et.al.|[2503.18794](http://arxiv.org/abs/2503.18794)|null|
+|**2025-03-24**|**GS-Marker: Generalizable and Robust Watermarking for 3D Gaussian Splatting**|Lijiang Li et.al.|[2503.18718](http://arxiv.org/abs/2503.18718)|null|
+|**2025-03-24**|**Hardware-Rasterized Ray-Based Gaussian Splatting**|Samuel Rota Bulò et.al.|[2503.18682](http://arxiv.org/abs/2503.18682)|null|
+|**2025-03-24**|**LLGS: Unsupervised Gaussian Splatting for Image Enhancement and Reconstruction in Pure Dark Environment**|Haoran Wang et.al.|[2503.18640](http://arxiv.org/abs/2503.18640)|null|
+|**2025-03-25**|**StableGS: A Floater-Free Framework for 3D Gaussian Splatting**|Luchao Wang et.al.|[2503.18458](http://arxiv.org/abs/2503.18458)|null|
+|**2025-03-24**|**ReconDreamer++: Harmonizing Generative and Reconstructive Models for Driving Scene Representation**|Guosheng Zhao et.al.|[2503.18438](http://arxiv.org/abs/2503.18438)|null|
+|**2025-03-24**|**4DGC: Rate-Aware 4D Gaussian Compression for Efficient Streamable Free-Viewpoint Video**|Qiang Hu et.al.|[2503.18421](http://arxiv.org/abs/2503.18421)|null|
+|**2025-03-24**|**DashGaussian: Optimizing 3D Gaussian Splatting in 200 Seconds**|Youyu Chen et.al.|[2503.18402](http://arxiv.org/abs/2503.18402)|null|
+|**2025-03-24**|**GI-SLAM: Gaussian-Inertial SLAM**|Xulang Liu et.al.|[2503.18275](http://arxiv.org/abs/2503.18275)|null|
+|**2025-03-23**|**Unraveling the Effects of Synthetic Data on End-to-End Autonomous Driving**|Junhao Ge et.al.|[2503.18108](http://arxiv.org/abs/2503.18108)|null|
 |**2025-03-21**|**TaoAvatar: Real-Time Lifelike Full-Body Talking Avatars for Augmented Reality via 3D Gaussian Splatting**|Jianchuan Chen et.al.|[2503.17032](http://arxiv.org/abs/2503.17032)|null|
 |**2025-03-21**|**Instant Gaussian Stream: Fast and Generalizable Streaming of Dynamic Scene Reconstruction via Gaussian Splatting**|Jinbo Yan et.al.|[2503.16979](http://arxiv.org/abs/2503.16979)|null|
 |**2025-03-21**|**DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery**|Jiadong Tang et.al.|[2503.16964](http://arxiv.org/abs/2503.16964)|null|
@@ -1207,12 +1227,19 @@
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
 ## Image Super-Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2025-03-24**|**LLGS: Unsupervised Gaussian Splatting for Image Enhancement and Reconstruction in Pure Dark Environment**|Haoran Wang et.al.|[2503.18640](http://arxiv.org/abs/2503.18640)|null|
+|**2025-03-23**|**End-to-End Implicit Neural Representations for Classification**|Alexander Gielisse et.al.|[2503.18123](http://arxiv.org/abs/2503.18123)|null|
+|**2025-03-23**|**OmnimatteZero: Training-free Real-time Omnimatte with Pre-trained Video Diffusion Models**|Dvir Samuel et.al.|[2503.18033](http://arxiv.org/abs/2503.18033)|null|
+|**2025-03-23**|**Deep Learning Assisted Denoising of Experimental Micrographs**|Owais Ahmad et.al.|[2503.17945](http://arxiv.org/abs/2503.17945)|null|
+|**2025-03-23**|**Cross-Domain Underwater Image Enhancement Guided by No-Reference Image Quality Assessment: A Transfer Learning Approach**|Zhi Zhang et.al.|[2503.17937](http://arxiv.org/abs/2503.17937)|null|
+|**2025-03-23**|**Cat-AIR: Content and Task-Aware All-in-One Image Restoration**|Jiachen Jiang et.al.|[2503.17915](http://arxiv.org/abs/2503.17915)|null|
+|**2025-03-22**|**Fractal-IR: A Unified Framework for Efficient and Scalable Image Restoration**|Yawei Li et.al.|[2503.17825](http://arxiv.org/abs/2503.17825)|null|
 |**2025-03-21**|**HyperNVD: Accelerating Neural Video Decomposition via Hypernetworks**|Maria Pilligua et.al.|[2503.17276](http://arxiv.org/abs/2503.17276)|null|
 |**2025-03-21**|**Vision-Language Gradient Descent-driven All-in-One Deep Unfolding Networks**|Haijin Zeng et.al.|[2503.16930](http://arxiv.org/abs/2503.16930)|null|
 |**2025-03-21**|**Depth-Aided Color Image Inpainting in Quaternion Domain**|Shunki Tatsumi et.al.|[2503.16818](http://arxiv.org/abs/2503.16818)|null|
@@ -1694,5 +1721,5 @@
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 
-<p align=right>(<a href=#updated-on-20250325>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250326>back to top</a>)</p>
 
