@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.04.11
+## Updated on 2025.04.12
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-04-10**|**High-Level Synthesis using SDF-AP, Template Haskell, QuasiQuotes, and GADTs to Generate Circuits from Hierarchical Input Specification**|Hendrik Folmer et.al.|[2504.07595](http://arxiv.org/abs/2504.07595)|null|
+|**2025-04-10**|**High-Level Synthesis of Digital Circuits from Template Haskell and SDF-AP**|Hendrik Folmer et.al.|[2504.07585](http://arxiv.org/abs/2504.07585)|null|
 |**2025-04-09**|**Glossy Object Reconstruction with Cost-effective Polarized Acquisition**|Bojian Wu et.al.|[2504.07025](http://arxiv.org/abs/2504.07025)|null|
 |**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978](http://arxiv.org/abs/2504.06978)|null|
 |**2025-04-09**|**S-EO: A Large-Scale Dataset for Geometry-Aware Shadow Detection in Remote Sensing Applications**|Masquil Elías et.al.|[2504.06920](http://arxiv.org/abs/2504.06920)|null|
@@ -592,6 +594,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-04-10**|**InteractAvatar: Modeling Hand-Face Interaction in Photorealistic Avatars with Deformable Gaussians**|Kefan Chen et.al.|[2504.07949](http://arxiv.org/abs/2504.07949)|null|
+|**2025-04-10**|**View-Dependent Uncertainty Estimation of 3D Gaussian Splatting**|Chenyu Han et.al.|[2504.07370](http://arxiv.org/abs/2504.07370)|null|
+|**2025-04-08**|**GIGA: Generalizable Sparse Image-driven Gaussian Avatars**|Anton Zubekhin et.al.|[2504.07144](http://arxiv.org/abs/2504.07144)|null|
 |**2025-04-09**|**SIGMAN:Scaling 3D Human Gaussian Generation with Millions of Assets**|Yuhang Yang et.al.|[2504.06982](http://arxiv.org/abs/2504.06982)|null|
 |**2025-04-09**|**Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting**|Daiwei Zhang et.al.|[2504.06978](http://arxiv.org/abs/2504.06978)|null|
 |**2025-04-09**|**IAAO: Interactive Affordance Learning for Articulated Objects in 3D Environments**|Can Zhang et.al.|[2504.06827](http://arxiv.org/abs/2504.06827)|null|
@@ -1359,6 +1364,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-04-10**|**Nonlocal Retinex-Based Variational Model and its Deep Unfolding Twin for Low-Light Image Enhancement**|Daniel Torres et.al.|[2504.07810](http://arxiv.org/abs/2504.07810)|null|
+|**2025-04-10**|**Conformalized Generative Bayesian Imaging: An Uncertainty Quantification Framework for Computational Imaging**|Canberk Ekmekci et.al.|[2504.07696](http://arxiv.org/abs/2504.07696)|null|
+|**2025-04-10**|**Synthetic CT Generation from Time-of-Flight Non-Attenutaion-Corrected PET for Whole-Body PET Attenuation Correction**|Weijie Chen et.al.|[2504.07450](http://arxiv.org/abs/2504.07450)|null|
+|**2025-04-09**|**Q-Agent: Quality-Driven Chain-of-Thought Image Restoration Agent through Robust Multimodal Large Language Model**|Yingjie Zhou et.al.|[2504.07148](http://arxiv.org/abs/2504.07148)|null|
 |**2025-04-09**|**Rethinking LayerNorm in Image Restoration Transformers**|MinKyu Lee et.al.|[2504.06629](http://arxiv.org/abs/2504.06629)|null|
 |**2025-04-08**|**AstroClearNet: Deep image prior for multi-frame astronomical image restoration**|Yashil Sukurdeep et.al.|[2504.06463](http://arxiv.org/abs/2504.06463)|null|
 |**2025-04-07**|**Balancing Task-invariant Interaction and Task-specific Adaptation for Unified Image Fusion**|Xingyu Hu et.al.|[2504.05164](http://arxiv.org/abs/2504.05164)|null|
