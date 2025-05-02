@@ -1,4 +1,4 @@
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,8 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|null|
 |**2025-04-29**|**Large-scale visual SLAM for in-the-wild videos**|Shuo Sun et.al.|[2504.20496](http://arxiv.org/abs/2504.20496)|null|
-|**2025-04-29**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
+|**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
 |**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|null|
 |**2025-04-28**|**LIRM: Large Inverse Rendering Model for Progressive Reconstruction of Shape, Materials and View-dependent Radiance Fields**|Zhengqin Li et.al.|[2504.20026](http://arxiv.org/abs/2504.20026)|null|
 |**2025-04-28**|**Joint Optimization of Neural Radiance Fields and Continuous Camera Motion from a Monocular Video**|Hoang Chuong Nguyen et.al.|[2504.19819](http://arxiv.org/abs/2504.19819)|null|
@@ -645,16 +646,18 @@
 |**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|**[link](https://github.com/utiasSTARS/FaVoR)**|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2025-04-30**|**HoloTime: Taming Video Diffusion Models for Panoramic 4D Scene Generation**|Haiyang Zhou et.al.|[2504.21650](http://arxiv.org/abs/2504.21650)|null|
+|**2025-04-29**|**GauSS-MI: Gaussian Splatting Shannon Mutual Information for Active 3D Reconstruction**|Yuhan Xie et.al.|[2504.21067](http://arxiv.org/abs/2504.21067)|null|
 |**2025-04-29**|**GaussTrap: Stealthy Poisoning Attacks on 3D Gaussian Splatting for Targeted Scene Confusion**|Jiaxin Hong et.al.|[2504.20829](http://arxiv.org/abs/2504.20829)|null|
 |**2025-04-29**|**EfficientHuman: Efficient Training and Reconstruction of Moving Human using Articulated 2D Gaussian**|Hao Tian et.al.|[2504.20607](http://arxiv.org/abs/2504.20607)|null|
 |**2025-04-29**|**Creating Your Editable 3D Photorealistic Avatar with Tetrahedron-constrained Gaussian Splatting**|Hanxi Liu et.al.|[2504.20403](http://arxiv.org/abs/2504.20403)|null|
-|**2025-04-29**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
+|**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
 |**2025-04-29**|**Sparse2DGS: Geometry-Prioritized Gaussian Splatting for Surface Reconstruction from Sparse Views**|Jiang Wu et.al.|[2504.20378](http://arxiv.org/abs/2504.20378)|null|
 |**2025-04-28**|**Mesh-Learner: Texturing Mesh with Spherical Harmonics**|Yunfei Wan et.al.|[2504.19938](http://arxiv.org/abs/2504.19938)|null|
 |**2025-04-28**|**CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes**|Mohammad Altillawi et.al.|[2504.19557](http://arxiv.org/abs/2504.19557)|null|
@@ -1484,12 +1487,14 @@
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
 ## Image Super-Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2025-04-30**|**DGSolver: Diffusion Generalist Solver with Universal Posterior Sampling for Image Restoration**|Hebaixu Wang et.al.|[2504.21487](http://arxiv.org/abs/2504.21487)|null|
+|**2025-04-30**|**VR-FuseNet: A Fusion of Heterogeneous Fundus Data and Explainable Deep Network for Diabetic Retinopathy Classification**|Shamim Rahim Refat et.al.|[2504.21464](http://arxiv.org/abs/2504.21464)|null|
 |**2025-04-29**|**DiffusionRIR: Room Impulse Response Interpolation using Diffusion Models**|Sagi Della Torre et.al.|[2504.20625](http://arxiv.org/abs/2504.20625)|null|
 |**2025-04-30**|**PixelHacker: Image Inpainting with Structural and Semantic Consistency**|Ziyang Xu et.al.|[2504.20438](http://arxiv.org/abs/2504.20438)|null|
 |**2025-04-28**|**Boosting 3D Liver Shape Datasets with Diffusion Models and Implicit Neural Representations**|Khoa Tuan Nguyen et.al.|[2504.19402](http://arxiv.org/abs/2504.19402)|null|
@@ -2094,5 +2099,5 @@
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250502>back to top</a>)</p>
 
