@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -658,6 +658,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-05-07**|**Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting**|Feng Yang et.al.|[2505.04262](http://arxiv.org/abs/2505.04262)|null|
 |**2025-05-06**|**GUAVA: Generalizable Upper Body 3D Gaussian Avatar**|Dongbin Zhang et.al.|[2505.03351](http://arxiv.org/abs/2505.03351)|null|
 |**2025-05-06**|**3D Gaussian Splatting Data Compression with Mixture of Priors**|Lei Liu et.al.|[2505.03310](http://arxiv.org/abs/2505.03310)|null|
 |**2025-05-04**|**Sparfels: Fast Reconstruction from Sparse Unposed Imagery**|Shubhendu Jena et.al.|[2505.02178](http://arxiv.org/abs/2505.02178)|null|
@@ -1512,6 +1513,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-05-07**|**TS-Diff: Two-Stage Diffusion Model for Low-Light RAW Image Enhancement**|Yi Li et.al.|[2505.04281](http://arxiv.org/abs/2505.04281)|**[link](https://github.com/circcclek/ts-diff)**|
+|**2025-05-07**|**Regional chemical potential analysis for material surfaces**|Masahiro Fukuda et.al.|[2505.04053](http://arxiv.org/abs/2505.04053)|null|
 |**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679](http://arxiv.org/abs/2505.03679)|null|
 |**2025-05-06**|**Optimization of Module Transferability in Single Image Super-Resolution: Universality Assessment and Cycle Residual Blocks**|Haotong Cheng et.al.|[2505.03522](http://arxiv.org/abs/2505.03522)|null|
 |**2025-05-06**|**Nonperiodic dynamic CT reconstruction using backward-warping INR with regularization of diffeomorphism (BIRD)**|Muge Du et.al.|[2505.03463](http://arxiv.org/abs/2505.03463)|null|

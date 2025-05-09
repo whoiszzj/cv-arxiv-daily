@@ -1,4 +1,4 @@
-## Updated on 2025.05.08
+## Updated on 2025.05.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -659,12 +659,13 @@
 |**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|**[link](https://github.com/utiasSTARS/FaVoR)**|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2025-05-07**|**Bridging Geometry-Coherent Text-to-3D Generation with Multi-View Diffusion Priors and Gaussian Splatting**|Feng Yang et.al.|[2505.04262](http://arxiv.org/abs/2505.04262)|null|
 |**2025-05-06**|**GUAVA: Generalizable Upper Body 3D Gaussian Avatar**|Dongbin Zhang et.al.|[2505.03351](http://arxiv.org/abs/2505.03351)|null|
 |**2025-05-06**|**3D Gaussian Splatting Data Compression with Mixture of Priors**|Lei Liu et.al.|[2505.03310](http://arxiv.org/abs/2505.03310)|null|
 |**2025-05-04**|**Sparfels: Fast Reconstruction from Sparse Unposed Imagery**|Shubhendu Jena et.al.|[2505.02178](http://arxiv.org/abs/2505.02178)|null|
@@ -1515,12 +1516,14 @@
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
 ## Image Super-Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2025-05-07**|**TS-Diff: Two-Stage Diffusion Model for Low-Light RAW Image Enhancement**|Yi Li et.al.|[2505.04281](http://arxiv.org/abs/2505.04281)|**[link](https://github.com/circcclek/ts-diff)**|
+|**2025-05-07**|**Regional chemical potential analysis for material surfaces**|Masahiro Fukuda et.al.|[2505.04053](http://arxiv.org/abs/2505.04053)|null|
 |**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679](http://arxiv.org/abs/2505.03679)|null|
 |**2025-05-06**|**Optimization of Module Transferability in Single Image Super-Resolution: Universality Assessment and Cycle Residual Blocks**|Haotong Cheng et.al.|[2505.03522](http://arxiv.org/abs/2505.03522)|null|
 |**2025-05-06**|**Nonperiodic dynamic CT reconstruction using backward-warping INR with regularization of diffeomorphism (BIRD)**|Muge Du et.al.|[2505.03463](http://arxiv.org/abs/2505.03463)|null|
@@ -2144,5 +2147,5 @@
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 
-<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
 
