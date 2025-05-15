@@ -1,4 +1,4 @@
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,6 +12,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2025-05-13**|**FOCI: Trajectory Optimization on Gaussian Splats**|Mario Gomez Andreu et.al.|[2505.08510](http://arxiv.org/abs/2505.08510)|null|
+|**2025-05-13**|**A Survey of 3D Reconstruction with Event Cameras: From Event-based Geometry to Neural 3D Rendering**|Chuanzhi Xu et.al.|[2505.08438](http://arxiv.org/abs/2505.08438)|null|
+|**2025-05-13**|**Search for lepton flavor-violating decay modes $B^0 \to K^{\ast 0}τ^\pm\ell^\mp$ ($\ell = e,μ$ ) with hadronic B-tagging at Belle and Belle II**|Belle et.al.|[2505.08418](http://arxiv.org/abs/2505.08418)|null|
+|**2025-05-13**|**SpNeRF: Memory Efficient Sparse Volumetric Neural Rendering Accelerator for Edge Devices**|Yipu Zhang et.al.|[2505.08191](http://arxiv.org/abs/2505.08191)|null|
 |**2025-05-13**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
 |**2025-05-12**|**Geometric Prior-Guided Neural Implicit Surface Reconstruction in the Wild**|Lintao Xiang et.al.|[2505.07373](http://arxiv.org/abs/2505.07373)|null|
 |**2025-05-11**|**NeuGen: Amplifying the 'Neural' in Neural Radiance Fields for Domain Generalization**|Ahmed Qazi et.al.|[2505.06894](http://arxiv.org/abs/2505.06894)|null|
@@ -674,12 +678,19 @@
 |**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|**[link](https://github.com/utiasSTARS/FaVoR)**|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2025-05-13**|**NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance**|Wenzhe Cai et.al.|[2505.08712](http://arxiv.org/abs/2505.08712)|null|
+|**2025-05-13**|**DLO-Splatting: Tracking Deformable Linear Objects Using 3D Gaussian Splatting**|Holly Dinkel et.al.|[2505.08644](http://arxiv.org/abs/2505.08644)|null|
+|**2025-05-13**|**FOCI: Trajectory Optimization on Gaussian Splats**|Mario Gomez Andreu et.al.|[2505.08510](http://arxiv.org/abs/2505.08510)|null|
+|**2025-05-13**|**A Survey of 3D Reconstruction with Event Cameras: From Event-based Geometry to Neural 3D Rendering**|Chuanzhi Xu et.al.|[2505.08438](http://arxiv.org/abs/2505.08438)|null|
+|**2025-05-13**|**ADC-GS: Anchor-Driven Deformable and Compressed Gaussian Splatting for Dynamic Scene Reconstruction**|He Huang et.al.|[2505.08196](http://arxiv.org/abs/2505.08196)|**[link](https://github.com/h-huang774/adc-gs)**|
+|**2025-05-12**|**SLAG: Scalable Language-Augmented Gaussian Splatting**|Laszlo Szilagyi et.al.|[2505.08124](http://arxiv.org/abs/2505.08124)|null|
+|**2025-05-14**|**Monocular Online Reconstruction with Enhanced Detail Preservation**|Songyin Wu et.al.|[2505.07887](http://arxiv.org/abs/2505.07887)|null|
 |**2025-05-12**|**GIFStream: 4D Gaussian-based Immersive Video with Feature Stream**|Hao Li et.al.|[2505.07539](http://arxiv.org/abs/2505.07539)|null|
 |**2025-05-13**|**TUM2TWIN: Introducing the Large-Scale Multimodal Urban Digital Twin Benchmark Dataset**|Olaf Wysocki et.al.|[2505.07396](http://arxiv.org/abs/2505.07396)|null|
 |**2025-05-10**|**Virtualized 3D Gaussians: Flexible Cluster-based Level-of-Detail System for Real-Time Rendering of Composed Scenes**|Xijie Yang et.al.|[2505.06523](http://arxiv.org/abs/2505.06523)|null|
@@ -1544,12 +1555,15 @@
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Image Super-Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2025-05-13**|**Unsupervised Raindrop Removal from a Single Image using Conditional Diffusion Models**|Lhuqita Fazry et.al.|[2505.08190](http://arxiv.org/abs/2505.08190)|null|
+|**2025-05-13**|**Behind the Noise: Conformal Quantile Regression Reveals Emergent Representations**|Petrus H. Zwart et.al.|[2505.08176](http://arxiv.org/abs/2505.08176)|null|
+|**2025-05-12**|**JSover: Joint Spectrum Estimation and Multi-Material Decomposition from Single-Energy CT Projections**|Qing Wu et.al.|[2505.08123](http://arxiv.org/abs/2505.08123)|null|
 |**2025-05-12**|**Disparity in sound speeds: implications for unitarity and effective potential in quantum field theory**|Dmitry S. Ageev et.al.|[2505.07794](http://arxiv.org/abs/2505.07794)|null|
 |**2025-05-12**|**Image Restoration via Integration of Optimal Control Techniques and the Hamilton-Jacobi-Bellman Equation**|Dragos-Patru Covei et.al.|[2505.07699](http://arxiv.org/abs/2505.07699)|null|
 |**2025-05-12**|**Generalizable Pancreas Segmentation via a Dual Self-Supervised Learning Framework**|Jun Li et.al.|[2505.07165](http://arxiv.org/abs/2505.07165)|null|
@@ -2188,5 +2202,5 @@
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
