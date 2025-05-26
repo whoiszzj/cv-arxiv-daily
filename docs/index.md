@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1609,7 +1609,7 @@ layout: default
 |**2025-05-22**|**Implicit Neural Shape Optimization for 3D High-Contrast Electrical Impedance Tomography**|Junqing Chen et.al.|[2505.16487](http://arxiv.org/abs/2505.16487)|null|
 |**2025-05-22**|**Clear Nights Ahead: Towards Multi-Weather Nighttime Image Restoration**|Yuetong Liu et.al.|[2505.16479](http://arxiv.org/abs/2505.16479)|null|
 |**2025-05-22**|**NTIRE 2025 challenge on Text to Image Generation Model Quality Assessment**|Shuhao Han et.al.|[2505.16314](http://arxiv.org/abs/2505.16314)|null|
-|**2025-05-22**|**Deep Learning-Driven Ultra-High-Definition Image Restoration: A Survey**|Liyan Wang et.al.|[2505.16161](http://arxiv.org/abs/2505.16161)|null|
+|**2025-05-22**|**Deep Learning-Driven Ultra-High-Definition Image Restoration: A Survey**|Liyan Wang et.al.|[2505.16161](http://arxiv.org/abs/2505.16161)|**[link](https://github.com/wlydlut/uhd-image-restoration-survey)**|
 |**2025-05-22**|**Breaking Complexity Barriers: High-Resolution Image Restoration with Rank Enhanced Linear Attention**|Yuang Ai et.al.|[2505.16157](http://arxiv.org/abs/2505.16157)|null|
 |**2025-05-22**|**Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives**|Yisi Luo et.al.|[2505.15222](http://arxiv.org/abs/2505.15222)|**[link](https://github.com/yisiluo/continuous-representation-zoo)**|
 |**2025-05-20**|**UHD Image Dehazing via anDehazeFormer with Atmospheric-aware KV Cache**|Pu Wang et.al.|[2505.14010](http://arxiv.org/abs/2505.14010)|null|
