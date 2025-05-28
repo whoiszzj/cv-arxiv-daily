@@ -2,11 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|null|
+|**2025-05-27**|**Linear Bandits with Non-i.i.d. Noise**|Baptiste Abélès et.al.|[2505.20017](http://arxiv.org/abs/2505.20017)|null|
+|**2025-05-26**|**Inverse Q-Learning Done Right: Offline Imitation Learning in $Q^π$ -Realizable MDPs**|Antoine Moulin et.al.|[2505.19946](http://arxiv.org/abs/2505.19946)|null|
+|**2025-05-26**|**Logic Gate Neural Networks are Good for Verification**|Fabian Kresse et.al.|[2505.19932](http://arxiv.org/abs/2505.19932)|**[link](https://github.com/HyberionBrew/difflogic_verify)**|
+|**2025-05-26**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883](http://arxiv.org/abs/2505.19883)|null|
+|**2025-05-26**|**FruitNeRF++: A Generalized Multi-Fruit Counting Method Utilizing Contrastive Learning and Neural Radiance Fields**|Lukas Meyer et.al.|[2505.19863](http://arxiv.org/abs/2505.19863)|null|
+|**2025-05-26**|**GoLF-NRT: Integrating Global Context and Local Geometry for Few-Shot View Synthesis**|You Wang et.al.|[2505.19813](http://arxiv.org/abs/2505.19813)|null|
+|**2025-05-26**|**Depth-Guided Bundle Sampling for Efficient Generalizable Neural Radiance Field Reconstruction**|Li Fang et.al.|[2505.19793](http://arxiv.org/abs/2505.19793)|null|
+|**2025-05-26**|**K-Buffers: A Plug-in Method for Enhancing Neural Fields with Multiple Buffers**|Haofan Ren et.al.|[2505.19564](http://arxiv.org/abs/2505.19564)|null|
+|**2025-05-26**|**ADD-SLAM: Adaptive Dynamic Dense SLAM with Gaussian Splatting**|Wenhua Wu et.al.|[2505.19420](http://arxiv.org/abs/2505.19420)|null|
 |**2025-05-23**|**Distances for Markov chains from sample streams**|Sergio Calo et.al.|[2505.18005](http://arxiv.org/abs/2505.18005)|null|
 |**2025-05-23**|**From Flight to Insight: Semantic 3D Reconstruction for Aerial Inspection via Gaussian Splatting and Language-Guided Segmentation**|Mahmoud Chick Zaouali et.al.|[2505.17402](http://arxiv.org/abs/2505.17402)|null|
 |**2025-05-22**|**Render-FM: A Foundation Model for Real-time Photorealistic Volumetric Rendering**|Zhongpai Gao et.al.|[2505.17338](http://arxiv.org/abs/2505.17338)|null|
@@ -699,6 +709,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-05-26**|**OB3D: A New Dataset for Benchmarking Omnidirectional 3D Reconstruction Using Blender**|Shintaro Ito et.al.|[2505.20126](http://arxiv.org/abs/2505.20126)|null|
+|**2025-05-26**|**Weather-Magician: Reconstruction and Rendering Framework for 4D Weather Synthesis In Real Time**|Chen Sang et.al.|[2505.19919](http://arxiv.org/abs/2505.19919)|null|
+|**2025-05-26**|**ErpGS: Equirectangular Image Rendering enhanced with 3D Gaussian Regularization**|Shintaro Ito et.al.|[2505.19883](http://arxiv.org/abs/2505.19883)|null|
+|**2025-05-26**|**Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud**|Natsuki Takama et.al.|[2505.19854](http://arxiv.org/abs/2505.19854)|null|
+|**2025-05-26**|**K-Buffers: A Plug-in Method for Enhancing Neural Fields with Multiple Buffers**|Haofan Ren et.al.|[2505.19564](http://arxiv.org/abs/2505.19564)|null|
+|**2025-05-26**|**ADD-SLAM: Adaptive Dynamic Dense SLAM with Gaussian Splatting**|Wenhua Wu et.al.|[2505.19420](http://arxiv.org/abs/2505.19420)|null|
+|**2025-05-25**|**Improving Novel view synthesis of 360 $^\circ$ Scenes in Extremely Sparse Views by Jointly Training Hemisphere Sampled Synthetic Images**|Guangan Chen et.al.|[2505.19264](http://arxiv.org/abs/2505.19264)|null|
+|**2025-05-25**|**Triangle Splatting for Real-Time Radiance Field Rendering**|Jan Held et.al.|[2505.19175](http://arxiv.org/abs/2505.19175)|null|
+|**2025-05-25**|**FHGS: Feature-Homogenized Gaussian Splatting**|Q. G. Duan et.al.|[2505.19154](http://arxiv.org/abs/2505.19154)|null|
+|**2025-05-25**|**Veta-GS: View-dependent deformable 3D Gaussian Splatting for thermal infrared Novel-view Synthesis**|Myeongseok Nam et.al.|[2505.19138](http://arxiv.org/abs/2505.19138)|null|
 |**2025-05-23**|**SplatCo: Structure-View Collaborative Gaussian Splatting for Detail-Preserving Rendering of Large-Scale Unbounded Scenes**|Haihong Xiao et.al.|[2505.17951](http://arxiv.org/abs/2505.17951)|null|
 |**2025-05-23**|**CGS-GAN: 3D Consistent Gaussian Splatting GANs for High Resolution Human Head Synthesis**|Florian Barthel et.al.|[2505.17590](http://arxiv.org/abs/2505.17590)|null|
 |**2025-05-23**|**From Flight to Insight: Semantic 3D Reconstruction for Aerial Inspection via Gaussian Splatting and Language-Guided Segmentation**|Mahmoud Chick Zaouali et.al.|[2505.17402](http://arxiv.org/abs/2505.17402)|null|
@@ -1612,6 +1632,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-05-26**|**Underwater Diffusion Attention Network with Contrastive Language-Image Joint Learning for Underwater Image Enhancement**|Afrah Shaahid et.al.|[2505.19895](http://arxiv.org/abs/2505.19895)|null|
+|**2025-05-26**|**A Regularization-Guided Equivariant Approach for Image Restoration**|Yulu Bai et.al.|[2505.19799](http://arxiv.org/abs/2505.19799)|null|
+|**2025-05-26**|**Structure Disruption: Subverting Malicious Diffusion-Based Inpainting via Self-Attention Query Perturbation**|Yuhao He et.al.|[2505.19425](http://arxiv.org/abs/2505.19425)|null|
+|**2025-05-25**|**Improving Novel view synthesis of 360 $^\circ$ Scenes in Extremely Sparse Views by Jointly Training Hemisphere Sampled Synthetic Images**|Guangan Chen et.al.|[2505.19264](http://arxiv.org/abs/2505.19264)|null|
+|**2025-05-25**|**Benchmarking Laparoscopic Surgical Image Restoration and Beyond**|Jialun Pei et.al.|[2505.19161](http://arxiv.org/abs/2505.19161)|null|
+|**2025-05-25**|**Freqformer: Image-Demoiréing Transformer via Efficient Frequency Decomposition**|Xiaoyang Liu et.al.|[2505.19120](http://arxiv.org/abs/2505.19120)|null|
+|**2025-05-24**|**Manifold-aware Representation Learning for Degradation-agnostic Image Restoration**|Bin Ren et.al.|[2505.18679](http://arxiv.org/abs/2505.18679)|null|
 |**2025-05-23**|**RestoreVAR: Visual Autoregressive Generation for All-in-One Image Restoration**|Sudarshan Rajagopalan et.al.|[2505.18047](http://arxiv.org/abs/2505.18047)|null|
 |**2025-05-23**|**MODEM: A Morton-Order Degradation Estimation Mechanism for Adverse Weather Image Recovery**|Hainuo Wang et.al.|[2505.17581](http://arxiv.org/abs/2505.17581)|null|
 |**2025-05-23**|**Dual Ascent Diffusion for Inverse Problems**|Minseo Kim et.al.|[2505.17353](http://arxiv.org/abs/2505.17353)|null|
