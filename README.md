@@ -1,4 +1,4 @@
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,6 +12,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2025-06-11**|**TransGI: Real-Time Dynamic Global Illumination With Object-Centric Neural Transfer Model**|Yijie Deng et.al.|[2506.09909](http://arxiv.org/abs/2506.09909)|null|
+|**2025-06-11**|**The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge**|Haoru Wang et.al.|[2506.09885](http://arxiv.org/abs/2506.09885)|null|
+|**2025-06-11**|**Power Diagram Enhanced Adaptive Isosurface Extraction from Signed Distance Fields**|Pengfei Wang et.al.|[2506.09579](http://arxiv.org/abs/2506.09579)|null|
+|**2025-06-11**|**Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS**|Tao Wang et.al.|[2506.09534](http://arxiv.org/abs/2506.09534)|null|
 |**2025-06-10**|**A Probability-guided Sampler for Neural Implicit Surface Rendering**|Gonçalo Dias Pais et.al.|[2506.08619](http://arxiv.org/abs/2506.08619)|null|
 |**2025-06-10**|**Complex-Valued Holographic Radiance Fields**|Yicheng Zhan et.al.|[2506.08350](http://arxiv.org/abs/2506.08350)|null|
 |**2025-06-09**|**GATE: Geometry-Aware Trained Encoding**|Jakub Bokšanský et.al.|[2506.08161](http://arxiv.org/abs/2506.08161)|null|
@@ -764,12 +768,22 @@
 |**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|**[link](https://github.com/utiasSTARS/FaVoR)**|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 
-<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 ## GaussianSplatting
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2025-06-11**|**DGS-LRM: Real-Time Deformable 3D Gaussian Reconstruction From Monocular Videos**|Chieh Hubert Lin et.al.|[2506.09997](http://arxiv.org/abs/2506.09997)|null|
+|**2025-06-11**|**UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting**|Ziyi Wang et.al.|[2506.09952](http://arxiv.org/abs/2506.09952)|null|
+|**2025-06-11**|**The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images without Any 3D Knowledge**|Haoru Wang et.al.|[2506.09885](http://arxiv.org/abs/2506.09885)|null|
+|**2025-06-11**|**DynaSplat: Dynamic-Static Gaussian Splatting with Hierarchical Motion Decomposition for Scene Reconstruction**|Junli Deng et.al.|[2506.09836](http://arxiv.org/abs/2506.09836)|null|
+|**2025-06-11**|**Self-Supervised Multi-Part Articulated Objects Modeling via Deformable Gaussian Splatting and Progressive Primitive Segmentation**|Haowen Wang et.al.|[2506.09663](http://arxiv.org/abs/2506.09663)|null|
+|**2025-06-11**|**SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields**|Qijing Li et.al.|[2506.09565](http://arxiv.org/abs/2506.09565)|null|
+|**2025-06-11**|**Gaussian Herding across Pens: An Optimal Transport Perspective on Global Gaussian Reduction for 3DGS**|Tao Wang et.al.|[2506.09534](http://arxiv.org/abs/2506.09534)|null|
+|**2025-06-11**|**HAIF-GS: Hierarchical and Induced Flow-Guided Gaussian Splatting for Dynamic Scene**|Jianing Chen et.al.|[2506.09518](http://arxiv.org/abs/2506.09518)|null|
+|**2025-06-11**|**TinySplat: Feedforward Approach for Generating Compact 3D Scene Representation**|Zetian Song et.al.|[2506.09479](http://arxiv.org/abs/2506.09479)|null|
+|**2025-06-11**|**Synthetic Human Action Video Data Generation with Pose Transfer**|Vaclav Knapp et.al.|[2506.09411](http://arxiv.org/abs/2506.09411)|null|
 |**2025-06-10**|**StreamSplat: Towards Online Dynamic 3D Reconstruction from Uncalibrated Video Streams**|Zike Wu et.al.|[2506.08862](http://arxiv.org/abs/2506.08862)|null|
 |**2025-06-11**|**Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting**|Keyi Liu et.al.|[2506.08777](http://arxiv.org/abs/2506.08777)|null|
 |**2025-06-10**|**SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting**|Mengjiao Ma et.al.|[2506.08710](http://arxiv.org/abs/2506.08710)|null|
@@ -1768,12 +1782,15 @@
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 
-<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 ## Image Super-Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
+|**2025-06-11**|**Text-Aware Image Restoration with Diffusion Models**|Jaewon Min et.al.|[2506.09993](http://arxiv.org/abs/2506.09993)|null|
+|**2025-06-11**|**Sampling Theory for Super-Resolution with Implicit Neural Representations**|Mahrokh Najaf et.al.|[2506.09949](http://arxiv.org/abs/2506.09949)|null|
+|**2025-06-10**|**Low-Rank Augmented Implicit Neural Representation for Unsupervised High-Dimensional Quantitative MRI Reconstruction**|Haonan Zhang et.al.|[2506.09100](http://arxiv.org/abs/2506.09100)|null|
 |**2025-06-09**|**Spectral Domain Neural Reconstruction for Passband FMCW Radars**|Harshvardhan Takawale et.al.|[2506.08163](http://arxiv.org/abs/2506.08163)|null|
 |**2025-06-09**|**M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration**|Yongzhen Wang et.al.|[2506.07814](http://arxiv.org/abs/2506.07814)|null|
 |**2025-06-08**|**Multi-Step Guided Diffusion for Image Restoration on Edge Devices: Toward Lightweight Perception in Embodied AI**|Aditya Chakravarty et.al.|[2506.07286](http://arxiv.org/abs/2506.07286)|null|
@@ -2495,5 +2512,5 @@
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 
-<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
