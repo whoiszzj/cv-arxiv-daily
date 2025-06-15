@@ -1,4 +1,4 @@
-## Updated on 2025.06.14
+## Updated on 2025.06.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -770,7 +770,7 @@
 |**2024-09-11**|**FaVoR: Features via Voxel Rendering for Camera Relocalization**|Vincenzo Polizzi et.al.|[2409.07571](http://arxiv.org/abs/2409.07571)|**[link](https://github.com/utiasSTARS/FaVoR)**|
 |**2024-09-11**|**DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation**|Haibo Yang et.al.|[2409.07454](http://arxiv.org/abs/2409.07454)|null|
 
-<p align=right>(<a href=#updated-on-20250614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
 
 ## GaussianSplatting
 
@@ -1785,14 +1785,14 @@
 |**2024-09-17**|**A Diffusion Approach to Radiance Field Relighting using Multi-Illumination Synthesis**|Yohan Poirier-Ginter et.al.|[2409.08947](http://arxiv.org/abs/2409.08947)|null|
 |**2024-09-13**|**AdR-Gaussian: Accelerating Gaussian Splatting with Adaptive Radius**|Xinzhe Wang et.al.|[2409.08669](http://arxiv.org/abs/2409.08669)|null|
 
-<p align=right>(<a href=#updated-on-20250614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
 
 ## Image Super-Resolution
 
 |Publish Date|Title|Authors|PDF|Code|
 |:-:|:-:|:-:|:-:|:-:|
 |**2025-06-11**|**Text-Aware Image Restoration with Diffusion Models**|Jaewon Min et.al.|[2506.09993](http://arxiv.org/abs/2506.09993)|null|
-|**2025-06-11**|**Sampling Theory for Super-Resolution with Implicit Neural Representations**|Mahrokh Najaf et.al.|[2506.09949](http://arxiv.org/abs/2506.09949)|null|
+|**2025-06-11**|**Sampling Theory for Super-Resolution with Implicit Neural Representations**|Mahrokh Najaf et.al.|[2506.09949](http://arxiv.org/abs/2506.09949)|**[link](https://github.com/gregongie/super_inrs)**|
 |**2025-06-10**|**Low-Rank Augmented Implicit Neural Representation for Unsupervised High-Dimensional Quantitative MRI Reconstruction**|Haonan Zhang et.al.|[2506.09100](http://arxiv.org/abs/2506.09100)|null|
 |**2025-06-09**|**Spectral Domain Neural Reconstruction for Passband FMCW Radars**|Harshvardhan Takawale et.al.|[2506.08163](http://arxiv.org/abs/2506.08163)|null|
 |**2025-06-09**|**M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration**|Yongzhen Wang et.al.|[2506.07814](http://arxiv.org/abs/2506.07814)|null|
@@ -2515,5 +2515,5 @@
 |**2024-09-11**|**NVRC: Neural Video Representation Compression**|Ho Man Kwan et.al.|[2409.07414](http://arxiv.org/abs/2409.07414)|null|
 |**2024-09-11**|**AC-IND: Sparse CT reconstruction based on attenuation coefficient estimation and implicit neural distribution**|Wangduo Xie et.al.|[2409.07171](http://arxiv.org/abs/2409.07171)|null|
 
-<p align=right>(<a href=#updated-on-20250614>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250615>back to top</a>)</p>
 

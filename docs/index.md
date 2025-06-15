@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.14
+## Updated on 2025.06.15
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1783,7 +1783,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
 |**2025-06-11**|**Text-Aware Image Restoration with Diffusion Models**|Jaewon Min et.al.|[2506.09993](http://arxiv.org/abs/2506.09993)|null|
-|**2025-06-11**|**Sampling Theory for Super-Resolution with Implicit Neural Representations**|Mahrokh Najaf et.al.|[2506.09949](http://arxiv.org/abs/2506.09949)|null|
+|**2025-06-11**|**Sampling Theory for Super-Resolution with Implicit Neural Representations**|Mahrokh Najaf et.al.|[2506.09949](http://arxiv.org/abs/2506.09949)|**[link](https://github.com/gregongie/super_inrs)**|
 |**2025-06-10**|**Low-Rank Augmented Implicit Neural Representation for Unsupervised High-Dimensional Quantitative MRI Reconstruction**|Haonan Zhang et.al.|[2506.09100](http://arxiv.org/abs/2506.09100)|null|
 |**2025-06-09**|**Spectral Domain Neural Reconstruction for Passband FMCW Radars**|Harshvardhan Takawale et.al.|[2506.08163](http://arxiv.org/abs/2506.08163)|null|
 |**2025-06-09**|**M2Restore: Mixture-of-Experts-based Mamba-CNN Fusion Framework for All-in-One Image Restoration**|Yongzhen Wang et.al.|[2506.07814](http://arxiv.org/abs/2506.07814)|null|
