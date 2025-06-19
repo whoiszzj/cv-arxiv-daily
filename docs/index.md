@@ -2,18 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 ## NeRF
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-06-17**|**From Permissioned to Proof-of-Stake Consensus**|Jovan Komatovic et.al.|[2506.14124](http://arxiv.org/abs/2506.14124)|null|
+|**2025-06-16**|**GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2506.14009](http://arxiv.org/abs/2506.14009)|null|
 |**2025-06-16**|**Multiview Geometric Regularization of Gaussian Splatting for Accurate Radiance Fields**|Jungeon Kim et.al.|[2506.13508](http://arxiv.org/abs/2506.13508)|null|
 |**2025-06-16**|**GeoSDF: Plane Geometry Diagram Synthesis via Signed Distance Field**|Chengrui Zhang et.al.|[2506.13492](http://arxiv.org/abs/2506.13492)|null|
 |**2025-06-16**|**Audio-Visual Driven Compression for Low-Bitrate Talking Head Videos**|Riku Takahashi et.al.|[2506.13419](http://arxiv.org/abs/2506.13419)|null|
 |**2025-06-16**|**TextureSplat: Per-Primitive Texture Mapping for Reflective Gaussian Splatting**|Mae Younes et.al.|[2506.13348](http://arxiv.org/abs/2506.13348)|null|
 |**2025-06-16**|**GS-2DGS: Geometrically Supervised 2DGS for Reflective Object Reconstruction**|Jinguang Tong et.al.|[2506.13110](http://arxiv.org/abs/2506.13110)|null|
 |**2025-06-16**|**NeuVAS: Neural Implicit Surfaces for Variational Shape Modeling**|Pengfei Wang et.al.|[2506.13050](http://arxiv.org/abs/2506.13050)|null|
-|**2025-06-15**|**Rasterizing Wireless Radiance Field via Deformable 2D Gaussian Splatting**|Mufan Liu et.al.|[2506.12787](http://arxiv.org/abs/2506.12787)|null|
+|**2025-06-18**|**Rasterizing Wireless Radiance Field via Deformable 2D Gaussian Splatting**|Mufan Liu et.al.|[2506.12787](http://arxiv.org/abs/2506.12787)|null|
 |**2025-06-17**|**Efficient multi-view training for 3D Gaussian Splatting**|Minhyuk Choi et.al.|[2506.12727](http://arxiv.org/abs/2506.12727)|null|
 |**2025-06-12**|**Occlusion-Aware 3D Hand-Object Pose Estimation with Masked AutoEncoders**|Hui Yang et.al.|[2506.10816](http://arxiv.org/abs/2506.10816)|null|
 |**2025-06-12**|**PointGS: Point Attention-Aware Sparse View Synthesis with Gaussian Splatting**|Lintao Xiang et.al.|[2506.10335](http://arxiv.org/abs/2506.10335)|null|
@@ -777,6 +779,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-06-17**|**SyncTalk++: High-Fidelity and Efficient Synchronized Talking Heads Synthesis Using Gaussian Splatting**|Ziqiao Peng et.al.|[2506.14742](http://arxiv.org/abs/2506.14742)|null|
+|**2025-06-17**|**3DGS-IEval-15K: A Large-scale Image Quality Evaluation Database for 3D Gaussian-Splatting**|Yuke Xing et.al.|[2506.14642](http://arxiv.org/abs/2506.14642)|null|
+|**2025-06-18**|**ImmerseGen: Agent-Guided Immersive World Generation with Alpha-Textured Proxies**|Jinyan Yuan et.al.|[2506.14315](http://arxiv.org/abs/2506.14315)|null|
+|**2025-06-17**|**HRGS: Hierarchical Gaussian Splatting for Memory-Efficient High-Resolution 3D Reconstruction**|Changbai Li et.al.|[2506.14229](http://arxiv.org/abs/2506.14229)|null|
+|**2025-06-17**|**GAF: Gaussian Action Field as a Dvnamic World Model for Robotic Mlanipulation**|Ying Chai et.al.|[2506.14135](http://arxiv.org/abs/2506.14135)|null|
+|**2025-06-16**|**GRaD-Nav++: Vision-Language Model Enabled Visual Drone Navigation with Gaussian Radiance Fields and Differentiable Dynamics**|Qianzhong Chen et.al.|[2506.14009](http://arxiv.org/abs/2506.14009)|null|
 |**2025-06-16**|**PF-LHM: 3D Animatable Avatar Reconstruction from Pose-free Articulated Human Images**|Lingteng Qiu et.al.|[2506.13766](http://arxiv.org/abs/2506.13766)|null|
 |**2025-06-16**|**X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability**|Yu Yang et.al.|[2506.13558](http://arxiv.org/abs/2506.13558)|null|
 |**2025-06-16**|**Micro-macro Gaussian Splatting with Enhanced Scalability for Unconstrained Scene Reconstruction**|Yihui Li et.al.|[2506.13516](http://arxiv.org/abs/2506.13516)|null|
@@ -1801,6 +1809,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:--------:|:----------------------:|:--------:|:-----:|:-----:|
+|**2025-06-17**|**Optimization-Based Image Restoration under Implementation Constraints in Optical Analog Circuits**|Taisei Kato et.al.|[2506.14624](http://arxiv.org/abs/2506.14624)|null|
+|**2025-06-17**|**Unsupervised Imaging Inverse Problems with Diffusion Distribution Matching**|Giacomo Meanti et.al.|[2506.14605](http://arxiv.org/abs/2506.14605)|null|
+|**2025-06-17**|**Exploring Diffusion with Test-Time Training on Efficient Image Restoration**|Rongchang Lu et.al.|[2506.14541](http://arxiv.org/abs/2506.14541)|null|
+|**2025-06-16**|**DREAM: On hallucinations in AI-generated content for nuclear medicine imaging**|Menghua Xia et.al.|[2506.13995](http://arxiv.org/abs/2506.13995)|null|
 |**2025-06-16**|**Exploiting the Exact Denoising Posterior Score in Training-Free Guidance of Diffusion Models**|Gregory Bellchambers et.al.|[2506.13614](http://arxiv.org/abs/2506.13614)|null|
 |**2025-06-15**|**Efficient Neural Video Representation via Structure-Preseving Patch Decoding**|Taiga Hayami et.al.|[2506.12896](http://arxiv.org/abs/2506.12896)|null|
 |**2025-06-15**|**PDEfuncta: Spectrally-Aware Neural Representation for PDE Solution Modeling**|Minju Jo et.al.|[2506.12790](http://arxiv.org/abs/2506.12790)|null|
